@@ -1,0 +1,49 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+.editorconfig
+.wordpress-cache
+
+# Build directory
+/public
+/public-first-build
+# Gonna ignore uploads until we know how to properly fetch them, otherwise we'll kill our BitBucket and Netlify.
+/uploads
+.DS_Store
+
+.sass-cache
+.sass-cache/*
+\.history
+src/assets/videos/
+
+NetlifyPosts
+node_modules()
+
+# .env.development
+# .env.staging
+# .env.production
+# Local Netlify folder
+.netlify
+.env.*
+.env*
+
+keep_big
+left_to_tinify
+tinified.zip
+.yarn
+build-diff.diff
+compare_builds.WinMerge
+static/comp1.html
+static/comp1.json
+static/comp2.html
+static/comp2.json
+public-ref-build
+public-ref-build-2
+public-ref-build-from-remove-date
+.vscode
+yarn.lock
+private/wp
+WordPress/GraphQL
+WordPress
+cypress
