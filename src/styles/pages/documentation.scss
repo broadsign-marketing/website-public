@@ -1,0 +1,45 @@
+@import "../base/dependencies";
+
+#documentation {
+	.docs_row {
+		border-bottom: 1px solid $reflex;
+		padding: min(5vw, 25px) 0;
+
+		&:first-of-type {
+			border-top: 1px solid $reflex;
+		}
+
+		.label {
+			color: $ash;
+			transition: color 0.3s;
+		}
+
+		.link_cerulean_arrow {
+			color: $cerulean;
+
+			&:after {
+				top: -1px;
+			}
+		}
+
+		&:hover {
+			.label {
+				color: $cerulean;
+			}
+
+			.link_cerulean_arrow {
+				&:after {
+					@include animateArrow;
+				}
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#documentation {}
+}
+
+@media (min-width:$md) {
+	#documentation {}
+}

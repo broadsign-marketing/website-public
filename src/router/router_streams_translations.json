@@ -1,0 +1,58 @@
+{
+	"streamOohMediaOwners": {
+		"fr": "fr/proprietaires-de-medias-ooh",
+		"de": "de/ooh-medienbesitzer",
+		"pt": "pt/proprietarios-de-midia-ooh"
+	},
+	"streamOptimizeYourOOHBusiness": {
+		"fr": "fr/optimisez-votre-activite-ooh",
+		"es": "es/optimice-su-negocio-ooh",
+		"de": "de/optimieren-sie-ihr-ooh-geschaeft",
+		"pt": "pt/otimize-seu-negocio-ooh"
+	},
+	"streamBroadsignPlatformUpdates": {
+		"fr": "fr/mises-a-jour-de-la-plateforme-broadsign",
+		"es": "es/actualizaciones-de-la-plataforma-broadsign",
+		"de": "de/updates-der-broadsign-plattform",
+		"pt": "pt/atualizacoes-da-plataforma-broadsign"
+	},
+	"streamAgenciesBrands": {
+		"fr": "fr/agences-marques/",
+		"es": "es/agencias-y-marcas/",
+		"de": "de/agenturen-marken/",
+		"pt": "pt/agencias-e-marcas/"
+	},
+	"streamProgrammaticDOOHInsights": {
+		"fr": "fr/stream",
+		"es": "es/stream",
+		"de": "de/stream",
+		"pt": "pt/stream"
+	},
+	"streamVerticalStrategies": {
+		"fr": "fr/strategies-verticales/",
+		"es": "es/estrategias-verticales/",
+		"de": "de/vertikale-strategien/",
+		"pt": "pt/estrategias-verticais/"
+	},
+	"streamCaseStudiesCustomerSpotlights": {
+		"fr": "fr/etudes-de-cas-et-focus-clients/",
+		"es": "es/casos-de-estudio-y-clientes-destacados/",
+		"de": "de/fallstudien-kunden-spotlights/",
+		"pt": "pt/estudos-de-caso-e-destaques-de-clientes/"
+	},
+	"streamRetailMediaNetworks": {
+		"pt": "pt/redes-de-midia-de-varejo/"
+	},
+	"streamMediaOwnerSpotlights": {
+		"fr": "fr/focus-sur-les-proprietaires-de-medias/",
+		"de": "de/medieneigentuemer-im-rampenlicht/",
+		"pt": "pt/destaques-do-proprietario-da-midia/"
+	},
+	"streamCampaignCaseStudies": {
+		"en": "campaign-case-studies",
+		"fr": "fr/etudes-de-cas-de-campagne/",
+		"es": "es/estudios-de-casos-de-campana/",
+		"de": "de/fallstudien-zur-kampagne/",
+		"pt": "pt/estudos-de-caso-de-campanha/"
+	}
+}

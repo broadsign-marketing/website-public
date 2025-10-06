@@ -1,0 +1,281 @@
+{
+	"sections": [
+		{
+			"id": "mediaOwners",
+			"label": "For Media Owners",
+			"links": [
+				{
+					"id": "broadsign_platform",
+					"label": "Broadsign Platform",
+					"to": "broadsignPlatform"
+				},
+				{
+					"id": "retail_media_platform",
+					"label": "In-Store Retail Platform",
+					"to": "inStoreRetailPlatform"
+				},
+				{
+					"label": "Campaign Planning",
+					"to": "campaignPlanning"
+				},
+				{
+					"label": "Audience Campaigns & Ad Serving",
+					"to": "audienceCampaigns"
+				},
+				{
+					"label": "Content and Network Management",
+					"to": "contentNetworkManagement"
+				},
+				{
+					"label": "Static Campaigns",
+					"to": "staticOperations"
+				},
+				{
+					"label": "Programmatic Supply-Side Platform",
+					"to": "globalProgrammaticSSP"
+				},
+				{
+					"label": "Local Signage Messaging",
+					"to": "localSignageMessaging"
+				},
+				{
+					"label": "Plans",
+					"to": "plans"
+				}
+			]
+		},
+		{
+			"id": "verticals",
+			"label": "Industry Solutions",
+			"links": [
+				{
+					"label": "Retail",
+					"to": "verticalRetail"
+				},
+				{
+					"label": "Airports",
+					"to": "verticalAirports"
+				},
+				{
+					"label": "Banking",
+					"to": "verticalBanking"
+				},
+				{
+					"label": "Casino",
+					"to": "verticalCasino"
+				},
+				{
+					"label": "Cinema",
+					"to": "verticalCinema"
+				},
+				{
+					"label": "Electric Charging Stations",
+					"to": "verticalEV"
+				},
+				{
+					"label": "Gas Stations",
+					"to": "verticalGasStations"
+				},
+				{
+					"label": "Healthcare",
+					"to": "verticalHealthcare"
+				},
+				{
+					"label": "Hotels",
+					"to": "verticalHotels"
+				},
+				{
+					"label": "Internal Communications",
+					"to": "verticalInternalCommunications"
+				},
+				{
+					"label": "Outdoor",
+					"to": "verticalOutdoor"
+				},
+				{
+					"label": "Shopping Malls",
+					"to": "verticalShoppingMall"
+				},
+				{
+					"label": "Smart Cities",
+					"to": "verticalSmartCities"
+				},
+				{
+					"label": "Transit",
+					"to": "verticalTransit"
+				}
+			]
+		},
+		{
+			"id": "agencies",
+			"label": "For Agencies & Brands",
+			"links": [
+				{
+					"label": "Launch a programmatic DOOH campaign",
+					"to": "launchPDOOHCampaign"
+				},
+				{
+					"label": "OutMoove DSP",
+					"to": "outmoove"
+				},
+				{
+					"label": "DSP Partners",
+					"to": "dspPartners"
+				},
+				{
+					"label": "Inventory Packages",
+					"to": "inventoryMarketplace"
+				},
+				{
+					"label": "Measurement & Attribution",
+					"to": "measurementAttribution"
+				}
+			]
+		},
+		{
+			"id": "popularLocations",
+			"label": "Popular Billboard Locations",
+			"links": [
+				{
+					"label": "Chicago Billboards",
+					"to": "inventoryMarketplaceCityChicago"
+				},
+				{
+					"label": "Los Angeles Billboards",
+					"to": "inventoryMarketplaceCityLA"
+				},
+				{
+					"label": "New York City Billboards",
+					"to": "inventoryMarketplaceCityNYC"
+				},
+				{
+					"label": "Philadelphia Billboards",
+					"to": "inventoryMarketplaceCityPhiladelphia"
+				},
+				{
+					"label": "Toronto Billboards",
+					"to": "inventoryMarketplaceCityToronto"
+				},
+				{
+					"label": "Vancouver Billboards",
+					"to": "inventoryMarketplaceCityVancouver"
+				}
+			]
+		},
+		{
+			"id": "resources",
+			"label": "Resources",
+			"links": [
+				{
+					"label": "Blog",
+					"to": "blog"
+				},
+				{
+					"label": "EBooks and Webinars",
+					"to": "resources"
+				},
+				{
+					"label": "Customer Spotlights",
+					"to": "streamCaseStudiesCustomerSpotlights"
+				},
+				{
+					"label": "Vertical Strategies",
+					"to": "streamVerticalStrategies"
+				},
+				{
+					"label": "DOOHX Certification",
+					"to": "https://www.doohx.io/"
+				},
+				{
+					"label": "Product Documentation",
+					"to": "documentation"
+				},
+				{
+					"label": "Status of Broadsign Services",
+					"to": "https://status.broadsign.com/"
+				}
+			]
+		},
+		{
+			"id": "broadsign",
+			"label": "Broadsign",
+			"links": [
+				{
+					"label": "Who We Are",
+					"to": "whoWeAre"
+				},
+				{
+					"label": "Our Story",
+					"to": "ourStory"
+				},
+				{
+					"label": "Contact Us",
+					"to": "contact"
+				},
+				{
+					"label": "Careers",
+					"to": "careers"
+				},
+				{
+					"label": "Upcoming Events",
+					"to": "events"
+				},
+				{
+					"label": "Security Statement",
+					"to": "securityStatement"
+				},
+				{
+					"label": "Sustainability Statement",
+					"to": "sustainabilityStatement"
+				}
+			]
+		},
+		{
+			"id": "accounts",
+			"label": "Broadsign Accounts",
+			"links": [
+				{
+					"label": "Broadsign Platform login",
+					"to": "https://app.broadsign.com/"
+				},
+				{
+					"label": "OutMoove by Broadsign login",
+					"to": "https://console.outmoove.com/auth/login"
+				},
+				{
+					"label": "Broadsign Community login",
+					"to": "https://broadsign.force.com/"
+				}
+			]
+		}
+	],
+	"social": {
+		"facebook": {
+			"title": "Like us on Facebook!"
+		},
+		"linkedin": {
+			"title": "Join us on LinkedIn!"
+		},
+		"x": {
+			"title": "Follow us on X!"
+		},
+		"youtube": {
+			"title": "Watch us on Youtube!"
+		}
+	},
+	"privacy": [
+		{
+			"label": "Privacy Policy",
+			"to": "privacyPolicy"
+		},
+		{
+			"label": "Programmatic Platform Policies",
+			"to": "programmaticPlatformPolicies"
+		},
+		{
+			"label": "Terms & Conditions",
+			"to": "termsConditions"
+		}
+	],
+	"cookiePreferences": "Cookie Preferences"
+}

@@ -1,0 +1,112 @@
+{
+	"seo": {
+		"title": "Consumer Packaged Goods",
+		"description": "Capture consumer interest while maximizing campaign reach with high-impact proximity targeting throughout the path-to-purchase."
+	},
+	"apSlug": "cpg",
+	"apLink": "352",
+	"apToken": "j7eKBMVHUQj2OuEROBaAKNIUT7p5ShxrqWvyHyHqxHthXdzOM3yJiUMbK5mn",
+	"playbookLink": "dlgr",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Consumer Packaged Goods",
+		"blurb": "Capture consumer interest while maximizing campaign reach with high-impact proximity targeting throughout the path-to-purchase.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Consumer Packaged Goods package",
+			"ppcTitle": "Want a tour of the Consumer Packaged Goods package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "CPG Shoppers"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Grocery stores", "Supermarkets", "Daycares", "Banks"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Grocery shopping patterns", "Daycare pick up and drop off"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Grocery stores, preschools, transit",
+				"outdoor": "Billboard, urban panels, and transit shelters within proximity to retailers"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "Weather Moments",
+				"content": "Play relevant content based on weather conditions that strategically promote your product"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"CPG Shoppers\" audience segments",
+		"list": [
+			{
+				"category": "Department store shoppers",
+				"description": "Department Store Shoppers are primarily women and are most likely in the 55-64 age range. You will likely see this group of shoppers in-store looking for the next best thing."
+			},
+			{ "category": "Impulse buyers", "description": "Impulse Buyers tend to be women in the 25-34-year-old age group." },
+			{
+				"category": "College kids",
+				"description": "College Kids are evenly distributed across genders; over 50% of this audience segment is in the 18-24 age range."
+			},
+			{
+				"category": "Ticket shoppers",
+				"description": "Ticket Shoppers are evenly distributed across genders, often in the 25-34-year-old age group. This audience is always on the lookout for tickets to their next show or major event."
+			},
+			{
+				"category": "Expectant parents",
+				"description": "Expectant Parents are predominately in their 20s and 30s. They are primarily first-time parents who are learning about and planning for the newest addition to the family."
+			},
+			{
+				"category": "Young & hip shoppers",
+				"description": "Young & Hip Shoppers are often women in the 18-24-year-old and 25-34-year-old age groups. These shoppers often search for fun, trendy, and fashionable attire."
+			},
+			{
+				"category": "Health & fitness enthusiasts",
+				"description": "Health & Fitness Enthusiasts are often women female in the 25-44 age group. These enthusiasts own a variety of health-conscious apps."
+			},
+			{
+				"category": "Apartment renters",
+				"description": "Apartment Renters skew towards women in the 18-24-year-old and 25-34-year-old age groups. This audience segment keeps up with their rent payments and apartment needs."
+			},
+			{
+				"category": "Bargain shoppers",
+				"description": "Bargain Shoppers tend to range from 55-64 years old. They love a good sale and are always on the hunt for deals."
+			}
+		]
+	},
+	"advantages": {
+		"title": "CPG shoppers trust OOH ads more than any other media channel",
+		"list": [
+			"Deliver targeted impressions in priority markets by running ads on screens with a high volume of pedestrian traffic",
+			"Boost consideration and purchase intent along the entire customer journey where consumers are running errands",
+			"Drive sales by activating DOOH screens in a radius around stores where your product is carried"
+		]
+	},
+	"playbook": {
+		"title": "Lift brand consideration and purchase intent with DOOH",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Consumer Packaged Goods package" }
+}

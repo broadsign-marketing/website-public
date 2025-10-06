@@ -1,0 +1,74 @@
+{
+	"seo": {
+		"title": "Documentación",
+		"description": "¿Tiene preguntas sobre cómo trabajar con uno de nuestros productos? Está en el lugar correcto! Eche un vistazo a nuestra documentación para encontrar las respuestas que necesita."
+	},
+	"hero": {
+		"overtitle": "¿Busca respuestas? Está en el lugar correcto!",
+		"title": "Documentación"
+	},
+	"platformDocumentation": "Documentación de la plataforma",
+	"otherProductDocumentation": "Documentación de otros productos",
+	"platformDocs": [
+		{
+			"id": "guaranteedCampaigns",
+			"label": "Campañas garantizadas"
+		},
+		{
+			"id": "audienceCampaigns",
+			"label": "Campañas basadas en la audiencia"
+		},
+		{
+			"id": "programmaticCampaigns",
+			"label": "Campañas programáticas"
+		},
+		{
+			"id": "staticCampaigns",
+			"label": "Campañas estáticas"
+		},
+		{
+			"id": "creatives",
+			"label": "Creatividades"
+		},
+		{
+			"id": "screenInventory",
+			"label": "Inventario de pantallas"
+		},
+		{
+			"id": "audienceInventory",
+			"label": "Inventario de audiencia"
+		},
+		{
+			"id": "userManagement",
+			"label": "Gestión de usuarios"
+		}
+	],
+	"otherDocs": [
+		{
+			"id": "broadsignControl",
+			"label": "Gestión de contenidos y redes",
+			"sublabel": "Broadsign Control"
+		},
+		{
+			"id": "broadsignReach",
+			"label": "Campañas programáticas",
+			"sublabel": "Broadsign Reach"
+		},
+		{
+			"id": "broadsignDirect",
+			"label": "Campañas garantizadas",
+			"sublabel": "Broadsign Direct"
+		},
+		{
+			"id": "broadsignPublish",
+			"label": "Señalización de mensajería local",
+			"sublabel": "Broadsign Publish",
+			"to": "https://docs.broadsign.com/broadsign-publish/en/"
+		},
+		{
+			"id": "broadsignAyuda",
+			"label": "Broadsign Ayuda"
+		}
+	],
+	"viewDocumentation": "Ver la documentación"
+}

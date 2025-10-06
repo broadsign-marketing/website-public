@@ -1,0 +1,194 @@
+@import "../base/dependencies";
+
+@keyframes appearFromLeft {
+	0% {
+		opacity: 0;
+		transform: translateX(-100%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0%);
+	}
+}
+
+@keyframes appearFromRight {
+	0% {
+		opacity: 0;
+		transform: scaleX(0);
+	}
+
+	100% {
+		opacity: 1;
+		transform: scaleX(1);
+	}
+}
+
+@keyframes appearFromDown {
+	0% {
+		opacity: 0;
+		transform: translateY(50%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0%);
+	}
+}
+
+@keyframes appearFromUp {
+	0% {
+		opacity: 0;
+		transform: translateY(-100%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0%);
+	}
+}
+
+#ooh_social_milan {
+	h1 {
+		img {
+			animation: appearFromLeft 1.2s ease-out 0.3s 1 normal forwards running;
+			max-width: 100%;
+			opacity: 0;
+		}
+	}
+
+	hr {
+		animation: appearFromRight 1.2s ease-out 0.6s 1 normal forwards running;
+		opacity: 0;
+		transform-origin: right center;
+	}
+
+	.hero_images {
+		align-items: start;
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: space-between;
+	}
+
+	.hero_img_wrapper {
+		border-radius: 1000px;
+		max-width: 230px;
+		opacity: 0;
+		overflow: hidden;
+		padding: min(1.5vw, 12px);
+		position: relative;
+		width: 20vw;
+
+		&:before {
+			@include bgGradient;
+			content: "";
+			height: 100%;
+			left: 0;
+			position: absolute;
+			top: 0;
+			width: 100%;
+			z-index: 0;
+		}
+
+		&:after {
+			background: #FFF;
+			border-radius: 1000px;
+			content: "";
+			height: calc(100% - 4px);
+			left: 2px;
+			position: absolute;
+			top: 2px;
+			width: calc(100% - 4px);
+			z-index: 1;
+		}
+
+		.gatsby-image-wrapper {
+			z-index: 10;
+		}
+	}
+
+	.hero_img_01 {
+		animation: appearFromDown 1.2s ease-out 0.3s 1 normal forwards running;
+		left: -5vw;
+	}
+
+	.hero_img_02 {
+		animation: appearFromUp 1.2s ease-out 0s 1 normal forwards running;
+		border-radius: 0 0 1000px 1000px;
+		padding-top: 0px;
+		right: -5vw;
+		top: -2px;
+
+		&:after {
+			border-radius: 0 0 1000px 1000px;
+		}
+	}
+
+	.EventsDatePlace {
+		border: 0 none;
+	}
+
+	.hull {
+		.blurb {
+			font-size: min(5vw, 24px);
+			max-width: 54ch;
+		}
+	}
+
+	.EventsHost {
+		flex-basis: 50%;
+	}
+}
+
+
+
+@media (min-width:$sm) {
+	#ooh_social_milan {
+
+
+		.hero_img_wrapper {}
+
+		.hero_img_01 {}
+
+		.hero_img_02 {}
+
+		.EventsHost {
+			flex-basis: 33%;
+		}
+	}
+}
+
+@media (max-width:$smMax) {
+	#ooh_social_milan {
+		.hero_images {
+			left: -16px;
+			max-width: calc(100% + 32px);
+			position: absolute;
+			width: calc(100% + 32px);
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#ooh_social_milan {
+		.hero_img_01 {
+			left: 0;
+		}
+
+		.hero_img_02 {
+			right: 0;
+		}
+	}
+}
+
+@media (min-width:$lg) {
+	#ooh_social_milan {
+		.EventsHost {
+			flex-basis: 16%;
+		}
+	}
+}
+
+@media (min-width:$xl) {
+	#ooh_social_milan {}
+}

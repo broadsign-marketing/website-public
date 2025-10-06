@@ -1,0 +1,63 @@
+{
+	"seo": {
+		"title": "Nos forfaits",
+		"description": "Des forfaits adaptés aux besoins de tous les réseaux d'affichage"
+	},
+	"hero": {
+		"title": "Nos forfaits"
+	},
+	"forMediaOwners": "Pour les propriétaires de médias",
+	"forAgencies": "Pour les agences et les marques",
+	"agenciesTab": {
+		"title": "Lancez des campagnes d'affichage extérieur numérique",
+		"par": "Parlez à notre équipe d'experts en médias pour vous aider à élaborer et à mettre en œuvre des stratégies d'affichage extérieur numérique des plus performantes.",
+		"cta": "Faisons équipe"
+	},
+	"standard": "Standard",
+	"professional": "Professionnel",
+	"enterprise": "Entreprise",
+	"content_network_management": "Gestion du contenu et du réseau",
+	"digital_media_management": "Gestion des médias numériques",
+	"automated_campaign_scheduling": "Programmation automatisée des campagnes",
+	"network_player_management": "Gestion du réseau et du lecteur",
+	"campaign_proof_of_play_reporting": "Rapports de preuve de diffusion des campagnes",
+	"support_for_third_party_players": "Prise en charge de lecteurs de tiers",
+	"api_access": "Accès à l'API",
+	"live_digital_screen_management": "Gestion des écrans numériques en direct",
+	"on_demand_player_polling": "Sondage de lecteur à la demande",
+	"remote_screenshot_capture": "Capture d'écran à distance",
+	"player_monitoring_center": "Centre de surveillance du lecteur",
+	"cloud_based_content_synchronization": "Synchronisation de contenu en nuage",
+	"campaign_planning_ad_serving": "Gestion de campagnes et diffusion d'annonces",
+	"real_time_inventory_availability": "Disponibilité des stocks en temps réel",
+	"proposal_management": "Gestion des propositions",
+	"guaranteed_campaigns": "Campagnes garanties",
+	"frequency": "Fréquence",
+	"impressions": "Impressions",
+	"share_of_voice": "Part de voix (Share-of-Voice)",
+	"takeovers": "Prises de contrôle (Takeovers)",
+	"budget": "Budget",
+	"audience_campaigns": "Campagnes basées sur l'audience",
+	"contextual_targeting": "Ciblage contextuel (démographie, points d'intérêt, impressions)",
+	"moment_based_triggers": "Déclencheurs basés sur un moment (météo, données financières)",
+	"optimization": "Optimisation :",
+	"campaign_reallocation": "Réaffectation de campagnes",
+	"campaign_rebalancing": "Réajustement des campagnes",
+	"dynamic_screen_selection": "Sélection d'écran dynamique",
+	"static_campaigns": "Opérations statiques",
+	"asset_management": "Gestion des actifs",
+	"campaign_management": "Gestion de campagnes",
+	"charting": "Représentations graphiques",
+	"operations": "Opérations",
+	"programmatic_ssp": "Plateforme programmatique SSP",
+	"open_exchange_transactions": "Transactions sur les marchés ouverts",
+	"private_marketplace_programmatic_transactions": "Transactions programmatiques sur le marché privé",
+	"local_signage_essaging": "Affichage numérique de messages locaux",
+	"branded_messaging_templates": "Modèles de publicité et messagerie fidèle à la marque",
+	"shin": {
+		"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+		"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaRequestAQuote": "Demandez une estimation"
+	}
+}

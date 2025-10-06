@@ -1,0 +1,40 @@
+@import "../base/dependencies";
+
+#static_campaigns {
+	.hero {
+		h1 {
+			font-size: calc(min(48px, 11vw));
+		}
+
+		.CTA.clear {
+			background-color: transparent;
+		}
+	}
+}
+
+html[lang="es"] #static_campaigns {
+	.hero .CTA {
+		white-space: normal;
+	}
+}
+
+@media (min-width:$sm) {
+	#static_campaigns {
+		.hero {
+			h1 {
+				font-size: calc(min(48px, 7vw));
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	html[lang="de"] #static_campaigns {
+		.hero {
+			.ctas {
+				max-width: 120ch;
+				width: 120ch;
+			}
+		}
+	}
+}

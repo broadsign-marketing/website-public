@@ -1,0 +1,61 @@
+{
+	"seo": {
+		"title": "Why you should add programmatic digital out-of-home to your mobile campaign",
+		"description": "",
+		"robots": "noindex, nofollow"
+	},
+	"Hero": {
+		"TitlePart1": "Why you should Add ",
+		"TitlePart2": "_Programmatic Digital_ ",
+		"TitlePart3": "_Out-of-home_ to your ",
+		"TitlePart4": "Mobile Campaign",
+		"Tagline": "Mobile campaigns are a wonderful way for brands to reach their audiences. They can be highly targeted and can link straight to an online store. Yet while consumers do spend a large amount of time looking down at their phones, there are certainly times when this isn't the case. What if you could extend your campaign reach to these moments as well?"
+	},
+	"MobileCampaign": {
+		"Column1": {
+			"Paragraph1": "Adding digital out-of-home to a mobile campaign will do just that. Digital out-of-home actually has a better recall than mobile ads, and combining the two makes for an impactful multi-channel campaign. And with the medium now available programmatically, it can be bought and sold in a similar way to other channels in your DSP.",
+			"Paragraph2": "As an advertiser, whether in-house or at an agency, the goal is fairly straight-foward: reaching the right audience with the right message at the right time. Yet, as we know, this is easier said than done. Luckily, advancements in audience targeting and situational awareness enable advertisers to add a level of context to a campaign that was previously impossible."
+		},
+		"Column2": {
+			"Paragraph3": "With programmatic digital out-of-home, as with mobile, campaigns can be triggered only when certain criteria is met. With automation guiding the bidding process, advertisers have complete control over how and when their budget is spent.",
+			"Paragraph4": "Timing of the campaign, location and custom criteria can be set, resulting in contextual, accurate and creative messaging. For example, a brand whose target audience is busy business people can buy digital screen inventory only during rush-hour in subway stations near the financial sector of the city."
+		}
+	},
+	"WhyOOH": {
+		"Title": "Why programmatic digital out-of-home is right for your mobile DSP",
+		"Column1": {
+			"Paragraph1": {
+				"Text1": "There are many advantages for running a multichannel campaign with digital out-of-home and mobile:",
+				"Title": "1. More creative flexibility with large-format screens",
+				"Text2": "Mobile campaigns are extremely targeted and can be customized for each individual, yet the small screen provided a fairly limited canvas. A digital billboard, on the other hand, can lead to much more exciting content. Pairing both mobile and digital out-of-home screens is a two-pronged approach that combines personalization and large-format impact."
+			},
+			"Paragraph2": {
+				"Title": "2. Increased reach with goetargeting",
+				"Text": "Using location to deliver a mobile campaign works well to retarget those who have been in a given area, but is fairly limited when it comes to triggering campaigns in real time. Even if someone walks into a geofenced area, there is no guarantee that people are looking at their phones at the given moment. With digital out-of-home, advertisers have the opportunity to catch a viewer's eye when they enter an area, whether they are looking at their phone or not."
+			},
+			"Paragraph3": {
+				"Title": "3. Driving consumers to mobile with digital signs",
+				"Text": "Mobile campaigns often include great CTAs that lead right to an app or mobile store, and the more traffic an ad gets, the more leads/downloads/sales a brand will get. Digital screens can entice people to look at their phones, either with a simple CTA, a clear web link or even a discount code, triggering mobile interaction."
+			}
+		},
+		"Column2": {
+			"Paragraph4": {
+				"Title": "4. Retarget mobile users with digital out-of-home",
+				"Text": "A recent programmatic campaign by Pepsi MAX retarget their mobile fans with digital out-of-home. Using beacons, the campaign triggered screens when fans entered malls across the Netherlands."
+			},
+			"ParagraphQuote": {
+				"Text": "“With programmatic digital out-of-home, we were able to be extremely relevant to our audience without having to spend huge amounts. We're definitely going to continue to innovate with this type of campaign going forward.”",
+				"Signature": "– Michiel Otten, brand manager beverages, PepsiCo."
+			},
+			"Paragraph5": {
+				"Title": "5. Similar creatives",
+				"Text1": "When designing an ad for a mobile campaign, it is fairly easy to also make digital out-of-home creatives. Exact dimensions will depend on which screens your DSP integrates, yet many screens sizes are similar proportions to mobile ads. What's more, video and HTML5 content used in mobile ads can also be used on digital screens.",
+				"Text2": "All in all, adding digital out-of-home to your mobile DSP gives your advertising partners access to more inventory and more opportunities to reach their audience. If you'd like to know more about working with digital out-of-home, we're happy to help! Book a virtual lunch and learn with our team to see how you can get started."
+			}
+		}
+	},
+	"form": {
+		"title": "Thinking of adding Digital Out-of-Home to your next media buy?",
+		"tagline": "Download the ebook to discover the benefits of programmatic DOOH"
+	}
+}

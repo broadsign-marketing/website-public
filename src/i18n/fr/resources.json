@@ -1,0 +1,26 @@
+{
+	"seo": {
+		"title": "Ressources pour l'affichage numérique",
+		"description": "Apprenez tout ce que vous devez savoir sur l'affichage numérique et le DOOH à l'aide de nos eBooks et webinaires pratiques ! Que vous soyez propriétaire d'un réseau, professionnel du marketing ou simplement curieux, vous trouverez quelque chose qui vous convient."
+	},
+	"Hero": {
+		"TitlePart1": "Ressources",
+		"TitlePart2": "de Broadsign",
+		"Tagline": "Votre guide pour l'affichage numérique et la _publicité extérieure_"
+	},
+	"upcoming": "À venir",
+	"featured": "En vedette",
+	"ebooks": "eBooks",
+	"webinars": "Webinaires",
+	"oohFromHome": {
+		"title": "Série de webinaires : L'Affichage extérieur, à la maison",
+		"description": "L'affichage extérieur se rend à votre porte avec notre série qui explique la vente, l'achat et les technologies derrière les médias extérieurs"
+	},
+	"programmaticU": {
+		"title": "L'Université de l'affichage numérique programmatique",
+		"description": "Enfilez votre chapeau à penser et joignez notre classe pour apprendre les bases de l'achat programmatique de médias numériques"
+	},
+	"learnMore": "En savoir plus",
+	"readMore": "Lire plus",
+	"watchWebinar": "Visionner le webinaire"
+}

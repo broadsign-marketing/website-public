@@ -1,0 +1,70 @@
+{
+	"seo": {
+		"title": "DSP Partners",
+		"description": ""
+	},
+	"hero": {
+		"title": "Launch and manage DOOH campaigns from your preferred DSP",
+		"par": "Easily add digital out-of-home to your omnichannel strategy using the DSP you already trust. With seamless integration and specialized expertise, Broadsign helps you plan, launch, and measure high-impact campaigns.",
+		"cta": "Talk to a media specialist"
+	},
+	"potential": {
+		"title": "Unlock the full potential of programmatic DOOH",
+		"boxes": [
+			{
+				"id": "seamless",
+				"title": "Seamless DOOH activation",
+				"par": "Easily launch and manage programmatic DOOH alongside your omnichannel campaigns using your DSP of choice. No extra logins, no complex setup—just seamless access to premium inventory."
+			},
+			{
+				"id": "global",
+				"title": "Global reach & scale",
+				"par": "Access thousands of premium DOOH screens worldwide across multiple publishers. From transit hubs and shopping malls to roadside billboards and street furniture, connect with your audience at the right time and place."
+			},
+			{
+				"id": "realtime",
+				"title": "Real-time optimization",
+				"par": "Take advantage of dynamic triggers, dayparting, and performance tracking, just like any programmatic channel. Easily adjust targeting, budgets, and creative messaging in real time to maximize impact. "
+			},
+			{
+				"id": "comprehensive",
+				"title": "Comprehensive performance measurement",
+				"par": "Leverage advanced measurement tools to track performance, assess impact, and refine your strategy. Gain insights from impressions, ad plays, and audience engagement to measure real-world outcomes."
+			}
+		]
+	},
+	"map": {
+		"overtitle": "Premium locations, maximum impact",
+		"title": "Discover Broadsign's DOOH inventory",
+		"par": "Reach your audience at scale with access to premium DOOH screens across high-impact venues worldwide. From transit hubs and shopping malls to street furniture and roadside billboards, Broadsign connects your campaigns to the right screens in the right places.",
+		"cta": "Download our DOOH inventory catalog",
+		"bubbles": {
+			"airports": "Airports",
+			"bus_shelters": "Bus Shelters",
+			"gas_stations": "Gas Stations",
+			"office_lobbies": "Office Lobbies",
+			"taxis": "Taxis",
+			"train_stations": "Train Stations"
+		}
+	},
+	"dsps": {
+		"title": "Activate DOOH with the DSP you trust",
+		"par": "Broadsign integrates with 35+ leading DSPs, giving you direct access to premium DOOH inventory without disrupting your existing workflow. Simplify planning, activation, and measurement with our expert guidance to drive results."
+	},
+	"outmoove": {
+		"title": ["Activate DOOH with Broadsign's DSP"],
+		"par": "Deliver high-impact programmatic DOOH campaigns with OutMoove, Broadsign's DSP built specifically for digital out-of-home. With advanced audience targeting, dynamic triggers, and real-time insights, OutMoove enables you to launch, manage, and optimize DOOH campaigns with precision. Leverage location, weather, local events, and traffic patterns to ensure your messaging stays relevant and impactful.",
+		"cta": "Learn more"
+	},
+	"campaigns": { "title": "Programmatic DOOH campaigns powered by Broadsign" },
+	"shin": {
+		"title": "Ready to launch a truly omnichannel campaign?",
+		"par": "Seamlessly activate programmatic DOOH and extend your omnichannel strategy with Broadsign. With industry-leading tools and expert guidance, we help you plan, execute, and optimize impactful campaigns.",
+		"cta": "Talk to a media specialist"
+	},
+	"modal": {
+		"header": "Talk to a media specialist"
+	},
+	"learnMore": "Learn more",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf"
+}

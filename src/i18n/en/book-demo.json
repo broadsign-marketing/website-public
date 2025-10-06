@@ -1,0 +1,109 @@
+{
+	"seo": {
+		"title": "Book a demo",
+		"description": "Buying DOOH inventory is easy, fast, and efficient. Go from campaign creation to live on-screen within minutes. Let us show you how!",
+		"book-demo": {
+			"title": "Book a demo",
+			"description": "Buying DOOH inventory is easy, fast, and efficient. Go from campaign creation to live on-screen within minutes. Let us show you how!"
+		},
+		"request-access": {
+			"title": "Request access",
+			"description": "We'll reach out to you to schedule a time for a quick tour of our platform and complete your free sign up."
+		},
+		"schedule-demo": {
+			"title": "Schedule a demo",
+			"description": "Advertise on Digital Screens in the Real World with a Proven OOH Advertising Solution."
+		}
+	},
+	"Hero": {
+		"title": "Book a demo",
+		"tagline": "Buying DOOH inventory is easy, fast, and efficient. Go from campaign creation to live on-screen within minutes. Let us show you how!",
+		"omnilabHeroText": "Advertise on Digital Screens in the Real World with a Proven",
+		"requestAccessTitle": "you're almost there",
+		"requestAccessTagline": "Please fill out the form and we'll reach out to you to schedule a time for a quick tour of our platform and complete your free sign up.",
+		"bookDemoTagline": "Fill out the form to connect with a member of our team"
+	},
+	"quotesTitle": "See what our customers are saying",
+	"quotes": [
+		{
+			"id": "republik",
+			"quote": "For a campaign manager that has progressed in the digital world, it is great to know that we can try outdoor advertising the same way we would launch a Facebook campaign, as an example. When it comes to choosing audiences as well as buying inventory, it's familiar ground. It opens so many new, unexpected doors!",
+			"name": "Justine Laurier",
+			"title": "Digital Campaign Manager",
+			"company": "Republik"
+		},
+		{
+			"id": "cookit",
+			"quote": "What used to take hours to plan and execute was reduced to minutes with Broadsign. The ease of use, which mimics online ad buying platforms, and its powerful DOOH targeting and scheduling features were a game-changer for us.",
+			"name": "Alexandre Cholette",
+			"title": "Media Placement Manager",
+			"company": "Cook It"
+		},
+		{
+			"id": "treehouse",
+			"quote": "The availability of screen level data allows us to tailor each campaign for maximum impact. It is easy to onboard any team member to the Broadsign buying platform, fast to roll out a new campaign or modify a current one, and the dedicated team support and service are just beyond amazing.",
+			"name": "Marcie Cerillo",
+			"title": "Brandmaster manager",
+			"company": " Treehouse Marketing"
+		},
+		{
+			"id": "flames",
+			"quote": "Broadsign gives us the power to display our digital out-of-home campaigns the way we want to, when we want to. The only thing we regret is not getting started sooner!",
+			"name": "Ryan Popowich",
+			"title": "Director of marketing and promotions",
+			"company": "Calgary Flames"
+		},
+		{
+			"id": "mainandlocal",
+			"quote": "The Broadsign platform was so easy to use. As a small business, we did not expect billboards to be so easy and accessible.",
+			"name": "Aline Dubois",
+			"title": "Co-owner",
+			"company": "Main & Local"
+		},
+		{
+			"id": "peoplespint",
+			"quote": "Broadsign was a no-brainer for us to reach people in our community. We know exactly who we're targeting, focusing on the neighbourhoods and buildings that we wanted. We got feedback from people who saw the ads. It resulted in a 12.8 % increase in foot traffic compared to last year.",
+			"name": "Peter Caira",
+			"title": "Owner",
+			"company": "People's Pint Brewery"
+		},
+		{
+			"id": "cheil",
+			"quote": "To execute a campaign of this magnitude we needed a DSP that could deliver on ease of use and transparency - and Broadsign performed above and beyond our expectations thanks to its numerous capabilities and capacity to streamline the DOOH-specific workflow. Furthermore, collaborating with Broadsign' team of programmatic digital-out-of-home experts meant seamless execution from start to finish.",
+			"name": "Keri Thomas",
+			"title": "Media Supervisor",
+			"company": "Cheil"
+		}
+	],
+	"features": {
+		"inventory": {
+			"title": "Access premium DOOH inventory with complete screen transparency",
+			"par": "Know exactly what you're buying when booking screens for your campaigns. Set your campaign parameters and select screen types based on data points like audiences, environments, and proximity to points of interest. Broadsign provides full visibility into screen-level data, helping you maximize campaign performance with the best inventory.",
+			"cta": "Browse our inventory"
+		},
+		"price": {
+			"title": "Activate flexible, targeted campaigns at the right price",
+			"par": "Optimize ad spend by activating inventory as close to market value as possible. With Broadsign' smart bidding algorithm, you can be sure we're delivering your targeted impressions in the most cost-effective, buyer-friendly way.",
+			"cta": "View our plans"
+		},
+		"audience": {
+			"title": "Reach ideal audience segments at the right time and place",
+			"par": "Target audiences in real-time with DOOH ads that capture attention wherever your audience may be. Broadsign taps into dynamic mobile data, so you can easily target venues with the highest concentration of your desired audience segments.",
+			"cta": "Learn more"
+		}
+	},
+	"blog": {
+		"title": "What we've been up to lately",
+		"cta": "Read more posts"
+	},
+	"campaignsTitle": "Spotlight on great campaigns",
+	"shin": {
+		"title": "Get started with Broadsign",
+		"par": "Our team of experts is here to help you create, execute, and manage campaigns. After all, our platform was built for OOH by the people who know OOH best.",
+		"cta": "Let's connect"
+	},
+	"letsConnectModal": {
+		"title": "Get started with Broadsign",
+		"par": "Our team of experts is here to help you create, execute, and manage campaigns. After all, our platform was built for OOH by the people who know OOH best."
+	}
+}

@@ -1,0 +1,138 @@
+@import "../base/dependencies";
+
+.Home_Quotes {
+	.Orbit {
+		transition: height 0.3s;
+	}
+
+	.orbit_item_grid {
+		padding: 0 16px;
+	}
+
+	.quote_card {
+		display: flex;
+		flex: 1 1 auto;
+		justify-content: space-between;
+		max-width: 90vw;
+		pointer-events: none;
+		scroll-snap-align: start;
+		scroll-snap-stop: always;
+
+		hr {
+			background-color: $cerulean;
+			flex: 0 0 1px;
+			height: 1px;
+		}
+
+		.bubble {
+			flex: 0 0 calc(100% - 112px);
+			height: calc(100% - 112px);
+
+			&:after {
+				background-color: $zircon;
+				bottom: -18px;
+				clip-path: polygon(0% 0%, 0% 100%, 100% 0%);
+				content: "";
+				display: block;
+				height: 20px;
+				left: 40px;
+				position: absolute;
+				width: 25px;
+			}
+		}
+
+		.logo {
+			flex: 0 0 70px;
+			height: 70px;
+			max-width: 230px;
+			object-fit: contain;
+			object-position: left center;
+		}
+
+		.portrait_border {
+			background: linear-gradient(90deg, #E43425 4.89%, #441FD8 72.33%, #0A26B8 119.62%);
+			border-radius: 1000px;
+			height: 74px;
+			padding: 2px;
+			width: 74px;
+		}
+
+		.portrait {
+			background: #FFF;
+			border: 4px solid #FFF;
+			border-radius: 1000px;
+			height: 70px;
+			width: 70px;
+		}
+
+		cite {
+			font-style: normal;
+		}
+
+		.name {}
+
+		.title {}
+
+		.company {}
+
+		&.hp {
+			.logo {
+				width: 50px;
+			}
+		}
+
+		&.iris {
+			.logo {
+				width: 80px;
+			}
+		}
+	}
+
+	.scroll_ctas {
+		text-align: right;
+	}
+}
+
+@media (max-width:$xsMax) {
+	.Home_Quotes {
+		.orbit_item_grid {
+			padding: 0 16px;
+		}
+
+		.quote_card {
+			cite {
+				height: 80px;
+
+				.name,
+				.title,
+				.company {
+					font-size: clamp(12px, 3vw, 16px) !important;
+				}
+			}
+		}
+
+		.quote_text {
+			font-size: clamp(12px, 3vw, 16px) !important;
+		}
+
+		.scroll_ctas {
+			text-align: right;
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	.Home_Quotes {
+		transform: scale(1);
+	}
+}
+
+@media (min-width: $lg) {
+	.Home_Quotes {
+		.scroll_ctas {
+			button:last-child {
+				margin-right: 0 !important;
+			}
+		}
+	}
+}

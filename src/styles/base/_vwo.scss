@@ -1,0 +1,25 @@
+$test_ids: 40, 78;
+
+@each $id in $test_ids {
+	$test_versions: "a", "b";
+
+	@if $id==1234 {
+		$test_versions: "a", "b", "c", "d";
+	}
+
+	@if $id==5678 {
+		$test_versions: "a", "b", "c", "d", "e", "f";
+	}
+
+	@each $version_global in $test_versions {
+		html[data-vwo*="#{$id}_v#{$version_global}"] {
+			*[class*="__vwo_#{$id}"]:not(.__vwo_#{$id}_v#{$version_global}) {
+				display: none;
+			}
+
+			*[class*="__vwo_#{$id}"].__vwo_#{$id}_v#{$version_global} {
+				display: revert;
+			}
+		}
+	}
+}

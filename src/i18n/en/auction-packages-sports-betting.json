@@ -1,0 +1,106 @@
+{
+	"seo": {
+		"title": "Sports Betting",
+		"description": "Deliver eye-catching DOOH ads that promote your betting platform to boost awareness and stand out from your competition."
+	},
+	"apSlug": "sportsBetting",
+	"apLink": "346",
+	"apToken": "kysm9KLhgRe4dYnPgaSjpTpYA2tVwfmVvPT6huvWatvlBbTAXccf3MnEIQtc",
+	"playbookLink": "liym",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Sports Betting",
+		"blurb": "Deliver eye-catching DOOH ads that promote your betting platform to boost awareness and stand out from your competition.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Sports Betting package",
+			"ppcTitle": "Want a tour of the Sports Betting package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Sport Fans"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Casinos", "Restaurants", "Bars", "Sports arenas"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Game day schedules", "Commute to work"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Malls, arenas and casinos",
+				"outdoor": "Billboard, urban panels and transit shelters within proximity to sports centers"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Sports Betting\" audience segments",
+		"list": [
+			{
+				"category": "Casino app players",
+				"description": "Casino App Players are evenly distributed across genders. Love for casino apps seems to increase with age, as the largest percentage of this audience can be found in the 45-55+ age groups."
+			},
+			{
+				"category": "Sports fans",
+				"description": "Sports Fans can be found across all age groups, but are predominantly men with a fairly even distribution across incomes."
+			},
+			{
+				"category": "E-sports fans",
+				"description": "E-Sports Fans are usually men. Over 75% of this audience are in the 18-24-year-old and 25-34-year-old age ranges."
+			},
+			{
+				"category": "College sports fans",
+				"description": "College Sports Fans are typically men across all age groups. Their household incomes are usually high, with 44% of this audience in the over $100k HHI set. This audience will likely own team-specific apps that align with their alma mater."
+			},
+			{
+				"category": "Fantasy sports players",
+				"description": "Fantasy Sports Players skew significantly toward men. Their age group ranges from 25-44 years old."
+			},
+			{
+				"category": "Casino visitors",
+				"description": "Casino Visitors are evenly distributed across genders. This audience tends to fall into two age categories: 25-34 years old and 35-44 years old."
+			},
+			{
+				"category": "Mobile gamers",
+				"description": "Mobile Gamers are evenly distributed across genders. They are in the 35-44-year-old, 45-54-year-old, and 55+-year-old age groups."
+			},
+			{
+				"category": "Card & Boardgame gamers",
+				"description": "Card & Boardgame Gamers are evenly distributed across genders and tend to be 55+ years old."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Create engagement and adoption for your sports betting platform",
+		"list": [
+			"Stand out from the increasing competition with DOOH ads that promote your betting platform",
+			"Take advantage of game day and dayparting capabilities to run ads at the right place and the right time",
+			"Deliver hyper-localized ads where potential players are likely to be paying attention to sports, like in close proximity to stadiums"
+		]
+	},
+	"playbook": {
+		"title": "Drive awareness and action for sports betting",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Sports Betting package" }
+}

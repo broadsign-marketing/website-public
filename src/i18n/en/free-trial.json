@@ -1,0 +1,67 @@
+{
+	"seo": {
+		"title": "Request your Free Trial",
+		"description": "See how Broadsign's OOH software can help you sell, traffic, and operate digital content across an out-of-home network of any size, more easily than ever before."
+	},
+	"cta": {
+		"next": "Next"
+	},
+	"hero": {
+		"title": "The leading solution for OOH, yours to play with"
+	},
+	"convenience": {
+		"subtitle": "Unmatched power and convenience",
+		"par": "See how our solutions can help you sell, traffic, and operate digital content across an out-of-home network of any size, more easily than ever before."
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Campaign Planning",
+			"title": "Advanced campaign tools that drive more revenue",
+			"par": "Take advantage of real-time inventory availability and instantly book flexibly scheduled and dynamically delivered digital out-of-home campaigns.",
+			"cta": "Learn more"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Content & network management",
+			"title": "Save time by automating your network management",
+			"par": "Rely on automated campaign workflows to play the right content at the right time and gain complete visibility into your network's performance with in-depth campaign reporting.",
+			"cta": "Learn more"
+		},
+		"staticOperations": {
+			"overtitle": "Static Campaigns",
+			"title": "Streamlined charting and work orders for static campaigns",
+			"par": "Get more from your static faces with our centralized asset management and campaign booking tool that syncs with real-time work order status, stock levels, and bill poster communications.",
+			"cta": "Learn more"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Global programmatic supply-side platform",
+			"title": "Generate new revenue programmatically ",
+			"par": "Complement your direct sales with a real-time programmatic pipeline composed of global buyers and ads that you approve of.",
+			"cta": "Learn more"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Local signage messaging",
+			"title": "Make your local content shine in every language",
+			"par": "Enable onsite teams to easily create custom digital signage messages while remaining on brand with a template-based tool that is simple enough for anyone to use.",
+			"cta": "Learn more"
+		},
+		"audienceCampaigns": {
+			"overtitle": "Audience Campaigns",
+			"title": "Unlock new opportunities and additional revenue",
+			"par": "Broadsign's ad server provides you with sophisticated targeting tools to help your sales teams plan and sell campaigns, optimize your inventory,  and reach target audiences at the most compelling moments.",
+			"cta": "Learn more"
+		},
+		"comingSoon": "Coming Soon",
+		"new": "New!"
+	},
+	"quotes": {
+		"q1": {
+			"quote": "Since our transition to Broadsign, we've been able to streamline our workflow, become more flexible and react more quickly to changes made by advertisers.",
+			"company": "Lightbox",
+			"id": "lightbox"
+		}
+	},
+	"logos": {
+		"subtitle": "Trusted by the biggest names in OOH"
+	},
+	"shinCTA": "Request a Free Trial"
+}

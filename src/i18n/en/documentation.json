@@ -1,0 +1,74 @@
+{
+	"seo": {
+		"title": "Documentation",
+		"description": "Have questions about working with one of our products? You're in the right place! Take a look at our documentation to find the answers you need."
+	},
+	"hero": {
+		"overtitle": "Looking for answers? You're in the right place!",
+		"title": "Documentation"
+	},
+	"platformDocumentation": "Platform Documentation",
+	"otherProductDocumentation": "Other Product Documentation",
+	"platformDocs": [
+		{
+			"id": "guaranteedCampaigns",
+			"label": "Guaranteed Campaigns"
+		},
+		{
+			"id": "audienceCampaigns",
+			"label": "Audience Campaigns"
+		},
+		{
+			"id": "programmaticCampaigns",
+			"label": "Programmatic Campaigns"
+		},
+		{
+			"id": "staticCampaigns",
+			"label": "Static Campaigns"
+		},
+		{
+			"id": "creatives",
+			"label": "Creatives"
+		},
+		{
+			"id": "screenInventory",
+			"label": "Screen Inventory"
+		},
+		{
+			"id": "audienceInventory",
+			"label": "Audience Inventory"
+		},
+		{
+			"id": "userManagement",
+			"label": "User Management"
+		}
+	],
+	"otherDocs": [
+		{
+			"id": "broadsignControl",
+			"label": "Content & Network Management",
+			"sublabel": "Broadsign Control"
+		},
+		{
+			"id": "broadsignReach",
+			"label": "Programmatic Campaigns",
+			"sublabel": "Broadsign Reach"
+		},
+		{
+			"id": "broadsignDirect",
+			"label": "Guaranteed Campaigns",
+			"sublabel": "Broadsign Direct"
+		},
+		{
+			"id": "broadsignPublish",
+			"label": "Local Signage Messaging",
+			"sublabel": "Broadsign Publish",
+			"to": "https://docs.broadsign.com/broadsign-publish/en/"
+		},
+		{
+			"id": "broadsignAyuda",
+			"label": "Broadsign Ayuda"
+		}
+	],
+	"viewDocumentation": "View Documentation"
+}

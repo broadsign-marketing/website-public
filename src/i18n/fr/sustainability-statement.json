@@ -1,0 +1,155 @@
+{
+	"seo": {
+		"title": "Déclaration de durabilité",
+		"description": "Chez Broadsign, nous pensons que nous avons une obligation envers nos employés, nos clients, les communautés, les investisseurs et l'environnement afin d'exercer nos activités de durabilité. Cet engagement repose sur nos cinq valeurs d'entreprise, qui guident toujours nos actions :"
+	},
+	"title": "La Durabilité chez Broadsign",
+	"content": [
+		{
+			"type": "p",
+			"text": "Chez Broadsign, nous pensons que nous avons une obligation envers nos employés, nos clients, les communautés, les investisseurs et l'environnement afin d'exercer nos activités de durabilité. Cet engagement repose sur nos cinq valeurs d'entreprise, qui guident toujours nos actions :"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Faire ce que l'on dit",
+				"Faire ce qui est juste",
+				"Accomplir de grandes choses",
+				"Traiter toute personne avec dignité et respect",
+				"Renforcer la capacité d'action"
+			]
+		},
+		{
+			"type": "p",
+			"text": "Nous dirigeons notre entreprise, nos activités et notre structure de manière à permettre à chacun de réaliser leur plein potentiel et d'améliorer leur qualité de vie, tout en protégeant et en améliorant le capital naturel de la Terre. Cette aspiration est mise en œuvre par nos objectifs, nos cibles et nos indicateurs de durabilité, incluant :"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Créer des environnements de travail les plus sains, les plus collaboratifs et les plus innovateurs possibles.",
+				"Intégrer des considérations de durabilité dans toutes nos décisions d'entreprise, en particulier pour générer des profits de manière responsable.",
+				"Minimiser les conséquences du carbone pour toutes les activités de bureaux, de déplacements et de navette.",
+				"Permettre à nos clients de devenir plus conscients de l'environnement grâce à l'utilisation de nos produits.",
+				"Mesurer et communiquer notre progrès à toutes les parties prenantes, y compris notre conseil d'administration, nos employés et nos clients, afin de garantir la responsabilisation et d'encourager les pratiques durables au sein de notre écosystème."
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Réduction"
+		},
+		{
+			"type": "h3",
+			"text": "Déplacements et réunions"
+		},
+		{
+			"type": "p",
+			"text": "Les émissions de carbone chez Broadsign sont principalement dues aux déplacements professionnels. Afin de réduire notre empreinte, notre politique de déplacements contient plusieurs mesures visant à réduire la quantité que nous effectuons par dollar de revenu et des lignes directrices visant à améliorer l'intensité des déplacements restants. Voici quelques exemples :"
+		},
+		{
+			"type": "list",
+			"items": [
+				"En évitant les déplacements en personne à forte intensité de carbone, sauf s'ils sont jugés absolument nécessaires par l'entreprise. ",
+				"En soutenant nos employés dans leur réduction de carbone due à leurs déplacements quotidiens grâce à des formules de travail hybrides et à un accès facile aux transports publics, en installant nos bureaux à des endroits accessibles.",
+				"En minimisant les émissions par kilomètre-passager en choisissant intelligemment le mode de transport et le moment du déplacement, afin de rencontrer autant de clients possibles par trajet."
+			]
+		},
+		{
+			"type": "h3",
+			"text": "Bureau, équipement et consommation de ressources"
+		},
+		{
+			"type": "p",
+			"text": "Réduire, réutiliser ou recycler le papier, les produits consommables et les déchets de bureau,pour ainsi réduire la consommation d'énergie autant que possible. Chaque fois que c'est possible, nous achetons des équipements écoénergétiques et nous nous associons à des tiers soucieux de l'efficacité énergétique, en particulier les centres de données."
+		},
+		{
+			"type": "h3",
+			"text": "Méthodes de travail"
+		},
+		{
+			"type": "p",
+			"text": "Nous continuerons à développer des produits numériques conçus pour améliorer les initiatives de durabilité des employés et des clients, en suivant les <a href='https://principles.green/' target='_blank'>principes de l'ingénierie logicielle durable</a> au mieux de nos capacités, lors du développement du logiciel Broadsign :"
+		},
+		{
+			"type": "list",
+			"items": [
+				"<a href='https://principles.green/principles/carbon/' target='_blank'>Carbone</a> : Créer des applications à faible émission de carbone.",
+				"<a href='https://principles.green/principles/electricity/' target='_blank'>Électricité</a> : Créer des applications à faible consommation d'énergie.",
+				"<a href='https://principles.green/principles/carbon-intensity/' target='_blank'>Intensité en carbone</a> : Consommer de l'électricité avec la plus faible intensité de carbone.",
+				"<a href='https://principles.green/principles/embodied-carbon/' target='_blank'>Carbone intégré</a> : Créer des applications efficaces sur le plan matériel.",
+				"<a href='https://principles.green/principles/energy-proportionality/' target='_blank'>Proportionnalité de l'énergie</a> : Maximiser l'efficacité énergétique du matériel.",
+				"<a href='https://principles.green/principles/networking/' target='_blank'>Réseaux</a> : Réduire la quantité de données et la distance qu'elles doivent parcourir sur le réseau.",
+				"<a href='https://principles.green/principles/measurement/' target='_blank'>Mesures et optimisation</a> : Se concentrer sur des optimisations étape par étape qui augmentent l'efficacité globale en matière de carbone."
+			]
+		},
+		{
+			"type": "p",
+			"text": "Nous travaillons activement en partenariat avec nos fournisseurs afin d'opérer de manière durable, de réduire les déchets et de nous engager à alimenter la diffusion numérique de notre plateforme avec de l'énergie renouvelable et des produits recyclés et recyclables."
+		},
+		{
+			"type": "p",
+			"text": "Les produits de Broadsign sont souvent utilisés pour faciliter les panneaux publicitaires, ce qui peut être une source de pollution lumineuse. Pour réduire les effets de la pollution lumineuse, Broadsign prend les mesures suivantes :"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Automatiser les réglages pour permettre aux clients de réduire la luminosité de l'écran en fonction de la lumière ambiante ou de l'heure.",
+				"Travailler avec les fabricants pour soutenir les écrans et les panneaux qui génèrent une pollution lumineuse minimale."
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Compensations"
+		},
+		{
+			"type": "p",
+			"text": "Nous reconnaissons que nos efforts de réduction des émissions ne suffiront pas à atteindre notre objectif de zéro net sur le marché actuel. Ainsi, pour toutes les émissions que nous ne sommes pas en mesure de réduire, Broadsign s'engage à compenser une quantité équivalente de carbone en achetant des crédits de carbone certifiés sur le marché libre. En achetant ces crédits, nous respectons les principes suivants :"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Acheter et retirer des crédits pour des projets qui capturent et séquestrent du carbone atmosphérique.",
+				"Acheter seulement des crédits qui sont vérifiés et certifiés par des organismes reconnus de l'industrie, tels que Gold Standard.",
+				"Réduire le nombre de crédits par dollar de revenu que nous achetons chaque année en augmentant nos efforts de réduction au fil du temps."
+			]
+		},
+		{
+			"type": "p",
+			"text": "Cette année, nous avons établi un partenariat avec <a href='https://klimate.co' target='_blank'>Klimate.co</a> pour trouver des crédits d'élimination du carbone provenant de projets de la foresterie, du biocharbon et d'amélioration de l'altération climatique."
+		},
+		{
+			"type": "h2",
+			"text": "Mesures et responsabilité"
+		},
+		{
+			"type": "p",
+			"text": "En tant qu'entreprise, Broadsign s'engage à comprendre son empreinte écologique, en entreprenant les activités de mesures suivantes :"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Recueillir les données sur les émissions de carbone sur une base trimestrielle, dans le cadre de notre processus d'établissement de rapports financiers et rendre compte des progrès accomplis chaque année",
+				"Faire réviser et assurer quotidiennement nos rapports par de tierces parties",
+				"Demander à tous nos fournisseurs de biens et de services de terminer des rapports sur leurs émissions",
+				"Utiliser des références acceptées de l'industrie pour les fournisseurs qui ne sont pas en mesure de fournir un chiffre d'émissions et pour lesquels il n'existe pas d'alternative appropriée",
+				"Partager publiquement nos rapports d'émissions avec nos clients et sur notre site Web",
+				"Contrôler le cycle de vie complet de nos déchets électroniques, de l'achat à l'élimination"
+			]
+		},
+		{
+			"type": "p",
+			"text": "Nous nous engageons à communiquer les résultats de notre programme de durabilité à notre conseil d'administration, à nos employés, à la direction générale et aux autres parties prenantes, au moins une fois par exercice financier."
+		},
+		{
+			"type": "h2",
+			"text": "Communauté"
+		},
+		{
+			"type": "p",
+			"text": "Notre comité pour la durabilité est composé de gens de tous les niveaux et tous les départements. La formation et l'engagement des employés sont des éléments essentiels pour respecter nos engagements en matière de durabilité. Nous organisons régulièrement des séances d'information et des groupes de travail pour former nos employés et faire évoluer nos pratiques. Les employés sont encouragés à entreprendre un travail bénévole avec leurs communautés locales ou des organisations environnementales et à faire des dons pour compenser les émissions de carbones de leurs activités. Chaque employé se voit offrir deux jours pour du bénévolat par année."
+		},
+		{
+			"type": "p",
+			"text": "De plus, pour contribuer à promouvoir les pratiques de durabilité dans notre industrie, nous incluons une déclaration de durabilité dans toutes nos propositions aux clients et dans tous les contrats avec les fournisseurs."
+		}
+	]
+}

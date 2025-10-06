@@ -1,0 +1,139 @@
+@import "../base/dependencies";
+
+#attribution {
+
+	h1,
+	h2,
+	h3 {
+		line-height: 120%;
+		text-transform: none;
+	}
+
+	p {
+		color: $dark;
+		line-height: 180%;
+	}
+
+	.hero_img {
+		max-width: 420px;
+	}
+
+	.solutions {
+		.image_wrapper {
+			display: grid;
+			place-items: center;
+		}
+
+		.solution_img {
+			max-height: 230px;
+			max-width: 230px;
+		}
+
+		.CTA {
+			max-width: 80vw;
+			white-space: normal;
+			width: auto;
+		}
+	}
+
+	.feature_img {
+		max-width: 536px;
+	}
+
+	.resources {
+		.card {
+			appearance: none;
+			border: 0 none;
+
+			&:hover {
+				.link_cerulean_arrow:after {
+					@include animateArrow;
+				}
+			}
+		}
+
+		.thumbnail {
+			aspect-ratio: 13 / 6;
+
+			.gatsby-image-wrapper {
+				aspect-ratio: 13 / 6;
+				max-height: 100%;
+			}
+
+			.play_btn {
+				background: $reflex;
+				border-radius: 1000px;
+				display: grid;
+				height: 48px;
+				left: 50%;
+				place-items: center;
+				pointer-events: none;
+				position: absolute;
+				top: 50%;
+				transform: translate(-50%, -50%);
+				width: 48px;
+				z-index: 1000;
+			}
+		}
+
+		.youtube_thumbnail {
+			aspect-ratio: 13 / 6;
+			object-fit: cover;
+		}
+
+		.desc {
+			flex: 1 1 100%;
+		}
+	}
+
+	.shin {
+		margin-top: 200px;
+
+		.whirl {
+			margin-top: -160px;
+		}
+	}
+
+}
+
+@media (min-width:$sm) {
+	#attribution {
+		.solutions {
+			.image_wrapper {
+				aspect-ratio: 1;
+			}
+		}
+
+		.shin {
+			margin-top: 90px;
+
+			.whirl {
+				margin-top: -90px;
+			}
+		}
+
+	}
+}
+
+html[lang="fr"] {
+	.solutions {
+		.NeonBox {
+			.subtitle-1 {
+				line-height: 120%;
+				margin-top: 12px;
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#attribution {}
+}
+
+@media (min-width:$lg) {
+	#attribution {}
+}
+
+@media (min-width:$xl) {
+	#attribution {}
+}

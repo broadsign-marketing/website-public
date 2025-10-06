@@ -1,0 +1,137 @@
+@import "../base/dependencies";
+
+#broadsign_summit_2019 {
+	.hero {
+		height: min(90vw, 500px);
+
+		&>.absolute {
+			bottom: min(5vw, 60px);
+			left: 50%;
+			top: auto;
+			transform: translateX(-50%);
+		}
+
+		p {
+			filter: drop-shadow(1px 1px 2px $reflex) drop-shadow(1px 1px 3px $reflex) drop-shadow(1px 1px 4px $reflex);
+			font-size: min(5vw, 20px);
+			max-width: 600px;
+			/* text-shadow: 1px 1px 1px $reflex, 1px 1px 2px $reflex, 1px 1px 3px $reflex, 1px 1px 4px $reflex; */
+		}
+	}
+
+	.hero_img {
+		box-shadow: 4px 4px 16px rgba(#000, 0.4);
+		height: 100%;
+		width: 100%;
+	}
+
+	.video_card {
+		transition: box-shadow 0.3s;
+
+		.play_zone {
+			appearance: none;
+			background: transparent none;
+			border: none;
+		}
+
+		.thumbnail {
+			aspect-ratio: 16/9;
+			width: 100%;
+		}
+
+		.play_btn {
+			filter: drop-shadow(2px 2px 16px $reflex);
+			left: 50%;
+			position: absolute;
+			top: 50%;
+			transform: translate(-50%, -50%);
+			transition: filter 0.3s;
+			width: 44px;
+		}
+
+		&.featured {
+			.overlay {
+				background: transparent none;
+				pointer-events: none;
+			}
+
+			.cta {
+				min-height: min(9vw, 3em);
+				/* padding: 0.65em 1.8em 0.6em; */
+			}
+		}
+
+		&:hover {
+			box-shadow: 2px 2px 24px rgba($reflex, 0.2);
+
+			.play_btn {
+				filter: drop-shadow(2px 2px 16px $reflex) drop-shadow(2px 2px 16px $reflex);
+			}
+
+			.cta {
+				background-color: $cerulean;
+			}
+		}
+	}
+
+	.speakers {
+		border-bottom: 1px solid $reflex;
+		border-top: 1px solid $reflex;
+		padding: 8px 0;
+	}
+
+	.speaker {
+		.portrait_wrapper {
+			aspect-ratio: 1;
+			border: 2px solid #6BEAF2;
+			border-radius: 100%;
+			padding: 2px;
+			width: 32px;
+		}
+
+		.portrait {
+			border-radius: 50%;
+			width: 28px;
+		}
+
+		.subtitle-1 {
+			font-size: 12px !important;
+			line-height: 120%;
+		}
+	}
+
+	.cta {
+		align-items: center;
+		background-color: $reflex;
+		border-radius: 100px;
+		color: #FFF;
+		display: inline-flex;
+		font-size: 14px;
+		justify-content: center;
+		padding: 0.6em 1.2em 0.5em;
+		transition: background-color 0.3s;
+		width: auto;
+	}
+}
+
+@media(min-width:$sm) {
+	#broadsign_summit_2019 {
+		.video_card.featured {
+			.thumbnail {
+				flex: 0 0 50%;
+			}
+
+			.cta {
+				min-height: min(5vw, 3em);
+			}
+		}
+	}
+}
+
+@media(min-width:$md) {
+	#broadsign_summit_2019 {
+		.video_card.featured .thumbnail {
+			flex: 0 0 66.666666%;
+		}
+	}
+}

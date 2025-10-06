@@ -1,0 +1,60 @@
+{
+	"seo": {
+		"title": "Reach audiences with data-driven targeting",
+		"description": "Display ads across key touchpoints of your audience's journey. With audience-based DOOH, you can drive engagement, impact, and recall by delivering dynamic ads that are contextually relevant to your audiences."
+	},
+	"Hero": {
+		"title": "Reach audiences with data-driven targeting",
+		"tagline": "Display ads across key touchpoints of your audience's journey. With audience-based DOOH, you can drive engagement, impact, and recall by delivering dynamic ads that are contextually relevant to your audiences.",
+		"cta": "Book a demo"
+	},
+	"deliver": {
+		"title": "Deliver precise messaging to the right audiences with unified and objective mobile data ",
+		"par": "Target venues with the highest concentration of your desired audience segments with fast, scalable, and universal mobile data. In partnership with Native Touch, Broadsign Ads offers exclusive access to mobile audience data directly at your fingertips, seamlessly connecting OOH to the digital world."
+	},
+	"howItWorksOvertitle": "How It Works",
+	"howItWorksTitle": "From data collection to targeting, here's how we profile every venue",
+	"howItWorks01": {
+		"title": "Venue Creation",
+		"par": "[The first step occurs when a supplier's screen receives an ad request from Broadsign Ads, geolocating itself with a latitude and longitude.] [Broadsign Ads then reverse geocodes that coordinate to start building a venue profile containing basic information. Venue boundaries are also defined to ensure the area we want to collect data from is precisely defined.] [Broadsign Ads is now aware that this venue has an active DOOH screen, and we automatically notify our mobile partner of a new point of interest.]"
+	},
+	"howItWorks02": {
+		"title": "Mobile Data Collection",
+		"par": "[Our data partner starts collecting data from smartphones once audiences enter the defined location boundaries. This data is pulled from active application SDKs and APIs, and is continuously updated to remain accurate over time.] [Data collected includes device IDs, languages, app IDs, age, gender, and more.]"
+	},
+	"howItWorks03": {
+		"title": "Mobile Data Analysis",
+		"par": "[This data is then analyzed and ultimately translated into 6 key audience targeting groups and over 190 personas.]"
+	},
+	"howItWorks04": {
+		"title": "Audience Profiling for Venues",
+		"par": "[Data sets are sent back to Broadsign Ads, and we can complete each venue's audience profile. This means that for every venue available, we now know the precise audience composition of each screen.] [These personas are then converted to targeting options in the campaign creation process. With Broadsign Ads, you can control the audience size and precision to match your budget spending goal.]"
+	},
+	"targetingGroups": {
+		"title": "Targeting Groups",
+		"age": "Age",
+		"income": "Income",
+		"interest": "Interest & Activity",
+		"stage": "Life Stage",
+		"intent": "Intent",
+		"gender": "Gender"
+	},
+	"personas": {
+		"title": "Some personas include",
+		"music": "Music lovers",
+		"movie": "Movie buffs",
+		"business": "Business professionals",
+		"dining": "Fine dining enthusiasts",
+		"parents": "New parents",
+		"shoppers": "Young & hip shoppers"
+	},
+	"letsConnectModal": {
+		"title": "Get started with Broadsign Ads",
+		"par": "Our team of experts is here to help you create, execute, and manage campaigns. After all, our platform was built for OOH by the people who know OOH best."
+	},
+	"shin": {
+		"title": "Get started with Broadsign Ads",
+		"par": "Our team of experts is here to help you create, execute, and manage campaigns. After all, our platform was built for OOH by the people who know OOH best.",
+		"cta": "Let's connect"
+	}
+}

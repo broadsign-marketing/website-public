@@ -1,0 +1,38 @@
+@import "../base/dependencies";
+
+@keyframes scrollText {
+	0% {
+		transform: translateX(0%);
+	}
+
+	100% {
+		transform: translateX(-50%);
+	}
+}
+
+.TextMarquee {
+	display: flex;
+	flex-flow: row nowrap;
+	width: 100%;
+
+	&__grid {
+		animation: scrollText 4s linear infinite;
+		display: flex;
+		flex-flow: row nowrap;
+		max-width: none;
+		width: auto;
+	}
+
+	&__text {
+		@include fontBolder;
+		color: $reflex;
+		line-height: 1;
+		margin-right: 1ch;
+		white-space: nowrap;
+	}
+}
+
+
+@media (min-width: $sm) {
+	.TextMarquee {}
+}

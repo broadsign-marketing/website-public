@@ -1,0 +1,26 @@
+{
+	"seo": {
+		"title": "How to Scale In-Store Activation",
+		"description": "Scale your in-store retail media network with practical strategies for content delivery, tech stack planning, data activation, and performance measurement."
+	},
+	"id": "ebookInStoreActivation",
+	"slug": "in-store-activation",
+	"hero": {
+		"overtitle": "Owning Your In-Store Activation",
+		"title": "A Playbook for Scaling In-Store Digital Signage Networks"
+	},
+	"presentation": {
+		"title": "Discover why in-store retail media is a strategic advantage for forward-thinking retailers",
+		"pars": [
+			"In-store activation isn't just a nice-to-have—it's becoming a critical driver of revenue, engagement, and growth. As part of a unified retail media network (RMN) strategy, in-store media connects with shoppers at the point of decision, complementing onsite and off-site channels to create a seamless path to purchase.",
+			"This ebook explores how to build and scale in-store networks that elevate the shopper experience, unlock new monetization opportunities, and support long-term success."
+		],
+		"list": [
+			"Choosing the right implementation model to structure and operate your in-store retail media network.",
+			"Common pitfalls to avoid when scaling in-store retail media, with insights to help you navigate logistics, integration, and team coordination.",
+			"Scaling your in-store activation, including choosing the right tech stack, leveraging first-party data, supporting a dynamic content strategy, and more."
+		]
+	},
+	"formHeader": "Download the Playbook for Scaling In-Store Digital Signage Networks",
+	"flipbookUrl": "https://online.fliphtml5.com/abair/dzkl/"
+}

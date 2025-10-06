@@ -1,0 +1,45 @@
+{
+	"seo": {
+		"title": "播尚Broadsign SOC支持",
+		"description": "全球领先的数字户外广告解决方案，专为智慧屏定制"
+	},
+	"hero": {
+		"nowAvailable": "现在可用",
+		"title": "播尚Broadsign SOC支持",
+		"tagline": "全球领先的数字户外广告解决方案，专为智慧屏定制"
+	},
+	"features": {
+		"overtitle": "您的智慧屏可以做的更多",
+		"title": "扩展您的数字标牌网络，打开广告新大门",
+		"list": [
+			{
+				"id": "management",
+				"title": "接入高级内容管理系统",
+				"description": "播尚Broadsign领先的CMS带来更多功能，如智能播放列表生成，播放效果报告以及广告动态交付"
+			},
+			{
+				"id": "network",
+				"title": "简化您的网络",
+				"description": "中央管理所有类型屏幕，简化数字户外媒体管理，大幅节省时间。"
+			},
+			{
+				"id": "revenue",
+				"title": "解锁额外利润",
+				"description": "整合我们的程序化交易SSP以及户外广告专用的广告管理系统，解锁更多广告营收"
+			},
+			{
+				"id": "growth",
+				"title": "用你自己想要的方式成长",
+				"description": "我们的自动化工作流程让您只需要很小的团队，即可管理庞大的网络，让您的户外业务更高效"
+			}
+		]
+	},
+	"verticals": {
+		"par": "不管屏幕处于何地，我们的SOC解决方案都可以轻松管理，规模化您的智慧屏网络，实现更多营收",
+		"list": ["零售", "食品&饮料", "电影院", "餐饮", "交通", "机场", "充电桩", "医疗健康"]
+	},
+	"supportedOn": { "p1": "播尚Broadsign SOC支持", "p2": "" },
+	"formHeader": "现在就联系我们，看看播尚Broadsign可以为您的智慧屏带来什么",
+	"furtherReading": "想要了解更多关于SOC的解决方案，请查看我们的最新博客！",
+	"thankYouSoC": "感谢您对我们System-on-chip方案的兴趣！"
+}

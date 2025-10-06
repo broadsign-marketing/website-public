@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="682" height="148" viewBox="0 0 682 148">
+	<defs>
+		<linearGradient id="textGradient">
+			<stop offset="0.03" stop-color="#FF0000" />
+			<stop offset="0.6" stop-color="#0505A9" />
+			<stop offset="0.69" stop-color="#0538BF" />
+			<stop offset="0.82" stop-color="#0585E1" />
+			<stop offset="0.92" stop-color="#05B5F6" />
+			<stop offset="0.97" stop-color="#05C8FF" />
+		</linearGradient>
+	</defs>
+	<path id="the_path" d="M0,135.6S148,57.12,248,57.12s173.66,76.09,188.16,83.96,37.73,10.13,52.49.56,27.06-25.92,29.48-43.33,9.13-46.36,25.86-54.75,29.4-8.62,57.31,2.5,72.89,16.52,80.46-46.05" fill="none" />
+	<text y="40" font-size="14" font-family="Roboto, Arial, Helvetica, Sans-serif" fill="url(#textGradient)" letter-spacing="2px">
+		<textPath id="text_on_a_path" class="text_on_a_path" href="#the_path" startOffset="400">THE POWER OF THE BROADSIGN PLATFORM</textPath>
+	</text>
+</svg>

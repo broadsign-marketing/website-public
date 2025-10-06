@@ -1,0 +1,48 @@
+{
+	"seo": {
+		"title": "Digital Signage in Gas Stations",
+		"description": "Broadsign's platform is the perfect solution for digital signage in gas stations to drive on-pump and in-store customer engagement."
+	},
+	"title": "Digital Signage in Gas Stations",
+	"Hero": {
+		"TitlePart1": "Fuel the Growth of your",
+		"TitlePart2": "Gas Station",
+		"TitlePart3": "Signage Network",
+		"Blurb": "Create a new source of revenue and open more channels of communication with digital signage in and around your gas stations.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "A fast lane to higher profits",
+			"Paragraph": "Build new revenue with an ad-supported digital signage network deployed at your stations."
+		},
+		"Pane2": {
+			"Title": "The right content, everywhere",
+			"Paragraph": "Integrate geolocation tools to deliver relevant content and messaging to screens and audiences at every point on your network."
+		}
+	},
+	"cards": {
+		"title1": "Complex campaigns Made Simple",
+		"par1": "Quickly access available inventory and generate proposals with a sales tool hooked right into your content management system.",
+		"title2": "Unlock New Sales Opportunities",
+		"par2": "Open your network to more relevant and lucrative ad campaigns by adopting programmatic ad delivery to your screens.",
+		"direct": "Empower your team with Campaign Planning",
+		"reach": "Sell programmatically with our Programmatic SSP"
+	},
+	"Quoteblock": {
+		"Quote": "Broadsign is now the heart of the Company here. We got Broadsign and the whole company is now organized around it.",
+		"Signature": "MMD Media"
+	},
+	"SpielPosterGasStations": {
+		"title": "A good Impulse",
+		"text": "Boost impulse buys at the counter with digital signage ads for snacks or specials found on location."
+	},
+	"Partners": {
+		"Title": "Partnerships For Great Content",
+		"Tagline": "Engage your Audience with Entertaining and Informative content provided by our partners"
+	},
+	"Shin": {
+		"Title": "Ready to create a standout digital gas station signage network?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

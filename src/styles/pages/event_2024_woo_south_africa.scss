@@ -1,0 +1,87 @@
+@import "../base/dependencies";
+
+#woo_south_africa {
+	h1 {
+		@include fontBolder;
+		font-size: min(6.4vw, 34px);
+		margin-bottom: 2em;
+		text-transform: none;
+	}
+
+	.d-grid {
+		display: grid;
+
+		&.icons {
+			grid-template-columns: 36px 1fr;
+
+			p {
+				color: $reflex;
+				margin: 2px 0 0 0;
+			}
+		}
+
+		&.portraits {
+			align-content: center;
+			align-items: center;
+			grid-template-columns: 70px 1fr;
+
+			p {
+				color: $ash;
+				margin: 0;
+			}
+		}
+
+		.icon {
+			img {
+				width: 24px;
+			}
+		}
+
+		.portrait {
+			height: auto;
+			margin: 12px 0;
+			width: 55px;
+		}
+
+		.text {}
+	}
+
+	.Form {
+		h4 {
+			margin-bottom: 16px;
+		}
+
+		.submitted-message {
+			&:before {
+				height: 40px;
+				margin: 0 0 20px;
+				width: 40px;
+			}
+		}
+	}
+}
+
+
+@media (min-width:$sm) {
+	#woo_south_africa {
+		h1 {
+			font-size: min(3.4vw, 34px);
+		}
+
+		.Form {
+			margin-top: 0px;
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#woo_south_africa {}
+}
+
+@media (min-width:$lg) {
+	#woo_south_africa {}
+}
+
+@media (min-width:$xl) {
+	#woo_south_africa {}
+}

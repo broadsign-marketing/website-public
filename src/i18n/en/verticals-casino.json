@@ -1,0 +1,54 @@
+{
+	"seo": {
+		"title": "Digital Signage in Casinos",
+		"description": "Keep guests smiling and in the game with a casino experience powered by digital signage that delivers ads and useful information."
+	},
+	"title": "Digital Signage in Casinos",
+	"Hero": {
+		"TitlePart1": "Casino",
+		"TitlePart2": "Digital Signage",
+		"TitlePart3": "you can count on",
+		"Blurb": "Keep guests smiling and in the game with a casino experience powered by digital signage that delivers ads and useful information.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"title": "Dynamic messaging made simple",
+			"paragraph": "Display messaging for big wins, display current table wait times, and get the word out about promotions and events with digital signage that adapts to time of day or ambient conditions."
+		},
+		"Pane2": {
+			"title": "Show guests the way",
+			"paragraph": "Keep people on track to their games, lodgings, or other facilities with wayfinding terminals that provide personalized directions to whoever needs them."
+		},
+		"Pane3": {
+			"title": "Larger-Than-Life Promotions",
+			"paragraph": "Get creative with casino-wide or zoned screen takeovers when there's an event, promotion, or triggered message that you want a lot of people to see."
+		},
+		"Pane4": {
+			"title": "Monetize your Audience Data",
+			"paragraph": "Integrate player loyalty and hotel reservation data with your digital signage system for better targeting and a greater return on your investment."
+		}
+	},
+	"VideoPoster": {
+		"title": "Your screens at your fingertips",
+		"paragraph": "From kiosks to digital posters and everything in between, efficiently manage screens across your casino from one centralized platform that easily scales as your digital signage network grows."
+	},
+	"BroadsignControlVideoTitle": "Intro to Broadsign Control",
+	"cards": {
+		"title": "Flexible option for simpler ad sales",
+		"par": "Make running ad campaigns in your casinos a breeze with specialized tools for both direct and programmatic sales teams.",
+		"direct": "Empower your team with Campaign Planning",
+		"reach": "Sell programmatically with our Programmatic SSP"
+	},
+	"Quoteblock": {
+		"Quote": "You need to have a provider who has scaled before in order for them to give the best advice. We're at that point right now and we're relying on Broadsign to take us to the next level.",
+		"Signature": "Clear Digital Media"
+	},
+	"Customers": {
+		"title": "Trusted by leading Digital Signage clients"
+	},
+	"Shin": {
+		"Title": "How can your casino benefit from the Broadsign digital platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

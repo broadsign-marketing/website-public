@@ -1,0 +1,127 @@
+{
+	"sections": [
+		{
+			"id": "mediaOwners",
+			"label": "Para propietarios de medios",
+			"links": [
+				{
+					"label": "Plataforma Broadsign",
+					"to": "broadsignPlatform"
+				},
+				{
+					"label": "Planificación de campañas",
+					"to": "campaignPlanning"
+				},
+				{
+					"label": "Campañas basadas en la audiencia y difusión de anuncios",
+					"to": "audienceCampaigns"
+				},
+				{
+					"label": "Gestión de contenidos y redes",
+					"to": "contentNetworkManagement"
+				},
+				{
+					"label": "Campañas y administración estáticas",
+					"to": "staticOperations"
+				},
+				{
+					"label": "SSP programático global",
+					"to": "globalProgrammaticSSP"
+				},
+				{
+					"label": "Señalización de mensajería local",
+					"to": "localSignageMessaging"
+				},
+				{
+					"label": "Nuestros planes",
+					"to": "plans"
+				}
+			]
+		},
+
+		{
+			"id": "resources",
+			"label": "Recursos",
+			"links": [
+				{
+					"label": "Blog",
+					"to": "blog"
+				},
+				{
+					"label": "Libros electrónicos y webinarios",
+					"to": "resources"
+				},
+
+				{
+					"label": "Certificación DOOHX",
+					"to": "https://www.doohx.io/"
+				},
+				{
+					"label": "Documentación del producto",
+					"to": "documentation"
+				},
+				{
+					"label": "Estado de los servicios de Broadsign",
+					"to": "https://status.broadsign.com/"
+				}
+			]
+		},
+		{
+			"id": "broadsign",
+			"label": "Broadsign",
+			"links": [
+				{
+					"label": "Quienes somos",
+					"to": "whoWeAre"
+				},
+				{
+					"label": "Nuestra historia",
+					"to": "ourStory"
+				},
+				{
+					"label": "Contacto",
+					"to": "contact"
+				},
+
+				{
+					"label": "Declaración de seguridad",
+					"to": "securityStatement"
+				},
+				{
+					"label": "Declaración de sostenibilidad",
+					"to": "sustainabilityStatement"
+				}
+			]
+		},
+		{
+			"id": "accounts",
+			"label": "Cuentas",
+			"links": [
+				{ "label": "Plataforma Broadsign", "to": "https://app.broadsign.com/" },
+				{ "label": "Iniciar sesión en OutMoove de Broadsign", "to": "https://console.outmoove.com/auth/login" },
+				{ "label": "Comunidad Broadsign", "to": "https://broadsign.force.com/" }
+			]
+		}
+	],
+	"social": {
+		"facebook": {
+			"title": ""
+		},
+		"linkedin": {
+			"title": "Únete a nuestra comunidad en LinkedIn"
+		},
+		"x": {
+			"title": "Síguenos en X"
+		},
+		"youtube": {
+			"title": "Míranos en Youtube!"
+		}
+	},
+	"privacy": [
+		{
+			"label": "Política De Protección De Datos",
+			"to": "privacyPolicy"
+		}
+	],
+	"cookiePreferences": "Preferencias de cookies"
+}

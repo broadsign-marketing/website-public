@@ -1,0 +1,28 @@
+{
+	"seo": {
+		"title": "Inventaire",
+		"description": "Amplifiez l'impact de votre campagne OOH grâce à nos packs soigneusement conçus comprenant des segments de publics, différents environnements, types de lieux et des moments propices pour rehausser la notoriété de votre marque et augmenter les ventes."
+	},
+	"hero": {
+		"title": "_Maximisez_ l'impact avec des publicités DOOH stratégiquement placées",
+		"blurb": "Amplifiez l'impact de votre campagne OOH grâce à nos packs soigneusement conçus comprenant des segments de publics, différents environnements, types de lieux et des moments propices pour rehausser la notoriété de votre marque et augmenter les ventes.",
+		"cta": "Communiquez avec nous"
+	},
+	"exploreVerticals": {
+		"title": "Explorez notre inventaire"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explorez nos emplacements populaires",
+		"moreLocations": "Plus d'emplacements",
+		"modal": {
+			"title": "Explorez notre vaste réseau d'inventaire global",
+			"blurb": "Parlez à un spécialiste des médias pour commencer à planifier votre campagne!",
+			"thankYou": ["Merci!", "Un spécialiste des médias Broadsign vous contactera sous peu."]
+		}
+	},
+	"shin": {
+		"title": "Créez votre propre pack personnalisé",
+		"par": "Travaillez avec notre équipe “marketplace” pour créer un pack sur mesure, en fonction de vos stratégies publicitaires et des objectifs prioritaires de vos campagnes.",
+		"cta": "Discutez avec un spécialiste des médias"
+	}
+}

@@ -1,0 +1,70 @@
+@import "../base/dependencies";
+
+.aquarius_feature {
+	padding-bottom: 40px;
+	padding-top: 40px;
+
+	&:nth-child(odd) {
+		background-color: #FFF;
+	}
+
+	&:nth-child(even) {
+		background-color: $zircon;
+	}
+
+	img {
+		height: auto;
+	}
+}
+
+.aquarius_shin {
+	.inner {
+		background: linear-gradient(96.54deg, #E43425 4.89%, #441FD8 72.33%, #0A26B8 119.62%);
+
+		p {
+			max-width: 620px;
+		}
+	}
+}
+
+html[lang="fr"] {
+	.aquarius_shin .inner p {
+		max-width: 680px;
+	}
+}
+
+@media(min-width:$sm) {
+	.aquarius_feature {
+		padding-bottom: 56px;
+		padding-top: 56px;
+
+		&:nth-child(odd) {
+			flex-flow: row nowrap;
+
+			.feature>.sm\:col-6 {
+				&:first-child {
+					padding-right: calc(min(44px, 3vw));
+				}
+
+				&:last-child {
+					padding-left: calc(min(44px, 3vw));
+				}
+			}
+		}
+
+		&:nth-child(even) {
+			background-color: #FFF;
+			flex-flow: row-reverse nowrap;
+
+			.feature>.sm\:col-6 {
+				&:first-child {
+					padding-left: calc(min(44px, 3vw));
+				}
+
+				&:last-child {
+					padding-right: calc(min(44px, 3vw));
+				}
+			}
+		}
+	}
+}

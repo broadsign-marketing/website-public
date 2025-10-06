@@ -1,0 +1,26 @@
+{
+	"seo": {
+		"title": "Recursos - Libros electronicos y seminarios web",
+		"description": "Descubra todo lo que necesita saber sobre la señalización digital y DOOH con nuestros eBooks y seminarios web. No importa si es dueño de una red, un especialista en marketing o simplemente tiene curiosidad, encontrará algo que se adapte a sus necesidades."
+	},
+	"Hero": {
+		"TitlePart1": "Recursos",
+		"TitlePart2": "de Broadsign",
+		"Tagline": "Su guía para la señalización digital y el DOOH"
+	},
+	"upcoming": "Próximo",
+	"featured": "Destacados",
+	"ebooks": "Libros electronicos",
+	"webinars": "Seminarios web",
+	"oohFromHome": {
+		"title": "La serie de webinars OOH Desde Casa",
+		"description": "Traemos el medio OOH hasta ustedes para cubrir temas desde la compra, venta hasta la tecnología en medios exteriores."
+	},
+	"programmaticU": {
+		"title": "Universidad de Programática en digital out-of-home",
+		"description": "Póngase en el rol de estudiante y unase a nuestra clase para aprender los conceptos básicos de la compra programática en DOOH"
+	},
+	"learnMore": "Aprende más",
+	"readMore": "Leer más",
+	"watchWebinar": "Ver el seminario web"
+}

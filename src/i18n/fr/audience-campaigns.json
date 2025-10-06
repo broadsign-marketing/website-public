@@ -1,0 +1,115 @@
+{
+	"seo": {
+		"title": "Audience campaigns et diffusion d'annonces",
+		"description": "Le serveur publicitaire de Broadsign vous offre des outils de ciblage sophistiqués pour aider vos équipes de vente à planifier et vendre des campagnes, à optimiser votre inventaire et à rejoindre votre public cible aux moments les plus opportuns."
+	},
+	"hero": {
+		"overtitle": "Audience campaigns",
+		"title": "Saisissez de nouvelles opportunités et générez des revenus supplémentaires",
+		"blurb": "Le serveur publicitaire de Broadsign vous offre des outils de ciblage sophistiqués pour aider vos équipes de vente à planifier et vendre des campagnes, à optimiser votre inventaire et à rejoindre votre public cible aux moments les plus opportuns.",
+		"videoTitle": "Découvrez comment les campagnes d'audience peuvent élever votre entreprise !",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"before_after": {
+		"title": "Le ciblage limité et la flexibilité dans les ventes directes sont révolus",
+		"before": {
+			"title": "Situation actuelle",
+			"list": [
+				"Vous manquez des capacités de ciblage pour diffuser des campagnes contextuelles",
+				"Vous comptez sur des ventes de dernière minute pour remplir l'inventaire invendu",
+				"Vous avez besoin d'efforts administratifs importants pour exécuter des campagnes"
+			]
+		},
+		"after": {
+			"title": "Avec le serveur publicitaire Broadsign",
+			"list": [
+				"Vous pouvez créer des campagnes en utilisant des déclencheurs d'audience et contextuels tels que l'âge, l'emplacement et la météo",
+				"Vous pouvez vendre des campagnes de dernière minute basées sur les impressions, diffusant l'annonce uniquement lorsqu'il y a de la disponibilité",
+				"Vous pouvez optimiser la charge de travail de votre équipe des opérations publicitaires, facilitant la réservation de campagnes de dernière minute"
+			]
+		}
+	},
+	"features": {
+		"overtitle": "Cas d'utilisation",
+		"title": "Débloquez de nouvelles opportunités avec les campagnes d'audience de Broadsign",
+		"feature_targeting": {
+			"overtitle": "Outils de ciblage sophistiqués",
+			"title": "Rejoignez le public au moment le plus pertinent",
+			"par": "Une marque mondiale de sport et de style de vie lance une nouvelle chaussure et souhaite utiliser l'affichage extérieur numérique pour rejoindre ses clients en déplacement. Les campagnes d'audience leur permettent de cibler leur public cible par tranche d'âge et de cibler les meilleurs environnements pour atteindre leurs clients, comme les salles de sport ou les centres commerciaux."
+		},
+		"feature_delivery": {
+			"overtitle": "Diffusion flexible des campagnes",
+			"title": "Dites adieu au contenu de remplissage et aux emplacements ignorés",
+			"par": "Un propriétaire de médias se rend compte que 30 % de son inventaire mensuel diffuse du contenu de remplissage, comme des extraits météo et des actualités. Il décide de vendre ces emplacements invendus via Audience Campaigns de Broadsign qui les attribuera à la campagne la plus lucrative. Cela lui permet de générer plus de revenus que s'il le vendait à prix réduit ou diffusait du contenu de remplissage.."
+		},
+		"feature_revenue": {
+			"overtitle": "Optimisation de l'inventaire et des revenus",
+			"title": "S'adapte aux budgets de toutes tailles",
+			"par": "Une petite entreprise souhaite faire de la publicité sur un écran près de son magasin avec un budget de 10 000 $ par an. La réservation de cette campagne via Audience Campaigns lui permet de diffuser sa publicité au cours des 12 prochains mois uniquement lorsqu'il y a de l'espace, créant ainsi plus de disponibilité pour les campagnes garanties à long terme."
+		}
+	},
+	"lattice": {
+		"title": "Avantages",
+		"boxes": [
+			{
+				"id": "money",
+				"title": "Monétisez les emplacements de remplissage, invendus ou ignorés",
+				"par": "Vendez des campagnes de dernière minute basées sur les impressions pour remplir l'inventaire invendu, afin de monétiser chaque emplacement."
+			},
+			{
+				"id": "report",
+				"title": "Exécutez et surveillez vos campagnes en temps réel",
+				"par": "Suivez les indicateur de performance (KPIs) pertinents comme les impressions, le budget dépensé et les annonces diffusées sur une plateforme de rapports complète."
+			},
+			{
+				"id": "people",
+				"title": "Élargissez votre clientèle",
+				"par": "Rendez les campagnes locales plus rentables grâce à une agilité accrue dans les délais d'activation et à une plus grande flexibilité dans la diffusion des campagnes."
+			},
+			{
+				"id": "trigger",
+				"title": "Vendez des campagnes de qualité supérieure déclenchées par des données",
+				"par": "Ciblez des environnements et des groupes démographiques, et tirez parti des déclencheurs basés sur les moments, comme la météo et les moments financiers."
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_audience_campaigns_1",
+				"q": "Audience Campaigns? De quoi s'agit-il exactement?",
+				"a": "Le module Audience Campaigns est accessible via la plateforme Broadsign et permet aux équipes de ventes directes des propriétaires de médias de vendre des campagnes non garanties basées sur les impressions en intégrant le ciblage du public et le ciblage démographique."
+			},
+			{
+				"id": "faq_audience_campaigns_2",
+				"q": "Dois-je utiliser les capacités de ciblage pour chaque campagne?",
+				"a": "Il n'est pas nécessaire d'inclure des capacités de ciblage dans chaque campagne. Vous pouvez les adapter en fonction des besoins de l'acheteur! Par exemple, certains de nos clients ont commencé par se concentrer sur le remplissage d'emplacements auparavant vides avec des campagnes de moindre budget."
+			},
+			{
+				"id": "faq_audience_campaigns_3",
+				"q": "Quel est un exemple de déclencheur contextuel?",
+				"a": "La météo et les moments financiers sont deux déclencheurs contextuels offerts dans Audience Campaigns. Par exemple, vous pourriez déclencher une publicité lorsque la température dépasse 20 °C pour toucher les consommateurs susceptibles d'acheter une crème glacée ou un café glacé, ou déclencher une publicité lorsque le prix des bitcoins augmente."
+			},
+			{
+				"id": "faq_audience_campaigns_4",
+				"q": "En quoi cela diffère-t-il des campagnes pré-activables?",
+				"a": "Ces campagnes ont un objectif d'impressions, ce qui signifie que le rythme sera ajusté en fonction du nombre d'impressions et que la campagne s'arrêtera automatiquement lorsque l'objectif sera atteint."
+			}
+		]
+	},
+	"featuredPost": {
+		"tagline": "En savoir plus sur les campagnes d'audience",
+		"title": "Saisissez de nouvelles occasions et générez des revenus supplémentaires grâce à Audience Campaigns de Broadsign",
+		"cta": "En savoir plus"
+	},
+	"shin": {
+		"title": "Optimisez votre inventaire pour monétiser vos espaces publicitaires invendus dès aujourd'hui !",
+		"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	}
+}

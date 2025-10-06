@@ -1,0 +1,57 @@
+{
+	"seo": {
+		"title": "What is programmatic digital out-of-home?",
+		"description": "",
+		"robots": "noindex, nofollow"
+	},
+	"Hero": {
+		"TitlePart1": "What Is ",
+		"TitlePart2": " Programmatic ",
+		"TitlePart3": "Digital _Out-of-Home?_",
+		"Tagline": "Around the world, digital out-of-home (DOOH) inventory has begun to be sold programmatically. As major players in the DOOH space make programmatic a top priority, this new sales model, with all its associated benefits, is becoming an industry standard. However, not all media buyers, agencies and DSPs understand how this model works or even what “programmatic digital out-of-home” means."
+	},
+	"DefiningDOOH": {
+		"Title": "Defining programmatic digital out-of-home",
+		"Column1": {
+			"Paragraph1": "Programmatic DOOH can be mystifying at first, but the underlying concept is pretty straightforward. Simply put, programmatic digital out-of-home is the automation of DOOH sales transactions with the use of computer programs.",
+			"Paragraph2": "This presents a big efficiency gain. With traditional DOOH sales, advertisers must contact a network owner directly to negotiate the details and terms of the campaign. Pricing, availability, audience targeting and other important variables need to be discussed in advance. Once a deal is made, the network owner must manually schedule the campaign on their network."
+		},
+		"Column2": {
+			"Paragraph3": "Programmatic's automation removes many of these steps. Instead of needing to negotiate every campaign with the network owner, a media buyer is able to simply access the network's inventory and book the screens they want, when they want, according to a defined price and established criteria. No need for back-and-forth calls or emails — just a less labour-intensive sales process for both the buyer and the seller.",
+			"Paragraph4": "Though programmatic may seem like a profound shift in the DOOH space, it's really more of an import of a common online ad sales model. According to eMarketer, “82.5% of all US digital display ads will be bought via automated channels in 2018,” with market momentum continuing to carry programmatic to greater heights over time. The shift to programmatic in the DOOH space is really just a milestone in a much larger change sweeping over the digital marketing world."
+		}
+	},
+	"DOOHInventory": {
+		"Title": "How DOOH inventory is sold programmatically",
+		"Paragraph1": "Programmatic sales of DOOH inventory are conducted in a couple of different ways.",
+		"Paragraph2": "The first is RTB. A real-time bidding process can be completed on both open exchanges, meaning forums for ad purchasing that are open to all, and private exchanges, which are invitation-only marketplaces. Both sorts of forums have their advantages. Open exchanges are likely to have a larger pool of potential media buyers; private exchanges make it easier to control for quality.",
+		"Paragraph3": "An interesting alternative to this process is known as “programmatic direct.” In this model, inventory is sold directly, without a bidding process, to buyers who are permitted to access a programmatic network. These buyers can guarantee themselves a desired screen count, impression count, or some other relevant metric, setting the parameters of how and when they would like their media to appear and allowing the system to automate delivery. This offers a greater level of control, thus making programmatic direct a more valuable prospect generally. Consequently, the cost per thousand views (CPM) of programmatic direct tends to be higher than that of RTB."
+	},
+	"AdvantageDOOH": {
+		"Column1": {
+			"Quote": "“We have been eyeing programmatic digital out-of-home for a while now, and we are so pleased that we finally added this channel to our media campaign. The targeting options available enabled us to reach our intended audience, and the data integrations allowed us to add valuable context to our messaging.”",
+			"Signature": "Mufadal Jiwaji",
+			"JobTitle": "Programmatic Lead at Foodora"
+		},
+		"Column2": {
+			"Title": "The data-driven advantage of programmatic DOOH",
+			"Paragraphs": "[The fact that programmatic DOOH is automated makes it powerful well beyond its potential for time savings. By using external data feeds, it's possible to have programmatic sales trigger in response to conditions out in the world or to deliver content relevant to a particular place. This helps to improve targeting and make campaigns highly relevant to the observing audience.] [For example, the foodora food delivery company recently ran a campaign to promote its pickup option, relying on a number of external data signals to ensure its message remained highly relevant.] [The foodora campaign used weather data as one trigger, with sunny weather triggering creative that encouraged audiences to pick up food at a nearby restaurant. When it rained, they were prompted to order delivery instead. Additionally, the campaign would make suggestions for different partner restaurants depending on the geographic location of the screen displaying the campaign. The campaign was a hit, and a great example of how effectively targeted data-driven programmatic DOOH can be.] [The variety of triggers that can be used in programmatic DOOH is virtually limitless. Time of day, stock trends, the outcomes of sports matches, facial recognition and just about anything else that produces data could trigger a DOOH campaign. For brands and media buyers, this means programmatic can be the key to much more creative and targeted DOOH campaigns than were ever possible before.]"
+		}
+	},
+	"bestDeal": {
+		"Title": "Programmatic DOOH is the best deal in town—for everyone",
+		"Column1": {
+			"Paragraph1": "Though programmatic DOOH shares an overall premise with online programmatic advertising, there is one crucial distinction. Where each ad delivered programmatically online results in a single targeted impression, DOOH works a little differently. A screen is, after all, a one-to-many medium of communication, meaning many people are likely looking at it at any given moment. For this reason, it's likely that at least some of the impressions an ad gets will correspond to demographics other than the one the advertiser wishes to target. Correspondingly, the cost per thousand impressions (CPM) for DOOH tends to be relatively low.",
+			"Paragraph2": "The potential for a good programmatic campaign to have better targeting can change this to the benefit of all. Relying on the precise data triggering capabilities with programmatic, it's possible to achieve a far greater proportion of meaningful impressions relative to the total number of impressions.",
+			"Paragraph3": "Imagine a luxury car brand wishes to reach 20 business people with an ad displayed on a screen at a subway station. This screen is seen by 100 people over the course of a day. Under a standard direct sales model, the car brand needs to buy all 100 views to be able to hit their target. With programmatic, though, it becomes easier to play their ad at times when business people are likely to take the subway. They could make it so that their ad only plays just after happy hour, for instance, and only on days when the stock market is up. With this targeting, it's possible to reach the 20 business people by buying just 50 total views."
+		},
+		"Column2": {
+			"Paragraph4": "As a result of this, the screen's owner can justifiably charge a slightly increased fee for a smaller number of impressions, as it's easier for the car brand to reach its intended audience. The car brand, however, can still pay less overall compared to what it used to spend, as there is less money spent on irrelevant views. Finally, because the car brand needs fewer total impressions for its campaign, the screen owner can sell the remaining inventory somewhere else. During the day, for instance, it might sell space to a smartphone brand looking to connect with students.",
+			"Paragraph5": "Well-executed, the adoption of programmatic DOOH can mean greater sales efficiency, greater campaign relevance, and a better deal for all. As more networks begin to offer programmatic sales around the world, expect to see ever more creative, relevant, and exciting campaigns on digital screens near you."
+		}
+	},
+	"form": {
+		"title": "Thinking of adding Digital Out-of-Home to your next media buy?",
+		"tagline": "Download the ebook to discover the benefits of programmatic DOOH"
+	}
+}

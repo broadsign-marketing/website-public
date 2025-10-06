@@ -1,0 +1,45 @@
+@import "../base/dependencies";
+
+.DOOHMoreBanner {
+	background-image: url("../../img/pages/dooh-more/hero_bg.svg");
+	background-position: center;
+	background-size: cover;
+
+	.FundedBillboards {
+		margin-bottom: 10vw;
+
+	}
+}
+
+@media (min-width:$sm) {
+	.DOOHMoreBanner {
+		.FundedBillboards {
+			margin-bottom: 0;
+		}
+	}
+}
+
+@media (min-width:$md) {
+	.DOOHMoreBanner {
+		.FundedBillboards {
+			&:after {
+				background: $reflex;
+				content: "";
+				height: 15px;
+				left: 50%;
+				position: absolute;
+				top: 99%;
+				transform: translateX(-50%);
+				width: 10%;
+			}
+		}
+	}
+}
+
+@media (min-width:1180px) {
+	.DOOHMoreBanner {
+		.FundedBillboards {
+			transform: scale(0.9) translate(-6%, -8%);
+		}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"seo": {
+		"title": "Affichage numérique à l'extérieur",
+		"description": "Maximisez la valeur de votre réseau d'affichage extérieur avec une diffusion d'annonces ciblée qui met les bons messages devant le bon public chaque jour."
+	},
+	"cta": {
+		"discoverCampaignPlanning": "Donnez de nouveaux outils à vos équipes de vente grâce à Broadsign Direct",
+		"discoverGlobalProgrammaticSSP": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Hero": {
+		"TitlePart1": "Propulsez la rentabilité",
+		"TitlePart3": "de votre réseau",
+		"TitlePart2": "d'Affichage Extérieur",
+		"Blurb": "Maximisez la valeur de votre réseau d'affichage extérieur grâce à des publicités ciblées qui, chaque jour, présentent le bon message au bon public.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Un réseau rapide et flexible",
+			"Paragraph": "Adaptez votre réseau selon vos besoins : téléversez de nouvelles créations, effectuez des mises à jour ou modifiez le contenu existant, le tout en quelques secondes seulement."
+		},
+		"Pane2": {
+			"Title": "Du contenu dynamique et axé sur les données",
+			"Paragraph": "Retenez l'attention de votre public en lui proposant du contenu dynamique qui s'appuie sur des données externes. Des résultats sportifs aux prévisions météo en passant par les plus récentes fluctuations des marchés boursiers, les sujets ne manquent pas pour lancer une campagne des plus pertinentes."
+		},
+		"Pane3": {
+			"Title": "Des ventes intelligentes et rapides",
+			"Paragraph": "Répondez rapidement aux demandes des annonceurs, mettez sur pied des campagnes complexes et multicanaux, et proposez un éventail de forfaits qui faciliteront le processus de ventes pour vous comme pour vos clients."
+		},
+		"Pane4": {
+			"Title": "Ouvrez-vous à de nouvelles possibilités!",
+			"Paragraph": "Rejoignez un public bien ciblé en diffusant du contenu à des heures données ou en présence de conditions précises."
+		}
+	},
+	"SpielPosterOutdoor": {
+		"title": "Une réussite à toute échelle",
+		"text": "Ne vous limitez pas à une solution d'affichage numérique qui, bien qu'elle fonctionne dans l'immédiat, ne pourra pas évoluer pour répondre à vos besoins futurs. Choisissez la plateforme qui fonctionne quel que soit le nombre d'écrans. Vous aurez ainsi la clé du succès, aujourd'hui et demain."
+	},
+	"quotes": [
+		{
+			"quote": "Broadsign offre la boîte à outils suprême pour tout ce qui touche à l'affichage numérique extérieur. Nous avons confiance que nous pouvons combler tous les besoins de nos clients.",
+			"sign": "oOh!media"
+		},
+		{
+			"quote": "Nous sommes une entreprise vouée au numérique, et Broadsign nous fournit un système idéal qui s'adapte à chacune des requêtes dynamiques ou de planification que nos clients nous envoient. Je n'ai pas encore rencontré une situation à laquelle leur plateforme n'a pas pu s'accomoder.",
+			"sign": "QMS"
+		}
+	],
+	"Customers": {
+		"Title": "Le partenaire de confiance des réseaux extérieurs, petit et grands "
+	},
+	"Partners": {
+		"Title": "Collaborez avec nos partenaires pour offrir du contenu formidable",
+		"Tagline": "Créez votre propre contenu, travaillez avec des collaborateurs locaux ou améliorez vos écrans en vous alliant à nos partenaires dans les domaines du contenu d'affichage numérique et de l'analyse du public."
+	},
+	"Shin": {
+		"Title": "Comment votre réseau de transport peut-il tirer parti de la plateforme Broadsign?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

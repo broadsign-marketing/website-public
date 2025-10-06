@@ -1,0 +1,76 @@
+@import "../base/dependencies";
+
+.faq_collapse {
+	border-bottom: 1px solid transparent;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+
+	&.borders_reflex {
+		border-bottom-color: $soft;
+	}
+
+	&.borders_soft {
+		border-bottom-color: $soft;
+	}
+
+	.chevron {
+		object-fit: contain;
+		position: absolute;
+		right: 8px;
+		top: 50%;
+		transform: translateY(-50%);
+		transition: transform 0.3s ease;
+		width: 12px;
+	}
+
+	&.active {
+
+		.chevron {
+			transform: translateY(-50%) rotate(-180deg);
+		}
+
+		.a {
+			margin: 20px 0 0;
+			max-height: 1500px;
+		}
+	}
+
+	.q {
+		@include fontBold;
+		cursor: pointer;
+		margin: 0;
+		padding-right: 48px;
+		position: relative;
+		user-select: none;
+	}
+
+	.a {
+		color: $ash;
+		margin: 0;
+		max-height: 0px;
+		overflow: hidden;
+		transition: max-height 0.3s ease-in-out, margin 0.3s ease-in-out;
+	}
+
+	ul {
+		font-size: 16px;
+		list-style-type: disc;
+		margin-left: 1.2em;
+	}
+
+	li {
+		color: $ash;
+		font-size: 16px;
+		line-height: 140%;
+		margin-bottom: 8px;
+	}
+}
+
+@media (min-width:$sm) {
+	.faq_collapse {
+		.unfold {
+			top: 50%;
+			transform: translateY(-50%);
+		}
+	}
+}

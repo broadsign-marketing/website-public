@@ -1,0 +1,49 @@
+@use "sass:math";
+
+// @import "primereact/resources/themes/lara-light-indigo/theme.css";
+// @import "primereact/resources/primereact.min.css";
+// @import "primeicons/primeicons.css";
+
+/* PRIME */
+@import "prime/variables";
+@import "prime/mixins";
+@import "prime/grid";
+@import "prime/display";
+@import "prime/typography";
+@import "prime/flexbox";
+@import "prime/spacing";
+@import "prime/elevation";
+@import "prime/border";
+@import "prime/borderradius";
+@import "prime/size";
+@import "prime/position";
+@import "prime/overflow";
+@import "prime/zindex";
+@import "prime/userselect";
+@import "prime/misc";
+@import "prime/utils";
+// @import "prime/animation";
+// @import "prime/colors";
+// @import "prime/formlayout";
+// @import "prime/image";
+// @import "prime/liststyle";
+// @import "prime/transform";
+// @import "prime/transition";
+
+@import "base/dependencies";
+@import "base/prime_complement";
+@import "base/normalize";
+@import "base/variables";
+@import "base/helpers";
+@import "base/typography";
+@import "base/links";
+@import "base/media";
+@import "base/grid";
+@import "base/vwo";
+
+@import "base/print";
+
+/* ADDONS FOR THE LAYOUT COMPONENT */
+
+@import "components/Layout";
+@import "components/CookieConsent";

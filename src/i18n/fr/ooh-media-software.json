@@ -1,0 +1,85 @@
+{
+	"seo": {
+		"title": "Solutions OOH",
+		"description": "Prêt à faire passer votre entreprise OOH au niveau supérieur? Prenez la bonne voie avec des solutions spécialisées qui vous aident à vendre plus, à travailler plus intelligemment et à consacrer moins de temps et d'argent à la gestion quotidienne de vos actifs."
+	},
+	"Hero": {
+		"title1": "Pour",
+		"title2": "une meilleure",
+		"title3": "approche OOH",
+		"description1": "Prêt à faire passer votre entreprise OOH au niveau supérieur?",
+		"description2": "Prenez la bonne voie avec des solutions spécialisées qui vous aident à vendre plus, à travailler plus intelligemment et à consacrer moins de temps et d'argent à la gestion quotidienne de vos actifs."
+	},
+	"sellMore": {
+		"title": "Vendez plus, plus vite",
+		"description1": "Vous voulez raccourcir votre cycle de vente, conclure plus d'offres et libérer la pleine valeur de votre réseau?",
+		"description2": "Nos plateformes de vente vous aident à passer moins de temps à rechercher des informations et plus de temps à vendre.",
+		"ctaTraditional": "Ventes traditionnelles",
+		"ctaDigital": "Ventes numériques"
+	},
+	"sellProgrammatically": {
+		"title": "+ Vendez par programmatique",
+		"description": "Débloquez de nouvelles demandes et de nouveaux revenus en vendant par programmatique aux acheteurs de médias numériques du monde entier.",
+		"ctaReach": "Ventes programmatiques"
+	},
+	"manageAllTheThings": {
+		"title1": "Gérez votre",
+		"title2": {
+			"billboards": " panneau",
+			"posters": " affiche",
+			"screens": " écran",
+			"faces": " visuel",
+			"wraps": " véhicule",
+			"maintenance": " maintenance",
+			"operations": " opération",
+			"growth": " croissance"
+		},
+		"title3": " plus efficacement",
+		"description": "Faites-en plus avec moins d'efforts grâce à nos plateformes de gestion des publicités hors domicile traditionnelles et numériques."
+	},
+	"modernizeOOHBusiness": {
+		"title": "Modernisez votre entreprise OOH traditionnelle",
+		"description": "Avec une solution unifiée pour aligner votre réseau",
+		"cta": "Broadsign Ayuda"
+	},
+	"unlockDOOHNetwork": {
+		"title": "Libérez tout le potentiel de votre réseau DOOH",
+		"description": "Avec une solution intelligente et automatisée pour DOOH",
+		"cta": "Broadsign Control"
+	},
+	"rightPlatform": {
+		"title": {
+			"title1": "La plateforme",
+			"title2": " adaptée",
+			"title3": " à vos besoins",
+			"description1": "Vous ne savez pas ce que vous cherchez?",
+			"description2": "Voici comment nos solutions concordent."
+		},
+		"broadsign": {
+			"product": "Broadsign Control",
+			"title1": "Entreprises OOH",
+			"title2": " axées sur le numérique",
+			"description": "Maximisez vos revenus et votre efficacité avec notre plateforme d'affichage dynamique automatisée.",
+			"features": {
+				"feature1": "- Automatisez la planification et la distribution de contenu.",
+				"feature2": "- Vendez plus intelligemment avec un outil de vente qui synchronise l'inventaire publicitaire avec vos opérations réseau en temps réel.",
+				"feature3": "- Développez une nouvelle source de revenus pour votre entreprise avec des ventes programmatiques.",
+				"feature4": "- Donnez aux équipes locales les moyens de partager rapidement de superbes messages personnalisés."
+			},
+			"learnMore": "Apprenez-en plus sur la"
+		},
+		"ayuda": {
+			"product": "Broadsign Ayuda",
+			"title1": "Entreprises OOH traditionnelles,",
+			"title2": " de transit et mixtes",
+			"description": "Modernisez votre entreprise avec notre solution d'affaires OOH centralisée.",
+			"features": {
+				"feature1": "- Stockez et gérez toutes les données des actifs.",
+				"feature2": "- Configurer des cartes de tarifs pour vos réservations média.",
+				"feature3": "- Vendez plus avec un outil de vente automatisé.",
+				"feature4": "- Rationalisez les opérations OOH avec des bons de travail synchronisés."
+			},
+			"learnMore": "Apprenez-en plus sur la"
+		}
+	}
+}

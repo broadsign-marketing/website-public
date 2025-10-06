@@ -1,0 +1,115 @@
+{
+	"seo": {
+		"title": "Broadsign - 助力户外的平台",
+		"description": "一个面向媒体所有者和买家的端对端软件解决方案，帮助整体规划、管理并发送户外媒体。"
+	},
+	"hero": {
+		"title": ["赋能", "户外", "广告"],
+		"par": "端到端解决方案，让媒体主和买家一站式完成户外媒体的计划，管理以及交付。",
+		"ctaContact": "联系我们",
+		"ctaPlans": "查看报价"
+	},
+	"branches": {
+		"overtitle": "点亮世界",
+		"title": "户外广告一站式解决方案",
+		"mediaOwners": {
+			"overtitle": "媒体主",
+			"title": "销售实时库存，管理您的户外媒体网络，提升盈利能力",
+			"cta": "了解更多"
+		},
+		"brandsAgencies": {
+			"overtitle": "代理商 & 品牌",
+			"title": "创建并执行场景化和精准定向的程序化户外广告活动",
+			"cta": "了解更多"
+		}
+	},
+	"clients": {
+		"title": "连接户外广告买卖双方"
+	},
+	"inventoryRotate": {
+		"title": "精心选择的媒体包保证交付更快速，更精准的广告活动",
+		"blurb": "完全按照定制化广告需求，对接精选目标受众，场景以及地理位置的各种媒体包",
+		"cta": "查看可用库存",
+		"list": [
+			[
+				{ "id": "retail", "type": "vertical", "label": "零售" },
+				{ "id": "vancouver", "type": "city", "label": "温哥华" },
+				{ "id": "finances", "type": "vertical", "label": "金融服务" }
+			],
+			[
+				{ "id": "new_york_city", "type": "city", "label": "纽约" },
+				{ "id": "beauty_wellness", "type": "vertical", "label": "美容与健康" },
+				{ "id": "los_angeles", "type": "city", "label": "洛杉矶" }
+			]
+		]
+	},
+	"map": {
+		"overtitle": "全球范围最受信任的户外广告技术平台",
+		"title": "全球触达",
+
+		"stats": ["+200万标识", "+107个国家和地区", "+480亿每月广告交付", "+1900亿每月曝光"]
+	},
+	"panelMediaKit": {
+		"title": "查看我们的全球库存",
+		"cta": "下载最新媒体包",
+		"thankYou": {
+			"title": "谢谢！",
+			"par": "媒体资料包没有在新窗口中打开？",
+			"cta": "点击这里"
+		}
+	},
+	"quotesTitle": "口说无凭，看看客户怎么说",
+	"quotes": [
+		{
+			"id": "imedia",
+			"text": "“过去我们使用表格来管理库存，需要手动来回修改广告排期来保证屏幕库存使用率。使用播尚Broadsign之后，一切都能自动化完成。我们要做的只是给屏幕和广告活动设置好参数，点击几下鼠标。”",
+			"name": "Martyn Perrie",
+			"title": "数字交付负责人",
+			"company": "i-Media"
+		},
+		{
+			"id": "epa_media",
+			"text": "“我们选择播尚Broadsign的原因是因为他们总是引领行业的发展，不断有新的技术加入平台。他们有很多我们需要的功能，比如内容分离，独占品类，实时库存报告，各类报表及精准定向等等。”",
+			"name": "Stefanie Zeiler",
+			"title": "数字媒体&创意",
+			"company": "EPAMEDIA"
+		},
+		{
+			"id": "hp",
+			"text": "“程序化数字户外广告和我们的市场策略完美契合，它让我们在战略性的零售场景封闭环境下精准触达我们的核心用户。”",
+			"name": "Fabiana Varriale",
+			"title": "EMEA程序化经理",
+			"company": "HP"
+		},
+		{
+			"id": "precis",
+			"text": "“播尚Broadsign在广告活动期间总是能提供宝贵的建议和及时的支持。这些让人印象深刻的服务让我们的网络搭建非常成功，未来我们会毫不犹豫继续使用他们的服务。”",
+			"name": "Sebastian Larsson",
+			"title": "程序化专家",
+			"company": "Precis Digital"
+		},
+		{
+			"id": "corus",
+			"text": "“播尚Broadsign作用巨大，它让我们能使用同样的信息触达物理世界受众，大大提高了OLV和TV广告的影响力。精准定向的广告能鼓励受众采取行动，播尚Broadsign平台让广告交付变得简单。”",
+			"name": "Marita Olcese",
+			"title": "媒体计划经理",
+			"company": "Corus Entertainment Inc."
+		},
+		{
+			"id": "iris",
+			"text": "“掌控程序化户外广告的力量，让我们的视频广告触达物理世界受众，播尚Broadsign功不可没。平台拥有的计划和交付独特的场景式广告功能，让我们能无缝连接数字和物理渠道，将品牌信息传达给目标受众。”",
+			"name": "Keri thomas",
+			"title": "媒体效果总监",
+			"company": "Iris Worldwide"
+		}
+	],
+	"shin": {
+		"title": "看看我们能为户外广告做什么",
+		"par": " 联系我们，播尚Broadsign团队会第一时间回电。我们乐意与您探讨任何有关话题",
+		"cta": "联系我们"
+	},
+	"getInTouch": "联系我们",
+	"campaignsLaunchedWithBroadsign": "与 broadsign 合作发起的活动",
+	"learnMore": "了解更多",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf"
+}

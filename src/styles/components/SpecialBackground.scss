@@ -1,0 +1,19 @@
+@import "../base/dependencies";
+
+#special-bg-portal {
+	display: none;
+	height: 100vh;
+	left: 0;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100vw;
+	z-index: 0;
+}
+
+
+@media (min-width: 1600px) {
+	#special-bg-portal {
+		display: block;
+	}
+}

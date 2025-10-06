@@ -1,0 +1,20 @@
+@import "../base/dependencies";
+
+.InventoryBuildCustomPackage {
+	margin-top: 200px;
+
+	.img {
+		margin-top: -160px;
+	}
+}
+
+@media (min-width:$sm) {
+	.InventoryBuildCustomPackage {
+		margin-top: 90px;
+
+		.img {
+			margin-top: -90px;
+		}
+	}
+
+}

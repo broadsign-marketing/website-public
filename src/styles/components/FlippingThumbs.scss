@@ -1,0 +1,84 @@
+@import "../base/dependencies";
+
+@keyframes thumbEnter {
+	0% {
+		opacity: 0;
+		transform: translate3d(-80px, -20px, 20px) rotate3d(1, -1, 0, 20deg);
+	}
+
+	25% {
+		transform: translate3d(-60px, -30px, 40px) rotate3d(1, -1, 0, 15deg);
+	}
+
+	50% {
+		opacity: 0.5;
+		transform: translate3d(-40px, -40px, 30px) rotate3d(1, -1, 0, 10deg);
+	}
+
+	75% {
+		opacity: 1;
+		transform: translate3d(-20px, -30px, 20px) rotate3d(1, -1, 0, 5deg);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translate3d(0px, 0px, 2px) rotate3d(1, -1, 0, 0deg);
+	}
+}
+
+@keyframes thumbLeave {
+	0% {
+		opacity: 1;
+		transform: translate3d(0px, 0px, 0px) rotate3d(-1, -2, 0, 0deg);
+	}
+
+	25% {
+		opacity: 1;
+		transform: translate3d(100px, 30px, -40px) rotate3d(-1, -2, 0, -5deg);
+	}
+
+	50% {
+		opacity: 0.5;
+		transform: translate3d(200px, 40px, -80px) rotate3d(-1, -2, 0, -10deg);
+	}
+
+	75% {
+		transform: translate3d(300px, 30px, -120px) rotate3d(-1, -2, 0, -15deg);
+	}
+
+	100% {
+		opacity: 0;
+		transform: translate3d(400px, 20px, -160px) rotate3d(-1, -2, 0, -20deg);
+	}
+}
+
+.FlippingThumbs {
+	min-height: min(220px, 36vw);
+	transform-style: preserve-3d;
+	perspective: 600px;
+
+	.thumb {
+		border-radius: 8px;
+		box-shadow: 4px 4px 8px rgba(#000, 0.4);
+		left: auto;
+		max-width: 70vw;
+		opacity: 1;
+		pointer-events: none;
+		position: absolute;
+		top: 0;
+		transition: right 0.6s ease, top 0.6s ease;
+		user-select: none;
+		width: 400px;
+		z-index: 1;
+
+		&.entering {
+			animation: 1s linear 0s 1 normal forwards running thumbLeave;
+			opacity: 0;
+		}
+
+		&.leaving {
+			animation: 1s linear 0s 1 normal none running thumbEnter;
+			opacity: 1;
+		}
+	}
+}

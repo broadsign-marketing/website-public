@@ -1,0 +1,23 @@
+@import "../base/dependencies";
+
+.EventsHost {
+	.portrait {
+		flex: 0 0 100%;
+	}
+
+	.name {
+		flex: 0 0 100%;
+	}
+}
+
+@media(min-width:$sm) {
+	.EventsHost {
+		.portrait {
+			flex: 1 1 auto;
+		}
+
+		.name {
+			flex: 1 1 100%;
+		}
+	}
+}

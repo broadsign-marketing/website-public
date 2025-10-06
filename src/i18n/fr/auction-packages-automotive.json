@@ -1,0 +1,99 @@
+{
+	"seo": {
+		"title": "Automobile",
+		"description": "Rehaussez la notoriété de votre marque, la fidélité et la considération envers celle-ci en diffusant des publicités sur affichage extérieur numérique qui captent l'attention des propriétaires de voitures, actuels et potentiels."
+	},
+	"apSlug": "automotive",
+	"apLink": "351",
+	"apToken": "TK9ze0JbV6nP4TQIpCsXgkhv6JcYa2W4nkTwGUsXSHOzRYmIV7TUiLqM4pe0",
+	"playbookLink": "zfhb",
+
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Automobile",
+		"blurb": "Rehaussez la notoriété de votre marque, la fidélité et la considération envers celle-ci en diffusant des publicités sur affichage extérieur numérique qui captent l'attention des propriétaires de voitures, actuels et potentiels.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Découvrez notre pack Automobile",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Amateurs de voitures"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Centres commerciaux", "stations-service", "concessionnaires", "ateliers d'entretien et de réparation"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Heures de pointe"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "Public cible : tous les affichages qui visent le public ciblé",
+				"placeBased": "En fonction du lieu : concessionnaires, métro et transports en commun",
+				"outdoor": "À l'extérieur : panneaux-réclames, panneaux urbains et abribus à proximité de concessionnaires et d'immeubles de bureaux."
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "",
+				"content": "Misez sur des publicités judicieuses axées sur les prix de l'essence et du pétrole brut ou sur les conditions météorologiques pour promouvoir des produits ou des services saisonniers."
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Automobile »",
+		"list": [
+			{
+				"category": "Amateurs de voitures",
+				"description": "Les adeptes de voitures sont habituellement âgés de 24 à 44 ans, et disposent d'un revenu familial supérieur à 25 000 $. Le plus souvent, ils possèdent déjà une voiture, qu'ils pourraient vouloir échanger ou améliorer. Ce segment de public suit l'actualité et s'intéresse aux derniers lancements de voitures ou aux innovations concernant la marque de leur véhicule ou de celui à venir."
+			},
+			{
+				"category": "Acheteurs de voitures",
+				"description": "Les acheteurs de voitures sont des professionnels âgés de 25 à 44 ans, majoritairement des hommes. Leur revenu familial se situe soit sous la barre des 25 000 $, ou entre 75 000 $ et 100 000 $."
+			},
+			{
+				"category": "Propriétaires de bateaux",
+				"description": "Les propriétaires de bateaux sont autant des hommes que des femmes, qui se répartissent dans les tranches d'âge de 25 à 34, 35 à 44, 45 à 54 ans, et de 55 ans et plus."
+			},
+			{
+				"category": "Bricoleurs de voitures",
+				"description": "Les bricoleurs passionnés de voitures réparent, entretiennent et améliorent leurs véhicules. Ils se répartissent également entre les genres et sont âgés pour la plupart de 35 à 44 ans."
+			},
+			{
+				"category": "Propriétaires de véhicules",
+				"description": "Les propriétaires de voitures se répartissent entre les genres, et 50 % d'entre eux sont dans les tranches d'âges de 25 à 34 et de 35 à 44 ans. Ce public utilise souvent des applications propres à la marque et au modèle de leur véhicule du moment."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Diffusez des publicités qui rehausseront l'engouement pour les voitures et les ventes.",
+		"list": [
+			"Captez l'attention des acheteurs potentiels en diffusant des publicités dans des endroits stratégiques du parcours d'achat.",
+			"Sensibilisez vos publics lorsqu'ils sont sur la route, en ciblant les navetteurs dans des zones de circulation intense.",
+			"Ciblez le segment idéal en adaptant vos messages en fonction de facteurs comme l'âge, le revenu ou les habitudes d'achat."
+		]
+	},
+	"playbook": {
+		"title": "Dirigez votre public directement vers un concessionnaire grâce à l'affichage extérieur numérique.",
+		"par": "Consultez notre guide automobile pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et leurs ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Découvrez notre pack Automobile" }
+}

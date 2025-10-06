@@ -1,0 +1,82 @@
+@import "../base/dependencies";
+
+.CTA {
+	@include cta;
+
+	&.primary {
+		background-color: $reflex;
+		border: 1px solid $reflex;
+		color: #FFF;
+
+		&:hover {
+			background-color: $cerulean;
+			border-color: $cerulean;
+			color: #FFF;
+		}
+	}
+
+	&.primary_alt {
+		background-color: $reflex;
+		border: 1px solid $reflex;
+		color: #FFF;
+
+		&:hover {
+			background-color: #FFF;
+			color: $reflex;
+		}
+	}
+}
+
+.has_CTA {
+	.CTA {
+		&.primary {
+			background-color: $reflex;
+			border: 1px solid $reflex;
+			color: #FFF;
+		}
+
+		&.primary-outline {
+			background-color: #FFF;
+			border: 1px solid $reflex;
+			color: $reflex;
+		}
+
+		&.secondary {
+			background-color: $cerulean;
+			border: 1px solid $cerulean;
+			color: #FFF;
+		}
+
+		&.secondary-outline {
+			background-color: #FFF;
+			border: 1px solid $cerulean;
+			color: $cerulean;
+		}
+	}
+
+	&:hover {
+		.CTA {
+			&.primary {
+				background-color: $cerulean;
+				border-color: $cerulean;
+				color: #FFF;
+			}
+
+			&.primary-outline {
+				background-color: $cerulean;
+				border-color: $cerulean;
+				color: #FFF;
+			}
+
+			&.secondary {
+				background-color: #FFF;
+				color: $cerulean;
+			}
+
+			&.secondary-outline {
+				background-color: $cerulean;
+				color: #FFF;
+			}
+		}
+	}
+}

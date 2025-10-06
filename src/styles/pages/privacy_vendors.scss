@@ -1,0 +1,50 @@
+@import "../base/dependencies";
+
+#privacy_vendors {
+	margin-bottom: 120px;
+	margin-top: 40px;
+
+	.search_box {
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		color: $ash;
+		font-size: 14px;
+		padding: 0.8em 1.2em;
+
+		&:active,
+		&:focus {
+			outline: 1px solid $reflex;
+		}
+	}
+
+	.service_providers {
+	}
+
+	.cookie_vendors {
+	}
+
+	.cookie_vendors_list {
+	}
+
+	.vendors {
+	}
+
+	.domain {
+	}
+
+	.cookie {
+	}
+
+	.domain_name {
+	}
+
+	.cookie_name {
+	}
+
+	.cookie_description {
+		font-size: 14px;
+	}
+
+	.cookie_thirdparty {
+	}
+}

@@ -1,0 +1,115 @@
+{
+	"seo": {
+		"title": "Zielgruppenbasierte Kampagnen",
+		"description": "Broadsigns Ad Server bietet Ihnen anspruchsvolle Targeting-Tools, um Ihren Vertriebsteams bei der Planung und dem Verkauf von Kampagnen zu helfen, Ihr Inventar zu optimieren und Zielgruppen zu den überzeugendsten Momenten zu erreichen."
+	},
+	"hero": {
+		"overtitle": "Zielgruppenbasierte Kampagnen",
+		"title": "Erschließen Sie neue Chancen und zusätzliche Einnahmen",
+		"blurb": "Broadsigns Ad Server bietet Ihnen anspruchsvolle Targeting-Tools, um Ihren Vertriebsteams bei der Planung und dem Verkauf von Kampagnen zu helfen, Ihr Inventar zu optimieren und Zielgruppen zu den überzeugendsten Momenten zu erreichen.",
+		"videoTitle": "Erfahren Sie, wie Audience Campaigns Ihr Geschäft auf ein neues Niveau heben können!",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"before_after": {
+		"title": "Begrenztes Targeting und Flexibilität im Direktverkauf gehören der Vergangenheit an",
+		"before": {
+			"title": "Ihr heutiges Leben",
+			"list": [
+				"Sie verfügen nicht über die Targeting-Fähigkeiten, um kontextbezogene Kampagnen zu liefern",
+				"Sie verlassen sich auf Last-Minute-Feuerwehrverkäufe, um unverkauftes Inventar zu füllen",
+				"Sie benötigen erheblichen administrativen Aufwand, um Kampagnen auszuführen"
+			]
+		},
+		"after": {
+			"title": "Mit dem Broadsign Ad Server",
+			"list": [
+				"Sie können Kampagnen mit Zielgruppen- und Kontextauslösern wie Alter, Standort und Wetter erstellen",
+				"Sie können Last-Minute-Impressionsbasierte Kampagnen verkaufen und die Anzeige nur dann anzeigen, wenn Verfügbarkeit besteht",
+				"Sie können die Arbeitsbelastung Ihres Anzeigenbetriebsteams optimieren und die Buchung von Last-Minute-Kampagnen erleichtern"
+			]
+		}
+	},
+	"features": {
+		"overtitle": "Anwendungsfälle",
+		"title": "Erschließen Sie neue Chancen und zusätzliche Einnahmen",
+		"feature_targeting": {
+			"overtitle": "Sophistizierte Targeting-Tools",
+			"title": "Erreichen Sie Ihr Publikum zum richtigen Zeitpunkt",
+			"par": "Eine globale Sport- und Lifestyle-Marke bringt einen neuen Schuh auf den Markt und möchte DOOH nutzen, um ihre Kunden unterwegs zu erreichen. Audience Campaigns ermöglicht es ihnen, ihr beabsichtigtes Publikum bis zur Altersgruppe zu targetieren und die besten Umgebungen auszuwählen, um ihre Kunden zu erreichen, wie z.B. Fitnessstudios oder Einkaufszentren."
+		},
+		"feature_delivery": {
+			"overtitle": "Flexible Kampagnenauslieferung",
+			"title": "Verabschieden Sie sich von Füllmaterial & übersprungenen Slots",
+			"par": "Ein Medieninhaber stellt fest, dass 30 % seines monatlichen Inventars Füllmaterial wie Wetter- und Nachrichtenschnipsel enthält. Sie beschließen, diese unverkauften Slots über Audience Campaigns von Broadsign zu verkaufen, die den Slot an die am besten zahlende Kampagne vergeben. Dies ermöglicht es ihnen, mehr Einnahmen zu generieren, als wenn sie es zu einem tiefen Rabatt verkauft oder Füllmaterial ausgestrahlt hätten."
+		},
+		"feature_revenue": {
+			"overtitle": "Optimierung von Inventar und Einnahmen",
+			"title": "Berücksichtigen Sie Budgets jeder Größe",
+			"par": "Ein kleines Unternehmen möchte auf einem Bildschirm in der Nähe ihres Geschäfts werben und hat ein Budget von 10.000 $ pro Jahr. Die Buchung dieser Kampagne über Audience Campaigns ermöglicht es ihnen, ihre Anzeige in den nächsten 12 Monaten nur dann zu schalten, wenn Platz vorhanden ist, und schafft so mehr Verfügbarkeit für langfristig garantierte Kampagnen."
+		}
+	},
+	"lattice": {
+		"title": "Vorteile",
+		"boxes": [
+			{
+				"id": "money",
+				"title": "Monetarisieren Sie Füller, unverkaufte oder übersprungene Slots",
+				"par": "Verkaufen Sie last-minute kampagnenbasierte Eindrücke, um unverkauftes Inventar zu füllen und jeden Slot zu monetarisieren."
+			},
+			{
+				"id": "report",
+				"title": "Führen Sie Kampagnen in Echtzeit aus und überwachen Sie diese",
+				"par": "Verfolgen Sie relevante KPIs wie Eindrücke, ausgegebenes Budget und geschaltete Anzeigen über eine umfassende Reporting-Plattform."
+			},
+			{
+				"id": "people",
+				"title": "Erweitern Sie Ihre Kundenbasis",
+				"par": "Machen Sie lokale Kampagnen profitabler durch erhöhte Agilität bei den Aktivierungszeiten von Kampagnen und Flexibilität bei der Auslieferung von Kampagnen."
+			},
+			{
+				"id": "trigger",
+				"title": "Verkaufen Sie Premium-Daten-getriggerte Kampagnen",
+				"par": "Zielen Sie auf Umgebungen und Demografien ab und nutzen Sie momentenbasierte Auslöser wie Wetter- und Finanzmomente."
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_audience_campaigns_1",
+				"q": "Was sind Audience Campaigns?",
+				"a": "Das Audience Campaigns-Modul steht über die Broadsign-Plattform zur Verfügung und ermöglicht es den Direktverkaufsteams von Medienbesitzern, nicht garantierte kampagnenbasierte Eindrücke zu verkaufen, die eine Ausrichtung auf Zielgruppen und demografische Merkmale ermöglichen."
+			},
+			{
+				"id": "faq_audience_campaigns_2",
+				"q": "Muss ich für jede Kampagne Targeting-Funktionen verwenden?",
+				"a": "Es ist nicht notwendig, für jede Kampagne Targeting-Funktionen einzubeziehen - Sie können dies an die Bedürfnisse Ihres Käufers anpassen! Einige unserer Kunden haben beispielsweise damit begonnen, sich darauf zu konzentrieren, zuvor leere Plätze mit kleineren Budgetkampagnen zu füllen."
+			},
+			{
+				"id": "faq_audience_campaigns_3",
+				"q": "Was ist ein Beispiel für einen kontextuellen Trigger?",
+				"a": "Wetter- und Finanzmomente sind zwei kontextuelle Trigger, die in Audience Campaigns verfügbar sind. Zum Beispiel das Auslösen einer Anzeige, wenn die Temperatur über 20 °C steigt, um Verbraucher zu erreichen, die möglicherweise darüber nachdenken, ein Eis oder einen Eiskaffee zu kaufen, oder das Auslösen einer Anzeige, wenn der Preis von Bitcoin gestiegen ist."
+			},
+			{
+				"id": "faq_audience_campaigns_4",
+				"q": "Wie unterscheidet sich dies von präemptive Kampagnen?",
+				"a": "Diese Kampagnen haben ein Impulsziel, was bedeutet, dass das Tempo entsprechend der Lieferung von Impressionen angepasst wird und die Kampagne automatisch gestoppt wird, wenn das Ziel erreicht ist."
+			}
+		]
+	},
+	"featuredPost": {
+		"tagline": "Erfahren Sie mehr über Zielgruppenbasierte Kampagnen",
+		"title": "Erschließen Sie neue Chancen und zusätzliche Einnahmen mit zielgruppenorientierte Kampagnen von Broadsign",
+		"cta": "Erfahren Sie mehr"
+	},
+	"shin": {
+		"title": "Optimieren Sie Ihr Inventar, um Ihre unverkauften Anzeigenflächen noch heute zu monetarisieren!",
+		"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	}
+}

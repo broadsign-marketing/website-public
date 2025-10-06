@@ -1,0 +1,45 @@
+{
+	"seo": {
+		"title": "Rapport de l'État OOH statique",
+		"description": "Si vous êtes prêt à plonger en profondeur dans le monde de la publicité extérieure statique, téléchargez votre exemplaire du Rapport de l'État OOH statique.",
+		"robots": "index follow"
+	},
+	"ebookLink": "https://online.fliphtml5.com/abair/rqug/",
+	"hero": {
+		"overtitle": "Découvrez le futur de l'OOH statique",
+		"title": "Rapport de l'État OOH statique",
+		"data": ["64 pays", "126 répondants"]
+	},
+	"intro": {
+		"pars": [
+			"À l'ère de la croissance numérique, l'affichage statique représente encore 70 % de l'inventaire mondiale, ce qui en fait une partie importante mais sous-représentée de la conversation OOH. Broadsign a interrogé les propriétaires de médias du monde entier pour mieux comprendre leurs priorités statiques et leurs moteurs pour l'avenir. Notre rapport sur l'industrie mondiale regorge d'informations, de tendances et d'analyses approfondies qui plongent dans les défis collectifs et les opportunités émergentes de l'industrie.",
+			"Si vous êtes prêt à plonger en profondeur dans le monde de la publicité extérieure statique, téléchargez votre exemplaire du Rapport de l'État OOH statique."
+		],
+		"cta": "Télécharger le rapport"
+	},
+	"stats": [
+		{
+			"id": "real_time",
+			"number": "75%",
+			"desc": "des personnes interrogées citent la disponibilité des stocks en temps réel comme l'une des principales fonctionnalités qu'elles recherchent dans la gestion statique de l'affichage."
+		},
+		{
+			"id": "targeting",
+			"number": "59%",
+			"desc": "des personnes interrogées pensent que le ciblage basé sur les données jouera un rôle clé dans la croissance de l'affichage extérieur statique."
+		},
+		{
+			"id": "carbon",
+			"number": "64%",
+			"desc": "des entreprises d'affichage extérieur statique que nous avons interrogées se sont déjà engagées à réduire leur empreinte carbone."
+		}
+	],
+	"readMore": {
+		"title": "Intéressé par plus?",
+		"par": "Téléchargez votre exemplaire gratuit du rapport complet et découvrez les dernières informations et tendances en matière d'affichage statique auprès de professionnels du monde entier.",
+		"cta": "Télécharger le rapport"
+	},
+	"thankYou": {
+		"cta": "Merci et bonne lecture!"
+	}
+}

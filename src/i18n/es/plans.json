@@ -1,0 +1,62 @@
+{
+	"seo": {
+		"title": "Nuestros planes",
+		"description": "Planes para las necesidades de cada red"
+	},
+	"hero": {
+		"title": "Nuestros planes"
+	},
+	"forMediaOwners": "Para propietarios de medios",
+	"forAgencies": "Para agencias y marcas",
+	"agenciesTab": {
+		"title": "Lance campañas DOOH de alto rendimiento",
+		"par": "Hable con nuestro equipo de expertos en medios para obtener ayuda para crear y llevar a cabo sus estrategias de campañas DOOH de alto rendimiento.",
+		"cta": "Contáctenos"
+	},
+	"standard": "Estándar",
+	"professional": "Profesional",
+	"enterprise": "Empresarial",
+	"cloud_based_content_synchronization": "Sincronización de contenido desde la nube",
+	"content_network_management": "Contenidos y Gestión de Redes",
+	"static_campaigns": "Operaciones estáticas/elementos impresos",
+	"digital_media_management": "Gestión de medios digitales",
+	"automated_campaign_scheduling": "Programación de campañas automatizadas",
+	"network_player_management": "Gestión de redes y reproductores",
+	"campaign_proof_of_play_reporting": "Generación de informes de prueba de reproducción de campañas",
+	"support_for_third_party_players": "Compatibilidad con reproductores de terceros reproductores externos",
+	"api_access": "Acceso a la API",
+	"live_digital_screen_management": "Gestión de pantallas digital en tiempo real",
+	"on_demand_player_polling": "Actualización de reproductores inmediata",
+	"remote_screenshot_capture": "Captura de pantalla de forma remota",
+	"player_monitoring_center": "Centro de monitoreo de reproductores",
+	"real_time_inventory_availability": "Consulta de disponibilidad de inventario en tiempo real",
+	"campaign_planning_ad_serving": "Planificación y gestión de campañas",
+	"proposal_management": "Gestión de propuestas",
+	"guaranteed_campaigns": "Campañas garantizadas",
+	"frequency": "Por frecuencia",
+	"impressions": "Según impresiones",
+	"share_of_voice": "Porcentaje del ciclo",
+	"takeovers": "Takeovers",
+	"budget": "Presupuesto",
+	"audience_campaigns": "Campañas basadas en la audiencia",
+	"contextual_targeting": "Targeting contextual (demográfico, puntos de interés, impresiones)",
+	"moment_based_triggers": "Desencadenantes basados en momentos (tiempo, datos financieros)",
+	"optimization": "Optimización:",
+	"campaign_reallocation": "Reasignación de campañas",
+	"campaign_rebalancing": "Reequilibrio de campañas",
+	"dynamic_screen_selection": "Selección dinámica de pantallas",
+	"asset_management": "Gestión de inventario",
+	"campaign_management": "Gestión de campañas",
+	"charting": "Gráficos",
+	"operations": "Operaciones",
+	"programmatic_ssp": "SSP programático",
+	"open_exchange_transactions": "Operaciones de open exchange (mercado abierto)",
+	"private_marketplace_programmatic_transactions": "Transacciones programáticas del mercado privado",
+	"branded_messaging_templates": "Plantillas para mensajes personalizados",
+	"local_signage_essaging": "Señalización de mensajería local",
+	"shin": {
+		"title": "Descubra lo que podemos hacer por su red",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"ctaRequestAQuote": "Pedir una cotización"
+	}
+}

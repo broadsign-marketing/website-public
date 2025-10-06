@@ -1,0 +1,98 @@
+@import "../base/dependencies";
+
+@keyframes fadeOut {
+	100% {
+		opacity: 0;
+	}
+}
+
+.OutMooveFeatures {
+	.video_wrapper {
+		aspect-ratio: 192 / 100;
+		background: $reflex;
+	}
+
+	.feature_video {
+		@include bg;
+		@include fadeInOnce(0.6s);
+		aspect-ratio: 192 / 100;
+		border: 1px solid $reflex;
+
+		&.active {
+			z-index: 10;
+		}
+
+		&.exiting {
+			animation: fadeOut 0.3s ease 0.6s 1 forwards;
+			z-index: 1;
+		}
+	}
+
+	.feature_thumb {
+		opacity: 0;
+		transition: opacity 0.6s ease;
+		z-index: 1;
+
+		&:not(.active) {
+			left: 50%;
+			position: absolute;
+			top: 50%;
+			transform: translate(-50%, -50%);
+			width: calc(100% - 16px);
+		}
+
+		&.active {
+			opacity: 1;
+			position: relative;
+			width: 100%;
+			z-index: 10;
+		}
+	}
+
+	.feature_link {
+		border-bottom: 1px solid $ev;
+
+		.name {
+			transition: margin-bottom 0.6s ease;
+
+			span {
+				display: inline-block;
+				height: 22px;
+				line-height: 22px;
+			}
+		}
+
+		.chevron {
+			display: inline-block;
+			height: 22px;
+			margin-left: 2ch;
+			object-fit: contain;
+			object-position: center center;
+			transition: transform 0.6s ease;
+			width: 12px;
+		}
+
+		.desc {
+			max-height: 0px;
+			overflow: hidden;
+			transition: max-height 0.6s ease;
+		}
+
+		&.active {
+			pointer-events: none;
+
+			.name {
+				margin-bottom: 8px;
+			}
+
+			.chevron {
+				transform: rotate(-180deg);
+			}
+
+			.desc {
+				max-height: 112px;
+				transition: max-height 1s ease;
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"key": "zh",
+	"homepath": "/cn",
+	"name": "中文",
+	"lang": "中文",
+	"broadsignControl": "Broadsign Control",
+	"broadsign_control": "Broadsign Control",
+	"broadsignDirect": "Broadsign Direct",
+	"broadsign_direct": "Broadsign Direct",
+	"broadsignPublish": "Broadsign Publish",
+	"broadsign_publish": "Broadsign Publish",
+	"broadsignReach": "Broadsign Reach",
+	"broadsign_reach": "Broadsign Reach",
+	"campsite": "Campsite",
+	"ayuda": "Ayuda",
+	"ayudaSplash": "Ayuda Splash",
+	"ayudaJuice": "Ayuda Juice",
+	"readMore": "",
+	"seeMore": "查看更多"
+}

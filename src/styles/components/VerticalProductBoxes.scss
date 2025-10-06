@@ -1,0 +1,25 @@
+@import "../base/dependencies";
+
+.VerticalProductBoxes {
+	a {
+		box-shadow: 4px 4px 16px rgba(#000, 0);
+		transition: box-shadow 0.3s ease;
+
+		&:hover {
+			box-shadow: 4px 4px 16px rgba(#000, 0.2);
+			color: $cerulean;
+
+			.link_cerulean_arrow {
+				color: $cerulean;
+
+				&:after {
+					@include animateArrow;
+				}
+			}
+		}
+	}
+
+	h6 {
+		max-width: 32ch;
+	}
+}

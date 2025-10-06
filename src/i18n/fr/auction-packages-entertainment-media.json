@@ -1,0 +1,103 @@
+{
+	"seo": {
+		"title": "Divertissement et médias",
+		"description": "Captez l'attention de votre public avec des publicités par affichage extérieur numérique afin de faire connaître votre prochain événement important, pour promouvoir une émission de télévision ou pour augmenter la demande et les abonnements à des services de diffusion en continu."
+	},
+	"apSlug": "entertainmentMedia",
+	"apLink": "445",
+	"apToken": "U0bpWiaiqWd56UuSunwQCymVzDQgEG45jIpQgrqBFkXcDnvr9C47K91UD7wM",
+	"playbookLink": "rine",
+
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Divertissement et médias",
+		"blurb": "Captez l'attention de votre public avec des publicités par affichage extérieur numérique afin de faire connaître votre prochain événement important, pour promouvoir une émission de télévision ou pour augmenter la demande et les abonnements à des services de diffusion en continu.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Découvrez notre pack Divertissement et médias",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Adeptes de divertissement"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Lieux de concerts", "cinémas", "centres sportifs", "boîtes de nuit"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Cinq-à-sept", "Fins de semaine"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "Tous les écrans qui indexent contre le public cible",
+				"placeBased": "Centres commerciaux, restaurants, bars et théâtres",
+				"outdoor": "Panneaux d'affichage, panneaux urbains et abris de transport à proximité des arènes de divertissement et de sports"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Divertissement et médias »",
+		"list": [
+			{
+				"category": "Amateurs de concerts",
+				"description": "Les amateurs de concerts ont tendance à être des femmes de 25 à 34 ans. Ce public est constamment à l'affût du prochain spectacle ou il est en route pour assister à un concert."
+			},
+			{
+				"category": "Cinéphiles",
+				"description": "Les fans de cinéma sont répartis de manière égale entre les sexes et les tranches d'âge. Bien que tout le monde aime un bon film, ce public est passionné par le fait de rester à jour en regardant les derniers films. Ils utilisent généralement des applications liées aux films et aux cinémas."
+			},
+			{
+				"category": "Amateurs de musique",
+				"description": "Les amateurs de musique sont répartis de manière égale entre les sexes et sont légèrement plus susceptibles d'apparaître dans la tranche d'âge de 25 à 34 ans."
+			},
+			{
+				"category": "Acheteurs de billets",
+				"description": "Les acheteurs de billets sont répartis de manière égale entre les sexes, souvent dans la tranche d'âge de 25 à 34 ans. Ce public est toujours à la recherche de billets pour leur prochain spectacle ou grand événement."
+			},
+			{
+				"category": "Propriétaires d'appareils OTT",
+				"description": "Les propriétaires de dispositifs Over-the-Top (OTT) sont souvent des hommes et se trouvent le plus souvent dans les tranches d'âge de 18 à 24 ans et de 25 à 34 ans. Ce public souhaite diffuser leurs émissions de télévision et contenus vidéo préférés sans être lié à un service d'abonnement câblé standard."
+			},
+			{
+				"category": "Abonnés à la diffusion en continu",
+				"description": "Les abonnés aux contenus en streaming sont répartis de manière égale entre les sexes, et bien que près de 50% se situent dans les tranches d'âge de 18 à 24 ans et de 25 à 34 ans, ils sont également répartis dans toutes les autres tranches d'âge. Ce public adore diffuser du contenu et est prêt à payer un supplément pour un divertissement de qualité."
+			},
+			{
+				"category": "Passionnés de découvertes musicales",
+				"description": "Les amateurs de découverte musicale sont répartis de manière égale entre les sexes et se trouvent le plus souvent dans la tranche d'âge de 18 à 44 ans. À la recherche de leur prochaine chanson préférée, ce public utilise des applications de streaming musical traditionnelles et de découverte musicale."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Suscitez l'engouement pour les plus récents films, émissions de télévision, concerts et spectacles",
+		"list": [
+			"Créez des expériences uniques en diffusant un contenu dynamique qui captera l'attention dans des zones très fréquentées",
+			"Créez un engouement général et une sensibilisation envers les nouveaux médias au moyen de renseignements contextuels pertinents, comme les horaires de spectacles ou les ventes de billets.",
+			"Faites la promotion des plateformes de diffusion en continu avec abonnement, les contenus nouveaux, les promotions, et plus."
+		]
+	},
+	"playbook": {
+		"title": "Faites connaître votre prochain événement majeur grâce à l'affichage extérieur numérique.",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Découvrez notre pack Divertissement et médias" }
+}

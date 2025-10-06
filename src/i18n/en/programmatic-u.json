@@ -1,0 +1,182 @@
+{
+	"seo": {
+		"title": "Programmatic DOOH U - Check out our educational series of videos",
+		"description": "Check out our series of videos – with more to come – exploring the ins and outs of programmatic digital out-of-home!"
+	},
+	"teacher": "Professor",
+	"cta": {
+		"watch": "Watch"
+	},
+	"fold": {
+		"card1": {
+			"title": "Who?",
+			"tagline": "Are you an advertiser new to DOOH? Or a DOOH veteran new to programmatic? Programmatic DOOH U is for you!"
+		},
+		"card2": {
+			"title": "What?",
+			"tagline": "From short informational videos, case studies, to a complete certification course, this is your resource center."
+		},
+		"card3": {
+			"title": "Why?",
+			"tagline": "Programmatic DOOH is fairly new to buyers and publishers alike, and education is a big part of making this channel a success."
+		}
+	},
+	"new": "_New!_ Get Programmatic DOOH Certified",
+	"nightSky": {
+		"doohx": {
+			"par1": "Whether you're just getting started or you're an out-of-home expert looking to scale your programmatic business, DOOHX, brought to you by Broadsign, is your personal path to becoming an industry pro.",
+			"listTitle": "Each course contains:",
+			"list1": "8-10 modules of expert, on-demand training",
+			"list2": "Access to a moderated community of learners",
+			"list3": "Assessment exams as you go",
+			"list4": "Final certification exam & certificate",
+			"panelPar": "Sign up today with DOOHX",
+			"panelCTA": "GET 15% off!"
+		},
+		"courses": {
+			"meetBrooke": "Meet Brooke, your personal trainer!",
+			"availableCourses": "Available Courses:",
+			"course1Title": "pDOOH 101",
+			"course1Description": "Designed for anyone well versed in out-of-home who is looking to increase their programmatic knowledge. Perfect for OOH media owners, buyers, and specialists.",
+			"course2Title": "DOOH 101 ",
+			"course2Description": "Designed for digital marketers and media buyers who already understand how programmatic trading works. This course will help you expand your digital media expertise into the exciting channel of digital out-of-home.",
+			"course3Title": "pDOOH Advanced",
+			"course3Description": "Designed for industry professionals looking to dive deep into all things PDOOH - from yield optimisation and deal strategies, to redefining the value proposition of DOOH."
+		}
+	},
+	"getStarted": "Want something a little lighter? Try our free training video library",
+	"forPublishers": "For Publishers",
+	"forBuyers": "For Buyers",
+	"caseStudies": "Campaign Case Studies",
+	"videos": {
+		"B1": {
+			"id": "B1",
+			"series": "buyers",
+			"youtubeID": "rjmQA50SRzo",
+			"title": "Why your digital campaign needs out-of-home",
+			"description": "OOH is one of the oldest marketing channels, and it has withheld the test of time. In this lesson, you'll find out exactly why, and see how technological advancements in DOOH make the medium a must in your next campaign.",
+			"teachers": "Professor: Stephen Freitas, CMO, OAAA"
+		},
+		"B2": {
+			"id": "B2",
+			"series": "buyers",
+			"youtubeID": "BQD-3zblJLg",
+			"title": "What's what in programmatic digital out-of-home",
+			"description": "Most media buyers have read the infamous ebook “WTF is programmatic?” – welcome to the sequel. In this lesson, you'll learn the foundations of programmatic DOOH from A to Z, and be equipped with the basics needed to start exploring this channel.",
+			"teachers": "Professor: Adam Green, SVP & GM, Broadsign Reach"
+		},
+		"B3": {
+			"id": "B3",
+			"series": "buyers",
+			"youtubeID": "wnOQPLdaCzQ",
+			"title": "Navigating data in digital out-of-home",
+			"description": "While DOOH has many similarities to mobile and online, one thing is definitely different: there are no cookies. But this doesn't mean screen audience is a mystery. In this lesson, you'll learn the different ways audience is determined in DOOH, in both quantitative and qualitative ways.",
+			"teachers": "Professors: Brett Warner, Head of Business NA, Quividi and Scott Fiaschetti, SVP Operations, Geopath"
+		},
+		"C1": {
+			"id": "C1",
+			"series": "cases",
+			"youtubeID": "BrTMAjSdo6s",
+			"title": "How XITE reached 250K festival goers with a multichannel programmatic campaign",
+			"description": "The Netherlands' go-to brand for music videos and culture needed to reach their audience in a new way, so they turned to programmatic digital out-of-home, mobile and online for an impactful multichannel campaign."
+		},
+		"C2": {
+			"id": "C2",
+			"series": "cases",
+			"youtubeID": "aFfnV8HLC7Q",
+			"title": "How People's Pint increased brewery visits by 12.8% with Campsite",
+			"description": "With the community at the heart of their business, People's Pint needed a marketing strategy that brings locals into the brewery. So they turned to local digital billboards to increase store traffic by 12.8%."
+		},
+		"C3": {
+			"id": "C3",
+			"series": "cases",
+			"youtubeID": "NnJUEJXymt4",
+			"title": "How foodora got creative with programmatic digital out-of-home",
+			"description": "While the brand is popular for delivery, foodora's pick-up option isn't as well-known. Needing strategy to grow this side of their business, See how foodora changed this with programmatic digital out-of-home."
+		},
+		"C4": {
+			"id": "C4",
+			"series": "cases",
+			"youtubeID": "fUdo2V1PEtc",
+			"title": "How we went from concept to live on screens in 2 hours with Campsite",
+			"description": "Last-minute messaging? No time for a social media campaign? No problem! See how Broadsign launched digital out-of-home messaging in only a few hours and reached over 400K people."
+		},
+		"C5": {
+			"id": "C5",
+			"series": "cases",
+			"youtubeID": "fUdo2V1PEtc",
+			"title": "How Main and Local promoted their city-themed products with digital out-of-home",
+			"description": "With social media advertising and newsletters going strong, Main and Local were looking for an additional way to reach their audience. So they turned to the Campsite platform to launch their campaign on digital out-of-home screens, reaching their ideal local audience in a highly contextual way."
+		},
+		"B4": {
+			"id": "B4",
+			"series": "buyers",
+			"youtubeID": "lYy13d_0pUs",
+			"title": "Getting started with digital out-of-home",
+			"description": "DOOH has taken leaps and bounds towards modernization in the past decade, but many still see this channel as traditional, keeping it in its own campaign and budget silo. In this lesson, we'll go over why DOOH fits right into modern media planning, and give you practical tips on how your digital buying team can get started with this channel.",
+			"teachers": "Professor: Adam Kahansky, Senior Account Executive, Broadsign"
+		},
+		"P1": {
+			"id": "P1",
+			"series": "publishers",
+			"youtubeID": "uiTPa-_Yh0w",
+			"title": "The programmatic digital out-of-home ecosystem",
+			"description": "While the programmatic ecosystem isn't new, it might be new to you! In this lesson, we cover the basic workflow of any programmatic transaction to give you a better idea of where you fit into this ever-growing world.",
+			"teachers": "Professor: Samantha Brault, Programmatic Marketing Manager, Broadsign"
+		},
+		"P2": {
+			"id": "P2",
+			"series": "publishers",
+			"youtubeID": "8dXaElLGlHo",
+			"title": "5 common misconceptions about programmatic digital out-of-home",
+			"description": "After having hundreds of conversations with media owners about programmatic DOOH, we noticed a few misconceptions that kept coming back up. Today, we're here to set the record straight on what programmatic means publishers.",
+			"teachers": "Professor: Ben Allman, Sales Director ANZ, Broadsign"
+		},
+		"P3": {
+			"id": "P3",
+			"series": "publishers",
+			"youtubeID": "r1q-iqQNGDI",
+			"title": "Getting your operations department ready for programmatic",
+			"description": "While programmatic is all about automation, there is still a significant human element needed to set up, launch, manage and optimize the programmatic side of your business. In this lesson, we go over how to build your programmatic ad ops team.",
+			"teachers": "Professor: Connor Peltz, Programmatic Technical Specialist, Broadsign"
+		},
+		"P4": {
+			"id": "P4",
+			"series": "publishers",
+			"youtubeID": "9dKCWXSUIr4",
+			"title": "Getting your sales department ready for programmatic",
+			"description": "As we debunked in video two (spoiler alert) programmatic does not mean the end of your direct sales team. Actually, it presents new opportunities for your sales team to jump on, and in this lesson, we go over what you need to prepare a programmatic sales strategy. ",
+			"teachers": "Professor: Ryan Pogy, Sales Director North America, Broadsign"
+		}
+	},
+	"readyForTheTest": "Ready to put your newly gained knowledge to the test?",
+	"takeTheQuiz": "Take the Quiz",
+	"billboard": {
+		"ProgrammaticUMediaBuyers": {
+			"title": "Buyers – Ready to put your newly gained knowledge to the test?",
+			"cta": "Get programmatic U certified!"
+		},
+		"ProgrammaticUMediaOwners": {
+			"title": "Publishers – Ready to put your newly gained knowledge to the test?",
+			"cta": "Get programmatic U certified!"
+		}
+	},
+	"certificate": {
+		"seo": {
+			"title": "Programmatic U Lite Certificate",
+			"description": "Think you know everything about programmatic? What about programmatic digital out-of-home? Take our quiz to find out!",
+			"descriptionMediaOwners": "You are a media owner? Think you know everything about programmatic? What about programmatic digital out-of-home? Take our quiz to find out!",
+			"descriptionMediaBuyers": "You are a media buyer? Think you know everything about programmatic? What about programmatic digital out-of-home? Take our quiz to find out!"
+		},
+		"title": "Think you've got what it takes to earn our *Programmatic U lite certification*?",
+		"mediaBuyers": "Media Buyers",
+		"mediaOwners": "Media Owners",
+		"for": "for"
+	},
+	"viewCertificate": {
+		"seo": {
+			"title": "Congratulations, here's your certificate!",
+			"description": "Enjoy !"
+		}
+	}
+}

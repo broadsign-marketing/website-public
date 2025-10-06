@@ -1,0 +1,22 @@
+{
+	"webinarControl13": {
+		"title": "Voici Broadsign Control Live et Broadsign Control 13.0",
+		"description": "Mettez-vous au diapason avec notre nouvel ajout, Broadsign Control Live ainsi que les nouvelles fonctionalités de gestion de contenu ajoutées à Broadsign Control 13.0",
+		"filePath": "https://cdn2.hubspot.net/hubfs/297064/webinar_recordings/Webinar_Recording_Control_13_FR.mp4"
+	},
+	"webinarSpring2019Platform": {
+		"title": "Mise à jour de la plateforme, Printemps 2019",
+		"description": "",
+		"filePath": "https://cdn2.hubspot.net/hubfs/297064/webinar_recordings/Webinar_Recording_Spring_2019_Platform_Update_FR.mp4"
+	},
+	"webinarSummer2018Products": {
+		"title": "Mise à jour des produits, Été 2018",
+		"description": "Joignez-vous à notre équipe produit et découvrez les nouveautés de l'ete 2018",
+		"filePath": "https://cdn2.hubspot.net/hubfs/297064/webinar_recordings/Webinar_Recording_Summer_2018_Products_Update_FR.mp4"
+	},
+	"webinarWinterUpdate2019": {
+		"title": "Webinaire: Hiver 2019 Mise à jour de la platforme",
+		"description": "C'est le temps d'annoncer une tonne de mises à jour pour les plateformes d'affichage extérieur de Broadsign et Ayuda!",
+		"filePath": "https://cdn2.hubspot.net/hubfs/297064/webinar_recordings/Webinar_Recording_Winter_2019_Platform_Update_FR.mp4"
+	}
+}

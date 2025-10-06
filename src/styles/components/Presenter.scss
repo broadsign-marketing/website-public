@@ -1,0 +1,39 @@
+@import "../base/dependencies";
+
+
+.Presenter {
+	align-content: center;
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 16px;
+
+	p {
+		color: inherit;
+		margin: 0;
+	}
+
+	.avatar {
+		max-height: var(--avatar-size);
+		max-width: var(--avatar-size);
+	}
+
+	.details {
+		display: flex;
+		flex-flow: column nowrap;
+		font-size: 14px;
+		justify-content: center;
+	}
+
+	.name,
+	.title,
+	.company {
+		font-size: 1em;
+	}
+}
+
+
+@media (min-width:$sm) {
+	.Presenter {
+		grid-template-columns: var(--avatar-size) 1fr;
+	}
+}

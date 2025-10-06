@@ -1,0 +1,67 @@
+{
+	"seo": {
+		"title": "Broadsign Ads – Public",
+		"description": "Affichez des publicités à des points de contact tout au long du parcours de votre public. Avec l'affichage extérieur numérique axé sur le public, vous pouvez accroître l'intérêt envers votre message, son incidence et sa mémorisation en diffusant des publicités dynamiques qui sont pertinentes pour votre public en fonction du contexte."
+	},
+	"subnav": {
+		"overview": "Aperçu",
+		"our-story": "Notre histoire",
+		"inventory": "Stocks",
+		"audiences": "Public",
+		"blog": "Blogue"
+	},
+	"Hero": {
+		"title": "Rejoignez le public grâce au ciblage axé sur les données",
+		"tagline": "Affichez des publicités à des points de contact tout au long du parcours de votre public. Avec l'affichage extérieur numérique axé sur le public, vous pouvez accroître l'intérêt envers votre message, son incidence et sa mémorisation en diffusant des publicités dynamiques qui sont pertinentes pour votre public en fonction du contexte.",
+		"cta": "Réserver une démonstration"
+	},
+	"deliver": {
+		"title": "Communiquez un message précis au bon public grâce à des données mobiles unifiées et objectives",
+		"par": "Ciblez les lieux où se trouve la concentration la plus élevée des segments de public que vous convoitez avec des données mobiles rapides, évolutives et universelles. En partenariat avec Native Touch, Broadsign Ads vous donne un accès exclusif à des données mobiles directement au bout de vos doigts, reliant harmonieusement l'affichage extérieur au monde numérique."
+	},
+	"howItWorksOvertitle": "Fonctionnement",
+	"howItWorksTitle": "De la cueillette de données au ciblage, voici comment nous établissons le profil de chaque lieu",
+	"howItWorks01": {
+		"title": "Création du lieu",
+		"par": "[Tout commence lorsque l'écran d'un fournisseur affiche une demande de publicité de Broadsign Ads, qui se géolocalise avec une latitude et une longitude.] [Broadsign Ads procède ensuite à un géocodage inverse de ces coordonnées pour commencer à établir un profil du lieu renfermant des renseignements de base. Les frontières du lieu sont également définies afin que la zone dans laquelle nous voulons recueillir des données soit établie avec précision.] [Broadsign Ads sait maintenant qu'il y a un écran actif d'affichage extérieur numérique dans ce lieu et signale automatiquement un nouveau point d'intérêt à notre partenaire mobile.]"
+	},
+	"howItWorks02": {
+		"title": "Collecte des données mobiles",
+		"par": "[Nous commençons à recueillir des données à partir des téléphones intelligents lorsque les membres du public entrent dans les frontières du lieu défini. Ces données sont extraites de la trousse SDK et de l'API de l'application active et sont continuellement mises à jour pour demeurer précises au fil du temps.] [Les données recueillies comprennent l'identifiant de l'appareil, la langue, l'identifiant de l'application, l'âge, le genre et plus encore.]"
+	},
+	"howItWorks03": {
+		"title": "Analyse des données mobiles",
+		"par": "[Ces données sont ensuite analysées et finalement transposées en sept groupes de ciblage clés du public et plus de 190 personas.]"
+	},
+	"howItWorks04": {
+		"title": "Profilage du public pour les lieux",
+		"par": "[Les ensembles de données sont retournés à Broadsign Ads et nous pouvons établir le profil du public de chaque lieu. Cela signifie que, pour chaque lieu disponible, nous connaissons maintenant la composition exacte du public de chaque écran.] [Ces personas sont ensuite converties en options de ciblage dans le processus de création de la campagne. Avec Broadsign Ads, vous pouvez gérer la taille et le degré de précision du public en fonction de votre objectif budgétaire.]"
+	},
+	"targetingGroups": {
+		"title": "Groupes de ciblage",
+		"age": "Âge",
+		"income": "Revenu",
+		"interest": "Intérêt et activité",
+		"stage": "Étape de la vie",
+		"intent": "Intention",
+		"gender": "Genre"
+	},
+	"personas": {
+		"title": "Exemples de personas :",
+		"music": "Mélomanes",
+		"movie": "Passionnés de cinéma",
+		"business": "Professionnels des affaires",
+		"dining": "Amateurs de fine cuisine",
+		"parents": "Nouveaux parents",
+		"shoppers": "Acheteurs jeunes et branchés"
+	},
+	"letsConnectModal": {
+		"title": "Lancez-vous avec Broadsign AdsGet started with Broadsign Ads",
+		"par": "Notre équipe d'experts est là pour vous aider à créer, à mettre en œuvre et à gérer vos campagnes. Après tout, notre plateforme a été créée pour l'affichage extérieur par des spécialistes de l'affichage extérieur."
+	},
+	"shin": {
+		"title": "Lancez-vous avec Broadsign Ads",
+		"par": "Notre équipe d'experts est là pour vous aider à créer, à mettre en œuvre et à gérer vos campagnes. Après tout, notre plateforme a été créée pour l'affichage extérieur par des spécialistes de l'affichage extérieur.",
+		"cta": "Faisons équipe"
+	}
+}

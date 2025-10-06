@@ -1,0 +1,14 @@
+$border-radius-props: ("border-noround": 0,
+	"border-round": var(--border-radius),
+	"rounded-circle": 50%,
+	"rounded-xl": 12px,
+	"rounded-4": 4px,
+	"rounded-6": 6px,
+	"rounded-8": 8px,
+	"rounded-10": 10px,
+	"rounded-12": 12px,
+	"rounded-full": 1000px,
+	"pill": 1000px,
+);
+
+@include style-class("border-radius", $border-radius-props, true);

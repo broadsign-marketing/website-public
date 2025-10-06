@@ -1,0 +1,228 @@
+{
+	"seo": {
+		"title": "Targeted Advertising in Los Angeles | Broadsign Billboard & OOH Packages",
+		"description": "Advertise in Los Angeles with Broadsign's targeted billboard and OOH inventory packages. Reach your audience at prime locations, venues, and points of interest throughout LA. Maximize your advertising impact with Broadsign's strategic placements."
+	},
+	"apSlug": "los_angeles",
+	"apLink": "3183",
+	"apToken": "oNGW1OapQrSarElGh8nDbSghBwgYZasXhZvehi3fGH3u5b50IlUQ214owIDi",
+	"hero": {
+		"overtitle": "Los Angeles Billboards",
+		"title": "Billboard and Out-of-Home Advertising in Los Angeles",
+		"blurb": [
+			"Looking to advertise in Los Angeles? Unlock targeted advertising opportunities with Broadsign's curated billboard and OOH inventory packages. Reach your audience wherever they are with inventory strategically placed to target specific venue types, locations, and points of interest throughout Los Angeles."
+		],
+		"ctaLaunchCampaign": "Launch a Billboard Campaign",
+		"ctaExplore": "Explore Advertising Inventory"
+	},
+	"opportunities": {
+		"title": "Unlock advertising opportunities in Los Angeles",
+		"blurb": "A national hub for entertainment, culture, tourism, sports, and more, advertisers and brands can reach target consumers across a variety of verticals throughout LA.",
+		"list": [
+			{
+				"id": "diversity",
+				"title": "Demographics & Diversity",
+				"blurb": "Los Angeles is home to one of the most diverse markets in the country, offering advertisers a prime opportunity to reach target audiences across vibrant cultures and communities.",
+				"features": [
+					{
+						"id": "groups",
+						"text": "Nearly 4M population in Los Angeles, 17M+ population in the DMA"
+					},
+					{
+						"id": "female",
+						"text": "50% of the population made up of women"
+					},
+					{
+						"id": "id",
+						"text": "Median age of 37 years old"
+					},
+					{
+						"id": "income",
+						"text": "Los Angeles County median household income of $83,000+"
+					},
+					{
+						"id": "business",
+						"text": "+60% employment rate"
+					}
+				]
+			},
+			{
+				"id": "travel",
+				"title": "Transportation & Travel",
+				"blurb": "From its sprawling highway network to its well-connected public transportation system, LA is an ideal market for advertisers to connect with diverse, on-the-go consumers.",
+				"features": [
+					{
+						"id": "airport",
+						"text": "5 airports, including Los Angeles International Airport (LAX)"
+					},
+					{
+						"id": "commute",
+						"text": "Average daily commute of 30+ minutes"
+					},
+					{
+						"id": "road",
+						"text": "5+ major highways, including I-405, I-5, I-10 and I-110"
+					},
+					{
+						"id": "traffic",
+						"text": "Famous roads like Rodeo Drive, Sunset Boulevard, Melrose Avenue, and Hollywood Drive"
+					}
+				]
+			}
+		]
+	},
+	"ctaBox1": {
+		"title": "Looking to advertise in LA?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"topPackages": {
+		"title": "Explore digital OOH inventory packages for top audience segments in Los Angeles",
+		"blurb": "See our curated billboard and screen packages tailored for specific audiences around top advertising verticals in Los Angeles. Each package includes diverse environments, venue types, and demographics to boost brand visibility.",
+		"list": [
+			{
+				"slug": "automotive",
+				"linkID": "2110",
+				"token": "QlN3zbi95iuyLQzMVTsHskfiytmqxKVloRHR1zLSDf3AsvbulsTaz8AQsouT"
+			},
+			{
+				"slug": "beautyWellness",
+				"linkID": "2104",
+				"token": "3Na4HkHCwJsucdcLNabo9vCz34F5lzKr84qD3RQw6El4R7tJ2B1jM67flXdS"
+			},
+			{
+				"slug": "entertainmentMedia",
+				"linkID": "2111",
+				"token": "XlECkakwqq559fr4BrRDGencyF0uZFZdIlPU2lJ4T3EQr2ofEy5eiy7WfXsO"
+			},
+			{
+				"slug": "retail",
+				"linkID": "2103",
+				"token": "6NKyeobmjNJ6a6qvVwm3lnALLc2D4ShhzoHODsg8EYNlGeMbkNZgFA7soL7V"
+			},
+			{
+				"slug": "telco",
+				"linkID": "2108",
+				"token": "euP1CwGjeIWXIOoQjyH9Ng4m7IYEAve6YNWkMTrXjjxr8rcpwT2DLMLfC0aI"
+			},
+			{
+				"slug": "qsr",
+				"linkID": "2112",
+				"token": "bK9AvBc9cLFApcfDRarCvNqmxO8UN40Q8WVMZvjag5klOzYjVWnZQ4q77II9"
+			},
+			{
+				"slug": "travelTourism",
+				"linkID": "2102",
+				"token": "LkT2fzVvLfyvqiw3EaFk0Jncj0KNmBCvugkK9wNoJcqXtil2Ah25i4y5FWaw"
+			}
+		],
+		"cta": "Explore our inventory packages"
+	},
+	"billboards": {
+		"title": "Types of billboards and OOH formats in Los Angeles",
+		"list": [
+			{
+				"title": "Outdoor",
+				"types": [
+					{
+						"name": "Billboards",
+						"avgCPM": "$12.9",
+						"dailyImpressions": "+370k",
+						"commonSizing": ["20ft x 60ft", "14ft x 48ft"]
+					},
+					{
+						"name": "Urban Panels",
+						"avgCPM": "$7",
+						"dailyImpressions": "+22k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					}
+				]
+			},
+			{
+				"title": "Transit",
+				"types": [
+					{
+						"name": "Airports",
+						"avgCPM": "$6.1",
+						"dailyImpressions": "+38k",
+						"commonSizing": ["5ft x 3ft", "11ft x 6ft", "6ft x 6ft"]
+					},
+					{
+						"name": "Train Stations",
+						"avgCPM": "$5",
+						"dailyImpressions": "+30k",
+						"commonSizing": ["5ft x 3ft"]
+					}
+				]
+			},
+			{
+				"title": "Place-Based",
+				"types": [
+					{
+						"name": "Office Buildings",
+						"avgCPM": "$9.6",
+						"dailyImpressions": "",
+						"commonSizing": ["4ft x 6ft"]
+					},
+					{
+						"name": "Apartment Buildings",
+						"avgCPM": "$9.6",
+						"dailyImpressions": "+13k",
+						"commonSizing": ["4ft x 6ft"]
+					},
+					{
+						"name": "Colleges",
+						"avgCPM": "$5.5",
+						"dailyImpressions": "+320k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					},
+					{
+						"name": "Salons",
+						"avgCPM": "$10",
+						"dailyImpressions": "+170k",
+						"commonSizing": ["2ft x 2ft"]
+					}
+				]
+			},
+			{
+				"title": "Retail",
+				"types": [
+					{
+						"name": "Pharmacies",
+						"avgCPM": "$6.9",
+						"dailyImpressions": "+33k",
+						"commonSizing": ["2ft x 3ft", "4ft x 6ft"]
+					},
+					{
+						"name": "Gas Stations",
+						"avgCPM": "$5",
+						"dailyImpressions": "+28k",
+						"commonSizing": ["2ft x 2ft"]
+					},
+					{
+						"name": "Malls",
+						"avgCPM": "$6",
+						"dailyImpressions": "+25k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft"]
+					}
+				]
+			}
+		]
+	},
+	"ctaBox2": {
+		"title": "Found the OOH format in Los Angeles you were looking for?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explore More Markets"
+	},
+	"modalExplorePackage": {
+		"title": "Explore our $$$ package"
+	},
+	"faq": [
+		{
+			"id": "faq_inventory_marketplace_la_1",
+			"q": "",
+			"a": ""
+		}
+	]
+}

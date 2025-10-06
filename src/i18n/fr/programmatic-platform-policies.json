@@ -1,0 +1,62 @@
+{
+	"seo": {
+		"title": "Politiques de la plateforme programmatique Broadsign",
+		"description": "Afin de maintenir un marché publicitaire sûr et équitable, tous les utilisateurs des plateformes et des services publicitaires de Broadsign doivent respecter les politiques suivantes.",
+		"robots": "index, follow"
+	},
+	"title": "Politiques de la plateforme programmatique Broadsign",
+	"intro": "Afin de maintenir un marché publicitaire sûr et équitable, tous les utilisateurs des plateformes et des services publicitaires de Broadsign (OutMoove, Reach SSP, collectivement appelés les Services) doivent respecter les politiques suivantes. Ceux qui ne le font pas peuvent voir leur compte suspendu ou révoqué à la seule discrétion de Broadsign.",
+	"appropriateUse": {
+		"title": "Utilisation appropriée",
+		"p1": "Les Services ne peuvent être utilisés que dans le but d'acheter ou de vendre de bonne foi de l'inventaire publicitaire. Toutes les transactions traitées par le biais des Services doivent être réglées intégralement par les mécanismes fournis par les Services. Les pratiques d'enchères opaques telles que la mise en cache des offres et le « bid trawling », etc. sont interdites."
+	},
+	"security": {
+		"title": "Sécurité",
+		"p1": "Afin de maintenir la sécurité des Services, les utilisateurs ne doivent pas :",
+		"li1": "Partager leurs mots de passe ou clés API ou autres identifiants d'accès au système avec d'autres personnes.",
+		"li2": "Télécharger des informations confidentielles inutiles sur les Services.",
+		"li3": "Télécharger du code non testé sur les Services.",
+		"li4": "Tenter d'interrompre, de désactiver, de submerger ou d'endommager les Services d'une autre manière ou d'inviter d'autres personnes à le faire."
+	},
+	"inventory": {
+		"title": "Inventaire",
+		"p1": "Tous les inventaires et les écrans proposés par le système doivent :",
+		"li1": "Être légalement autorisés à être vendus par l'Éditeur.",
+		"li2": "Être en vue claire et dégagée du public.",
+		"li3": "Disposer de métadonnées exactes et à jour, notamment :",
+		"li31": "nombre d'impressions",
+		"li32": "composition du public",
+		"li33": "emplacement",
+		"li34": "type de lieu ",
+		"li35": "résolution ",
+		"li36": "ratio d'aspect ",
+		"li37": "formats d'annonce permis",
+		"li38": "prix",
+		"li4": "Maintenir à jour les systèmes d'exploitation, les versions des lecteurs, les informations d'identification de sécurité et les protocoles réseau.",
+		"p2": "Toutes les opportunités publicitaires proposées à la vente via le système doivent :",
+		"li5": "Représenter avec précision les opportunités de diffusion d'une annonce sur l'écran en question au moment proposé.",
+		"li6": "Être dans les heures d'ouverture du lieu en question."
+	},
+	"content": {
+		"title": "Contenu",
+		"p1": "Les vendeurs d'inventaires (Éditeurs) se réservent le droit d'accepter ou de refuser le contenu publicitaire à leur seule discrétion. Les Éditeurs doivent faire des efforts raisonnables pour examiner le contenu publicitaire qui leur est soumis en temps opportun et ne doivent en aucun cas modifier le contenu publicitaire.",
+		"p2": "Les Services ne doivent pas être utilisés pour le trafic d'annonces qui :",
+		"li1": "Déforment les biens ou les services proposés.",
+		"li2": "Portent atteinte au droit d'auteur ou à la marque d'une autre partie.",
+		"li3": "Violent les lois de la juridiction dans laquelle se trouve l'écran.",
+		"li4": "Contiennent des messages abusifs.",
+		"li5": "Défendent ou représentent :",
+		"li51": "De l'imagerie pornographique",
+		"li52": "De la violence envers des humains ou des animaux.",
+		"li53": "Un plaidoyer contre un groupe protégé.",
+		"li6": "Contiennent des logiciels ou du code malveillants.",
+		"li7": "Ciblent un particulier."
+	},
+	"data": {
+		"title": "Données",
+		"p1p1": "Aucune information personnellement identifiable ne doit être utilisée à des fins de ciblage, de suivi, d'attribution ou autrement au sein des Services. Toutes les collectes, stockages et partages de données doivent être conformes au ",
+		"p1LinkURL": "https://gdpr-info.eu/",
+		"p1LinkText": "Règlement Général sur la Protection des Données",
+		"p1p2": " (RGPD) et à la législation applicable dans la juridiction des écrans en question."
+	}
+}

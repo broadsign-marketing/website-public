@@ -1,0 +1,113 @@
+{
+	"seo": {
+		"title": "DOOH more with Broadsign",
+		"description": "Want to sell 10% more campaigns? Media owners using Broadsign's flexible selling tools book an average of 10% more campaigns."
+	},
+	"hero": {
+		"title": "DOOH more with Broadsign",
+		"subtitle": "Want to sell 10% more campaigns?",
+		"blurb": "Media owners using Broadsign's flexible selling tools book an average of 10% more campaigns.",
+		"cta": "Book a discovery call"
+	},
+	"neck": {
+		"resultingIn": "resulting in",
+		"box1": {
+			"intro": "In 2024, Broadsign media owners sold on average",
+			"num": "10%",
+			"what": "more campaigns",
+			"desc": "through flexible selling"
+		},
+		"box2": {
+			"num": "Billions more",
+			"desc": "impressions sold"
+		}
+	},
+	"beforeAfter": {
+		"title": "With flexibility at the core of the Broadsign Platform, you can get more out of your network",
+		"before": {
+			"title": "Your life today",
+			"list": [
+				"You manually move and adjust campaigns to hit buyer goals and optimize your network, limiting your ability to react quickly to changing demand.",
+				"You only sell slot-based campaigns, limiting your ability to widen your customer base and meet varying campaign requirements and performance objectives.",
+				"Your slot-based campaigns have fixed start and end dates, locking your inventory and creating awkward, unsellable gaps."
+			]
+		},
+		"after": {
+			"title": "With Broadsign's flexible selling tools",
+			"list": [
+				"Our optimization engine reallocates campaigns and rebalances ad delivery for you, guaranteeing results while ensuring your network is always at peak performance.",
+				"Flexible buying options attract new buyers, create more relevant results, and allow you to charge premium prices – increasing your incremental revenue.",
+				"Fill unsold spaces from your fixed campaigns with flexible, goal-based campaigns, maximizing your fill rates."
+			]
+		}
+	},
+	"doMore": {
+		"title": "Do more with your network today",
+		"cta": "Book a discovery call"
+	},
+	"features": {
+		"title": {
+			"p1": "More",
+			"rotatingWords": ["flexibility", "efficiency", "revenue"],
+			"p3": "with the Broadsign Platform"
+		},
+		"featureCampaignReallocation": {
+			"title": "Book 10% more campaigns with intelligent campaign reallocation",
+			"par": "Adopting Broadsign's flexible tools gives you access to our campaign reallocation feature, which dynamically moves campaigns to make room for new ones while ensuring that campaign delivery and targets are unaffected. Every new booking triggers a recalibration – ensuring that your network is always optimally filled."
+		},
+		"featureFlexibleBuyingOptions": {
+			"title": "Drive incremental revenue with flexible buying options ",
+			"par": "Our flexible campaign types, like goal-based or data-triggered ones, allow you to deliver more targeted and impactful campaigns. Flexible buys also benefit from our campaign rebalancing feature that allows you to guarantee ad delivery and results, reinforcing the value and effectiveness of your network to advertisers.",
+			"cta1": "Learn more about Audience Campaigns",
+			"cta2": "CTA linking to Audience campaigns blog post"
+		},
+		"featureNewBuyers": {
+			"title": "Sell more campaigns by widening your customer base",
+			"par": "Offering both flexible and fixed placements allows you to cater to varying budgets and goals, making your inventory accessible to more buyers. Flexible campaigns can be booked around your fixed campaigns, turning those awkward gaps caused by fixed placements into new selling opportunities."
+		}
+	},
+	"testimonies": {
+		"title": "Hear from those who are getting more out of their network with the Broadsign Platform",
+		"list": [
+			{
+				"id": "orb",
+				"quote": "“We've been told by clients that what makes our network stand out from others is its reliability when it comes to ad delivery, and that's thanks to Broadsign.”",
+				"name": "Agnieszka Mendrychowska",
+				"position": "Chief Operating Officer",
+				"company": "Orb"
+			},
+			{
+				"id": "imedia",
+				"quote": "“When our inventory was managed through a spreadsheet, we were continually reshuffling campaigns manually to try and maximize our digital inventory. With Broadsign, everything is done automatically. We add the screens and campaign parameters, and everything is organized for us at the click of a button.”",
+				"name": "Martyn Perrie",
+				"position": "Head of Digital Delivery",
+				"company": "i-media"
+			},
+			{
+				"id": "elevision",
+				"quote": "“The ability to see inventory availability in real-time through Broadsign has reshaped the sales team's pricing activities. They can now see when screens are at 90% fill rate versus 30%, giving them more confidence in how they apply their pricing and discounts.”",
+				"name": "Eamon Sallam",
+				"position": "Chief Operating Officer",
+				"company": "Elevision"
+			}
+		]
+	},
+	"blogPosts": {
+		"overtitle": "The Power of the Broadsign Platform",
+		"title": "How these media owners were able to DOOH more",
+		"cta": "Book a discovery call",
+		"oceanPost": {
+			"title": "Learn how Ocean Outdoor increased its fill rate and CPMs with Broadsign",
+			"cta": "Watch now"
+		}
+	},
+	"readArticle": "Read Article",
+	"shin": {
+		"title": "Flexibility, any way you want it",
+		"par": "Broadsign's flexible selling tools empowers you to make incremental, low-risk adjustments to optimize your strategy and boost revenue.",
+		"cta": "Book a discovery call"
+	},
+	"formBookACall": {
+		"title": "Book a discovery call"
+	}
+}

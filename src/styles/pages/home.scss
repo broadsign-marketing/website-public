@@ -1,0 +1,132 @@
+@import "../base/dependencies";
+
+@import "home/hero";
+
+#home {
+	.branch {
+		box-shadow: 2px 2px 4px rgba(#000, 0);
+		transition: transform 0.6s ease, box-shadow 0.6s ease;
+		z-index: 1;
+
+		&.zoom_in {
+			box-shadow: 6px 6px 18px rgba(#000, 0.2);
+			transform: scale(1.1);
+			z-index: 2;
+		}
+
+		&.zoom_out {
+			transform: scale(0.9);
+		}
+	}
+
+	.branch_icon {
+		width: 160px;
+	}
+
+	.media_kit {
+		margin-top: min(20vw, 100px);
+	}
+
+	.do_for_ooh {
+		margin-top: 200px;
+
+		.img {
+			margin-top: -160px;
+		}
+	}
+}
+
+html[lang="fr"] {}
+
+html[lang="es"] {}
+
+html[lang="de"] {
+	#home {}
+}
+
+html[lang="ja"] {
+	#home {}
+}
+
+@media(hover:none) {
+	#home {
+		.quotes_ribbon {
+			scroll-snap-type: x mandatory;
+			scroll-behavior: smooth;
+		}
+
+		.scroll_ctas {
+			display: none;
+		}
+	}
+}
+
+@media (max-width:$xsMax) {
+	#home {}
+}
+
+
+@media (min-width:$sm) {
+	#home {
+		.stats .stat em {
+			font-size: min(5vw, 44px);
+		}
+
+		.media_kit_thumbs {
+			left: calc(300px - 60%);
+		}
+
+		.inventory {
+			margin-top: 0;
+		}
+
+		.quotes {
+			.company_logo {
+				height: auto;
+				max-width: 100%;
+				object-fit: contain;
+				object-position: center;
+			}
+		}
+
+		.do_for_ooh {
+			margin-top: 90px;
+
+			.img {
+				margin-top: -90px;
+			}
+		}
+	}
+
+	html[lang="fr"] {
+		#home {
+			h1 {}
+		}
+	}
+
+	html[lang="es"] {
+		#home {
+			h1 {}
+		}
+	}
+
+	html[lang="de"] {
+		#home {}
+	}
+}
+
+@media (min-width:$md) {
+	#home {
+		.media_kit {
+			h3 {}
+		}
+	}
+
+	html[lang="fr"] {
+		#home {
+			.stats .stat em {
+				font-size: min(2.6vw, 30px);
+			}
+		}
+	}
+}

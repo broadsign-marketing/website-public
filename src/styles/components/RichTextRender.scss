@@ -1,0 +1,53 @@
+@import "../base/dependencies";
+
+.RichText {
+	color: $reflex;
+	font-size: 16px;
+	margin-bottom: 1em;
+}
+
+h2.RichText {
+	font-size: 34px;
+	margin-top: 1.6em;
+}
+
+h3.RichText {
+	font-size: 24px;
+	margin-top: 1.6em;
+	text-transform: none;
+}
+
+p.RichText {
+	font-size: 16px;
+	line-height: 180%;
+
+	a {
+		font-weight: bold;
+	}
+}
+
+ul.RichText {
+	margin-bottom: 2em;
+	margin-left: 1em;
+
+	li {
+		font-size: 16px;
+		line-height: 160%;
+		margin-bottom: 0.4em;
+	}
+
+	a {
+		font-weight: bold;
+	}
+
+	&.checks_gradient {
+		margin-left: 0;
+
+		li {
+			font-size: 16px;
+			margin-bottom: 0;
+			padding-bottom: 0.2em;
+			padding-top: 0.7em;
+		}
+	}
+}

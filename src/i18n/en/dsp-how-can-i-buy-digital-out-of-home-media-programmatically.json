@@ -1,0 +1,90 @@
+{
+	"seo": {
+		"title": "How can I buy digital out-of-home media programmatically?",
+		"description": "",
+		"robots": "noindex, nofollow"
+	},
+	"Hero": {
+		"TitlePart1": "How can I buy digital ",
+		"TitlePart2": "_Out-of-Home_ media ",
+		"TitlePart3": "Programmatically?",
+		"Tagline": "Digital out-of-home is one of the newer mediums to join the programmatic realm. Rather than having to call each digital out-of-home publisher individually every time they want to run a campaign, advertisers can now buy multi-publisher, multi-channel campaigns through DSPs."
+	},
+	"Video": {
+		"Paragraph1": "What's more, automated bidding also gives advertisers the opportunity to create efficient and targeted campaigns. Triggers can be set up based on weather, time-of-day, day-of-week – any data feed, really – to only run the campaign when it's relevant to the audience. A recent campaign by music video brand, XITE, did just that.",
+		"Paragraph2": "More and more DSPs are embracing digital out-of-home, adding bright, impactful screens to their mobile and online offerings. Is your DSP the next to offer digital out-of-home? If so, here's what you need to know to get started."
+	},
+	"QuoteBlock": {
+		"Quote": "The promise of programmatic is that you can create relevant and dynamic creatives that are a great fit for the target audience.",
+		"Signature": "Diederick Ubels, CEO, MobPro DSP"
+	},
+	"Audience": {
+		"Title": "Defining audience in digital out-of-home",
+		"Column1": {
+			"Paragraph1": "Before getting started, there is one important way digital out-of-home differs from traditional online and mobile programmatic: the way audience is measured.",
+			"Paragraph2": "Given that one screen can be seen by thousands of viewers audience is not calculated on a one-to-one basis – just imagine the viewership of a digital billboard ad in Times Square! Instead, audience is calculated based on a variety of research and data methods to determine the number of impressions a screen will get.",
+			"Paragraph3": {
+				"Bold": "First-party data –",
+				"Text": " The venue owner has a tally of the number of people in their establishment. This could be done via a ticketing system, like at a cinema or in a public transport network, by analyzing sales"
+			},
+			"Paragraph4": {
+				"Bold": "Second-party data –",
+				"Text": " The venue owner hires a company to conduct research on who is present, through surveys, a counting system or other anecdotal research."
+			}
+		},
+		"Column2": {
+			"Paragraph1": {
+				"Bold": "Third party data –",
+				"Text": " an independent third-party research firm like Geopath or Nielsen conduct a statistical analysis of the likely views that a screen will get using anonymous location data from mobile phones and cars, and custom data resources like traffic statistics and pedestrian count"
+			},
+			"Paragraph2": {
+				"Bold": "Video data –",
+				"Text": " this third-party research uses cameras and sensors integrated with a DOOH analytics platform like Quividi to collect views data on an ongoing basis."
+			},
+			"Paragraph3": "For an even more in-depth analysis, OOH audience data can also be broken down by demographics such as age, gender, purchasing habits and more. This enables brands and advertisers to better understand who will be seeing their ad and ensure they are hitting their target audience.",
+			"Paragraph4": "These demographics can also have an impact on price, as some audiences are more interesting to advertisers than others. For example, a billboard in a wealthy and established neighborhood will likely cost more than one in a less affluent area of the city, as this audience is presumed to have a higher level of disposable income."
+		}
+	},
+	"Price": {
+		"Title": "How to price digital out-of-home",
+		"Column1": {
+			"Paragraph1": "Once these metrics are found, a multiplier is used to determine the CPM for a given screen, very similar to other programmatic media. As with any product or service, supply and demand play a large role in determining the cost of a billboard."
+		},
+		"Column2": {
+			"Paragraph1": "The more attractive it is to advertisers, the higher the price, with factors like location, audience impressions and demographics, and the type of sign affecting the final cost.Digital signs have an average CPM of nine to 32 dollars, making this medium slightly more expensive than its online partners.",
+			"Paragraph2": "However, digital out-of-home offers creative flexibility and budgeting options that are otherwise impossible."
+		}
+	},
+	"AddingOOH": {
+		"Title": "Adding digital out-of-home media to your DSP",
+		"Column1": {
+			"Paragraph1": {
+				"Title": "1. Select An Digital Out-Of-Home SSP To Integrate",
+				"Text": "Two main things to consider are where the SSP's digital out-of-home inventory screens are located, and where your advertising partners'target audience is. Some larger SSPs offer a global audience, while others are more focused in a given area."
+			},
+			"Paragraph2": {
+				"Title": "2. Decide On Your Type Of Integration",
+				"Text": "As with online and mobile, digital out-of-home can be integrated directly with your DSP or through an exchange. Depending on your integration, some SSPs are hands on, and will guide you through initial setup and campaigns, while others, especially when using an exchange, are more self-serve. During this step, you will also need to determine whether the exchange will be open or private RTB, or programmatic direct."
+			},
+			"Paragraph3": {
+				"Title": "3. Determine Your Audience Multiplie",
+				"Text": "As mentioned earlier, audience in digital out-of-home is not calculated in quite the same way as traditional programmatic. Working with the SSP, you will need to determine how their audience statistics will translate to your current metrics. This is done using the impression multiplier laid out by the Media Ratings Council."
+			}
+		},
+		"Column2": {
+			"Paragraph4": {
+				"Title": "4. Define Your Audience Demographic And Environment Targeting",
+				"Text": "For a digital out-of-home campaign to be a success, targeting criteria should be set. This can be as simple as using screen location to determine a given audience. However, other criteria like time of day, the day of the week, or feeds like weather, traffic or even custom data, can be used to further add context to a campaign. Once your targeting options are determined, you will need to set up triggers in your DSP to only play the campaign when the appropriate criteria is met."
+			},
+			"Paragraph5": {
+				"Title": "5. Set Up A Procedure For Creatives",
+				"Text1": "Digital out-of-home assets are fairly similar to online and mobile, yet generally need to be of higher quality to look great on large screens. Your DSP can chose to allow advertisers to upload creatives themselves or help them do so. Given it's public nature, digital out-of-home publishers may also require an initial creative before a campaign can go live.",
+				"Text2": "Seeing as programmatic digital out-of-home is still a fairly new concept, SSPs are ready to help with a hands on approach. If you'd like to learn more about how your DSP can benefit from digital out-of-home, book a virtual lunch and learn with our team — snacks are on us!"
+			}
+		}
+	},
+	"form": {
+		"title": "Want a better idea of why and how your dsp can get started with Digital Out-of-Home?",
+		"tagline": "Book a virtual lunch and learn with our team, snacks are on us!"
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"seo": {
+		"title": "Digital Signage Software",
+		"description": "Broadsign's digital signage software makes it easier than ever to buy, sell and deliver digital out-of-home campaigns across the globe."
+	},
+	"Hero": {
+		"title": "Powerful and automated digital signage software",
+		"par": "Broadsign enables DOOH media owners to automate their networks and maximize revenue in real-time.",
+		"cta": "Get Free Trial"
+	},
+	"trustedBy": {
+		"title": "Loved and trusted by the biggest names in OOH"
+	},
+	"whyBroadsign": {
+		"title": "Why choose Broadsign",
+		"feature1": {
+			"title": "Save time",
+			"par": "Save time by automating your network so you can focus on the bigger picture of your business."
+		},
+		"feature2": {
+			"title": "Maximize revenue",
+			"par": "Secure real-time inventory and generate proposals more quickly to win more deals."
+		},
+		"feature3": {
+			"title": "Grow without limits",
+			"par": "Reach your network's full potential with scalable workflows that work for networks of any size."
+		}
+	},
+	"doBetter": {
+		"title": "Do digital signage better with our integrated solutions",
+		"automatedYield": {
+			"title": "OOH sales management",
+			"par": "Optimize your OOH ad sales with intelligent tools and real-time inventory availability."
+		},
+		"contentManagement": {
+			"title": "Automated yield optimization",
+			"par": "Unlock the full value of your inventory with an intelligent, automated system."
+		},
+		"oOHSales": {
+			"title": "Content management",
+			"par": "Automate content delivery and serve content to audiences at the perfect time."
+		},
+		"openAPI": {
+			"title": "Open API",
+			"par": "Connect Broadsign with the tools you love by using our open API."
+		},
+		"programmaticSales": {
+			"title": "Programmatic sales",
+			"par": "Unlock new revenue by connecting inventory to digital buyers worldwide."
+		},
+		"security": {
+			"title": "Industry-leading security",
+			"par": "Keep all your locations safe with industry-leading security baked into our solutions."
+		},
+		"cta": "Get Free Trial"
+	},
+	"quotes": {
+		"title": "See why our customers love us",
+		"q1": {
+			"quote": "With Broadsign, we have the enhanced flexibility, creative capabilities, and planning tools we need to make connections more efficiently and cohesively across our network.",
+			"cite": "Intersection"
+		},
+		"q2": {
+			"quote": "Since our transition to Broadsign, we've been able to streamline our workflow, become more flexible and react more quickly to changes made by advertisers.",
+			"cite": "Lightbox"
+		}
+	},
+	"flexible": {
+		"title": "Get started with flexible and highly reliable DOOH software",
+		"par": "Unlock the full value of your network through automation, business optimization, and support for programmatic transactions.",
+		"cta": "Get Free Trial"
+	},
+	"formTitle": "See Broadsign in action"
+}

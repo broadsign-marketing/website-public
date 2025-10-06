@@ -1,0 +1,104 @@
+{
+	"seo": {
+		"title": "La plateforme qui alimente l'affichage extérieur OOH",
+		"description": "Broadsign permet aux propriétaires de médias d'opérer leurs réseaux de façon performante ainsi que des outils de campagnes directes et programmatiques leur permettant d'optimiser la monétisation de leur inventaire."
+	},
+	"hero": {
+		"title": "La plateforme qui alimente l'affichage extérieur OOH",
+		"blurb": "Broadsign permet aux propriétaires de médias d'opérer leurs réseaux de façon performante ainsi que des outils de campagnes directes et programmatiques leur permettant d'optimiser la monétisation de leur inventaire.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"logos": {
+		"title": "Nous travaillons avec les plus grands noms de l'OOH"
+	},
+	"e2e": {
+		"title": "Des solutions pour une efficacité maximale",
+		"boxes": [
+			{
+				"icon": "box1",
+				"title": "Affichage numérique, statique et programmatique",
+				"par": "Peu importe la campagne, garantie ou non garantie avec un objectif d'impression ou de fréquence, Broadsign facilite la planification de tous les types de campagnes OOH."
+			},
+			{
+				"icon": "box2",
+				"title": "Vous définissez les règles et notre plateforme fait le reste",
+				"par": "Notre lecteur multimédia intelligent facilite la planification et la diffusion de campagnes sur votre réseau."
+			},
+			{
+				"icon": "box3",
+				"title": "Plusieurs SSP, une seule solution de médiation ",
+				"par": "Consolidez votre demande programmatique de plusieurs partenaires SSP avec notre solution de médiation « header bidder » en éliminant le besoin des conteneurs. Que la meilleure enchère gagne!"
+			}
+		]
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Gestion de campagnes et diffusion d'annonces",
+			"title": "Des outils de campagnes perfectionnés qui génèrent plus de revenu",
+			"par": "Optimisez la réservation de l'ensemble de votre réseau d'affichage extérieur en temps réel grâce à l'intelligence et la flexibilité de notre outil intelligent.",
+			"cta": "En savoir plus"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Gestion de contenu et de réseau",
+			"title": "Gagnez du temps en automatisant la gestion de votre réseau",
+			"par": "Nos processus automatisés de gestion de campagnes vous permettent de diffuser le bon contenu au bon moment, tout en vous donnant une visibilité complète sur l'efficacité de ces campagnes, grâce notamment à nos rapports détaillés de performance.",
+			"cta": "En savoir plus"
+		},
+		"staticOperations": {
+			"overtitle": "Campagnes et gestion statiques",
+			"title": "Des processus rationalisés dédiés à vos campagnes publicitaires statiques",
+			"par": "Facilitez votre quotidien avec nos outils conçus pour les procédés de publicité statique. Nous synchronisons en temps réels les tâches d'affichage liées à vos campagnes, mais aussi les niveaux de stock et les communications avec vos afficheurs.",
+			"cta": "En savoir plus"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Plateforme ssp programmatique mondiale",
+			"title": "Augmentez vos revenus programmatiquement ",
+			"par": "Complétez vos ventes directes avec notre outil programmatique qui vous permet d'automatiser une partie de vos ventes en accédant à des acheteurs mondiaux, tout en gardant le contrôle sur le contenu que vous diffusez.",
+			"cta": "En savoir plus"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Affichage numérique de messages locaux",
+			"title": "Des messages locaux plus pertinents et personnalisés",
+			"par": "Permettez aux équipes locales de créer facilement des messages d'affichage numérique adaptés tout en restant fidèles à votre branding grâce à un outil de gestion de contenu personnalisable.",
+			"cta": "En savoir plus"
+		},
+		"audienceCampaigns": {
+			"overtitle": "Campagnes d'audience",
+			"title": "Débloquez de nouvelles opportunités et des revenus supplémentaires",
+			"par": "Le serveur publicitaire de Broadsign vous offre des outils de ciblage sophistiqués pour aider vos équipes de vente à planifier et vendre des campagnes, optimiser votre inventaire et rejoindre votre public-cible aux moments les plus opportuns.",
+			"cta": "En savoir plus"
+		},
+		"new": "Nouveau!",
+		"comingSoon": "Bientôt disponible!"
+	},
+	"plans": {
+		"title": "Des forfaits pour les besoins de tous les réseaux",
+		"boxes": [
+			{
+				"title": "Standard",
+				"description": "Rationalisez votre entreprise avec un logiciel automatisé pour OOH."
+			},
+			{
+				"title": "Professional",
+				"description": "Surveillance en temps réel, messagerie personnalisée, API ouverte."
+			},
+			{
+				"title": "Enterprise",
+				"description": "Vendez plus intelligemment et optimisez le rendement avec des outils intelligents pour l'affichage extérieur."
+			}
+		],
+		"cta": "Comparer nos forfaits"
+	},
+	"shin": {
+		"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+		"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"bookACall": {
+		"title": "Réservez un appel"
+	}
+}

@@ -1,0 +1,235 @@
+@use "sass:color";
+@import "../base/dependencies";
+
+#onetrust-consent-sdk {
+	font-family: Roboto;
+
+	#onetrust-banner-sdk.otFlat {
+		background: linear-gradient(180deg, rgba(#000, 0.9) 0, rgba(27, 21, 21, 1));
+
+		#onetrust-pc-btn-handler.cookie-setting-link {
+			background-color: transparent;
+
+			&:before {
+				background-color: #fff;
+			}
+		}
+	}
+
+	#onetrust-pc-sdk {
+		background: linear-gradient(180deg, rgba(#000, 0.7) 0, rgba(27, 21, 21, 0.9));
+
+		.ot-tgl input {
+			& + .ot-switch .ot-switch-nob {
+				background-color: rgba($teal, 0.2);
+				border: 1px solid $teal;
+				filter: saturate(0) contrast(3);
+
+				&:before {
+					background-color: rgba($teal, 0.8);
+				}
+			}
+
+			&:checked {
+				& + .ot-switch .ot-switch-nob {
+					filter: none;
+				}
+			}
+		}
+	}
+
+	.ot-acc-grpcntr.ot-acc-txt,
+	.ot-acc-txt .ot-subgrp-tgl .ot-switch.ot-toggle {
+		background: linear-gradient(to bottom, rgba(#444, 0.5) 0%, rgba(#222, 0.5) 100%) !important;
+		padding-bottom: 20px;
+	}
+
+	.ot-accordion-layout {
+		&.ot-cat-item .ot-acc-grpdesc {
+			margin-bottom: 10px;
+		}
+	}
+
+	button,
+	#onetrust-banner-sdk button {
+		border-radius: 8px;
+		max-width: 300px;
+	}
+
+	#onetrust-banner-sdk {
+		.ot-sdk-container {
+			margin: 0;
+			padding: 16px;
+			width: 100%;
+		}
+
+		.ot-sdk-row {
+			display: flex;
+			flex-flow: column nowrap;
+			margin: 0 auto;
+			max-width: 1088px;
+
+			#onetrust-group-container {
+				align-content: center;
+				align-items: center;
+				display: flex;
+				flex: 0 0 90%;
+				width: 90%;
+
+				#onetrust-policy {
+					margin: 20px 0;
+
+					.ot-dpd-container {
+						margin-top: 20px;
+					}
+				}
+			}
+
+			#onetrust-button-group-parent {
+				flex: 0 0 100%;
+				left: 0;
+				margin: 30px 0 0;
+				position: relative;
+				top: 0;
+				transform: none;
+
+				#onetrust-button-group {
+					display: flex;
+					flex-flow: column nowrap;
+					height: 100%;
+					justify-content: center;
+					margin: 0;
+				}
+			}
+		}
+
+		&.ot-iab-2 {
+		}
+	}
+
+	#ot-pc-content {
+		.ot-sdk-row.ot-cat-grp {
+			margin-bottom: 40px;
+		}
+	}
+}
+
+@media only screen and (min-width: 500px) {
+	#onetrust-consent-sdk {
+		#onetrust-banner-sdk {
+			.ot-sdk-row {
+				#onetrust-button-group-parent {
+					#onetrust-button-group {
+						align-items: center;
+					}
+
+					button {
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 600px) {
+	#onetrust-consent-sdk {
+		#onetrust-banner-sdk {
+			.ot-sdk-container {
+				padding: 16px 32px;
+			}
+
+			.ot-sdk-row {
+				flex-flow: row nowrap;
+
+				#onetrust-group-container {
+					flex: 0 0 60%;
+					padding-right: 5%;
+					width: 60%;
+
+					#onetrust-policy {
+						margin: 0;
+					}
+
+					#onetrust-policy-text {
+						padding: 0;
+					}
+				}
+
+				#onetrust-button-group-parent {
+					align-items: center;
+					flex: 0 0 35%;
+					margin: 0;
+
+					#onetrust-button-group {
+						align-items: stretch;
+					}
+
+					button {
+						margin: 0 0 10px;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 890px) {
+	#onetrust-consent-sdk {
+		#onetrust-banner-sdk {
+			#onetrust-policy-text {
+				padding-right: 2%;
+			}
+
+			.ot-sdk-row {
+				width: 90%;
+
+				#onetrust-group-container {
+					flex: 0 0 75%;
+					width: 75%;
+				}
+
+				#onetrust-button-group-parent {
+					flex: 0 0 25%;
+					margin: 0;
+					padding: 0;
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+	#onetrust-consent-sdk {
+		#onetrust-banner-sdk {
+			&.ot-iab-2 {
+				.ot-sdk-row {
+					#onetrust-group-container {
+						#onetrust-policy-text {
+							box-sizing: border-box;
+							padding-right: 16px;
+						}
+
+						#onetrust-policy {
+							.ot-dpd-container {
+								box-sizing: border-box;
+								margin-top: 32px;
+								padding-left: 16px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 1280px) {
+	#onetrust-consent-sdk {
+		#onetrust-banner-sdk {
+			#onetrust-button-group button {
+				margin-right: 10px;
+				width: auto;
+			}
+		}
+	}
+}

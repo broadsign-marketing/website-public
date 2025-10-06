@@ -1,0 +1,190 @@
+@use "sass:color";
+@import "../base/dependencies";
+
+.subscribe {
+	$email_field_height: 42px;
+
+	.hero {
+		h1 {
+			max-width: 24ch;
+		}
+	}
+
+	.send_btn {
+		height: #{$email_field_height + 2};
+		margin: -1px 0;
+	}
+
+	.included {
+		.email_image {
+			left: auto;
+			position: absolute;
+			right: -10px;
+			top: -20px;
+			width: 60px;
+			z-index: 5;
+		}
+
+		.NeonBox {
+			.inner {
+				padding-left: min(15vw, 60px);
+			}
+		}
+
+		h3 {
+			max-width: calc(100% - 40px);
+		}
+
+		.check {
+			left: min(3vw, 20px);
+			position: absolute;
+			top: min(5vw, 1.2em);
+			width: 1.5em;
+		}
+	}
+
+	.digest_card {
+		transition: box-shadow 0.3s;
+
+		.over {
+			pointer-events: none;
+		}
+
+		.bg-reflex {
+			flex: 0 1 190px;
+			max-height: 190px;
+		}
+
+		.bg-zircon {
+			flex: 1 1 100%;
+		}
+
+		&:hover {
+			box-shadow: 4px 4px 16px rgba($reflex, 0.4);
+		}
+
+		&.deactivated {
+			filter: grayscale(1);
+			opacity: 0.5;
+			pointer-events: none;
+			user-select: none;
+		}
+	}
+
+	.form_card {
+		box-shadow: 4px 4px 16px rgba(#000, 0.2);
+		height: 60vh;
+		max-height: 660px;
+		max-width: 540px;
+		width: calc(100vw - 32px);
+	}
+}
+
+#subscribe_community_digest {
+	.hero_img {
+		max-height: 415px;
+	}
+
+	h1 {
+		img {
+			max-width: 310px;
+			width: 100%;
+		}
+	}
+}
+
+.Modal#digest_subscribe_form {
+	.card {
+		max-width: 540px;
+		padding: 32px 44px;
+		width: calc(100vw - 32px);
+	}
+
+	.Form {
+		/* @include fadeInOnce(0.4s, 1s);
+		opacity: 0; */
+
+		fieldset > .field > label > span {
+			display: none;
+		}
+
+		.legal-consent-container {
+			span,
+			p {
+				@include fontReg;
+				color: $ash;
+				font-size: 14px;
+			}
+
+			.hs-richtext p {
+				@include fontReg;
+				color: $ash;
+				font-size: 12px;
+				padding-left: 2.5em;
+			}
+		}
+	}
+
+	.submitted-form {
+	}
+}
+
+@media (max-width: $xsMax) {
+	.subscribe {
+	}
+}
+
+@media (min-width: $sm) {
+	.subscribe {
+		.included {
+			max-width: 900px;
+
+			.email_image {
+				display: inline-block;
+				flex: 0 0 min(20vw, 160px);
+				left: -16px;
+				position: relative;
+				top: -40px;
+				z-index: 5;
+			}
+
+			ul {
+				margin-left: -40px;
+				z-index: 1;
+			}
+
+			h3 {
+				font-size: 1em;
+			}
+
+			.check {
+				left: 18px;
+				position: absolute;
+				top: 0.95em;
+			}
+		}
+	}
+}
+
+@media (min-width: $md) {
+	.subscribe {
+		.included {
+			max-width: 720px;
+
+			.email_image {
+				display: inline-block;
+				flex: 1 1 auto;
+				left: 30px;
+				position: absolute;
+				top: calc(50% - 50px);
+				transform: translate(-100%, -50%);
+				width: min(15vw, 160px);
+				z-index: 5;
+			}
+
+			ul {
+				margin-left: 0;
+			}
+		}
+	}
+}

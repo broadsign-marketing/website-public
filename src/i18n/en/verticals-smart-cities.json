@@ -1,0 +1,50 @@
+{
+	"seo": {
+		"title": "Digital Signage in Smart City Networks",
+		"description": "Bring smart cities to life with a digital signage platform that supports dynamic, interactive and data-driven content, ads and services."
+	},
+	"cta": {
+		"discoverCampaignPlanning": "Empower your team with Campaign Planning",
+		"discoverGlobalProgrammaticSSP": "Sell programmatically with our Programmatic SSP"
+	},
+	"Hero": {
+		"TitlePart1": "Create the",
+		"TitlePart2": "Cities",
+		"TitlePart3": "of the Future",
+		"Blurb": "Bring smart cities to life with a digital signage platform that supports dynamic, interactive and data-driven content, ads and services.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Useful tools, grateful communities",
+			"Paragraph": "Get the community excited about your network by providing useful smart city services like maps, weather updates, or traffic and transit reports on your screens."
+		},
+		"Pane2": {
+			"Title": "A smart city that pays for itself",
+			"Paragraph": "The smartest cities don't make users pay for access to useful services. Fund a free smart city experience with an ad-supported network of services and screens."
+		},
+		"Pane3": {
+			"Title": "The right people at the right time",
+			"Paragraph": "Get the right content in front of the right people everyday, all across your network. With smart audience targeting features, deliver the most relevant messages that make your city look brilliant."
+		},
+		"Pane4": {
+			"Title": "Flexible options for maximum ad sales",
+			"Paragraph": "With specialized tools for both direct and programmatic ad sales teams, you can exceed revenue targets."
+		}
+	},
+	"Customers": {
+		"Title": "Trusted by visionary smart city networks"
+	},
+	"Quoteblock": {
+		"Quote": "Our digital network provides brands the opportunity to connect with millions of customers on their daily journeys through our largest cities. With Broadsign, we have the enhanced flexibility, creative capabilities, and planning tools to make those connections more efficiently and cohesively across our network.",
+		"Signature": "Intersection"
+	},
+	"Partners": {
+		"Title": "Partnerships for great content",
+		"Tagline": "Create your own content, work with local collaborators, or enhance your screens by working with our digital signage content, wayfinding and audience analytics partners."
+	},
+	"Shin": {
+		"Title": "How can your smart city network benefit from the Broadsign platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

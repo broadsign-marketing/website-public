@@ -1,0 +1,237 @@
+<svg width="195" height="95" viewBox="0 0 195 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<g clip-path="url(#clip0_2015_951)">
+		<path d="M194.56 9.49008C194.56 8.39008 193.67 7.49008 192.56 7.49008H192.45L194.3 3.81008C194.46 3.52008 194.56 3.19008 194.56 2.83008C194.56 1.73008 193.67 0.830078 192.56 0.830078H176.44C175.64 0.830078 174.91 1.31008 174.6 2.05008L165.04 24.5901L155.45 2.05008C155.14 1.31008 154.41 0.830078 153.61 0.830078H137.58C136.89 0.830078 136.24 1.19008 135.88 1.78008C135.52 2.37008 135.48 3.11008 135.79 3.73008L137.68 7.49008H137.58C136.89 7.49008 136.24 7.85008 135.88 8.44008C135.52 9.03008 135.48 9.77008 135.79 10.3901L137.68 14.1501H137.58C136.89 14.1501 136.24 14.5101 135.88 15.1001C135.52 15.6901 135.48 16.4301 135.79 17.0501L137.68 20.8101H137.58C136.89 20.8101 136.24 21.1701 135.88 21.7601C135.52 22.3501 135.48 23.0901 135.79 23.7101L137.68 27.4701H137.58C136.89 27.4701 136.24 27.8301 135.88 28.4201C135.52 29.0101 135.48 29.7501 135.79 30.3701L155.48 69.6201V91.3801C155.48 92.4801 156.38 93.3801 157.48 93.3801H172.62C173.72 93.3801 174.62 92.4801 174.62 91.3801V69.6201L194.31 30.4501C194.47 30.1601 194.57 29.8301 194.57 29.4701C194.57 28.3701 193.68 27.4701 192.57 27.4701H192.46L194.31 23.7901C194.47 23.5001 194.57 23.1701 194.57 22.8101C194.57 21.7101 193.68 20.8101 192.57 20.8101H192.46L194.31 17.1301C194.47 16.8401 194.57 16.5101 194.57 16.1501C194.57 15.0501 193.68 14.1501 192.57 14.1501H192.46L194.31 10.4701C194.47 10.1801 194.57 9.85008 194.57 9.49008H194.56ZM137.58 2.83008H153.61L165.05 29.7001L176.45 2.83008H192.56L172.62 42.5001V64.7401H157.48V42.5001L140.92 9.49008L139.92 7.49008L137.58 2.83008ZM172.62 84.7101H157.48V80.0501H172.62V84.7101ZM172.62 78.0501H157.48V73.3901H172.62V78.0501ZM172.62 71.3901H157.48V66.7301H172.62V71.3901ZM137.58 9.48008H138.68L155.48 42.9701V45.1701L140.92 16.1401L139.92 14.1401L137.58 9.48008ZM137.58 16.1401H138.68L155.48 49.6301V51.8301L140.92 22.8001L139.92 20.8001L137.58 16.1401ZM137.58 22.8001H138.68L155.48 56.2901V58.4901L140.92 29.4601L139.92 27.4601L137.58 22.8001ZM137.58 29.4601H138.68L155.48 62.9501V65.1501L137.58 29.4701V29.4601ZM172.62 91.3701H157.48V86.7101H172.62V91.3701ZM192.56 29.4601L174.62 65.1501V62.9501L191.45 29.4601H192.56ZM192.56 22.8001L174.62 58.4901V56.2901L191.45 22.8001H192.56ZM192.56 16.1401L190.22 20.8001L189.21 22.8001L174.61 51.8401V49.6401L191.44 16.1501H192.55L192.56 16.1401ZM190.22 14.1401L190.16 14.2501L174.62 45.1701V42.9701L191.45 9.48008H192.56L190.22 14.1401Z" fill="url(#paint0_linear_2015_951)" />
+		<path d="M128.06 32.23C128.03 25.99 126.79 20.37 124.39 15.5C121.95 10.57 118.47 6.71 114.05 4.03C109.64 1.35 104.57 0 98.9797 0C93.3897 0 88.2097 1.37 83.7597 4.08C79.2897 6.79 75.8196 10.69 73.4296 15.66C71.0796 20.54 69.8896 26.24 69.8896 32.58V36.07C69.8896 36.42 69.9197 36.77 69.9397 37.12C69.9097 37.82 69.8896 38.52 69.8896 39.24V42.73C69.8896 43.1 69.9197 43.46 69.9397 43.83C69.9097 44.51 69.8896 45.2 69.8896 45.9V49.39C69.8896 49.77 69.9197 50.13 69.9397 50.5C69.9097 51.18 69.8896 51.86 69.8896 52.56V56.05C69.8896 56.43 69.9197 56.79 69.9397 57.16C69.9097 57.84 69.8896 58.52 69.8896 59.22V62.71C70.0096 68.86 71.2896 74.38 73.6996 79.13C76.1396 83.96 79.6097 87.73 84.0097 90.34C88.3897 92.94 93.4496 94.26 99.0596 94.26C104.67 94.26 109.77 92.9 114.19 90.21C118.63 87.51 122.1 83.61 124.5 78.63C126.86 73.73 128.06 68.05 128.06 61.73V58.88C128.06 58.26 128.04 57.65 128.01 57.05C128.04 56.4 128.06 55.74 128.06 55.07V52.22C128.06 51.6 128.04 50.99 128.01 50.39C128.04 49.74 128.06 49.08 128.06 48.41V45.56C128.06 44.94 128.04 44.33 128.01 43.72C128.04 43.07 128.06 42.41 128.06 41.75V38.9C128.06 38.29 128.04 37.69 128.01 37.09C128.04 36.43 128.06 35.77 128.06 35.09V32.24V32.23ZM73.6996 65.79C76.1396 70.62 79.6097 74.39 84.0097 77C88.3897 79.6 93.4496 80.92 99.0596 80.92C104.67 80.92 109.77 79.56 114.19 76.87C118.63 74.17 122.1 70.27 124.5 65.29C124.74 64.79 124.96 64.28 125.17 63.77C124.61 66.37 123.79 68.81 122.7 71.08C120.46 75.73 117.28 79.31 113.15 81.82C109.03 84.33 104.33 85.58 99.0596 85.58C93.7896 85.58 89.1096 84.37 85.0296 81.94C80.9496 79.51 77.7697 76.05 75.4797 71.55C74.2597 69.15 73.3696 66.55 72.7696 63.78C73.0596 64.47 73.3696 65.14 73.6996 65.8V65.79ZM72.7696 57.11C73.0596 57.8 73.3696 58.47 73.6996 59.13C76.1396 63.96 79.6097 67.73 84.0097 70.34C88.3897 72.94 93.4496 74.26 99.0596 74.26C104.67 74.26 109.77 72.9 114.19 70.21C118.63 67.51 122.1 63.61 124.5 58.63C124.74 58.13 124.96 57.62 125.17 57.11C124.61 59.71 123.79 62.15 122.7 64.42C120.46 69.07 117.28 72.65 113.15 75.16C109.03 77.67 104.33 78.92 99.0596 78.92C93.7896 78.92 89.1096 77.71 85.0296 75.28C80.9496 72.85 77.7697 69.39 75.4797 64.89C74.2597 62.49 73.3696 59.9 72.7696 57.12V57.11ZM122.7 57.76C120.46 62.41 117.28 65.99 113.15 68.5C109.03 71.01 104.33 72.26 99.0596 72.26C93.7896 72.26 89.1096 71.05 85.0296 68.62C80.9496 66.19 77.7697 62.73 75.4797 58.23C74.2597 55.83 73.3696 53.23 72.7696 50.46C73.0596 51.15 73.3696 51.82 73.6996 52.48C76.1396 57.31 79.6097 61.08 84.0097 63.69C88.3897 66.29 93.4496 67.61 99.0596 67.61C104.67 67.61 109.77 66.25 114.19 63.56C118.63 60.86 122.1 56.96 124.5 51.98C124.74 51.48 124.96 50.97 125.17 50.46C124.61 53.06 123.79 55.5 122.7 57.77V57.76ZM122.7 77.73C120.46 82.38 117.28 85.96 113.15 88.47C109.03 90.98 104.33 92.23 99.0596 92.23C93.7896 92.23 89.1096 91.02 85.0296 88.59C80.9496 86.16 77.7697 82.7 75.4797 78.2C74.2597 75.8 73.3696 73.2 72.7696 70.43C73.0596 71.12 73.3696 71.79 73.6996 72.45C76.1396 77.28 79.6097 81.05 84.0097 83.66C88.3897 86.26 93.4496 87.58 99.0596 87.58C104.67 87.58 109.77 86.22 114.19 83.53C118.63 80.83 122.1 76.93 124.5 71.95C124.74 71.45 124.96 70.94 125.17 70.43C124.61 73.03 123.79 75.47 122.7 77.74V77.73ZM125.83 27.95V27.97C125.9 28.65 125.96 29.34 125.99 30.04C126.03 30.75 126.05 31.48 126.05 32.21V35.06C126.05 35.68 126.02 36.28 125.99 36.88C125.99 36.97 125.99 37.07 125.99 37.16C125.76 42.34 124.66 46.99 122.68 51.09C120.44 55.74 117.26 59.32 113.13 61.83C109.01 64.34 104.31 65.59 99.0396 65.59C93.7696 65.59 89.0897 64.38 85.0097 61.95C80.9297 59.52 77.7496 56.06 75.4596 51.56C73.3196 47.34 72.1496 42.53 71.9196 37.15C71.9196 37.14 71.9196 37.12 71.9196 37.11C71.8996 36.75 71.8797 36.4 71.8697 36.04V32.55C71.8697 31.77 71.8896 31.01 71.9296 30.26C71.9296 30.19 71.9396 30.12 71.9496 30.04C71.9896 29.35 72.0296 28.68 72.0996 28.01C72.0996 28 72.0996 27.99 72.0996 27.97C72.2496 26.51 72.4697 25.11 72.7597 23.74C73.3197 21.16 74.1296 18.74 75.2096 16.49C77.4296 11.86 80.6196 8.28 84.7796 5.76C88.9296 3.24 93.6596 1.97 98.9596 1.97C104.26 1.97 108.88 3.22 112.99 5.71C117.1 8.2 120.3 11.75 122.58 16.36C123.74 18.7 124.6 21.22 125.18 23.9C125.46 25.2 125.67 26.54 125.82 27.92L125.83 27.95Z" fill="url(#paint1_linear_2015_951)" />
+		<path d="M98.9801 13.6899C91.5001 13.6899 87.5401 19.2999 87.1201 30.5299L87.0801 35.0799C87.0801 36.0799 87.1201 37.0299 87.1701 37.9599C87.1901 38.3199 87.2101 38.6799 87.2401 39.0199C87.2701 39.3299 87.3001 39.6199 87.3301 39.9199C87.3601 40.1999 87.3901 40.4899 87.4301 40.7599C87.4701 41.0699 87.5201 41.3799 87.5601 41.6799C87.6001 41.8999 87.6401 42.1199 87.6801 42.3399C87.7901 42.9099 87.9101 43.4699 88.0401 43.9999C88.1701 44.5199 88.3201 45.0199 88.4801 45.4999C88.5101 45.6099 88.5501 45.7199 88.5801 45.8199C88.5801 45.8499 88.6001 45.8699 88.6101 45.8999C88.6101 45.8999 88.6101 45.9199 88.6201 45.9299C88.7001 46.1699 88.7901 46.3999 88.8801 46.6299C88.9301 46.7499 88.9801 46.8699 89.0301 46.9999C89.0301 47.0099 89.0301 47.0199 89.0401 47.0299C89.1301 47.2399 89.2201 47.4499 89.3101 47.6499C89.3701 47.7799 89.4401 47.8999 89.5001 48.0299C89.6801 48.3899 89.8701 48.7399 90.0701 49.0699C92.0801 52.3299 95.0701 53.9599 99.0401 53.9599C102.7 53.9599 105.54 52.4399 107.57 49.4099C107.63 49.3199 107.7 49.2399 107.75 49.1499C107.96 48.8199 108.15 48.4799 108.33 48.1199C108.42 47.9599 108.5 47.7899 108.58 47.6199C108.63 47.5199 108.68 47.3999 108.72 47.2999C108.79 47.1399 108.87 46.9799 108.94 46.8099C109.05 46.5499 109.15 46.2899 109.25 46.0199C109.31 45.8499 109.37 45.6799 109.43 45.4999C109.53 45.2099 109.62 44.9199 109.71 44.6199C109.75 44.4799 109.78 44.3399 109.82 44.1999C109.84 44.1299 109.86 44.0599 109.88 43.9899C110.15 42.9299 110.37 41.7799 110.52 40.5599C110.54 40.4299 110.56 40.2999 110.57 40.1599C110.62 39.7399 110.66 39.3099 110.7 38.8799C110.71 38.7399 110.72 38.6099 110.73 38.4699C110.8 37.4699 110.85 36.4399 110.86 35.3399V32.4899C110.86 26.3399 109.83 21.6699 107.78 18.4799C105.73 15.2899 102.78 13.6999 98.9601 13.6999L98.9801 13.6899ZM98.9801 15.6899C102.11 15.6899 104.44 16.9499 106.12 19.5599C107.21 21.2499 107.97 23.4799 108.42 26.1899C108.23 25.8199 108.02 25.4699 107.81 25.1299C105.76 21.9399 102.81 20.3499 98.9901 20.3499C94.6801 20.3499 91.5401 22.2299 89.5701 25.9599C91.2701 15.6999 96.9601 15.6999 98.9901 15.6999L98.9801 15.6899ZM107.8 31.7899C105.75 28.5999 102.8 27.0099 98.9801 27.0099C94.6601 27.0099 91.5301 28.8999 89.5601 32.6399C91.2501 22.3599 96.9501 22.3499 98.9801 22.3499C102.11 22.3499 104.44 23.6099 106.12 26.2199C107.21 27.9099 107.97 30.1399 108.42 32.8699C108.22 32.4999 108.02 32.1299 107.8 31.7899ZM108.42 39.5199C108.23 39.1499 108.02 38.7899 107.8 38.4499C105.75 35.2599 102.8 33.6699 98.9801 33.6699C94.6701 33.6699 91.5301 35.5499 89.5601 39.2799C91.2601 29.0199 96.9501 29.0099 98.9801 29.0099C102.11 29.0099 104.44 30.2699 106.12 32.8799C107.21 34.5699 107.97 36.7999 108.42 39.5299V39.5199ZM90.0401 43.6999C92.1401 35.6699 97.1101 35.6699 98.9901 35.6699C102.12 35.6699 104.45 36.9299 106.13 39.5399C106.88 40.6999 107.47 42.1199 107.91 43.7799C107.81 44.1399 107.71 44.4899 107.6 44.8199C105.56 41.8399 102.69 40.3299 98.9901 40.3299C95.2901 40.3299 92.3201 41.8099 90.3401 44.7099C90.2401 44.3899 90.1401 44.0499 90.0501 43.7099L90.0401 43.6999ZM106.1 48.0799C104.44 50.6899 102.14 51.9599 99.0701 51.9599C95.8201 51.9599 93.4401 50.6699 91.8001 48.0199C91.6101 47.7099 91.4301 47.3799 91.2601 47.0399C93.6701 42.3299 97.4101 42.3299 98.9801 42.3299C102.11 42.3299 104.44 43.5899 106.12 46.1999C106.31 46.4899 106.48 46.7999 106.64 47.1199C106.47 47.4599 106.29 47.7899 106.09 48.0899L106.1 48.0799Z" fill="url(#paint2_linear_2015_951)" />
+		<path d="M53.72 0.830078H38.89C37.77 0.830078 36.87 1.74008 36.87 2.85008V25.3801H18.95V2.85008C18.95 1.73008 18.05 0.830078 16.93 0.830078H2.02C0.9 0.830078 0 1.74008 0 2.85008V91.0101C0 92.1301 0.9 93.0301 2.02 93.0301H16.94C18.06 93.0301 18.96 92.1201 18.96 91.0101V67.2001H36.88V91.0101C36.88 92.1301 37.78 93.0301 38.9 93.0301H53.73C54.85 93.0301 55.75 92.1201 55.75 91.0101V2.85008C55.75 1.73008 54.85 0.830078 53.73 0.830078H53.72ZM2.02 2.85008H16.94V27.4101H38.9V2.85008H53.73V64.7201H38.9V38.8901H16.94V64.7201H2.02V29.1401V27.1201V22.5701V20.5501V16.0001V13.9801V9.43008V7.41008V2.85008ZM53.72 84.4301H38.89V79.8801H53.72V84.4301ZM36.87 45.4501H18.95V40.9001H36.87V45.4501ZM36.87 47.4701V52.0201H18.95V47.4701H36.87ZM36.87 54.0401V58.5901H18.95V54.0401H36.87ZM53.72 77.8501H38.89V73.3001H53.72V77.8501ZM53.72 71.2801H38.89V66.7301H53.72V71.2801ZM16.93 84.4301H2.02V79.8801H16.94V84.4301H16.93ZM16.93 77.8601H2.02V73.3101H16.94V77.8601H16.93ZM16.93 71.2901H2.02V66.7401H16.94V71.2901H16.93ZM16.93 91.0101H2.02V86.4601H16.94V91.0101H16.93ZM18.95 65.1801V60.6301H36.87V65.1801H18.95ZM53.71 91.0101H38.88V86.4601H53.71V91.0101Z" fill="url(#paint3_linear_2015_951)" />
+	</g>
+	<defs>
+		<linearGradient id="paint0_linear_2015_951" x1="135.58" y1="47.1001" x2="194.56" y2="47.1001" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-1.97;.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-1.4;.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-1.31;.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-1.18;.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-1.08;.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-1.03;.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-.97;1.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-.92;1.08" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-.82;1.18" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-.69;0.31" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-.6;1.4" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-.03;1.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values=".03;2.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values=".6;2.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values=".69;2.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values=".82;2.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values=".92;2.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values=".97;2.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+		</linearGradient>
+		<linearGradient id="paint1_linear_2015_951" x1="69.8896" y1="47.12" x2="128.06" y2="47.12" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-1.97;.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-1.4;.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-1.31;.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-1.18;.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-1.08;.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-1.03;.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-.97;1.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-.92;1.08" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-.82;1.18" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-.69;0.31" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-.6;1.4" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-.03;1.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values=".03;2.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values=".6;2.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values=".69;2.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values=".82;2.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values=".92;2.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values=".97;2.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+		</linearGradient>
+		<linearGradient id="paint2_linear_2015_951" x1="70.9901" y1="33.8299" x2="129.58" y2="33.8299" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-1.97;.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-1.4;.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-1.31;.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-1.18;.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-1.08;.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-1.03;.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-.97;1.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-.92;1.08" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-.82;1.18" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-.69;0.31" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-.6;1.4" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-.03;1.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values=".03;2.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values=".6;2.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values=".69;2.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values=".82;2.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values=".92;2.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values=".97;2.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+		</linearGradient>
+		<linearGradient id="paint3_linear_2015_951" x1="0" y1="46.9301" x2="55.75" y2="46.9301" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-1.97;.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-1.4;.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-1.31;.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-1.18;.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-1.08;.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-1.03;.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values="-.97;1.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values="-.92;1.08" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values="-.82;1.18" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values="-.69;0.31" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values="-.6;1.4" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values="-.03;1.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#FF0000">
+				<animate attributeName="offset" values=".03;2.03" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0505a9">
+				<animate attributeName="offset" values=".6;2.6" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0538bf">
+				<animate attributeName="offset" values=".69;2.69" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#0585e1">
+				<animate attributeName="offset" values=".82;2.82" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05b5f6">
+				<animate attributeName="offset" values=".92;2.92" dur="3s" repeatCount="indefinite" />
+			</stop>
+			<stop stop-color="#05c8ff">
+				<animate attributeName="offset" values=".97;2.97" dur="3s" repeatCount="indefinite" />
+			</stop>
+		</linearGradient>
+		<clipPath id="clip0_2015_951">
+			<rect width="194.56" height="94.24" fill="white" />
+		</clipPath>
+	</defs>
+</svg>

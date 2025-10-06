@@ -1,0 +1,99 @@
+{
+	"seo": {
+		"title": "Quick Service Restaurants",
+		"description": "Boost top-of-mind awareness for your restaurants with DOOH ads that run during peak hours or as consumers move about their daily journey - day or night!"
+	},
+	"apSlug": "qsr",
+	"apLink": "347",
+	"apToken": "6ZBchFkZsVfss3g1dao6qQXsHLM33ajjn442OzbY0YSC6fAQqV1B9Ei1FNJT",
+	"playbookLink": "mapk",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Quick Service Restaurants",
+		"blurb": "Boost top-of-mind awareness for your restaurants with DOOH ads that run during peak hours or as consumers move about their daily journey - day or night!",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Quick Service Restaurants package",
+			"ppcTitle": "Want a tour of the Quick Service Restaurants package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Foodies"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Restaurants", "Office towers", "Business parks"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Game day schedules", "Lunch hour schedules"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Restaurants, bars and food courts",
+				"outdoor": "Billboard, urban panels and transit shelters within proximity to restaurants"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "Weather Moments",
+				"content": "Play relevant ads based on warm or cold weather conditions that strategically promote your menu items"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"QSR\" audience segments",
+		"list": [
+			{
+				"category": "Foodies",
+				"description": "Foodies are predominantly working professionals in the 25-34 age range with household incomes of $40k+. They often look to apps and social media for restaurant recommendations and reviews, and like sharing their latest finds."
+			},
+			{
+				"category": "Restaurant hoppers",
+				"description": "Restaurant Hoppers are predominantly working professionals in the 25-44 age range, with household incomes of $40k+. Like Foodies, they often look to apps and social media for recommendations and reviews."
+			},
+			{
+				"category": "Commuters",
+				"description": "Commuters are predominantly 25-54 years old. They're working 9-5 and are often cost-conscious individuals. Their average household income is $40k+."
+			},
+			{
+				"category": "Fast food patrons",
+				"description": "Fast Food Patrons are predominantly workers in the 25-44 age range. Their average household income is $40k or less. They usually have their favourite fast food restaurants on speed dial or use an app to order from their preferred spot."
+			},
+			{
+				"category": "Coffee connoisseurs",
+				"description": "Coffee Connoisseurs are predominantly working professionals in the 25-44 age range. Their average household income is $40k+. On their way to work, they can often be seen grabbing a cup of joe with a warm pastry."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Reach fast-food consumers throughout their daily journey",
+		"list": [
+			"Advertise special offers or limited time promotions to draw consumers into specific locations",
+			"Target specific audience segments like travellers or late-night diners with contextually relevant DOOH ads",
+			"Activate DOOH ads in highly-visible and high-traffic locations close to your restaurant to boost foot traffic"
+		]
+	},
+	"playbook": {
+		"title": "Drive restaurant visits with digital out-of-home ",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Quick Service Restaurants package" }
+}

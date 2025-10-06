@@ -1,0 +1,59 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les communications internes",
+		"description": "Illuminez vos lobby et livrez l'information dont votre équipe à besoin avec l'affichage numérique alimenté par Broadsign."
+	},
+	"Hero": {
+		"TitlePart1": "L'Affichage Numérique qui",
+		"TitlePart2": "Communications Internes",
+		"TitlePart3": "améliore et illumine les",
+		"TitlePart1Mobile": "L'Affichage Numérique qui",
+		"TitlePart2Mobile": "Communications _Internes_",
+		"TitlePart3Mobile": "améliore et illumine les",
+		"Blurb": "Améliorez les communications internes grâce à un système d'affichage numérique qui diffuse des messages créatifs et des images attrayantes qui feront tourner les têtes.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Motivez les troupes",
+			"Paragraph": "Soulignez les grandes et les petites victoires au sein de votre réseau afin de stimuler la productivité et la satisfaction des employés."
+		},
+		"Pane2": {
+			"Title": "Des nouvelles qui intéresseront votre équipe",
+			"Paragraph": "Permettez aux entreprises de rester à l‘affût des dernières nouvelles qui touchent leur secteur en diffusant du contenu à jour provenant des médias sociaux ou de fils RSS."
+		},
+		"Pane3": {
+			"Title": "Des données pour tous",
+			"Paragraph": "Augmentez votre transparence et améliorez la confiance des équipes envers leur entreprise en diffusant des renseignements organisationnels clés à l'échelle du réseau de diffusion interne."
+		},
+		"Pane4": {
+			"Title": "Diffusez des messages locaux en toute simplicité",
+			"Paragraph": "Utilisez des gabarits pour diffuser en toute simplicité des messages sur les écrans de votre réseau, que vous cherchiez à faire la promotion de conférences ou d'événements spéciaux, ou à informer votre public d'une urgence."
+		}
+	},
+	"SpielPosterVisitor": {
+		"title": "Montrez le chemin à vos visiteurs",
+		"text": "Éliminez les incertitudes liées aux déplacements dans un grand bureau ou un immense complexe grâce à des écrans d'orientation qui fournissent des indications personnalisées."
+	},
+	"cards": {
+		"title": "Des options flexibles pour maximiser les ventes de publicité",
+		"par": "Grâce à des outils spécialisés destinés aux équipes de ventes directes et programmatiques, dépassez vos objectifs de vente et rejoignez de nouveaux acheteurs.",
+		"direct": "Dotez vos équipes de vente de nouvelles capacités grâce à Broadsign Direct ",
+		"reach": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Quoteblock": {
+		"Quote": "La plateforme Broadsign permet de programmer divers paramètres, et nous en sommes très satisfaits. Aucun besoin de modifier l'horaire : il suffit de régler les paramètres de diffusion, et le système s'occupe du reste. Pour nous, c'est un avantage qui change tout. ",
+		"Signature": "Plaxma Visual Media"
+	},
+	"Customers": {
+		"Title": "Une solution adoptée par les principaux réseaux d'affichage numérique"
+	},
+	"Partners": {
+		"Title": "Du contenu et des données d'une grande qualité",
+		"Tagline": "Perfectionnez vos communications internes grâce au contenu de nos partenaires, et utilisez nos solutions d'analyse pour découvrir ce qui rejoint le plus votre équipe."
+	},
+	"Shin": {
+		"Title": "En quoi la plateforme Broadsign convient-elle à votre réseau de communication interne?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

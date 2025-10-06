@@ -1,0 +1,26 @@
+{
+	"seo": {
+		"title": "Get updates from Broadsign",
+		"description": "",
+		"robots": "noindex nofollow"
+	},
+	"hero": {
+		"overtitle": "Made for Broadsign users",
+		"title": "The Broadsign Community Digest",
+		"blurb": "Get the latest Broadsign Platform updates and feature-related content in our quarterly round-up, keeping you up-to-date with the latest trends and strategies to maximize the potential of your OOH assets.",
+		"cta": "Subscribe"
+	},
+	"pastEditions": {
+		"overtitle": "In case you missed it",
+		"title": "Past Editions"
+	},
+	"form": {
+		"inputPlaceholder": "Please enter your email address",
+		"header": "Subscribe to the Broadsign Community Digest"
+	},
+	"thankYou": {
+		"title": "Thanks for subscribing!",
+		"par": "You are now subscribed to the Broadsign Community Digest."
+	},
+	"invalidEmail": "Please enter a valid email address"
+}

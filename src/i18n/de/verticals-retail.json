@@ -1,0 +1,109 @@
+{
+	"seo": {
+		"title": "In-Store-Einzelhandelsmedien",
+		"description": "Binden Sie Kunden mit gezielter, kontextbezogener Werbung auf digitalen Displays, die von Broadsign unterstützt werden. Integrieren Sie In-Store-Werbung nahtlos in Ihr Mediennetzwerk, um eine vernetzte Omnichannel-Reise zu schaffen, die das Engagement steigert, den Warenkorbwert erhöht und neue Umsatzchancen erschließt."
+	},
+	"hero": {
+		"overtitle": "In-Store-Einzelhandelsmedien",
+		"title": "Erschließen Sie neue Umsätze mit digitaler Werbung in Ihren Geschäften",
+		"blurb": "Binden Sie Kunden mit gezielter, kontextbezogener Werbung auf digitalen Displays, die von Broadsign unterstützt werden. Integrieren Sie In-Store-Werbung nahtlos in Ihr Mediennetzwerk, um eine vernetzte Omnichannel-Reise zu schaffen, die das Engagement steigert, den Warenkorbwert erhöht und neue Umsatzchancen erschließt.",
+		"cta": "Nehmen Sie Kontakt mit uns auf!"
+	},
+	"clients": {
+		"overtitle": "Einzelhandelsmediennetzwerke im Geschäft, unterstützt durch Broadsign"
+	},
+	"experiences": {
+		"title": "Omnichannel-Einkaufserlebnisse, die Kunden binden",
+		"source": "Quelle",
+
+		"boxes": [
+			{
+				"id": "decisions",
+				"num": "80",
+				"par": "der Kaufentscheidungen werden im Geschäft getroffen. Für Einzelhändler muss es daher Priorität sein, das Einkaufserlebnis im Geschäft als wichtige Wachstumschance möglichst positiv zu gestalten. Quelle: Marketing Dive",
+				"source": "Marketing Dive"
+			},
+			{
+				"id": "value",
+				"num": "30",
+				"par": "höherer Lifetime Value bei Omnichannel-Käufern, da die Integration von Onsite-, Offsite- und In-Store-Touchpoints den Umsatz und die Loyalität steigert. Quelle: McKinsey",
+				"source": "McKinsey"
+			},
+			{
+				"id": "consumers",
+				"num": "63",
+				"par": "steigt die Kaufwahrscheinlichkeit, wenn Verbraucher zeitnahe Werbung sehen, was digitale Medien im Geschäft zu einem wirkungsvollen Mittel für Marken macht, Kunden zu erreichen.",
+				"source": "Nielsen"
+			}
+		]
+	},
+	"features": {
+		"overtitle": "In-Store-Einzelhandelsmedien",
+		"title": "Fördern Sie Geschäfts- und Kundenwachstum mit digitaler Werbung in Geschäften",
+
+		"list": [
+			{
+				"id": "convert_shoppers",
+				"overtitle": "Käufer Gewinnen",
+				"title": "Schaffen Sie ein umfassendes und ansprechendes Einkaufserlebnis",
+				"blurb": "Verwandeln Sie Ihr Geschäft in eine immersive Einkaufswelt mit dynamischen, personalisierten Inhalten, die Kunden in Erinnerung bleiben, die Kaufentscheidung beeinflussen und die Käuferbindung stärken."
+			},
+			{
+				"id": "boost_shopping_cart_value",
+				"overtitle": "Steigern Sie Den Warenkorbwert",
+				"title": "Beeinflussen Sie das Kaufverhalten durch zeitnahe Botschaften, die die Kauflust steigern.",
+				"blurb": "Nutzen Sie Daten in Echtzeit, um zielgenaue Werbung anzubieten, die den Kaufimpuls und die Kaufentscheidung im richtigen Moment herbeiführen, und so Konversion und Verkauf maximieren."
+			},
+			{
+				"id": "new_revenue_streams",
+				"overtitle": "Neue Einnahmequelle",
+				"title": "Monetarisieren Sie die Bildschirme Ihres Geschäfts mit endemischen und nicht-endemischen Anzeigen",
+				"blurb": "Verwandeln Sie Ihre digitalen Bildschirme in einen Umsatzmotor, indem Sie Werbeflächen an Markenpartner verkaufen und gleichzeitig die Kontrolle über die Inhalte behalten, die die Kundenbindung und den Umsatz fördern."
+			}
+		]
+	},
+	"platform": {
+		"overtitle": "Die Broadsign-Plattform",
+		"title": "Mit intelligenter Automatisierung, Planung von Inhalten, Anzeigenbereitstellung und Kampagnenmanagement kann unsere Plattform die schwere Arbeit für Sie übernehmen.",
+		"boxes": [
+			{
+				"id": "automate",
+				"title": "Automatisieren Sie die Planung und das Inhaltsangebot mit der richtigen Kampagne zur richtigen Zeit",
+				"par": "Automatisieren Sie die Planung und das Angebot von Anzeigen, um Inhalte mühelos über ihr Filialnetz zu verteilen – landesweit, regional oder auf Filialebene –, damit Sie die Wirkung von Kampagnen maximieren können, die messbare Ergebnisse liefern."
+			},
+			{
+				"id": "boost",
+				"title": "Steigern Sie das Engagement in lokalen Geschäften, um den Umsatz zu steigern",
+				"par": "Geben Sie Ihren Geschäften die Möglichkeit, digitale Inhalte zu erstellen, die das Engagement steigern, die Kundenfrequenz erhöhen und mit Ihrer Marke übereinstimmen. Präsentieren Sie regionale Sortimente und fördern Sie lokale Landwirte für einen lokalen Bezug, während Einzelhändler die Kontrolle über die Bildschirminhalte behalten, um Konsistenz und Relevanz sicherzustellen."
+			},
+			{
+				"id": "endless",
+				"title": "Unendliche Werbemöglichkeiten",
+				"par": "Unser offenes API-Ökosystem lässt sich nahtlos in E-Commerce, Point-of-Sale- und Inventarsysteme integrieren, um datengesteuerte Inhalte in Echtzeit zu liefern, die das Einkaufserlebnis der Kunden verbessern."
+			},
+			{
+				"id": "programmatic",
+				"title": "Programmatische Werbung, wie Sie es wünschen",
+				"par": "Monetarisieren Sie Ihre Bildschirme mit programmatischer Werbung und behalten Sie dabei die volle Kontrolle über den Inhalt, um ein nahtloses In-Store-Erlebnis zu gewährleisten. Passen Sie Angebote an Ihre unternehmerischen Bedürfnisse an und behalten Sie die volle Kontrolle. So können Sie Ihre Strategie der inkrementellen Verkäufe flexibel unterstützen und den Ertrag maximieren."
+			}
+		]
+	},
+	"relatedPosts": {
+		"overtitle": "Blog",
+		"title": "Erfahren Sie mehr über In-Store-Retail-Media-Netzwerke",
+		"readMore": "Artikel lesen"
+	},
+	"shin": {
+		"title": "Starten Sie Ihr In-Store-Retail-Media-Netzwerk",
+		"par": "Entdecken Sie, wie Broadsign Ihnen helfen kann, den Umsatz zu maximieren und ein ansprechendes Einkaufserlebnis im Geschäft zu bieten.",
+		"cta": "Büchen Sie einen Anruf"
+	},
+	"forms": {
+		"bookACall": {
+			"title": "Büchen Sie einen Anruf und starten Sie Ihr In-Store-Retail-Media-Netzwerk",
+			"thankYou": ""
+		}
+	},
+	"learnMore": "Mehr erfahren",
+	"seeMore": "Mehr sehen"
+}

@@ -1,0 +1,102 @@
+{
+	"seo": {
+		"title": "Retail",
+		"description": "Influence point-of-purchase and e-commerce sales with high-impact DOOH ads along the path-to-purchase that drive brand awareness and capture consumer interest in priority markets."
+	},
+	"apSlug": "retail",
+	"apLink": "344",
+	"apToken": "tMFSUePCqUBeQb3iTbafkz6vaiIGVuVcYiQHfjVzxq9TwJZy4HoAiXpiAyDi",
+	"playbookLink": "xkzj",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Retail",
+		"blurb": "Influence point-of-purchase and e-commerce sales with high-impact DOOH ads along the path-to-purchase that drive brand awareness and capture consumer interest in priority markets.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Retail package",
+			"ppcTitle": "Want a tour of the Retail package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Retail Shoppers"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Malls", "Restaurants", "College & Universities"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Shopping patterns", "Weekend shopping"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Malls, pharmacies and convenience stores",
+				"outdoor": "Billboard, urban panels and transit shelters within shopping distance of retail stores"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Retail Shoppers\" audience segments",
+		"list": [
+			{
+				"category": "Bargain shoppers",
+				"description": "Bargain Shoppers tend to range from 55-64 years old. They love a good sale and are always on the hunt for deals."
+			},
+			{
+				"category": "Daily deals consumers",
+				"description": "Daily Deal Consumers are primarily women evenly distributed across all age ranges. They love a good sale and can also shop using coupons."
+			},
+			{
+				"category": "Auction shoppers",
+				"description": "Auction Shoppers include a fairly even split between genders across all age groups, but most likely in the 55-64-year-old age group."
+			},
+			{
+				"category": "Department store shoppers",
+				"description": "Department Store Shoppers are primarily women and are most likely in the 55-64 age range. You will likely see this group of shoppers in-store looking for the next best thing."
+			},
+			{
+				"category": "Holiday shoppers",
+				"description": "Holiday Shoppers appear each year as the holiday season begins to approach. This seasonal segment includes slightly more women than men across all age groups."
+			},
+			{
+				"category": "Flower shoppers",
+				"description": "Flower Shoppers are reasonably evenly distributed across all genders, and nearly half of this audience appears in the 25-34 year old age range."
+			},
+			{
+				"category": "Office supply shoppers",
+				"description": "Office Supply Shoppers range from 45-55+ years old. They range from office managers to executive assistants who are often searching for office supplies. "
+			}
+		]
+	},
+	"advantages": {
+		"title": "Boost foot traffic and sales as consumers return to in-store shopping",
+		"list": [
+			"Deliver targeted impressions while audiences are commuting, running errands or shopping in high traffic areas",
+			"Activate DOOH ads as a last-mile push to get audiences in-store on screens across the path-to-purchase",
+			"Raise awareness for in-store promotions with special-offer messaging that drives consumers to your store"
+		]
+	},
+	"playbook": {
+		"title": "Drive product brand awareness and purchase intent",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Retail package" }
+}

@@ -1,0 +1,21 @@
+{
+	"seo": {
+		"title": "Solicite una demo",
+		"description": "¿Quiere una nueva solución de software de señalización digital? Solicite su demostración para ver usted mismo los beneficios de la plataforma de Broadsign."
+	},
+	"formTitle": "Ilumina el mundo _con nuestras soluciones de señalización digital_",
+	"formHeader": "Solicite una demo en vivo hoy",
+	"contentDescription": {
+		"par1": "Ya sea que esté trabajando con _pantallas digitales, instalaciones estáticas, medios basados en tránsito_ o los tres, tenemos las herramientas adecuadas para usted.",
+		"par2": "Obtenga una _demostración personalizada_ y vea cómo lo ayudaremos a vender, administrar y entregar medios de señalización digital de manera más eficiente que nunca."
+	},
+	"tools": {
+		"title": "Nuestras herramientas le pueden ayudar a:",
+		"content1": "Agilizar su proceso de ventas",
+		"content2": "Impulsar la eficiencia operativa",
+		"content3": "Automatizar la entrega de su contenido",
+		"content4": "Desbloquear nuevas fuentes de ingresos"
+	},
+	"shinCTA": "Solicite una demo",
+	"form": { "submitText": "Solicite una demo" }
+}

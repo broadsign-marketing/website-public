@@ -1,0 +1,104 @@
+{
+	"seo": {
+		"title": "La plataforma que alimenta la publicidad exterior OOH",
+		"description": "Broadsign permite a los propietarios de medios escalar, administrar y vender de manera eficiente su inventario de publicidad OOH a través de un software automatizado, herramientas de campaña inteligentes, operaciones de red poderosas y publicidad programática."
+	},
+	"hero": {
+		"title": "La plataforma que alimenta la publicidad exterior OOH",
+		"blurb": "Broadsign permite a los propietarios de medios escalar, administrar y vender de manera eficiente su inventario de publicidad OOH a través de un software automatizado, herramientas de campaña inteligentes, operaciones de red poderosas y publicidad programática.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"logos": {
+		"title": "Trabajamos con los nombres más importantes en OOH"
+	},
+	"e2e": {
+		"title": "Soluciones integrales para una máxima eficiencia",
+		"boxes": [
+			{
+				"icon": "box1",
+				"title": "Out-of-home digital, estático y programático",
+				"par": "No importa si se trata de una campaña garantizada o no garantizada con un objetivo de impresión o de frecuencia, Broadsign facilita la programación de todo tipo de campañas OOH"
+			},
+			{
+				"icon": "box2",
+				"title": "Usted define las reglas y nuestra plataforma hace el resto",
+				"par": "Nuestro reproductor multimedia inteligente facilita la planificación y entrega de campañas en su red."
+			},
+			{
+				"icon": "box3",
+				"title": "Varios SSP, una solución de mediación",
+				"par": "Consolide su demanda programática desde múltiples SSP en un solo espacio con nuestra solución Header Bidder, eliminando la necesidad de contenedores. ¡Que gane la mejor oferta!"
+			}
+		]
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Planificación de campañas y difusión de anuncios",
+			"title": "Herramientas de campaña avanzadas que generan más ingresos",
+			"par": "Aproveche la disponibilidad de su inventario en tiempo real y reserve instantáneamente campañas digitales OOH programadas de manera flexible y entregadas dinámicamente.",
+			"cta": "Más información"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Gestión de contenido y red",
+			"title": "Ahorre tiempo automatizando la gestión de su red",
+			"par": "Confíe en los flujos de trabajo de campaña automatizados para reproducir el contenido adecuado en el momento adecuado y obtenga una visibilidad completa del rendimiento de su red con informes de campaña detallados.",
+			"cta": "Más información"
+		},
+		"staticOperations": {
+			"overtitle": "Campañas estáticas",
+			"title": "Procesos optimizados para sus campañas de publicidad estática",
+			"par": "Simplifique sus operaciones con nuestras herramientas especializadas diseñadas para procesos publicitarios estáticos. No solo sincronizamos en tiempo real las órdenes de visualización relacionadas con sus campañas, sino también los niveles de stock y las comunicaciones con sus displays.",
+			"cta": "Más información"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Plataforma ssp programática global",
+			"title": "Genere nuevos ingresos programáticamente",
+			"par": "Complemente sus ventas directas con una herramienta programática en tiempo real que le permite automatizar sus ventas y acceder a compradores globales sin perder el control de lo que se aprueba.",
+			"cta": "Más información"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Señalización digital para mensajería local",
+			"title": "Mensajes locales más relevantes y personalizados",
+			"par": "Permita a los equipos locales crear fácilmente mensajes de señalización digital personalizados respetando el branding de la marca con una herramienta basada en plantillas que es lo suficientemente simple para que cualquiera la use.",
+			"cta": "Más información"
+		},
+		"audienceCampaigns": {
+			"overtitle": "Campañas basadas en la audiencia",
+			"title": "Descubra nuevas oportunidades e ingresos adicionales",
+			"par": "El servidor de anuncios de Broadsign le brinda herramientas de segmentación sofisticadas para ayudar a sus equipos de ventas a planificar y vender campañas, optimizar su inventario y llegar a audiencias objetivo en los momentos más convincentes.",
+			"cta": "Más información"
+		},
+		"new": "¡Nuevo!",
+		"comingSoon": "Próximamente"
+	},
+	"plans": {
+		"title": "Planes para las necesidades de toda red",
+		"boxes": [
+			{
+				"title": "Standard",
+				"description": "Optimice su negocio con un software automatizado para OOH."
+			},
+			{
+				"title": "Professional",
+				"description": "Monitoreo en tiempo real, mensajería personalizada e infinitas posibilidades de integración."
+			},
+			{
+				"title": "Enterprise",
+				"description": "Venda de manera más inteligente y optimice el rendimiento con herramientas inteligentes para OOH."
+			}
+		],
+		"cta": "Comparar planes"
+	},
+	"shin": {
+		"title": "Descubra lo que podemos hacer por su red",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"bookACall": {
+		"title": "Book a call"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"seo": {
+		"title": "WOO Mexico City",
+		"description": "",
+		"robots": "noindex nofollow"
+	},
+	"hero": {
+		"title": "WOO Mexico City",
+		"pars": ["Connect with OOH experts from around the world at Broadsign’s networking event"],
+		"cta": "Reserve my spot"
+	},
+	"date": ["Wednesday, June 4, 2025, at 8:30 PM", "(following the WOO Welcome Reception)"],
+	"place": ["<strong>La Única CDMX</strong>", "Anatole France 98", "Polanco III Sección, Miguel Hidalgo", "11550 Ciudad de México, CDMX"],
+	"blurb": "Join Broadsign for our OOH Social events, a global series that brings together industry leaders for exclusive networking experiences. Connect with peers and engage in dynamic conversations about the latest innovations and trends shaping the future of OOH.",
+	"hostedBy": "Hosted by:",
+	"shin": {
+		"title": "Reserve your spot!",
+		"cta": "RSVP"
+	},
+
+	"googleCalendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20250605T023000Z%2F20250605T050000Z&details=Following%20the%20WOO%20Welcome%20Reception%2C%20join%20Broadsign%20for%20our%20exclusive%20OOH%20Social%20event%2C%20where%20industry%20leaders%20will%20come%20together%20for%20unparalleled%20networking%20opportunities%20and%20local%20cocktails.%20Taking%20place%20in%20%3Ca%20href%3D%22https%3A%2F%2Fbroadsign.com%2Fevents%2Fooh-social-mexico%2F%22%20target%3D%22_blank%22%3EMexico%3C%2Fa%3E%2C%20this%20edition%20provides%20the%20ideal%20backdrop%20for%20meaningful%20connections%20and%20lively%20discussions%20on%20the%20latest%20innovations%20and%20trends%20shaping%20the%20future%20of%20OOH.&location=La%20%C3%9Anica%20CDMX%2C%20Anatole%20France%2098%2C%20Polanco%20III%20Secci%C3%B3n%2C%20Miguel%20Hidalgo%2C%2011550%20Ciudad%20de%20M%C3%A9xico%2C%20CDMXLa%20%C3%9Anica%20CDMX%2C%20Anatole%20France%2098%2C%20Polanco%20III%20Secci%C3%B3n%2C%20Miguel%20Hidalgo%2C%2011550%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX&text=OOH%20Social%20Mexico",
+	"outlookCalendarLink": "https://outlook.live.com/calendar/0/action/compose?allday=false&body=Following%20the%20WOO%20Welcome%20Reception%2C%20join%20Broadsign%20for%20our%20exclusive%20OOH%20Social%20event%2C%20where%20industry%20leaders%20will%20come%20together%20for%20unparalleled%20networking%20opportunities%20and%20local%20cocktails.%20Taking%20place%20in%20%3Ca%20href%3D%22https%3A%2F%2Fbroadsign.com%2Fevents%2Fooh-social-mexico%2F%22%20target%3D%22_blank%22%3EMexico%3C%2Fa%3E%2C%20this%20edition%20provides%20the%20ideal%20backdrop%20for%20meaningful%20connections%20and%20lively%20discussions%20on%20the%20latest%20innovations%20and%20trends%20shaping%20the%20future%20of%20OOH.&enddt=2025-06-05T01%3A00%3A00&location=La%20%C3%9Anica%20CDMX%2C%20Anatole%20France%2098%2C%20Polanco%20III%20Secci%C3%B3n%2C%20Miguel%20Hidalgo%2C%2011550%20Ciudad%20de%20M%C3%A9xico%2C%20CDMXLa%20%C3%9Anica%20CDMX%2C%20Anatole%20France%2098%2C%20Polanco%20III%20Secci%C3%B3n%2C%20Miguel%20Hidalgo%2C%2011550%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2025-06-04T22%3A30%3A00&subject=OOH%20Social%20Mexico",
+	"icsFileLink": "https://marketing.broadsign.com/hubfs/ICS/2025_06_ooh_social_mexico.ics",
+	"thankYouForRegistering": [""]
+}

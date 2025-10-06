@@ -1,0 +1,85 @@
+{
+	"seo": {
+		"title": "OOH Media Software",
+		"description": "Ready to take your OOH business to the next level? Get on the right track with specialized solutions that help you sell more, work smarter, and spend less time and money on day-to-day management of your assets."
+	},
+	"Hero": {
+		"title1": "Do",
+		"title2": "out-of-home",
+		"title3": "better",
+		"description1": "Ready to take your OOH business to the next level?",
+		"description2": "Get on the right track with specialized solutions that help you sell more, work smarter, and spend less time and money on day-to-day management of your assets."
+	},
+	"sellMore": {
+		"title": "Sell more, faster",
+		"description1": "Want to shorten your sales cycle, close more deals, and unlock the full value of your network?",
+		"description2": "Our sales solutions help you spend less time searching for info and more time actually selling.",
+		"ctaTraditional": "Traditional sales",
+		"ctaDigital": "Digital sales"
+	},
+	"sellProgrammatically": {
+		"title": "+ Sell programmatically",
+		"description": "Unlock new demand and new revenue by selling programmatically to digital media buyers around the world.",
+		"ctaReach": "Programmatic sales"
+	},
+	"manageAllTheThings": {
+		"title1": "Manage your",
+		"title2": {
+			"billboards": " billboards",
+			"posters": " posters",
+			"screens": " screens",
+			"faces": " faces",
+			"wraps": " wraps",
+			"maintenance": " maintenance",
+			"operations": " operations",
+			"growth": " growth"
+		},
+		"title3": "more efficiently",
+		"description": "Get more done with less effort with our solutions for managing traditional and digital out-of-home businesses."
+	},
+	"modernizeOOHBusiness": {
+		"title": "Modernize your traditional OOH business",
+		"description": "With a unified system that keeps your entire OOH business aligned",
+		"cta": "Broadsign Ayuda"
+	},
+	"unlockDOOHNetwork": {
+		"title": "Unlock your DOOH network's full potential",
+		"description": "With an intelligent, automated solution for managing DOOH networks",
+		"cta": "Broadsign Control"
+	},
+	"rightPlatform": {
+		"title": {
+			"title1": "The",
+			"title2": " right platform",
+			"title3": "for your needs",
+			"description1": "Not sure what you're looking for?",
+			"description2": "Here's how our solutions match up"
+		},
+		"broadsign": {
+			"product": "Broadsign Control",
+			"title1": "Digital-first",
+			"title2": " OOH businesses",
+			"description": "Maximize your revenue and efficiency with our automated digital signage platform",
+			"features": {
+				"feature1": "- Automate content scheduling and distribution",
+				"feature2": "- Sell smarter with real-time inventory sync",
+				"feature3": "- Drive new revenue with programmatic sales",
+				"feature4": "- Empower local teams to share custom messaging"
+			},
+			"learnMore": "Learn more about the"
+		},
+		"ayuda": {
+			"product": "Broadsign Ayuda",
+			"title1": "Traditional, transit,",
+			"title2": " and mixed OOH businesses",
+			"description": "Modernize your business with our centralized OOH business solution",
+			"features": {
+				"feature1": "- Store and manage all asset data",
+				"feature2": "- Set up rate cards for your media bookings",
+				"feature3": "- Sell more with an automated sales tool",
+				"feature4": "- Streamline OOH operations with synchronized work orders"
+			},
+			"learnMore": "Learn more about the"
+		}
+	}
+}

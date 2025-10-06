@@ -1,0 +1,108 @@
+{
+	"seo": {
+		"title": "Réserver une démonstration",
+		"description": "L'achat d'inventaire DOOH est simple, rapide et efficace. Passez de la création de la campagne à l'écran en direct en quelques minutes. Laissez-nous vous montrer comment!",
+		"book-demo": {
+			"title": "Réserver une démonstration",
+			"description": "L'achat d'inventaire DOOH est simple, rapide et efficace. Passez de la création de la campagne à l'écran en direct en quelques minutes. Laissez-nous vous montrer comment!!"
+		},
+		"request-access": {
+			"title": "Demandez votre accès",
+			"description": "Nous vous contacterons pour planifier une visite rapide de notre plateforme et compléter votre inscription gratuite."
+		},
+		"schedule-demo": {
+			"title": "Schedule a demo",
+			"description": "Faites de la publicité sur des écrans numériques dans le monde réel avec une solution de publicité OOH éprouvée."
+		}
+	},
+	"Hero": {
+		"title": "Réserver une démonstration",
+		"tagline": "L'achat d'inventaire DOOH est simple, rapide et efficace. Passez de la création de la campagne à l'écran en direct en quelques minutes. Laissez-nous vous montrer comment!",
+		"omnilabHeroText": "",
+		"requestAccessTitle": "Vous y êtes presque",
+		"requestAccessTagline": "Remplissez le formulaire et nous vous contacterons pour planifier une visite rapide de notre plateforme et terminer votre inscription gratuite.",
+		"bookDemoTagline": "Remplissez le formulaire pour entrer en contact avec un membre de notre équipe"
+	},
+	"quotesTitle": "Nos clients témoignent",
+	"quotes": [
+		{
+			"id": "republik",
+			"quote": "Pour une gestionnaire de campagnes qui a évolué dans le monde numérique, c'est formidable de savoir que nous pouvons essayer la publicité extérieure comme nous lancerions une campagne Facebook, par exemple. Lorsqu'il s'agit de choisir un public et d'acheter des stocks, nous sommes en terrain connu. Cela ouvre tellement de portes inattendues!",
+			"name": "Justine Laurier",
+			"title": "Gestionnaire de campagnes numériques",
+			"company": "Republik"
+		},
+		{
+			"id": "cookit",
+			"quote": "Ce qui auparavant prenait des heures à planifier et à exécuter se fait en quelques minutes avec Broadsign. La facilité d'utilisation, qui imite les plateformes d'achat de publicité en ligne, et les fonctionnalités puissantes de ciblage et de programmation de l'affichage extérieur numérique ont changé la donne pour nous.",
+			"name": "Alexandre Cholette",
+			"title": "Gestionnaire de placement média",
+			"company": "Cook It"
+		},
+		{
+			"id": "treehouse",
+			"quote": "La disponibilité des données au niveau de l'écran nous permet d'adapter chaque campagne pour un effet maximal. On peut facilement intégrer n'importe quel membre de l'équipe à la plateforme d'achat de Broadsign, lancer rapidement une nouvelle campagne ou modifier une campagne en cours, sans oublier que le soutien et le service de l'équipe sont tout simplement incroyables.",
+			"name": "Marcie Cerillo",
+			"title": "Spécialiste de la stratégie de marque",
+			"company": " Treehouse Marketing"
+		},
+		{
+			"id": "flames",
+			"quote": "La plateforme Broadsign nous permet d'afficher nos campagnes d'affichage extérieur numérique comme nous le voulons et quand nous le voulons. Notre seul regret est de ne pas l'avoir essayée plus tôt!",
+			"name": "Ryan Popowich",
+			"title": "Directeur du marketing et des promotions",
+			"company": "Calgary Flames"
+		},
+		{
+			"id": "mainandlocal",
+			"quote": "La plateforme Broadsign est vraiment facile à utiliser. En tant que petite entreprise, nous ne pensions pas que les panneaux publicitaires seraient si conviviaux et accessibles.",
+			"name": "Aline Dubois",
+			"title": "Copropriétaire",
+			"company": "Main & Local"
+		},
+		{
+			"id": "peoplespint",
+			"quote": "Broadsign nous a semblé le choix évident pour rejoindre les gens de notre communauté. Nous savons exactement qui nous ciblons, en mettant l'accent sur les quartiers et les édifices qui nous intéressent. Les gens qui ont vu les publicités nous en ont parlé. Nos publicités ont généré une hausse de 12,8 % de l'achalandage piétonnier par rapport à l'an dernier.",
+			"name": "Peter Caira",
+			"title": "Propriétaire",
+			"company": "People's Pint Brewery"
+		},
+		{
+			"id": "cheil",
+			"quote": "Pour mettre en œuvre une campagne de cette ampleur, nous avions besoin d'une DSP à la fois facile à utiliser et transparente. Broadsign a dépassé nos attentes grâce à ses nombreuses fonctionnalités et à sa capacité de simplifier le flux de travail propre à l'affichage extérieur numérique. De plus, la collaboration avec l'équipe d'experts de l'affichage numérique extérieur programmatique de Broadsign s'est traduite par une mise en œuvre fluide du début à la fin.",
+			"name": "Keri Thomas",
+			"title": "Superviseur des médias",
+			"company": "Cheil"
+		}
+	],
+	"features": {
+		"inventory": {
+			"title": "Accédez à des stocks d'affichage extérieur numérique de premier choix avec une transparence complète au niveau de l'écran",
+			"par": "Vous savez exactement ce que vous achetez en réservant des écrans pour vos campagnes. Configurez les paramètres de votre campagne et choisissez les types d'écran en fonction de points de données comme le public, l'environnement et la proximité de points d'intérêt. Broadsign offre une visibilité totale des données au niveau de l'écran, ce qui vous aide à maximiser le rendement de vos campagnes avec les meilleurs stocks qui soient.",
+			"cta": "Parcourez nos stocks"
+		},
+		"price": {
+			"title": "Activez des campagnes ciblées et flexibles au bon prix",
+			"par": "Optimisez vos dépenses publicitaires en activant des stocks au prix le plus près possible de la valeur du marché. L'algorithme « Smart Bidding » de Broadsign vous garantit que nous diffusons vos impressions ciblées de la manière la plus rentable et la plus conviviale possible pour vous."
+		},
+		"audience": {
+			"title": "Rejoignez les segments de public idéaux au bon moment et au bon endroit",
+			"par": "Ciblez votre public en temps réel, peu importe où il se trouve, avec des publicités extérieures numériques qui captent l'attention. Broadsign utilise des données mobiles dynamiques afin que vous puissiez facilement cibler les lieux où se trouve la concentration la plus élevée des segments de public que vous convoitez.",
+			"cta": "En savoir plus"
+		}
+	},
+	"blog": {
+		"title": "Ce qui nous a occupés dernièrement",
+		"cta": "Lire plus de billets"
+	},
+	"campaignsTitle": "Pleins feux sur de fantastiques campagnes",
+	"shin": {
+		"title": "Lancez-vous avec Broadsign",
+		"par": "Notre équipe d'experts est là pour vous aider à créer, à mettre en œuvre et à gérer vos campagnes. Après tout, notre plateforme a été créée pour l'affichage extérieur par des spécialistes de l'affichage extérieur.",
+		"cta": "Faisons équipe"
+	},
+	"letsConnectModal": {
+		"title": "Lancez-vous avec Broadsign",
+		"par": "Notre équipe d'experts est là pour vous aider à créer, à mettre en œuvre et à gérer vos campagnes. Après tout, notre plateforme a été créée pour l'affichage extérieur par des spécialistes de l'affichage extérieur."
+	}
+}

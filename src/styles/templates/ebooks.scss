@@ -1,0 +1,526 @@
+@import "../base/dependencies";
+
+.ebook_lp {
+	.breadcrumb {
+		&,
+		& * {
+			line-height: 1.2em;
+		}
+
+		.slash_after {
+			&:not(a) {
+				cursor: default;
+			}
+
+			&:after {
+				color: $ash;
+				content: "/";
+				display: inline-block;
+				margin: 0 0.4em;
+				pointer-events: none;
+			}
+		}
+	}
+
+	.hero {
+		height: 600px;
+		max-height: 80vmin;
+
+		h1 {
+			text-shadow: 2px 2px 0px #fff, 3px 3px 0px #fff, 0px 0px 1px #fff, 0px 0px 2px #fff;
+		}
+	}
+
+	.hero_img {
+	}
+
+	.ebook_wrapper {
+		margin: 0 auto;
+		max-width: 1120px;
+		padding: 0 16px 80px;
+
+		&.type_fliphtml5 {
+			iframe {
+				border: 0 none;
+				border-radius: 4px;
+				display: block;
+				height: calc(94vh - 80px);
+				height: calc(94svh - 80px);
+				width: 100%;
+			}
+		}
+	}
+}
+
+#six_steps_for_integrating_dooh_in_your_omnichannel_strategy {
+	.hero {
+		height: auto;
+		max-height: none;
+	}
+
+	.hero_img {
+		position: relative !important;
+	}
+}
+
+#five_common_mistakes_in_digital_signage_content {
+	.hero {
+		.grid {
+			height: 100%;
+		}
+
+		h1 {
+			background: linear-gradient(to bottom, #0de399 0%, #00a8f1 100%);
+			-webkit-background-clip: text;
+			background-clip: text;
+			display: inline-block;
+			font-size: min(48px, 5.4vw);
+			text-shadow: none;
+			-webkit-text-fill-color: transparent;
+		}
+	}
+}
+
+#automation_in_ooh_media_planning {
+	--hero-height: min(80vh, 500px);
+
+	.hero {
+		height: auto;
+		margin-bottom: min(16vw, 100px);
+		max-height: var(--hero-height);
+		z-index: -1;
+
+		& > .container {
+			& > .grid {
+				padding: 0 !important;
+			}
+		}
+	}
+
+	.hero_bg {
+		left: 50%;
+		max-height: 100%;
+		max-width: 100vw;
+		transform: translateX(-50%);
+		width: 100vw;
+	}
+
+	.hero_img {
+		aspect-ratio: 908/561;
+		height: auto;
+		max-height: var(--hero-height);
+		transform: translateY(min(8vw, 60px));
+		transition: opacity 1s ease;
+	}
+
+	.ebook_wrapper {
+		transition: margin-top 1s ease;
+	}
+
+	&.form_submitted {
+		.hero_img {
+			opacity: 0;
+		}
+
+		.ebook_wrapper {
+			margin-top: max(-50vw, -500px);
+		}
+	}
+}
+
+#create_dooh_campaigns_that_get_results {
+	.hero {
+		height: auto;
+		max-height: 520px;
+	}
+
+	h1 {
+		font-size: min(8vw, 48px);
+		line-height: 100%;
+		text-shadow: none;
+
+		span {
+			display: block;
+			font-size: 0.7em;
+			text-transform: none;
+		}
+	}
+
+	.hero_thumb {
+		max-width: 640px;
+		width: 80vw;
+	}
+}
+
+#how_to_add_digital_to_your_static_ooh_network {
+	.hero_img {
+		img,
+		picture {
+			object-position: 18% center;
+		}
+	}
+
+	.hero {
+		h1 {
+			@include fontAlt;
+			color: #fff;
+			font-size: min(8vw, 56px);
+			left: 15%;
+			line-height: 120%;
+			position: absolute;
+			text-shadow: 2px 2px 0px $reflex, 3px 3px 0px $reflex, 0px 0px 1px $reflex, 0px 0px 2px $reflex;
+			text-transform: none;
+			top: 50%;
+			transform: translateY(-37%);
+			width: 14ch;
+		}
+	}
+}
+
+#increase_revenue_with_contextual_in_store_media {
+	.hero {
+		h1 {
+			@include fontSuperBold;
+			color: #fff;
+			font-size: min(10vw, 72px);
+			line-height: 100%;
+			max-width: 15ch;
+			text-shadow: none;
+		}
+	}
+}
+
+#in_store_activation {
+	.hero {
+		align-items: flex-start !important;
+		height: auto;
+		justify-content: center;
+		max-height: none;
+
+		.grid {
+			padding: 0 !important;
+
+			&:before {
+				background: linear-gradient(to bottom right, #7398ee 0%, #bddff8 100%);
+				content: "";
+				height: 85%;
+				left: 50%;
+				position: absolute;
+				transform: translateX(-50%);
+				width: 100vw;
+			}
+		}
+
+		.hero_img {
+			max-width: 1088px;
+			width: 100vw;
+		}
+	}
+
+	.hero_img {
+		max-height: calc(80vh + 64px);
+	}
+}
+
+#media_buyers_guide_to_programmatic_digital_out_of_home {
+	.hero {
+		h1 {
+			color: #fff;
+			font-size: min(4vw, 48px);
+			max-width: 22ch;
+			text-shadow: none;
+		}
+	}
+}
+
+#retail_media_in_store_report_2025 {
+	.hero {
+		height: auto;
+		left: 50%;
+		max-height: none;
+		max-width: 100vw;
+		overflow: hidden;
+		transform: translateX(-50%);
+		width: 100vw;
+
+		.grid {
+			padding: 0 !important;
+		}
+	}
+
+	.hero_bg {
+		height: 100%;
+		left: 50%;
+		max-width: 100vw;
+		transform: translateX(-50%);
+		width: 100vw;
+	}
+
+	h1 {
+		font-size: min(10vw, 42px);
+		margin-bottom: 20px;
+		margin-top: 3.4em;
+		max-width: 16ch;
+
+		span {
+			padding: 0 0.4em;
+		}
+	}
+
+	.checks_gradient {
+		li {
+			background-position: 6px 0.42em;
+			background-size: 2.4em 2.4em;
+			padding-left: 70px;
+		}
+	}
+
+	#form_box {
+		transition: max-height 0.3s ease;
+		z-index: 100;
+
+		h4 {
+			@include fontBold;
+		}
+	}
+
+	.Form {
+		.actions {
+			text-align: center;
+		}
+
+		.hs-button {
+			background: $cerulean;
+			font-size: min(5vw, 20px);
+			letter-spacing: 0.05em;
+			line-height: 80%;
+			margin-top: 20px;
+			min-height: 0;
+			padding: 0.7em 2em;
+			text-transform: none;
+			white-space: nowrap;
+
+			&:hover {
+				background: #fff;
+				border-color: $cerulean;
+				color: $cerulean;
+			}
+		}
+	}
+
+	.ebook_wrapper {
+		margin-top: 30px;
+	}
+}
+
+#rise_of_retail_media {
+	.hero {
+		background-color: #343247;
+
+		div {
+			display: flex;
+			height: auto;
+			justify-content: center;
+			max-height: 100%;
+		}
+	}
+
+	.hero_img {
+	}
+
+	.ebook_wrapper {
+		margin-top: 30px;
+	}
+}
+
+#seven_habits_of_highly_effective_dooh_media_owners {
+	.hero_img {
+		img,
+		picture {
+			object-position: 18% center;
+		}
+	}
+
+	.hero {
+		h1 {
+			@include fontAlt;
+			color: #fff;
+			font-size: min(3.4vw, 56px);
+			left: 60%;
+			line-height: 120%;
+			opacity: 0;
+			position: absolute;
+			text-shadow: none;
+			text-transform: none;
+			top: 50%;
+			transform: translateY(-37%);
+			width: 16ch;
+		}
+	}
+}
+
+@media (max-width: $xsMax) {
+	#media_buyers_guide_to_programmatic_digital_out_of_home {
+		.hero {
+			height: 56vw;
+			overflow: hidden;
+
+			&:before {
+				@include bg;
+				background: url("../../img/ui/ebook_media_buyers_pdooh.jpg") no-repeat;
+				background-position: center center;
+				background-size: cover;
+				content: "";
+				z-index: 10;
+			}
+
+			h1 {
+				opacity: 0;
+			}
+		}
+	}
+}
+
+@media (orientation: portrait) {
+	.ebook_lp {
+		.ebook_wrapper {
+			&.type_fliphtml5 {
+				iframe {
+					aspect-ratio: 8.5/11;
+				}
+			}
+		}
+	}
+}
+
+@media (orientation: landscape) {
+	.ebook_lp {
+		.ebook_wrapper {
+			&.type_fliphtml5 {
+				iframe {
+					aspect-ratio: 10/7;
+					height: 100%;
+				}
+			}
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	.ebook_lp {
+		.hero {
+			max-height: min(80vh, 50vw);
+		}
+
+		.ebook_wrapper {
+			&.type_fliphtml5 {
+			}
+		}
+	}
+
+	#five_common_mistakes_in_digital_signage_content {
+		.hero {
+			h1 {
+				font-size: min(48px, 4vw);
+			}
+		}
+	}
+
+	#in_store_activation {
+	}
+
+	#retail_media_in_store_report_2025 {
+		.hero {
+			.hero_bg {
+			}
+
+			.grid {
+			}
+
+			h1 {
+				font-size: min(6vw, 60px);
+			}
+		}
+	}
+
+	#seven_habits_of_highly_effective_dooh_media_owners {
+		.hero_img {
+			img,
+			picture {
+				object-position: 40% center;
+			}
+		}
+
+		.hero {
+			h1 {
+				opacity: 1;
+			}
+		}
+	}
+
+	#how_to_add_digital_to_your_static_ooh_network {
+		.hero_img {
+			img,
+			picture {
+				object-position: 18% center;
+			}
+		}
+
+		.hero {
+			h1 {
+				font-size: min(4vw, 56px);
+				left: 55%;
+				text-shadow: none;
+			}
+		}
+	}
+}
+
+@media (min-width: $md) {
+	#retail_media_in_store_report_2025 {
+		#form_box {
+			margin-top: 60px;
+			max-height: calc(100vh - 180px);
+			max-width: min(30vw, 350px);
+			top: 240px;
+			will-change: top;
+		}
+
+		.form_box_inner {
+			@include custom_scrollbar(#ddd, #aaa, 2px);
+			height: 100%;
+			max-height: calc(100vh - 180px);
+			overflow-y: auto;
+		}
+
+		.flex.justify-content-end {
+			#form_box {
+				margin-top: 0;
+				top: 0 !important;
+			}
+		}
+
+		.Form {
+			.actions {
+				text-align: center;
+			}
+
+			.hs-button {
+				font-size: min(1.6vw, 20px);
+			}
+		}
+	}
+
+	html[data-reduced-nav="true"] {
+		#retail_media_in_store_report_2025 {
+			#form_box {
+				max-height: calc(100vh - 140px);
+				transition: top 0.3s ease, max-height 0.3s ease;
+			}
+
+			.justify-content-end > #form_box {
+				transition: none;
+			}
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les stations-services",
+		"description": "La plate-forme de Broadsign est la solution idéale pour l'affichage numérique dans les stations-service afin de stimuler l'engagement des clients à la pompe et en magasin."
+	},
+	"title": "Stations-Services",
+	"Hero": {
+		"TitlePart1": "Alimentez la",
+		"TitlePart2": "Stations-Service",
+		"TitlePart3": "croissance de vos",
+		"Blurb": "Générez des revenus autrement et diversifiez vos canaux de communication en dotant vos stations-service d'un affichage numérique.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Une voie express vers de grands profits",
+			"Paragraph": "Générez davantage de revenus en déployant un réseau d'affichage numérique publicitaire dans vos stations."
+		},
+		"Pane2": {
+			"Title": "Un contenu pertinent, peu importe l'endroit",
+			"Paragraph": "Intégrez des outils de géolocalisation à chaque point de votre réseau pour personnaliser le contenu et les messages sur vos écrans en fonction du public."
+		}
+	},
+	"SpielPosterGasStations": {
+		"title": "Une impulsion bénéfique",
+		"text": "Augmentez le nombre d'achats impulsifs au comptoir en affichant des publicités numériques de collations ou de produits offerts au rabais sur place."
+	},
+	"cards": {
+		"title1": "Des campagnes complexes à la portée de tous",
+		"par1": "Consultez rapidement vos stocks et générez des propositions avec l'aide à la vente directement intégrée à votre système de gestion de contenu.",
+		"title2": "Saisissez de nouvelles occasions de vente",
+		"par2": "Intégrez à votre réseau des campagnes publicitaires ciblées et lucratives en tirant parti de la diffusion programmatique sur vos écrans.",
+		"direct": "Dotez vos équipes de vente de nouvelles capacités grâce à Broadsign Direct ",
+		"reach": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Quoteblock": {
+		"Quote": "Broadsign est maintenant au cœur de nos activités. Nous avons adopté Broadsign, et l'entreprise entière s'y est adaptée.",
+		"Signature": "MMD media"
+	},
+	"Partners": {
+		"Title": "Une collaboration avec nos partenaires pour du contenu hors pair",
+		"Tagline": "Capturez l'attention de votre public avec du contenu divertissant et informatif conçu par nos partenaires."
+	},
+	"Shin": {
+		"Title": "Prêt à moderniser votre station-service avec un réseau d'affichage numérique supérieur?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

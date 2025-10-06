@@ -1,0 +1,106 @@
+{
+	"seo": {
+		"title": "Paris sportifs",
+		"description": "Diffusez des publicités percutantes par affichage extérieur numérique pour faire connaître votre plateforme de pari sportif, et démarquez-vous de vos concurrents."
+	},
+	"apSlug": "sportsBetting",
+	"apLink": "346",
+	"apToken": "kysm9KLhgRe4dYnPgaSjpTpYA2tVwfmVvPT6huvWatvlBbTAXccf3MnEIQtc",
+	"playbookLink": "liym",
+
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Paris sportifs",
+		"blurb": "Diffusez des publicités percutantes par affichage extérieur numérique pour faire connaître votre plateforme de pari sportif, et démarquez-vous de vos concurrents.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Découvrez notre pack Paris sportifs",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Amateurs de sports"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Casinos", "restaurants", "bars", "centres sportifs"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Journée de match sportif", "Trajet d'aller-retour pour le travail"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "Tous les affichages qui visent le public ciblé",
+				"placeBased": "Centres commerciaux, centres sportifs et casinos",
+				"outdoor": "Panneaux-réclames, panneaux urbains et abribus à proximité de centres sportifs"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Pari sportif »",
+		"list": [
+			{
+				"category": "Amateurs de cartes ou de jeux de société",
+				"description": "Les joueurs de cartes ou de jeux de société sont autant des hommes que des femmes, souvent âgés de 55 ans et plus."
+			},
+			{
+				"category": "Joueurs sur les applications de casino",
+				"description": "Les joueurs d'applications de casino sont autant des hommes que des femmes. L'engouement pour les applications de casino semble augmenter avec l'âge puisque la majorité de ce public fait partie de la tranche d'âge de 45 à 55 ans et plus."
+			},
+			{
+				"category": "Joueurs fréquentant les casinos",
+				"description": "Les joueurs qui fréquentent les casinos sont autant des hommes que des femmes. Ils se répartissent dans deux tranches d'âge, soit de 25 à 34 ans et de 35 à 44 ans."
+			},
+			{
+				"category": "Amateurs de sport universitaire",
+				"description": "Les amateurs de sport universitaire sont typiquement des hommes de tous âges. Leur revenu familial est habituellement élevé et, pour 44 % d'entre eux, il dépasse les 100 000 $. Ce public utilise sans doute des applications propres à l'équipe pour maintenir un lien avec d'autres joueurs."
+			},
+			{
+				"category": "Amateurs de sport électronique",
+				"description": "Les amateurs de sport électronique sont habituellement des hommes. Plus de 75 % de ce public est âgé de 18 à 24 ans ou de 25 à 34 ans."
+			},
+			{
+				"category": "Joueurs de sports de fiction",
+				"description": "Les joueurs de sports de fiction tendent à être des hommes. Ceux-ci sont âgés de 25 à 44 ans."
+			},
+			{
+				"category": "Joueurs sur applications mobiles",
+				"description": "Les joueurs sur applications mobiles sont autant des hommes que des femmes. Ils sont âgés de 35 à 44 ans, de 45 à 54 ans ou de plus de 55 ans."
+			},
+			{
+				"category": "Amateurs de sports",
+				"description": "Les amateurs de sport font partie de tous les groupes d'âge, ce sont surtout des hommes dont le revenu est variable."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Suscitez l'engagement et la fidélité envers votre plateforme de pari sportif",
+		"list": [
+			"Démarquez-vous de vos concurrents de plus en plus nombreux grâce à des publicités par affichage extérieur numérique, mettant en valeur votre plateforme de pari.",
+			"Misez sur les jours de match et les moments de la journée pour diffuser des publicités à l'endroit et au moment opportuns.",
+			"Diffusez des publicités très localisées là où elles captent vraisemblablement l'attention de joueurs potentiels, à proximité des stades, par exemple."
+		]
+	},
+	"playbook": {
+		"title": "Suscitez l'intérêt et l'engagement envers le pari sportif.",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Découvrez notre pack Paris sportifs" }
+}

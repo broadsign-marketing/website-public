@@ -1,0 +1,13 @@
+@import "../base/dependencies";
+
+.GradientBox {
+	padding: clamp(16px, 8vw, 48px) clamp(16px, 5vw, 24px);
+}
+
+@media(min-width:$sm) {
+	.GradientBox {
+		&.variant_text_cta {
+			padding: clamp(16px, 5vw, 24px) clamp(16px, 5vw, 42px) clamp(16px, 5vw, 24px) clamp(16px, 5vw, 32px);
+		}
+	}
+}

@@ -1,0 +1,28 @@
+@media print {
+	#global {
+
+		.log_in_bar,
+		.blog_subnav,
+		.Footer {
+			display: none !important;
+		}
+
+		.blog_post {
+
+			.column_ctas,
+			.recommended_posts {
+				display: none !important;
+			}
+
+		}
+
+		.Header {
+			height: auto;
+			position: relative;
+		}
+
+		main {
+			padding-top: 0;
+		}
+	}
+}

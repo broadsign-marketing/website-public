@@ -1,0 +1,98 @@
+@import "../base/dependencies";
+
+#outmoove {
+	.hero {
+	}
+
+	.hero_outmoove_logo {
+		max-width: 260px;
+		min-width: 160px;
+		width: 20vw;
+	}
+
+	.hero_video {
+		aspect-ratio: 192 / 100;
+		border: 1px solid $reflex;
+	}
+
+	.brands {
+	}
+
+	.roi {
+		.roi_wrapper {
+			background-color: #e7eeff;
+		}
+
+		.roi_main_img {
+			max-width: 400px;
+		}
+
+		.item {
+			padding-left: 60px;
+		}
+
+		.icon {
+			height: 48px;
+			left: 0;
+			object-fit: contain;
+			position: absolute;
+			top: 12px;
+			width: 48px;
+		}
+
+		hr {
+			background-color: $ev;
+			height: 1px;
+			margin: 0;
+		}
+	}
+
+	.features {
+	}
+
+	.discover_box {
+		h2 {
+			max-width: 105%;
+			width: 105%;
+		}
+	}
+
+	.campaigns {
+	}
+
+	.faq {
+	}
+
+	.shin {
+	}
+}
+
+html[lang="fr"] {
+	#outmoove {
+		.discover_box {
+			h2 {
+				max-width: 100%;
+			}
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	#outmoove {
+	}
+}
+
+@media (min-width: $md) {
+	#outmoove {
+	}
+}
+
+@media (min-width: $lg) {
+	#outmoove {
+	}
+}
+
+@media (min-width: $xl) {
+	#outmoove {
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"seo": {
+		"title": "Affichage numérique en hôtellerie",
+		"description": "Saviez-vous que vous pouvez rehausser le service et améliorer l'expérience client grâce à une signalisation numérique intelligente placée à des endroits clés de votre hôtel?"
+	},
+	"cta": {
+		"discoverContentNetworkManagement": "Découvrez nos solutions pour la gestion de contenu et de réseau"
+	},
+	"Hero": {
+		"TitlePart1": "Des solutions d'Affichage",
+		"TitlePart2": "Numérique qui fidélisent",
+		"TitlePart3": "votre Clientèle",
+		"Blurb": "Modernisez vos établissements et gagnez en efficacité en optant pour un système d'affichage numérique qui présente les bonnes informations aux bons clients, au bon moment.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Montrez le chemin à vos clients",
+			"Paragraph": "Aidez vos clients à trouver leur chambre, les services offerts et les attractions locales grâce à des bornes d'orientation qui fournissent des indications personnalisées pour atteindre un éventail de destinations, tant à l'intérieur qu'à l'extérieur de votre hôtel."
+		},
+		"Pane2": {
+			"Title": "Tous vos écrans à portée de mains",
+			"Paragraph": "Des écrans numériques aux kiosques d'information, gérez efficacement tous les écrans de votre réseau à partir d'une plateforme centralisée évolutive qui s'adapte à la croissance de votre réseau d'affichage."
+		},
+		"Pane3": {
+			"Title": "Des messages efficaces et adaptables",
+			"Paragraph": "Faites la promotion de vos services, de vos événements spéciaux, des horaires des colloques et plus encore grâce à une solution d'affichage numérique qui s'adapte en fonction de l'heure, de la météo et d'autres conditions."
+		}
+	},
+	"cards": {
+		"title": "Des options flexibles pour simplifier les ventes de publicité",
+		"par": "Lancez des campagnes de publicité dans vos hôtels en un tour de main grâce à des outils spécialisés destinés aux équipes de ventes directes et programmatiques.",
+		"direct": "Dotez vos équipes de vente de nouvelles capacités grâce à Broadsign Direct ",
+		"reach": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Quoteblock": {
+		"Quote": "Pour profiter des meilleurs conseils, il faut faire affaire avec un fournisseur chevronné qui s'y connaît en expansion de réseaux. Nous en sommes actuellement à ce stade et nous comptons sur Broadsign pour passer au niveau supérieur.",
+		"Signature": "Clear Digital Media "
+	},
+	"Partners": {
+		"Title": "Une solution adoptée par les principaux réseaux d'affichage numérique"
+	},
+	"Shin": {
+		"Title": "Comment votre réseau hôtelier peut-il tirer parti de la plateforme Broadsign?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

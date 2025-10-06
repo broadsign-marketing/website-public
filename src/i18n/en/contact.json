@@ -1,0 +1,67 @@
+{
+	"seo": {
+		"title": "Contact Us",
+		"description": "Get in touch, then keep in touch. All of Broadsign's contact information and coordinates in one convenient place."
+	},
+	"hero": {
+		"title": "We'd love to hear from you",
+		"demoDesc": "_See our platform_ _in action_",
+		"demoCTA": "Get a live demo",
+		"supportDesc": "_Get support_ _for our products_",
+		"supportCTA": "Contact our support team",
+		"careerDesc": "_Make a_ _career change_",
+		"careerCTA": "See open positions",
+		"phoneTitle1": "Montreal",
+		"phoneTitle2": "International toll free"
+	},
+	"boxes": {
+		"support": {
+			"title": "Get support for our products",
+			"cta": "Contact our support team"
+		},
+		"careers": {
+			"title": "Make a career change",
+			"cta": "see open positions"
+		}
+	},
+	"phones": {
+		"montreal": {
+			"title": "Montreal",
+			"number": "+1 514 399 1184"
+		},
+		"international": {
+			"title": "International toll free",
+			"number": "+1 877 399 1184"
+		}
+	},
+	"ourOffices": "Our offices",
+	"aroundTheWorld": "We're all around the world",
+	"montreal": {
+		"title": "Montreal",
+		"address": ["700, boulevard René-Lévesque Ouest", "Suite #1200, 12<sup>e</sup> étage", "Montréal, Québec", "Canada, H3B 1X8"]
+	},
+	"toronto": {
+		"title": "Toronto",
+		"address": ["1 University Ave, floor 3", "Toronto, ON", "Canada, M5J 2P1"]
+	},
+	"berlin": {
+		"title": "Berlin",
+		"address": ["Oranienburger Str. 5", "Berlin, 10178", "Deutchland/Germany"]
+	},
+	"sydney": {
+		"title": "Sydney",
+		"address": ["Suite 5, 12 Sydney Road,", "Manly, NSW", "Australia 2095"]
+	},
+	"shanghai": {
+		"title": "Shanghai",
+		"address": ["Room 2952 Ocean Tower", "<span>550 East Yan'an Road</span>, <span>Huangpu District</span>", "Shanghai, China"]
+	},
+	"amsterdam": {
+		"title": "Amsterdam",
+		"address": ["Mr. Treublaan 7", "1097 DP Amsterdam", "Nederland/Netherlands"]
+	},
+	"st_louis": {
+		"title": "Saint Louis",
+		"address": ["680 Craig Rd, Suite 101", "Saint Louis, MO", "USA, 63141-7120"]
+	}
+}

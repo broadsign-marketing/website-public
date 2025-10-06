@@ -1,0 +1,282 @@
+@import "../base/dependencies";
+
+#our_story {
+	.hero {
+		.scroll_down {
+			background-color: rgba(#FFF, 0);
+			padding: 0;
+
+			&:hover {
+				background-color: rgba(#FFF, 0.2);
+			}
+		}
+	}
+
+	.story_part {
+		.text_part {
+			max-height: 600px;
+			overflow: hidden;
+			transition: max-height 0.6s;
+		}
+
+		p {
+			letter-spacing: 0.05em;
+			line-height: 160%;
+		}
+
+		&.visible {
+			.story_img {
+				opacity: 1;
+				transform: translateY(0%);
+			}
+		}
+
+		&.unfolded {
+			.text_part {
+				max-height: 2400px;
+				padding-bottom: 1px;
+			}
+
+			.toggle_fold_story_wrapper {
+				height: 40px;
+				margin-bottom: 0px;
+				padding-top: 0px;
+				transform: translateY(0%);
+			}
+
+			.toggle_fold_story {
+				&:after {
+					top: 50%;
+					transform: translateY(-50%) rotate(-180deg);
+				}
+			}
+		}
+	}
+
+	.img_wrapper {
+		height: 140vw;
+		margin: 0 auto;
+		position: relative;
+	}
+
+	.story_img {
+		background: #FFF;
+		border: 7px solid #FFF;
+		border-radius: 8px;
+		box-shadow: 0 0 24px rgba(#739AF0, 0.4);
+		max-width: 100%;
+		opacity: 0;
+		position: absolute;
+		transform: translateY(10vw);
+		transition: transform 1s ease, opacity 1s ease;
+		z-index: 1;
+
+		label {
+			color: $reflex;
+			display: block;
+			font-size: 12px;
+			letter-spacing: 0.01em;
+			line-height: 150%;
+			margin-top: 6px;
+		}
+
+		&:hover {
+			z-index: 10;
+		}
+	}
+
+	.img_01 {
+		transition-delay: 0s;
+		z-index: 1;
+	}
+
+	.img_02 {
+		transition-delay: 0.3s;
+		z-index: 2;
+	}
+
+	.img_03 {
+		transition-delay: 0.6s;
+		z-index: 3;
+	}
+
+	.img_04 {
+		transition-delay: 0.9s;
+		z-index: 4;
+	}
+
+	.part_01 {
+		.img_wrapper {
+			height: 100vw;
+			max-height: 400px;
+			max-width: 460px;
+		}
+	}
+
+	.part_02 {
+		.img_wrapper {
+			max-height: 580px;
+			max-width: 465px;
+		}
+	}
+
+	.part_03 {
+		.text_part {
+			max-height: 740px;
+		}
+
+		.img_wrapper {
+			height: 155vw;
+			max-height: 730px;
+			max-width: 473px;
+		}
+	}
+
+	.part_04 {
+		.img_wrapper {
+			max-height: 540px;
+			max-width: 450px;
+		}
+	}
+
+	.svg {
+		transition: opacity 1s;
+	}
+
+	.quote {
+		.quote_sign {
+			left: 0px;
+			position: absolute;
+			top: -25px;
+		}
+
+		.portrait {
+			width: 42px;
+		}
+
+		.sign {
+			max-width: 38ch;
+		}
+	}
+
+	.toggle_fold_story_wrapper {
+		align-items: center;
+		background: linear-gradient(to bottom, rgba(#FFF, 0) 0%, rgba(#FFF, 0.8) 45%, rgba(#FFF, 1) 70%);
+		bottom: 0;
+		display: flex;
+		height: 120px;
+		margin-bottom: -80px;
+		opacity: 0;
+		padding-top: 80px;
+		position: relative;
+		transform: translateY(-100%);
+		transition-delay: 0s;
+		transition-duration: 0.3s, 0.6s, 0.6s, 0.6s, 0.6s;
+		transition-property: opacity, padding-top, margin-bottom, height, transform;
+		width: 100%;
+		z-index: 100;
+
+		&.visible {
+			opacity: 1;
+			transition-delay: 0.3s, 0s, 0s, 0s, 0s;
+			transition-duration: 0.3s;
+		}
+	}
+
+	.toggle_fold_story {
+		background: $zircon;
+		border-radius: 1000px;
+		bottom: 0;
+		color: $cerulean;
+		font-size: 13px;
+		left: 0;
+		padding: 1em 3.6em 0.9em 1.8em;
+		position: relative;
+		text-align: left;
+		text-transform: uppercase;
+		transition: transform 0.6s, opacity 0.3s;
+		width: auto;
+
+		&:hover {
+			opacity: 0.6;
+		}
+
+		&:after {
+			background: url("../../img/pages/our-story/chevron_down.svg");
+			background-repeat: no-repeat;
+			content: "";
+			height: 7px;
+			position: absolute;
+			right: 1.8em;
+			top: 50%;
+			transform: translateY(-50%);
+			transition: transform 0.6s;
+			width: 12px;
+		}
+	}
+
+
+	.shin {
+		.thumb {
+			height: 270px;
+		}
+	}
+}
+
+
+@media (max-width:700px) {
+	#our_story {
+		.story_img {
+			label {
+				margin-top: 0px;
+				max-height: 0vh;
+				overflow: hidden;
+				transition: max-height 0.3s, margin-top 0.3s;
+			}
+
+			&:hover {
+				label {
+					margin-top: 6px;
+					max-height: 100vh;
+				}
+			}
+		}
+
+		.part_04 .img_01 {
+			max-width: 40% !important;
+			right: 0% !important;
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#our_story {
+		.img_wrapper {
+			width: 90%;
+		}
+
+		.part_01 {
+			.img_wrapper {
+				margin-top: 14%;
+			}
+		}
+
+		.quote {
+			.quote_sign {
+				left: -40px;
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#our_story {}
+}
+
+@media (min-width:$lg) {
+	#our_story {}
+}
+
+@media (min-width:$xl) {
+	#our_story {}
+}

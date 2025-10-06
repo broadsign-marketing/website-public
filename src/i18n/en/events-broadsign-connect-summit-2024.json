@@ -1,0 +1,88 @@
+{
+	"seo": {
+		"title": "Broadsign's Connect 2024 Summit",
+		"description": "Our customer summit might be over, but you can still watch the keynote sessions on demand."
+	},
+	"hero": {
+		"pars": ["Our customer summit might be over, but you can still watch the keynote sessions on demand.", "Enjoy!"]
+	},
+	"featuredVideo": {
+		"youtubeID": "_bP9UZbaUQU",
+		"title": "Broadsign Connect",
+		"description": "See the highlights from our 2024 Customer Summit in Barcelona, Spain!",
+		"cta": "Watch"
+	},
+	"videos": [
+		{
+			"youtubeID": "C0wskfhEuaY",
+			"title": "Modernizing the Platform that Powers OOH",
+			"speakers": [
+				{
+					"portrait": "francois_hechme",
+					"name": "Francois Hechme, VP of Products, Broadsign"
+				},
+				{
+					"portrait": "gavin_lee",
+					"name": "Gavin Lee, Senior Director of Product, Broadsign"
+				}
+			],
+			"description": "Discover our key focus areas for 2024. Watch as Francois & Gavin provide the latest updates to our platform evolution, our trading capabilities, and our plans for AI."
+		},
+		{
+			"youtubeID": "tHudkCbed9E",
+			"title": "Evolving your Business with Audience Campaigns",
+			"speakers": [
+				{
+					"portrait": "daan_krijnen",
+					"name": "Daan Krijnen, Head of Innovations, Ocean Outdoor"
+				},
+				{
+					"portrait": "pascal_arntz",
+					"name": "Pascal Arntz, Revenue Manager, Ocean Outdoor"
+				}
+			],
+			"description": "Hear the highlights from Ocean Outdoor's session on how they used Broadsign's ad server, Audience Campaigns, to increase fill rates, revenue and flexibility in their offerings."
+		},
+		{
+			"youtubeID": "YbQnCYOF9OE",
+			"title": "Omnichannel: Claiming the Lion's Share",
+			"speakers": [
+				{
+					"portrait": "judita_jersovaite",
+					"name": "Judita Jersovaite, Global Head of DOOH Solutions, Group M"
+				}
+			],
+			"description": "Running the programmatic division at Group M, Judita Jersovaite shares her agency perspective on ensuring that more OOH inventory is included in agency client buys."
+		},
+		{
+			"youtubeID": "iMVX4hdZdPI",
+			"title": "The Future of Static Out-of-Home",
+			"speakers": [
+				{
+					"portrait": "catherine_lee",
+					"name": "Catherine Lee, Product Marketing Specialist, Broadsign"
+				}
+			],
+			"description": "In this session, our product marketing specialist, Catherine Lee, shares the latest insights from our brand-new State of Static Out-of-Home report."
+		},
+		{
+			"youtubeID": "dPH7Hoktj2w",
+			"title": "Panel: Revenue Growth through Automation",
+			"speakers": [
+				{
+					"portrait": "gavin_lee",
+					"name": "Gavin Lee, Senior Director of Product, Broadsign"
+				},
+				{
+					"portrait": "annie_rickard",
+					"name": "Annie Rickard, OOH Capital"
+				},
+				{
+					"portrait": "ben_milne",
+					"name": "Ben Milne, Dentsu"
+				}
+			],
+			"description": "We invited three OOH industry veterans to share their insights and perspectives on how automation for direct selling can help media owners improve their bottom lines."
+		}
+	]
+}

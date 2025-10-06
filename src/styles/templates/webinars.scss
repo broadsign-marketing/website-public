@@ -1,0 +1,72 @@
+@import "../base/dependencies";
+
+.webinar {
+	&.registration {
+		.hull {
+			.column_description {}
+		}
+	}
+
+	&.on_demand {
+		.Form .field {
+			margin-bottom: 10px;
+
+			&>label {
+				display: none;
+			}
+		}
+	}
+
+	.sticky_wrapper {
+		display: flex;
+		flex-flow: column nowrap;
+		height: 100%;
+
+		&.following {
+			.the_sticky {
+				position: fixed;
+				top: 100px;
+			}
+		}
+
+		&.ended {
+			justify-content: flex-end;
+
+			.the_sticky {
+				position: relative;
+				top: 0px;
+			}
+		}
+	}
+}
+
+@media (max-width:$xsMax) {
+	.webinar {
+
+		.presenter_wrapper,
+		.Presenter {
+			align-items: center;
+			text-align: center;
+		}
+
+		&.registration {
+			.hull {
+				.column_description {}
+			}
+		}
+
+		&.on_demand {}
+	}
+}
+
+@media (min-width:$md) {
+	.webinar {
+		&.registration {
+			.hull {
+				.column_description {}
+			}
+		}
+
+		&.on_demand {}
+	}
+}

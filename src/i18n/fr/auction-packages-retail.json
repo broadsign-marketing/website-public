@@ -1,0 +1,102 @@
+{
+	"seo": {
+		"title": "Vente de détail",
+		"description": "Augmentez vos ventes aux points d'achat et en ligne au moyen d'un affichage extérieur numérique percutant assorti d'un parcours d'achat qui rehaussera la notoriété de votre marque en captant l'intérêt des consommateurs dans les marchés prioritaires."
+	},
+	"apSlug": "retail",
+	"apLink": "344",
+	"apToken": "tMFSUePCqUBeQb3iTbafkz6vaiIGVuVcYiQHfjVzxq9TwJZy4HoAiXpiAyDi",
+	"playbookLink": "xkzj",
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Vente de détail",
+		"blurb": "Augmentez vos ventes aux points d'achat et en ligne au moyen d'un affichage extérieur numérique percutant assorti d'un parcours d'achat qui rehaussera la notoriété de votre marque en captant l'intérêt des consommateurs dans les marchés prioritaires.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explorez notre pack de détail",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Acheteurs de détail"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Centres commerciaux", "restaurants", "collèges et universités"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Habitudes d'achat"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "Tous les affichages qui visent le public ciblé",
+				"placeBased": "Centres commerciaux, pharmacies et dépanneurs",
+				"outdoor": "Panneaux-réclames, panneaux urbains et abribus à proximité de magasins de détail"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Acheteurs de détail »",
+		"list": [
+			{
+				"category": "Acheteurs aux ventes aux enchères",
+				"description": "Les adeptes de ventes aux enchères se répartissent également entre les genres et toutes les tranches d'âges, mais plus particulièrement dans les 55 à 64 ans."
+			},
+			{
+				"category": "Acheteurs d'aubaines",
+				"description": "Les amateurs d'aubaines ont généralement entre 55 et 64 ans. Ils raffolent des bons achats et sont toujours à l'affût des aubaines."
+			},
+			{
+				"category": "Acheteurs d'offres du jour",
+				"description": "Les acheteurs d'offres du jour sont majoritairement des femmes de toutes les tranches d'âges. Ce public aime faire de bons achats et utilise parfois des coupons rabais."
+			},
+			{
+				"category": "Acheteurs aux magasins à grande surface",
+				"description": "Les acheteurs dans les magasins à grande surface sont principalement les femmes de 55 à 64 ans. Ce public se rend dans les magasins pour dénicher le meilleur produit au meilleur prix."
+			},
+			{
+				"category": "Acheteurs de fleurs",
+				"description": "Les acheteurs de fleurs se répartissent également entre les genres, et près de la moitié d'entre eux ont entre 25 à 34 ans."
+			},
+			{
+				"category": "Acheteurs du temps des fêtes",
+				"description": "Les acheteurs du temps des fêtes se manifestent chaque année à l'approche de Noël. Ce segment saisonnier comprend un peu plus de femmes que d'hommes, dans toutes les tranches d'âges."
+			},
+			{
+				"category": "Acheteurs de fournitures de bureau",
+				"description": "Les acheteurs de fournitures de bureau sont âgés de 45 à 55 ans et plus. Leur fonction varie de gestionnaire de bureau à adjoint administratif et ils sont responsables des achats de fournitures."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Stimulez la fréquentation et les ventes en profitant du retour des habitudes d'achat en magasin.",
+		"list": [
+			"Générez des impressions ciblées lorsque les publics se déplacent pour le travail, font des courses ou magasinent dans les zones de grande fréquentation.",
+			"Activez des publicités par affichage extérieur numérique comme dernière tactique pour diriger l'attention des publics en magasin vers des écrans tout au long du parcours d'achat.",
+			"Sensibilisez les consommateurs aux promotions en magasin avec des messages sur des offres spéciales qui les attireront vers votre magasin."
+		]
+	},
+
+	"playbook": {
+		"title": "Rehaussez la notoriété de votre marque et de vos produits ainsi que l'intention d'achat.",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Explorez notre pack de détail" }
+}

@@ -1,0 +1,21 @@
+{
+	"seo": {
+		"title": "Fordern Sie eine Live-Demo an",
+		"description": "Sind Sie bereit, mit einer neuen Digital Signage-Softwarelösung zu arbeiten? Fordern Sie Ihre Demo an, um sich von den Vorteilen der Broadsign-Plattform zu überzeugen."
+	},
+	"formTitle": "Setzen Sie Akzente _mit den führenden Lösungen für OOH_",
+	"formHeader": "Vereinbaren Sie noch heute einen Termin für eine Live-Demo",
+	"contentDescription": {
+		"par1": "Egal, ob Sie mit digitalen Displays, statischen Installationen, transitbasierten Medien oder allen dreien arbeiten, wir bieten Ihnen die richtigen Tools.",
+		"par2": "Erhalten Sie eine persönliche Demo und erfahren Sie, wie wir Ihnen helfen, OOH-Medien effizienter denn je zu verkaufen, zu verwalten und bereitzustellen."
+	},
+	"tools": {
+		"title": "Unsere Tools können Ihnen dabei helfen:",
+		"content1": "Ihren Vertriebsprozess zu optimieren",
+		"content2": "Die betriebliche Effizienz zu steigern",
+		"content3": "Die Bereitstellung Ihrer Inhalte zu automatisieren",
+		"content4": "Neue Einnahmequellen zu erschließen"
+	},
+	"shinCTA": "Fordern Sie eine Live-Demo an",
+	"form": { "submitText": "Demo anfordern" }
+}

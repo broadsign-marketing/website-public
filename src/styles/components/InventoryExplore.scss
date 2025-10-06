@@ -1,0 +1,60 @@
+@import "../base/dependencies";
+
+.inventory_explore {
+	$h: 170px;
+
+	.orbit_ribbon {
+		height: $h;
+	}
+
+	.orbit_item_grid {
+		height: $h;
+	}
+
+	.inventory_card {
+		aspect-ratio: 1;
+		box-shadow: 4px 4px 24px rgba(115, 154, 240, 0.4);
+		cursor: pointer;
+		flex: 0 0 $h;
+		height: $h;
+		transition: box-shadow 0.3s;
+		width: $h;
+
+		.card_image {
+			flex: 0 1 80px;
+			margin: 4px auto auto;
+			max-height: 88px;
+			max-width: 130px;
+
+			img,
+			picture {
+				object-fit: contain;
+			}
+		}
+
+		.card_title {
+			margin: auto auto 12px;
+		}
+
+		hr {
+			background-color: $ev;
+			height: 1px;
+			margin: 0 -8px;
+			width: calc(100% + 16px);
+		}
+
+		.card_link {
+			height: 34px;
+		}
+
+		&:hover {
+			box-shadow: 4px 4px 24px rgba(115, 154, 240, 0.8);
+
+			.link_cerulean_arrow {
+				&:after {
+					@include animateArrow;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,167 @@
+{
+	"seo": {
+		"title": "Mesures et attribution",
+		"description": "Transformez la façon dont vous mesurez la publicité DOOH avec Broadsign. Les spécialistes du marketing peuvent faire le suivi de la performance, optimiser les stratégies et obtenir des résultats mesurables à chaque étape du parcours client.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"title": "Les mesures et l'attribution de l'affichage extérieur démystifiées",
+		"undertitle": "Mesurez la performance et prouvez l'impact de vos publicités digitales OOH",
+		"blurb": "Transformez la façon dont vous mesurez la publicité DOOH avec Broadsign. Grâce à nos partenariats avec des fournisseurs de données de premier plan, les spécialistes du marketing peuvent faire le suivi de la performance, optimiser les stratégies et obtenir des résultats mesurables à chaque étape du parcours client.",
+		"cta": "Parlez à un spécialiste des médias"
+	},
+	"solutions": {
+		"title": "Des solutions d'attribution adaptées aux objectifs de votre campagne",
+		"boxes": [
+			{
+				"id": "metrics",
+				"title": "Obtenir des mesures sur la marque",
+				"subtitle": "avec des études sur la hausse de la notoriété",
+				"par": "Découvrez comment vos campagnes DOOH interpellent votre public cible. Les études dévoilent des données sur la notoriété, la perception de la marque et l'intention d'achat, vous permettant de comparer les résultats aux normes du secteur pour mieux comprendre l'incidence de votre campagne."
+			},
+			{
+				"id": "traffic",
+				"title": "Mesurer l'achanlandage en magasin",
+				"subtitle": "avec des études sur l'achalandage piétonnier",
+				"par": "Voyez comment les campagnes DOOH génèrent des résultats concrets. Les études sur l'achalandage piétonnier font le suivi des visites en magasin après l'exposition à la publicité; elles donnent un aperçu des habitudes du public, de l'influence de la proximité et des heures d'affluence, ce qui permet d'établir une corrélation entre l'exposition à la publicité OOH et le succès en magasin."
+			},
+			{
+				"id": "engagement",
+				"title": "Évaluer l'engagement en ligne",
+				"subtitle": "avec des études sur la notoriété du site Web et de l'application",
+				"par": "Créez un pont entre le physique et le numérique. Les études sur la notoriété du site Web et de l'application montrent comment l'affichage extérieur numérique influence le comportement en ligne, notamment les visites sur le site Web et les téléchargements de l'application, offrant des informations sur le parcours de votre audience et de l'efficacité de la publicité multicanal."
+			}
+		],
+		"cta": {
+			"label": "Découvrez d'autres façons de mesurer vos campagnes",
+			"to": "/blog/out-of-home-data-capabilities-a-marketers-guide-to-measurement-attribution-and-audience-extension/"
+		}
+	},
+	"partners": {
+		"title": "Nos partenaires de données réputés"
+	},
+	"campaigns": {
+		"title": "Des résultats réels de campagnes DOOH"
+	},
+	"features": {
+		"title": "Reliez la rendement de la campagne et les résultats réels",
+		"list": [
+			{
+				"id": "impact",
+				"title": "Mesurez l'impact à l'échelle de la marque",
+				"par": "Grâce à des méthodes d'attribution efficaces, vous pouvez déterminer les lieux, les moments et le type de public précis qui génèrent le plus grand engagement. En s'appuyant sur des études sur la notoriété de la marque, l'achalandage piétonnier et l'engagement en ligne, les annonceurs peuvent affiner leurs stratégies pour maximiser les retombées de leur campagne. Un ciblage précis se traduit par une hausse du retour sur investissement et par la capacité à optimiser les campagnes en temps réel pour obtenir les meilleurs résultats.",
+				"cta": "En savoir plus",
+				"to": "/blog/out-of-home-data-capabilities-a-marketers-guide-to-measurement-attribution-and-audience-extension/"
+			},
+			{
+				"id": "roi",
+				"title": "Démontrez le ROI de vos campagnes DOOH",
+				"par": "Améliorez vos campagnes DOOH grâce à des renseignements exploitables qui génèrent de vrais résultats pour votre entreprise. Établissez un lien entre l'exposition publicitaire et le volume des ventes en utilisant des données sur les points de vente. Mesurez l'engagement des clients et l'achalandage piétonnier au moyen d'études sur la notoriété du site Web et de l'application. Tirez parti de la modélisation du marketing mix pour découvrir comment le DOOH accroît l'impact global de votre marketing. Grâce à ces outils puissants, vous pouvez valider votre investissement, afficher des résultats mesurables et affiner vos stratégies publicitaires pour assurer une efficacité inégalée.",
+				"cta": "En savoir plus",
+				"to": "/blog/are-your-out-of-home-ads-working-measuring-roi-in-ooh/"
+			},
+			{
+				"id": "spend",
+				"title": "Tirez le meilleur parti de vos investissements publicitaires",
+				"par": "Optimisez votre investissement publicitaire en déterminant où, quand et sur qui vos campagnes sont les plus efficaces. Grâce à l'analyse du public et au géociblage, vous pouvez adapter vos campagnes en temps réel afin d'améliorer le taux d'engagement et d'obtenir des résultats mesurables.",
+				"cta": "En savoir plus",
+				"to": "inventoryMarketplace"
+			}
+		]
+	},
+	"resources": {
+		"title": "Continuez à en apprendre davantage sur les mesures et l'attribution pour le DOOH",
+		"posts": {
+			"37276": {
+				"title": "Le multiplicateur d'impressions DOOH : de quoi s'agit-il et comment aide-t-il à mieux mesurer l'efficacité de l'affichage extérieur numérique"
+			},
+			"42687": {
+				"title": "La capacité des données de l'affichage extérieur : un guide à l'intention du spécialiste du marketing sur les mesures, l'attribution et l'élargissement du public"
+			},
+			"42868": {
+				"title": "L'attribution en publicité DOOH : nous répondons à vos questions"
+			}
+		},
+		"resources": [
+			{
+				"type": "youtube",
+				"title": "Des impressions aux retombées : l'attribution en publicité DOOH",
+				"youtubeId": "ustUqGviF3U",
+				"link": "webinarImpressionToImpact"
+			},
+			{
+				"type": "youtube",
+				"title": "Des publicités mémorables : utilisez les études sur la notoriété de la marque pour mesurer l'impact du DOOH",
+				"youtubeId": "qadPAMOLoKY",
+				"link": "webinarMemorableAdvertising"
+			},
+			{
+				"type": "ebook",
+				"title": "Guide pratique sur les solutions d'attribution",
+				"link": "https://marketing.broadsign.com/hubfs/files/Broadsign_AttributionCheatSheet.pdf"
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_attribution_1",
+				"q": "Comment évalue-t-on l'efficacité des campagnes OOH?",
+				"a": "On les évalue à l'aide d'une combinaison de mesures et d'outils d'attribution qui permettent de calculer leur rendement tout au long du parcours client. Les mesures standards comprennent les impressions, les diffusions, la portée et la fréquence. Les techniques avancées, comme les études sur la notoriété de la marque, l'analyse de l'achalandage piétonnier, les études sur l'engagement sur le site Web et l'application, l'attribution de QR et l'évaluation des points de vente offrent des renseignements plus pointus. Ensemble, ces outils permettent d'établir une corrélation entre l'exposition à la publicité et les gestes concrets, ce qui vous donne une bonne vue d'ensemble de l'efficacité d'une campagne."
+			},
+			{
+				"id": "faq_attribution_2",
+				"q": "Comment calculer le ROI pour la publicité OOH?",
+				"a": "Pour calculer le ROI de l'affichage extérieur, il faut lier les dépenses de la campagne à des résultats mesurables. Commencez par suivre les indicateurs clés de performance (achalandage piétonnier, hausse des ventes, taux d'engagement en ligne) en utilisant des outils comme les mesures de point de vente (POS) et l'analyse du site Web ou de l'application. Ensuite, comparez les conversions ou les revenus générés par votre campagne aux dépenses publicitaires totales pour déterminer votre ROI de base. Pour une analyse plus complète, utilisez la modélisation du marketing mix (MMM); elle vous permet d'évaluer comment le OOH contribue au succès global de la campagne et améliore l'efficacité des autres canaux marketing. Cette approche holistique fournit des renseignements clairs sur l'impact financier de vos investissements OOH, vous aidant à optimiser vos futures campagnes pour obtenir un rendement maximal."
+			},
+			{
+				"id": "faq_attribution_3",
+				"q": "Ces solutions d'attribution sont-elles conformes au RGPD et à la CCPA?",
+				"a": "Oui, toutes les solutions d'attribution utilisées par les partenaires de données de Broadsign sont conformes au RGPD, à la CCPA et à d'autres normes mondiales en matière de confidentialité. Ces solutions s'appuient sur des données anonymisées recueillies avec le consentement de l'utilisateur pour en assurer la confidentialité tout en fournissant des renseignements exploitables aux annonceurs."
+			},
+			{
+				"id": "faq_attribution_4",
+				"q": "Comment fonctionne la technologie de renvoi d'identifiant?",
+				"a": [
+					"Le passback d'identifiant d'appareil consiste à recueillir des données d'appareil anonymisées à partir d'appareils mobiles qui ont été exposés à des publicités OOH. Ces données sont transmises aux plateformes DSP ou aux annonceurs à des fins de reciblage ou d'analyse. Cela permet aux annonceurs :",
+					[
+						"de comprendre l'engagement multicanal en établissant un lien entre l'exposition aux publicités OOH et l'activité en ligne",
+						"d'élargir la portée du public cible grâce à un ciblage précis et conforme aux règlements en matière de protection de la vie privée",
+						"d'obtenir des renseignements détaillés sur la performance de la campagne à travers les points de contact physiques et numériques"
+					]
+				]
+			},
+			{
+				"id": "faq_attribution_5",
+				"q": "Quels indicateurs de performance clés utilise-t-on dans les études sur la hausse de notoriété?",
+				"a": [
+					"Les études de Broadsign sur la notoriété de la marque vous permettent de mesurer un large éventail d'indicateurs clés de performance pour évaluer l'impact de vos campagnes OOH, notamment :",
+					[
+						"<b>la mémorisation de la publicité</b> – évaluez dans quelle mesure votre public cible se souvient de vos publicités.",
+						"<b>l'intérêt</b> – évaluez dans quelle mesure votre campagne suscite la curiosité de votre public cible.",
+						"<b>l'attribution</b> – déterminez dans quelle mesure votre campagne influence la perception de votre marque.",
+						"<b>l'image de la marque</b> – comprenez l'incidence de vos publicités sur la perception et les valeurs de la marque.",
+						"<b>la considération</b> – évaluez la façon dont votre campagne stimule l'intention d'achat du public.",
+						"<b>la préférence</b> – faites le suivi de l'évolution de la préférence des consommateurs pour votre marque.",
+						"<b>la connaissance de la marque</b> – évaluez dans quelle mesure votre public cible reconnaît votre marque.",
+						"<b>l'intention d'achat</b> – mesurez la probabilité que le public achète votre produit ou service.",
+						"<b>l'image spécifique de la marque</b> – évaluez l'incidence de vos publicités sur les caractéristiques ciblées de la marque.",
+						"<b>la notoriété et l'intention d'achat en point de vente</b> – établissez un lien entre votre campagne, la notoriété du point de vente et l'intention d'achat.",
+						"<b>l'appréciation de la publicité</b> – comprenez dans quelle mesure vos publicités résonne avec votre public.",
+						"<b>la perception de la publicité</b> – évaluez comment vos publicités sont perçues en termes de pertinence et de qualité.",
+						"<b>la clarté de la publicité</b> – déterminez dans quelle mesure votre message est compris par votre public."
+					]
+				]
+			}
+		]
+	},
+	"shin": {
+		"title": "Lancez et mesurez votre prochaine campagne DOOH avec Broadsign",
+		"cta": "Parlez à un spécialiste des médias"
+	},
+	"readCaseStudy": "Lire l'étude de cas",
+	"readArticle": "Lire l'article",
+	"watchWebinar": "Regarder le webinaire",
+	"downloadGuide": "Télécharger le guide"
+}

@@ -1,0 +1,165 @@
+@use "sass:math";
+
+@include animFadeIn;
+
+#blog {
+	.blog_grid {
+		display: grid;
+		grid-template-columns: repeat(6, 1fr);
+		grid-template-rows: auto;
+	}
+
+	.blog_item {
+		animation: 1s ease-out 0s 1 normal forwards running fadeIn;
+		aspect-ratio: 350 / 400;
+		height: auto;
+		overflow: hidden;
+		width: 100%;
+
+		.blog_item_post_thumbnail {
+			aspect-ratio: 11 / 5;
+		}
+
+		h3 {
+			font-size: min(5vmin, 20px);
+		}
+
+
+		&.featured {
+			.blog_item_post_thumbnail {}
+
+			h3 {
+				font-size: min(5vmin, 34px);
+			}
+		}
+
+		&.hidden {
+			animation: none;
+		}
+	}
+}
+
+@media (max-width:$xsMax) {
+
+	#blog {
+		.blog_grid {
+			display: flex;
+			flex-flow: column nowrap;
+			font-size: min(5.6vw, 20px);
+			gap: 32px;
+		}
+
+		.blog_item {
+			height: auto;
+			max-height: 100svh;
+			width: 100%;
+
+			.blog_item_post_thumbnail {}
+
+			.blog_item_post_title {
+				padding: 16px 8px 12px;
+			}
+		}
+	}
+}
+
+
+@media (min-width:$sm) and (max-width:$smMax) {
+	#blog {
+		.blog_grid {
+			font-size: min(3vw, 22px);
+			gap: 16px;
+		}
+
+		.blog_item {
+			grid-column: 1 / span 6;
+
+			&:nth-child(1) {}
+
+			&:nth-child(2n+2) {
+				grid-column: 1 / span 3;
+			}
+
+			&:nth-child(2n+3) {
+				grid-column: 4 / span 3;
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#blog {
+		.blog_item {
+			h3 {
+				font-size: 0.8em;
+			}
+
+			.blog_item_post_read_more {
+				font-size: min(0.7em, 16px);
+			}
+
+			&.featured {
+				aspect-ratio: auto;
+
+				.blog_item_post_thumbnail {}
+
+				h3 {
+					font-size: min(4vw, 34px);
+				}
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#blog {
+		.blog_grid {
+			font-size: min(1.8vw, 20px);
+			grid-template-rows: auto;
+			gap: 16px;
+		}
+
+		.blog_item {
+			h3 {
+				font-size: 1em;
+			}
+
+			.blog_item_post_read_more {
+				font-size: min(0.8em, 16px);
+			}
+
+			&.featured {
+				grid-column: 1 / span 4;
+				grid-row: 1 / span 2;
+				height: auto;
+				max-height: none;
+
+				.blog_item_post_title {
+					font-size: 1.7em;
+				}
+			}
+
+			&:nth-child(2) {
+				grid-column: 5 / span 2;
+				grid-row: 1 / span 1;
+			}
+
+			&:nth-child(3) {
+				grid-column: 5 / span 2;
+				grid-row: 2 / span 1;
+			}
+
+			&:nth-child(3n+4) {
+				grid-column: 1 / span 2;
+			}
+
+			&:nth-child(3n+5) {
+				grid-column: 3 / span 2;
+			}
+
+			&:nth-child(3n+6) {
+				grid-column: 5 / span 2;
+			}
+		}
+	}
+}

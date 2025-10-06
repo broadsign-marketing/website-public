@@ -1,0 +1,55 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les transports",
+		"description": "Augmentez vos profits et rompez la monotonie des déplacements en transport en commun grâce à des solutions d'affichage numérique qui diffusent du contenu dont votre public raffole : des offres de service et des publicités dynamiques et fondées sur des données."
+	},
+	"Hero": {
+		"TitlePart1": "Élargissez le potentiel de votre",
+		"TitlePart2": "réseau de Transport",
+		"Blurb": "Augmentez vos profits et rompez la monotonie des déplacements en transport en commun grâce à des solutions d'affichage numérique qui diffusent du contenu dont votre public raffole : des offres de service et des publicités dynamiques et fondées sur des données.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Rentabilisez votre réseau",
+			"Paragraph": "Pour tirer la pleine valeur de votre réseau de transport, optez pour un système d'affichage publicitaire intelligent qui présente quotidiennement le bon message aux bons passagers."
+		},
+		"Pane2": {
+			"Title": "Égayez les trajets quotidiens",
+			"Paragraph": "L'affichage numérique est la solution tout avisée pour illuminer l'intérieur des bus, des trains, des stations et des abribus. Servez-vous de l'ensemble de votre réseau pour donner une nouvelle couleur aux trajets des passagers, puis récoltez les fruits de leur attention."
+		},
+		"Pane3": {
+			"Title": "Des voyageurs sur la bonne route",
+			"Paragraph": "Aidez les gens à s'orienter! Intégrez des plans, des horaires, des outils d'orientation et d'autres services et données utiles à votre réseau d'écrans."
+		},
+		"Pane4": {
+			"Title": "De multiples écrans, un impact saisissant",
+			"Paragraph": "Synchronisez vos écrans pour augmenter l'impact visuel dans une zone ciblée, ou permettez à une marque d'attirer tous les regards en s'affichant simultanément sur l'ensemble de vos écrans."
+		}
+	},
+	"SpielPoster": {
+		"title": "Du contenu qui se déplace avec votre public",
+		"text": "Nos outils de géolocalisation vous permettent de diffuser du contenu et des messages pertinents, et ce, où que se trouvent vos écrans et votre public."
+	},
+	"Quoteblock": {
+		"Quote": "Nous étions à la recherche d'une solution d'affichage numérique puissante et flexible qui sache “parler” le langage publicitaire et qui nous aide à innover. Broadsign nous a facilité la vie : nous pouvons maintenant nous concentrer sur le contenu de notre campagne plutôt que sur le logiciel d'affichage.",
+		"Signature": "Grandi Stazioni"
+	},
+	"cards": {
+		"title": "Des options flexibles pour réaliser un maximum de ventes de publicités",
+		"par": "Grâce à des outils spécialisés destinés aux équipes de vente directe et programmatique, vous pouvez dépasser vos objectifs de vente et joindre de nouveaux acheteurs.",
+		"direct": "Dotez vos équipes de vente de nouvelles capacités grâce à Broadsign Direct ",
+		"reach": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Customers": {
+		"Title": "Adopté par des réseaux de transport de premier plan"
+	},
+	"Partners": {
+		"Title": "Collaborez avec nos partenaires pour offir du contenu formidable",
+		"Tagline": "Créez votre propre contenu, travaillez avec des collaborateurs locaux ou améliorez vos écrans en vous alliant à nos partenaires dans les domaines du contenu d'affichage numérique et de l'analyse du public."
+	},
+	"Shin": {
+		"Title": "Comment votre réseau de transport peut-il tirer parti de la plateforme Broadsign?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

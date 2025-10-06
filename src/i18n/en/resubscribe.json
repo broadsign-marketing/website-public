@@ -1,0 +1,18 @@
+{
+	"seo": {
+		"title": "Get updates from Broadsign",
+		"description": "",
+		"robots": "noindex nofollow"
+	},
+	"title": "Get updates from Broadsign",
+	"clickToResubscribe": "This email address has been unsubscribed from our communications. Click here to receive an email to modify or change your subscription preferences.",
+	"invite": {
+		"par1": "Want to stay connected to — or get reacquainted with — Broadsign? Sign up for our client communications to hear the latest from us. We'll keep you up-to-date on product news, company updates, event information and more. You're free to opt out at any time.",
+		"par2": "We want you to get the most out of our emails. That's why we'll only send information that's relevant to you. Choose from the list of topics below that interest you most. For now, our emails are exclusively available in English."
+	},
+	"privacyPolicy": "You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our <a href='/privacy-policy' target='_blank'>Privacy Policy</a>.",
+	"thankYou": {
+		"title": "Thank you!",
+		"blurb": "Don't forget to check your emails! If the resubscription email does not appear in your inbox, please wait a few minutes or check your spam folder. To prevent resubscription abuse, you can only submit one request per hour.If you're experiencing issues with resubscribing, feel free to <a href='/contact'>contact us</a>!"
+	}
+}

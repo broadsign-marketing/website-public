@@ -1,0 +1,33 @@
+@import "../base/dependencies";
+
+.EventsDatePlace {
+	display: grid;
+
+	.el {
+		display: grid;
+		grid-template-columns: 36px 1fr;
+
+		p {
+			color: $reflex;
+			margin: 2px 0 0 0;
+		}
+	}
+
+	.icon {
+		img {
+			width: 24px;
+		}
+	}
+
+	.portrait {
+		height: auto;
+		margin: 12px 0;
+		width: 55px;
+	}
+
+	.text {}
+}
+
+@media(min-width:$sm) {
+	.EventsSpot {}
+}

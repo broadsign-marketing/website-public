@@ -1,0 +1,296 @@
+@import "../base/dependencies";
+
+@keyframes bounce {
+	0% {
+		transform: translateY(0%) scaleY(1);
+	}
+
+	12% {
+		transform: translateY(0%) scaleY(0.8);
+	}
+
+	30% {
+		transform: translateY(-25%) scaleY(1.2);
+	}
+
+	55% {
+		transform: translateY(20%) scaleY(0.8);
+	}
+
+	68% {
+		transform: translateY(-10%) scaleY(1);
+	}
+
+	78% {
+		transform: translateY(10%);
+	}
+
+	86% {
+		transform: translateY(-8%);
+	}
+
+	90% {
+		transform: translateY(0%);
+	}
+}
+
+#state_of_static_ooh_report {
+	.hero {
+		& > .overtitle {
+		}
+
+		.hero_img {
+			display: block;
+			margin: 0 auto;
+			max-width: 496px;
+			width: calc(100% - 32px);
+		}
+
+		.text_marquee_wrapper {
+			bottom: 16px;
+			left: 50%;
+			position: absolute;
+			transform: translateX(-50%);
+		}
+
+		.TextMarquee__text {
+			font-size: min(20vw, 120px);
+		}
+
+		.img_map {
+		}
+
+		.stats {
+			span:not(:first-of-type) {
+				margin-left: min(4vw, 20px);
+			}
+		}
+
+		.down_arrow {
+			border: 1px solid $cerulean;
+			border-radius: 1000px;
+			height: 54px;
+			padding-top: 4px;
+			transform-origin: center bottom;
+			width: 40px;
+
+			img {
+				height: 46%;
+			}
+
+			&:hover {
+				img {
+					animation: bounce 1.6s ease-in-out infinite;
+				}
+			}
+		}
+	}
+
+	.BroadsignAdsCarousel__item {
+		transition: opacity 0.3s ease;
+	}
+
+	.stats {
+	}
+
+	.stat {
+		max-width: 710px;
+		padding: 0 16px;
+		top: 0;
+		width: 100%;
+		z-index: 10;
+	}
+
+	.stat_img {
+		max-width: 710px;
+	}
+
+	.stat_number {
+		font-size: 60px;
+		line-height: 80%;
+	}
+
+	.stat_desc {
+		font-size: 16px !important;
+		letter-spacing: 0;
+		min-height: 6em;
+	}
+
+	.Carousel__nav {
+		padding: 0 16px;
+	}
+
+	.gradient_border {
+		background: linear-gradient(to right, #e43425 20%, #441fd8 80%, #0a26b8 100%);
+		border-radius: 12px;
+		margin-top: min(35vw, 120px);
+		padding: 1px;
+
+		& > .inner {
+			border-radius: 12px;
+		}
+	}
+
+	.report_screenshot {
+		left: -40px;
+		margin-top: max(-35vw, -575px);
+		max-width: 574px;
+		width: 100vw;
+	}
+
+	.submitted-message {
+		display: none;
+	}
+}
+
+.state_of_static_report_thank_you {
+	.green_check {
+		height: 60px;
+		width: 60px;
+	}
+
+	.link_cerulean_arrow {
+		max-width: 16ch;
+
+		&:hover {
+			opacity: 0.6;
+		}
+	}
+}
+
+.console {
+	background: #000;
+	bottom: 0;
+	color: #0f0;
+	display: block;
+	font-size: 30px;
+	left: 0;
+	padding: 30px;
+
+	&.cons2 {
+		left: auto;
+		right: 0;
+	}
+}
+
+@media (min-width: 420px) {
+	#state_of_static_ooh_report {
+		.stat_desc {
+			min-height: 4.2em;
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	#state_of_static_ooh_report {
+		.hero {
+			.hero_img {
+				left: 50%;
+				margin: 0;
+				width: 50%;
+			}
+
+			.text_marquee_wrapper {
+			}
+
+			.overtitle {
+				font-size: min(2.1vw, 16px) !important;
+			}
+
+			.TextMarquee__text {
+				font-size: min(10vw, 120px);
+			}
+
+			.down_arrow {
+				height: 74px;
+				width: 54px;
+			}
+		}
+
+		.Carousel__nav {
+			justify-content: center !important;
+		}
+
+		.stat {
+			padding: 0 32px;
+		}
+
+		.stat_number {
+			font-size: min(14vw, 100px);
+		}
+
+		.stat_desc {
+			font-size: 20px !important;
+			min-height: 0px;
+		}
+
+		.gradient_border {
+			p {
+				max-width: 54ch;
+			}
+		}
+
+		.report_screenshot {
+			left: auto;
+			margin-top: 0;
+			position: absolute;
+			right: 0;
+			top: 0;
+			transform: translateY(-40%);
+			width: 58%;
+		}
+	}
+
+	.state_of_static_report_thank_you {
+		.link_cerulean_arrow {
+			max-width: 100%;
+		}
+	}
+}
+
+@media (min-width: $md) {
+	#state_of_static_ooh_report {
+		.hero {
+			.TextMarquee__grid {
+				animation-duration: 14s !important;
+			}
+
+			.text_marquee_wrapper {
+				margin-top: -1.8em;
+			}
+		}
+
+		.report_screenshot {
+			width: 53%;
+		}
+	}
+}
+
+@media (min-width: $lg) {
+	#state_of_static_ooh_report {
+	}
+}
+
+@media (min-width: $xl) {
+	#state_of_static_ooh_report {
+		.hero {
+			.TextMarquee__grid {
+				animation-duration: 18s !important;
+			}
+		}
+
+		.img_map {
+			left: max(-4%, -15px);
+			max-width: 535px;
+			width: 104%;
+		}
+
+		.stat {
+			padding: 0;
+		}
+
+		.stat_number {
+			font-size: min(14vw, 110px);
+		}
+	}
+}

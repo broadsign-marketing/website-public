@@ -1,0 +1,55 @@
+{
+	"seo": {
+		"title": "WOO Milan 2024",
+		"description": "",
+		"robots": "noindex nofollow"
+	},
+	"hero": {
+		"title": "OOH Social Milan",
+		"pars": ["Connect with OOH experts from around the world at Broadsign’s networking event"],
+		"cta": "Reserve my spot"
+	},
+	"date": ["Monday, November 4, 2024", "8:30 PM CET (following the WOO Welcome Reception)"],
+	"place": ["<strong>Radio Rooftop Milan</strong>", "Via Marco Polo, 18, 20124 Milano", "MI, Italy"],
+	"blurb": "Join Broadsign for our OOH Social events, a global series that brings together industry leaders for exclusive networking experiences. Connect with peers and engage in dynamic conversations about the latest innovations and trends shaping the future of OOH.",
+	"hostedBy": "Hosted by:",
+	"hosts": [
+		{
+			"id": "tbc1",
+			"name": "TBD",
+			"title": ""
+		},
+		{
+			"id": "tbc2",
+			"name": "TBD",
+			"title": ""
+		},
+		{
+			"id": "tbc3",
+			"name": "TBD",
+			"title": ""
+		},
+		{
+			"id": "tbc4",
+			"name": "TBD",
+			"title": ""
+		},
+		{
+			"id": "tbc5",
+			"name": "TBD",
+			"title": ""
+		},
+		{
+			"id": "tbc6",
+			"name": "TBD",
+			"title": ""
+		}
+	],
+	"shin": {
+		"title": "Reserve your spot!",
+		"cta": "RSVP"
+	},
+	"googleCalendarLink": "",
+	"icsFileLink": "",
+	"thankYouForRegistering": [""]
+}

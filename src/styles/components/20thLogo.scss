@@ -1,0 +1,69 @@
+@import "../base/dependencies";
+
+
+.Logo20th {
+	left: 50%;
+	transform: translateX(-50%);
+
+	.logo_wrapper {
+		min-height: 50vw;
+	}
+
+	.twentyplus {
+		@include fadeInOnce(1s);
+		max-height: 100%;
+		max-width: 45vw;
+		opacity: 0;
+	}
+
+	.i18n_text {
+		@include fadeInOnce(1s);
+		max-height: 100%;
+		opacity: 0;
+	}
+}
+
+
+@media (min-width:$sm) {
+	.Logo20th {
+		--logo-height: 176px;
+		--logo-max-height: 16vw;
+		max-width: 1050px;
+
+		&,
+		.logo_wrapper,
+		.twentyplus,
+		.i18n_text {
+			height: var(--logo-height);
+			max-height: var(--logo-max-height);
+			min-height: 0;
+		}
+
+		&.en {}
+
+		&.fr {
+			--logo-height: 180px;
+			--logo-max-height: 16.2vw;
+		}
+
+		&.es {
+			--logo-height: 164px;
+			--logo-max-height: 14.8vw;
+		}
+
+		&.de {
+			--logo-height: 152px;
+			--logo-max-height: 13.6vw;
+		}
+
+		&.ja {
+			--logo-height: 186px;
+			--logo-max-height: 16.6vw;
+		}
+
+		&.zh {
+			--logo-height: 220px;
+			--logo-max-height: 24vw;
+		}
+	}
+}

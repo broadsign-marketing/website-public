@@ -1,0 +1,63 @@
+{
+	"seo": {
+		"title": "Our Plans",
+		"description": "Plans for every network's needs"
+	},
+	"hero": {
+		"title": "Our Plans"
+	},
+	"forMediaOwners": "For Media Owners",
+	"forAgencies": "For Agencies & Brands",
+	"agenciesTab": {
+		"title": "Launch high-performing DOOH campaigns",
+		"par": "Talk to our team of media experts to help build and execute high-performing campaign strategies via DOOH-specific or omnichannel DSPs.",
+		"cta": "Let's Connect"
+	},
+	"standard": "Standard",
+	"professional": "Professional",
+	"enterprise": "Enterprise",
+	"content_network_management": "Content & Network Management",
+	"digital_media_management": "Digital Media Management",
+	"automated_campaign_scheduling": "Automated Campaign Scheduling",
+	"network_player_management": "Network & Player Management",
+	"campaign_proof_of_play_reporting": "Campaign Proof-Of-Play Reporting",
+	"support_for_third_party_players": "Support for third party players",
+	"api_access": "API Access",
+	"live_digital_screen_management": "Live digital screen management",
+	"on_demand_player_polling": "On-demand Player Polling",
+	"remote_screenshot_capture": "Remote screenshot capture",
+	"player_monitoring_center": "Player monitoring center",
+	"cloud_based_content_synchronization": "Cloud-based content synchronization",
+	"campaign_planning_ad_serving": "Campaign Planning",
+	"real_time_inventory_availability": "Real-time inventory availability",
+	"proposal_management": "Proposal management",
+	"guaranteed_campaigns": "Guaranteed campaigns",
+	"frequency": "Frequency",
+	"impressions": "Impressions",
+	"share_of_voice": "Share-of-Voice",
+	"takeovers": "Takeovers",
+	"budget": "Budget",
+	"audience_campaigns": "Audience Campaigns",
+	"contextual_targeting": "Contextual Targeting (Demographics, POI, Impressions)",
+	"moment_based_triggers": "Moment-Based Triggers (Weather, Financial Data)",
+	"optimization": "Optimization:",
+	"campaign_reallocation": "Campaign reallocation",
+	"campaign_rebalancing": "Campaign rebalancing",
+	"dynamic_screen_selection": "Dynamic screen selection",
+	"static_campaigns": "Static Campaigns",
+	"asset_management": "Asset management",
+	"campaign_management": "Campaign management",
+	"charting": "Charting",
+	"operations": "Operations",
+	"programmatic_ssp": "Programmatic SSP",
+	"open_exchange_transactions": "Open exchange transactions",
+	"private_marketplace_programmatic_transactions": "Private marketplace programmatic transactions",
+	"local_signage_essaging": "Local signage messaging",
+	"branded_messaging_templates": "Branded messaging templates",
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a team member will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaRequestAQuote": "Request a quote"
+	}
+}

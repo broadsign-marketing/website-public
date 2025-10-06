@@ -1,0 +1,222 @@
+{
+	"seo": {
+		"title": "Targeted Advertising in Toronto | Broadsign Billboard & OOH Packages",
+		"description": "Advertise in Toronto with Broadsign's targeted billboard and OOH inventory packages. Reach your audience at prime locations, venues, and points of interest throughout Toronto. Maximize your advertising impact with Broadsign's strategic placements."
+	},
+	"apSlug": "toronto",
+	"apLink": "3184",
+	"apToken": "wM09Rf4CPthHMNkjNg7BcLUEOrBaOXEMxj5JV11yxvvA28ngqmE3M8UIPRQ2",
+	"hero": {
+		"overtitle": "Toronto Billboards",
+		"title": "Billboard and Out-of-Home Advertising in Toronto",
+		"blurb": [
+			"Looking to advertise in Toronto? Unlock targeted advertising opportunities with Broadsign's curated billboard and OOH inventory packages. Reach your audience wherever they are with inventory strategically placed to target specific venue types, locations, and points of interest throughout Toronto."
+		],
+		"ctaLaunchCampaign": "Launch a Billboard Campaign",
+		"ctaExplore": "Explore Advertising Inventory"
+	},
+	"opportunities": {
+		"title": "Unlock advertising opportunities in Toronto",
+		"blurb": "As Canada's largest media market, Toronto offers unparalleled opportunities for out-of-home and billboard advertising to a large and diverse audience.",
+		"list": [
+			{
+				"id": "diversity",
+				"title": "Demographics & Diversity",
+				"blurb": "Toronto's diverse demographics create a vibrant mix of cultures, backgrounds, and lifestyles, offering advertisers opportunities to connect with a wide range of consumers.",
+				"features": [
+					{
+						"id": "groups",
+						"text": "Over 2.9 million people and around 1.2 million households within city limits"
+					},
+					{
+						"id": "diversity",
+						"text": "One of the most multicultural cities in the world, with over 250 distinct ethnic groups represented"
+					},
+					{
+						"id": "age",
+						"text": "Average age of 40 years old, with a fairly even gender distribution"
+					}
+				]
+			},
+			{
+				"id": "income",
+				"title": "Income & Education",
+				"blurb": "The population's strong income levels and high education rates make Toronto an ideal market to target desirable demographics.",
+				"features": [
+					{
+						"id": "household",
+						"text": "Average household income over $110,000"
+					},
+					{
+						"id": "school",
+						"text": "Over 50% of Torontonians have post-secondary education, with nearly 30% holding a bachelor's degree or higher"
+					},
+					{
+						"id": "temple",
+						"text": "Toronto's economy is diversified across sectors like finance, technology, healthcare, and education"
+					}
+				]
+			},
+			{
+				"id": "travel",
+				"title": "Transportation & Travel",
+				"blurb": "Toronto's extensive transit network caters to a diverse and mobile audience, creating strong opportunities for advertisers to connect with on-the-go consumers.",
+				"features": [
+					{
+						"id": "airport",
+						"text": "2 airports, including the Toronto Pearson International Airport, one of the busiest airports in North America"
+					},
+					{
+						"id": "commute",
+						"text": "Nearly 1.2 million workers commute into Toronto daily"
+					},
+					{
+						"id": "subway",
+						"text": "3 subway lines and nearly 70 stations"
+					},
+					{
+						"id": "camera",
+						"text": "Over 27 million tourists visit the city each year"
+					}
+				]
+			}
+		]
+	},
+	"ctaBox1": {
+		"title": "Looking to advertise in Toronto?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"topPackages": {
+		"title": "Explore digital OOH inventory packages for top audience segments in Toronto",
+		"blurb": "See our curated billboard and screen packages tailored for specific audiences around top advertising verticals in Toronto. Each package includes diverse environments, venue types, and demographics to boost brand visibility.",
+		"list": [
+			{
+				"slug": "retail",
+				"linkID": "2248",
+				"token": "a4ZRslKc3p5j5cHHv2ZN7hWOABgPEotnB958j5O2quMq90MdJawjfDIChpBk"
+			},
+			{
+				"slug": "finances",
+				"linkID": "2252",
+				"token": "pUoVDuP4OGpbFh7HMLdCoTFubev7nD4G1fASOpoErWBcaDNtAJLvoSjCVyLE"
+			},
+			{
+				"slug": "travelTourism",
+				"linkID": "2247",
+				"token": "3XFpZSNdyGci6BVXOPvYW3WJKFhnL37drgjsGVjDCYteypv5ZwRBH5NoUWAM"
+			},
+			{
+				"slug": "qsr",
+				"linkID": "2257",
+				"token": "AHil05tKfWqMYIT7Zt9SiPuXJUk5lhrgaE3mrLNCK5IjM1sAcz2asGir4xQW"
+			},
+			{
+				"slug": "cpg",
+				"linkID": "2250",
+				"token": "QORpPEaoQWQA0SnualuJS73YEsteMdaik7UJV6gDcSrc7mo7Ji8s6nzP8u8g"
+			},
+			{
+				"slug": "automotive",
+				"linkID": "2255",
+				"token": "CIXAGULfMMG1Umo6bsAET17eLLdSvsgqknft9sHyZG2tZzPmvmcVFxyCQ63s"
+			}
+		],
+		"cta": "Explore our inventory packages"
+	},
+	"billboards": {
+		"title": "Types of billboards and OOH formats in Toronto",
+		"list": [
+			{
+				"title": "Outdoor",
+				"types": [
+					{
+						"name": "Billboards",
+						"avgCPM": "$4.8",
+						"dailyImpressions": "+300k",
+						"commonSizing": ["20ft x 60ft", "14ft x 48ft"]
+					},
+					{
+						"name": "Urban Panels",
+						"avgCPM": "$5.3",
+						"dailyImpressions": "+190k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					}
+				]
+			},
+			{
+				"title": "Transit",
+				"types": [
+					{
+						"name": "Subway",
+						"avgCPM": "$3.6",
+						"dailyImpressions": "+300k",
+						"commonSizing": ["2ft x 2ft"]
+					},
+					{
+						"name": "Train Stations",
+						"avgCPM": "$5.3",
+						"dailyImpressions": "+440k",
+						"commonSizing": ["5ft x 3ft"]
+					}
+				]
+			},
+			{
+				"title": "Retail",
+				"types": [
+					{
+						"name": "Malls",
+						"avgCPM": "$6.9",
+						"dailyImpressions": "+80k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft"]
+					},
+					{
+						"name": "Grocery",
+						"avgCPM": "$1.6",
+						"dailyImpressions": "+110k",
+						"commonSizing": ["4ft x 6ft", "2ft x 4ft", "2ft x 2ft"]
+					}
+				]
+			},
+			{
+				"title": "Place-Based",
+				"types": [
+					{
+						"name": "Office Buildings",
+						"avgCPM": "$6.5",
+						"dailyImpressions": "+50k",
+						"commonSizing": ["4ft x 6ft"]
+					},
+					{
+						"name": "Colleges",
+						"avgCPM": "$4.8",
+						"dailyImpressions": "+140k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					},
+					{
+						"name": "Hotels",
+						"avgCPM": "$7.8",
+						"dailyImpressions": "+125k",
+						"commonSizing": ["4ft x 6ft", "2ft x 2ft"]
+					}
+				]
+			}
+		]
+	},
+	"ctaBox2": {
+		"title": "Get started with billboard and OOH advertising!",
+		"cta": "Talk to a Media Specialist"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explore More Markets"
+	},
+	"modalExplorePackage": {
+		"title": "Explore our $$$ package"
+	},
+	"faq": [
+		{
+			"id": "faq_inventory_marketplace_toronto_1",
+			"q": "",
+			"a": ""
+		}
+	]
+}

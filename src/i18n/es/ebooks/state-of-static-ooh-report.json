@@ -1,0 +1,45 @@
+{
+	"seo": {
+		"title": "El estado de la de publicidad OOH estática",
+		"description": "Si está listo para profundizar en el mundo de la publicidad OOH estática, descargue su copia del Informe sobre el estado de la publicidad OOH estática.",
+		"robots": "index follow"
+	},
+	"ebookLink": "https://online.fliphtml5.com/abair/wpkf/",
+	"hero": {
+		"overtitle": "Descubre el futuro de la publicidad OOH estática",
+		"title": "El estado de la de publicidad OOH estática",
+		"data": ["10 países", "91,000 encuestados"]
+	},
+	"intro": {
+		"pars": [
+			"En una era de crecimiento digital, la publicidad OOH estática todavía representa el 70% del inventario, lo que lo convierte en una parte importante pero poco representada del OOH. Es por eso que Broadsign encuestó a propietarios de medios de todo el mundo para identificar sus prioridades y motivaciones futuros. Nuestro informe de la industria a nivel global está repleto de conocimientos, tendencias y análisis detallados que nos ayudan a comprender los desafíos y oportunidades emergentes de esta industria.",
+			"Si está listo para profundizar en el mundo de la publicidad OOH estática, descargue su copia del Informe sobre el estado de la publicidad OOH estática."
+		],
+		"cta": "Descargar el reporte"
+	},
+	"stats": [
+		{
+			"id": "real_time",
+			"number": "75%",
+			"desc": "de los encuestados manifestaron que la disponibilidad de inventario en tiempo real es una de las principales características que buscan en las herramientas de gestión de OOH estática."
+		},
+		{
+			"id": "targeting",
+			"number": "59%",
+			"desc": "de los encuestados opina que la segmentación basada en datos jugará un papel importante en el crecimiento de la OOH estática."
+		},
+		{
+			"id": "carbon",
+			"number": "64%",
+			"desc": "de las empresas de OOH estática encuestadas ya se han comprometido a reducir su huella de carbono."
+		}
+	],
+	"readMore": {
+		"title": "¿Quiere saber más?",
+		"par": "Descargue una copia gratuita del informe completo y conozca lo último en información y tendencias de la OOH estática de la mano de profesionales de todo el mundo.",
+		"cta": "Descargar el reporte"
+	},
+	"thankYou": {
+		"cta": "Gracias y feliz lectura!"
+	}
+}

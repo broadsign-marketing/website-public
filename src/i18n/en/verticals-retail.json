@@ -1,0 +1,142 @@
+{
+	"seo": {
+		"title": "In-store Retail Media",
+		"description": "Engage shoppers with targeted, contextual messaging on digital displays powered by Broadsign. Seamlessly integrate in-store advertising into your retail media network to create a connected omnichannel journey that boosts engagement, increases cart value, and unlocks new revenue opportunities."
+	},
+	"hero": {
+		"overtitle": "In-store Retail Media",
+		"title": "Unlock new revenue with in-store digital advertising",
+		"blurb": "Engage shoppers with targeted, contextual messaging on digital displays powered by Broadsign. Seamlessly integrate in-store advertising into your retail media network to create a connected omnichannel journey that boosts engagement, increases cart value, and unlocks new revenue opportunities.",
+		"cta": "Get in touch"
+	},
+	"clients": {
+		"overtitle": "In-store retail media networks powered by Broadsign"
+	},
+	"experiences": {
+		"title": "Omnichannel shopping experiences that deliver shopper connections",
+		"source": "Source",
+		"boxes": [
+			{
+				"id": "decisions",
+				"num": "80",
+				"par": "of purchase decisions are made in-store, making it essential for retailers to enhance the in-store experience as a key growth opportunity.",
+				"source": "Marketing Dive"
+			},
+			{
+				"id": "value",
+				"num": "30",
+				"par": "higher lifetime value is seen in omnichannel shoppers, as integrating onsite, offsite, and in-store touchpoints boosts sales and loyalty.",
+				"source": "McKinsey"
+			},
+			{
+				"id": "consumers",
+				"num": "63",
+				"par": "of consumers are more likely to purchase when exposed to timely ads, making in-store digital media a powerful way for brands to connect with shoppers",
+				"source": "Nielsen"
+			}
+		]
+	},
+	"features": {
+		"overtitle": "In-store retail media",
+		"title": "Drive business and customer growth with in-store digital advertising",
+		"list": [
+			{
+				"id": "convert_shoppers",
+				"overtitle": "Convert shoppers",
+				"title": "Create an immersive and engaging shopping experience at the point of sale",
+				"blurb": "Turn your store into an immersive experience with dynamic, personalized content that boosts ad recall, influences purchases, and strengthens customer connections."
+			},
+			{
+				"id": "boost_shopping_cart_value",
+				"overtitle": "Boost shopping cart value",
+				"title": "Influence shopper behaviour with timely messages that drive add-to-cart moments",
+				"blurb": "Leverage real-time data to deliver timely, targeted ads that drive impulse buys and add-to-cart decisions, maximizing conversions and sales."
+			},
+			{
+				"id": "new_revenue_streams",
+				"overtitle": "New revenue streams",
+				"title": "Monetize your store’s screens with endemic and non-endemic ads",
+				"blurb": "Transform your digital displays into a revenue engine by selling ad space to brand partners while maintaining control over content that drives engagement and sales."
+			}
+		]
+	},
+	"platform": {
+		"overtitle": "The Broadsign Platform",
+		"title": "With intelligent automation, content scheduling, ad delivery, and campaign management, our platform can do the heavy lifting",
+		"boxes": [
+			{
+				"id": "automate",
+				"title": "Automate your content delivery with the right campaign at the right time",
+				"par": "Automate scheduling and ad delivery to effortlessly distribute content across your store network—nationwide, regional, or at the store level—so you can maximize impact with campaigns that drive measurable results."
+			},
+			{
+				"id": "boost",
+				"title": "Drive Sales with Local Store Engagement",
+				"par": "Empower your stores to connect with their communities through localized digital content that increases foot traffic and boosts sales. Highlight regional products, celebrate local farmers, and deliver a tailored in-store experience—all while maintaining full brand control and content consistency across locations."
+			},
+			{
+				"id": "endless",
+				"title": "Endless ad opportunities that drive additional revenue",
+				"par": "Our open API ecosystem seamlessly integrates with e-commerce, point-of-sale, and inventory systems to deliver real-time, data-driven content that enhances the shopper's journey."
+			},
+			{
+				"id": "programmatic",
+				"title": "Programmatic advertising, your way",
+				"par": "Monetize your screens with programmatic ads while maintaining full control over content, ensuring a seamless in-store experience. Tailor deals to your needs and retain complete control, offering flexibility to support your incremental revenue strategy and maximize returns."
+			}
+		]
+	},
+	"relatedPosts": {
+		"overtitle": "Blog",
+		"title": "Learn more about in-store retail media networks",
+		"posts": {
+			"36459": {
+				"title": "Retail media networks 101: Definition, best practices, and tips for building out a rock-solid RMN"
+			},
+			"41872": {
+				"title": "Zitcha and Broadsign partner to drive global in-store retail media market"
+			},
+			"42052": {
+				"title": "Understanding Omnichannel Retail Media Networks: A Q&A with Exverus Media"
+			}
+		},
+		"readMore": "Read Article"
+	},
+	"ebooks": {
+		"overtitle": "Explore our ebooks",
+		"title": "Unlock insights & strategies for retail media success",
+		"banners": [
+			{
+				"id": "in_store_activation",
+				"title": "Owning Your In-Store Activation: A Playbook for Scaling In-Store Digital Signage Networks",
+				"cta": "Read eBook",
+				"to": "ebookInStoreActivation"
+			},
+			{
+				"id": "increase_revenue",
+				"title": "How to increase revenue with contextual in-store media",
+				"cta": "Read eBook",
+				"to": "ebookIncreaseRevenueWithContextualInStoreMedia"
+			},
+			{
+				"id": "rise_of_retail",
+				"title": "The Rise of Retail Media: Unlocking New Retail Revenue Streams",
+				"cta": "Read eBook",
+				"to": "ebookRiseOfRetailMedia"
+			}
+		]
+	},
+	"shin": {
+		"title": "Launch your in-store retail media network",
+		"par": "Discover how Broadsign can help you maximize revenue and deliver an engaging shopping experience in store.",
+		"cta": "Book a call"
+	},
+	"forms": {
+		"bookACall": {
+			"title": "Book a call to launch your in-store retail media network.",
+			"thankYou": ""
+		}
+	},
+	"learnMore": "Learn more",
+	"seeMore": "See more"
+}

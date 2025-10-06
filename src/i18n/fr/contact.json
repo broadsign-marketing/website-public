@@ -1,0 +1,59 @@
+{
+	"seo": {
+		"title": "Nous rejoindre",
+		"description": "Entrez en contact, restez en contact. Toutes les coordonnées et informations de Broadsign à un même endroit."
+	},
+	"hero": {
+		"title": "N'hésitez pas à nous contacter"
+	},
+	"boxes": {
+		"support": {
+			"title": "Obtenir de l'aide pour nos produits",
+			"cta": "Contacter notre équipe de support"
+		},
+		"careers": {
+			"title": "Changer de carrière",
+			"cta": "Voir les postes ouverts"
+		}
+	},
+	"phones": {
+		"montreal": {
+			"title": "Montréal",
+			"number": "+1 514 399 1184"
+		},
+		"international": {
+			"title": "International sans frais",
+			"number": "+1 877 399 1184"
+		}
+	},
+	"ourOffices": "Nos bureaux",
+	"aroundTheWorld": "Nous sommes présents dans le monde entier",
+	"montreal": {
+		"title": "Montreal",
+		"address": ["700, boulevard René-Lévesque Ouest", "Suite #1200, 12<sup>e</sup> étage", "Montréal, Québec", "Canada, H3B 1X8"]
+	},
+	"toronto": {
+		"title": "Toronto",
+		"address": ["1 University Ave, floor 3", "Toronto, ON", "Canada, M5J 2P1"]
+	},
+	"berlin": {
+		"title": "Berlin",
+		"address": ["Oranienburger Str. 5", "Berlin, 10178", "Deutchland/Germany"]
+	},
+	"sydney": {
+		"title": "Sydney",
+		"address": ["Suite 5, 12 Sydney Road,", "Manly, NSW", "Australia 2095"]
+	},
+	"shanghai": {
+		"title": "Shanghai",
+		"address": ["Room 2952 Ocean Tower", "<span>550 East Yan'an Road</span>, <span>Huangpu District</span>", "Shanghai, China"]
+	},
+	"amsterdam": {
+		"title": "Amsterdam",
+		"address": ["Mr. Treublaan 7", "1097 DP Amsterdam", "Nederland/Netherlands"]
+	},
+	"st_louis": {
+		"title": "Saint Louis",
+		"address": ["680 Craig Rd, Suite 101", "Saint Louis, MO", "USA, 63141-7120"]
+	}
+}

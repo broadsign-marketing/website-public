@@ -1,0 +1,50 @@
+{
+	"seo": {
+		"title": "Why your next programmatic media campaign should include digital out-of-home",
+		"description": "",
+		"robots": "noindex, nofollow"
+	},
+	"Hero": {
+		"TitlePart1": "Why your next programmatic Media Campaign ",
+		"TitlePart2": "Should Include Digital _Out-of-Home_",
+		"Tagline": "Between working, commuting, running errands, and leisurely activities, consumers spend 70% of their time away from home. And with screens in airports, at gas stations, on roadsides, and more, digital out-of-home has the ability to drive awareness, engagement and transactions at a time that many other media channels fall short."
+	},
+	"CampaignReach": {
+		"Column1": {
+			"Paragraph1": "This is especially true when digital out-of-home is combined with other advertising channels in an integrated media plan. It's proven to extend reach, amplify a campaign and drive consumers to engage with brands. With its availability to be purchased programmatically, digital out-of-home is an accessible media for media buyers and a great addition to mobile and display campaigns.",
+			"Title": "Increase your campaign reach",
+			"Paragraph2": "While a strong tool on its own, out-of-home plays a large role in the success of a multi-channel marketing campaign. It has been shown to increase internet campaign reach by 68% and mobile campaign reach by 316%. This is due, in part, to the high-visibility of digital out-of-home screens. Unlike a traditional mobile or display ad, a DOOH ad can reach hundreds of viewers in one moment.",
+			"Paragraph3": "Programmatic DOOH is also highly-targetable, which means that your reach can be extended without taking up too much of the campaign budget. DSPs that offer programmatic DOOH use targeting criteria like time-of-day, weather, and even custom data feeds to trigger campaigns."
+		},
+		"Column2": {
+			"Paragraph1": {
+				"Text": "Pepsi MAX recently ran a campaign that used digital out-of-home as a retargeting method. The multichannel campaign used experiential marketing, mobile apps and programmatic DOOH to reach their fans. Across the Netherlands, Pepsi MAX hosted taste tests to settle the iconic debate against a certain red rival. All those who participated were logged using a unique ID on their mobile app. When these people entered targeted malls, Pepsi MAX ads were triggered using beacon technology."
+			},
+			"ParagraphQuote": {
+				"Text": "“With programmatic digital out-of-home, we were able to be extremely relevant to our audience without having to spend huge amounts. We're definitely going to continue to innovate with this type of campaign going forward.”",
+				"Signature": "– Michiel Otten, brand manager beverages, PepsiCo."
+			}
+		}
+	},
+	"EngageAudience": {
+		"Title": "Engage audiences with contextual, eye-catching creativity",
+		"Column1": {
+			"Paragraph1": "What would Times Square be without it's bright, bold, iconic lights? DOOH has become a staple in our lives and it's creative capabilities allow brands to tell their story in exciting, eye-catching ways.",
+			"Paragraph2": "With large format screens, interactive content and prime locations, DOOH creates an impact that mobile and digital campaigns alone cannot recreate, and drives consumer behaviour with contextually relevant content. Screens are located in clinics while patients are seeking health advice, in malls while consumers are on a shopping spree and in airports as travellers set off on their journey.",
+			"Paragraph3": "A study conducted by the Outdoor Advertising Association of America (OAAA) found that one in five viewers have changed plans to visit an establishment based on what was featured on a digital billboard and 22% of consumers search, purchase, or take social action within 30 minutes of exposure to an OOH ad."
+		},
+		"Column2": {
+			"Paragraph1": "The more attractive it is to advertisers, the higher the price, with factors like location, audience impressions and demographics, and the type of sign affecting the final cost.Digital signs have an average CPM of nine to 32 dollars, making this medium slightly more expensive than its online partners."
+		}
+	},
+	"MoreRevenue": {
+		"Title": "More revenue for your DSP",
+		"Column2": {
+			"Paragraph1": "Digital out-of-home screens from around the world are now available for programmatic transactions. Adding this inventory to your DSP enables your advertising partners to augment their campaign with high-impact screens in train stations, malls, airports and more. This brings in better campaign results and with an additional channel, more spend from your partners."
+		}
+	},
+	"form": {
+		"title": "Want a better idea of why and how your dsp can get started with Digital Out-of-Home?",
+		"tagline": "Book a virtual lunch and learn with our team, snacks are on us!"
+	}
+}

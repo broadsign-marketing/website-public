@@ -1,0 +1,117 @@
+@import "../base/dependencies";
+
+#new_on_the_broadsign_platform_2025 {
+	ul.checks_gradient li {
+		background-position: left 0.9em;
+	}
+}
+
+#attribution_for_dooh {
+	.NeonBox .inner {
+		padding: 12px 22px;
+	}
+
+	.presenter_wrapper {
+		h2 {
+			flex: 0 0 100%;
+			font-size: min(8vw, 34px);
+		}
+	}
+
+}
+
+#using_brand_lift_studies {
+	.sticky_wrapper {
+		display: flex;
+		flex-flow: column nowrap;
+		height: 100%;
+
+		&.following {
+			.the_sticky {
+				position: fixed;
+				top: 100px;
+			}
+		}
+
+		&.ended {
+			justify-content: flex-end;
+
+			.the_sticky {
+				position: relative;
+				top: 0px;
+			}
+		}
+	}
+
+	.the_sticky {
+		will-change: position, top;
+	}
+
+	.flexible_box_title {
+		font-size: 24px;
+	}
+}
+
+.Modal.attribution_for_dooh {
+	.WebinarThankYou {
+		margin: auto;
+		text-align: center;
+
+		&>.flex {
+			justify-content: center;
+		}
+	}
+}
+
+@media (max-width:$xsMax) {
+	#attribution_for_dooh {
+		.presenter_wrapper {
+
+			div,
+			h2,
+			p {
+				text-align: center;
+			}
+		}
+
+		.Presenter {
+			margin: 0 auto;
+		}
+	}
+
+	#using_brand_lift_studies {
+		.HeroDate {
+			.flex {
+				justify-content: flex-start !important;
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#using_brand_lift_studies {
+		.the_sticky {
+			max-height: calc(100vh - 116px);
+			overflow-y: auto;
+		}
+
+		.flexible_box_title {
+			font-size: min(3.4vw, 34px);
+		}
+	}
+}
+
+@media (min-width:$lg) {
+	#attribution_for_dooh {
+		.presenter_wrapper {
+			h2 {
+				flex: 0 0 5em;
+				font-size: min(3vw, 34px);
+			}
+
+			.details {
+				font-size: 16px;
+			}
+		}
+	}
+}

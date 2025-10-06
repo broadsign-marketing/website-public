@@ -1,0 +1,67 @@
+{
+	"seo": {
+		"title": "Holen Sie sich Ihre kostenlose Testversion",
+		"description": "Erfahren Sie, wie Sie mit unseren Lösungen digitale Inhalte in einem Out-of-Home-Netzwerk jeder Größe einfacher als je zuvor verkaufen, verwalten und betreiben können."
+	},
+	"cta": {
+		"next": "Nächster"
+	},
+	"hero": {
+		"title": "Die führende Lösung für DOOH, mit der Sie spielen können"
+	},
+	"convenience": {
+		"subtitle": "Unübertroffene Leistung und Nutzerfreundlichkeit",
+		"par": "Erfahren Sie, wie Sie mit unseren Lösungen digitale Inhalte in einem Out-of-Home-Netzwerk jeder Größe einfacher als je zuvor verkaufen, verwalten und betreiben können."
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Kampagnenplanung und Anzeigenschaltung",
+			"title": "Mit fortschrittlichen Kampagnentools mehr Einnahmen generieren",
+			"par": "Nutzen Sie die Vorteile von Inventarverfügbarkeit in Echtzeit und buchen Sie umgehend flexibel geplante und dynamisch bereitgestellte digitale Out-of-Home-Kampagnen.",
+			"cta": "Mehr erfahren"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Content- und Netzwerkmanagement",
+			"title": "Sparen Sie Zeit, indem Sie Ihr Netzwerkmanagement automatisieren",
+			"par": "Verlassen Sie sich auf automatisierte Kampagnen-Workflows, um die richtigen Inhalte zur richtigen Zeit auszuspielen und erhalten Sie einen vollständigen Überblick über die Leistung Ihres Netzwerks mit detaillierten Kampagnenberichten.",
+			"cta": "Mehr erfahren"
+		},
+		"staticOperations": {
+			"overtitle": "Statische Operations",
+			"title": "Optimierte Diagrammerstellung und Arbeitsaufträge für statische Kampagnen",
+			"par": "Holen Sie mehr aus Ihren statischen Flächen heraus. Dabei hilft Ihnen unser zentralisiertes Asset Management und Kampagnenbuchungstool, das sich mit dem Status von Arbeitsaufträgen, Lagerbeständen und Plakatwerbungen in Echtzeit synchronisiert. ",
+			"cta": "Mehr erfahren"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Globale programmatische SSP",
+			"title": "Generieren Sie neue Umsätze mittels programmatischer Werbung",
+			"par": "Ergänzen Sie Ihren direkten Verkauf durch ein programmatisches Angebot in Echtzeit, das sich aus von Ihnen genehmigten globalen Käufern und Anzeigen zusammensetzt.",
+			"cta": "Mehr erfahren"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Lokale Signage-Nachrichten",
+			"title": "Setzen Sie Ihre lokalen Inhalte in jeder Sprache in Szene",
+			"par": "Ermöglichen Sie es Ihren Teams vor Ort, individuelle digitale Anzeigen zu erstellen, ohne dabei die Markenidentität zu gefährden – mit einem Tool, das so einfach ist, dass es von jedem benutzt werden kann.",
+			"cta": "Mehr erfahren"
+		},
+		"audienceCampaigns": {
+			"overtitle": "Zielgruppenbasierte Kampagnen",
+			"title": "Erschließen Sie neue Chancen und zusätzliche Einnahmen",
+			"par": "Broadsigns Ad Server bietet Ihnen anspruchsvolle Targeting-Tools, um Ihren Vertriebsteams bei der Planung und dem Verkauf von Kampagnen zu helfen, Ihr Inventar zu optimieren und Zielgruppen zu den überzeugendsten Momenten zu erreichen.",
+			"cta": "Mehr erfahren"
+		},
+		"new": "Neu!",
+		"comingSoon": "In Kürze!"
+	},
+	"quotes": {
+		"q1": {
+			"quote": "Seit unserer Umstellung auf Broadsign konnten wir unseren Workflow optimieren, flexibler werden und schneller auf Änderungen von Seiten der Werbetreibenden reagieren.",
+			"company": "Lightbox",
+			"id": "lightbox"
+		}
+	},
+	"logos": {
+		"subtitle": "Die größten Namen im Out-of-Home-Business vertrauen uns"
+	},
+	"shinCTA": "Holen Sie sich Ihre kostenlose Testversion"
+}

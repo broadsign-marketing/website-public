@@ -1,0 +1,21 @@
+{
+	"seo": {
+		"title": "Démo en direct",
+		"description": "Éclairez le monde avec les meilleures solutions pour OOH: demandez une démo personnalisée aujourd'hui"
+	},
+	"formTitle": "Éclairez le monde _avec les meilleures solutions pour OOH_",
+	"formHeader": "Demandez une démo personnalisée aujourd'hui",
+	"contentDescription": {
+		"par1": "Que vous travailliez avec _des écrans numériques, des installations statiques, des supports pour le transport en commun_ ou un mélange des trois, nous avons les bons outils pour vous.",
+		"par2": "Obtenez _une démo personnalisée_ et découvrez comment nous vous aiderons à vendre, à gérer et à diffuser des médias OOH plus efficacement que jamais."
+	},
+	"tools": {
+		"title": "Nos outils peuvent vous aider à :",
+		"content1": "Rationaliser votre processus de vente.",
+		"content2": "Augmenter l'efficacité opérationnelle.",
+		"content3": "Automatiser votre diffusion de contenu.",
+		"content4": "Débloquer de nouvelles sources de revenus."
+	},
+	"shinCTA": "Demander une démo",
+	"form": { "submitText": "Demander une démo" }
+}

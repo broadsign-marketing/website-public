@@ -1,0 +1,115 @@
+{
+	"category": "Category",
+	"description": "Description",
+	"seeMore": "See more",
+	"contactUs": "Contact Us",
+	"seeInventory": "See Inventory",
+	"close": "Close",
+	"keywords": "Keywords",
+	"zeroResults": "No packages match what you're searching for. Please try different keywords.",
+	"automotive": "Automotive",
+	"beautyWellness": "Beauty & Wellness",
+	"entertainmentMedia": "Entertainment & Media",
+	"qsr": "Quick Serve Restaurants",
+	"finances": "Financial Services",
+	"healthcarePharma": "Healthcare & Pharma",
+	"explorePackage": "Explore the package",
+	"cpg": "Consumer Packaged Goods",
+	"retail": "Retail",
+	"sportsBetting": "Sports Betting",
+	"telco": "Telco & Tech",
+	"travelTourism": "Travel & Tourism",
+	"automotiveCampaigns": "Great Automotive Campaigns",
+	"beautyWellnessCampaigns": "Great Beauty & Wellness Campaigns",
+	"entertainmentMediaCampaigns": "Great Entertainment & Media Campaigns",
+	"qsrCampaigns": "Great Quick Serve Restaurants Campaigns",
+	"financesCampaigns": "Great Financial Services Campaigns",
+	"healthcarePharmaCampaigns": "Great Healthcare & Pharma Campaigns",
+	"explorePackageCampaigns": "Great Explore the package Campaigns",
+	"cpgCampaigns": "Great Consumer Packaged Goods Campaigns",
+	"retailCampaigns": "Great Retail Campaigns",
+	"sportsBettingCampaigns": "Great Sports Betting Campaigns",
+	"telcoCampaigns": "Great Telco & Tech Campaigns",
+	"travelTourismCampaigns": "Great Travel & Tourism Campaigns",
+	"learnMore": "Learn more",
+	"talkToASpecialistToday": "Talk to a media specialist today!",
+	"audience": "Audience",
+	"placeBased": "Place-based",
+	"outdoor": "Outdoor",
+	"inventories": [
+		"travelTourism",
+		"retail",
+		"beautyWellness",
+		"cpg",
+		"healthcarePharma",
+		"finances",
+		"telco",
+		"sportsBetting",
+		"automotive",
+		"entertainmentMedia",
+		"qsr"
+	],
+	"cities": {
+		"chicago": "Chicago",
+		"los_angeles": "Los Angeles",
+		"montreal": "Montreal",
+		"new_york_city": "New York City",
+		"philadelphia": "Philadelphia",
+		"toronto": "Toronto",
+		"vancouver": "Vancouver"
+	},
+	"build_custom_package": {
+		"title": "Build your own custom package",
+		"par": "Work with our marketplace team to build your personal custom package based on your advertising strategy and key campaign objectives.",
+		"cta": "Talk to a media specialist"
+	},
+	"ppc": {
+		"benefits": {
+			"cta": "Speak to a Media Specialist"
+		},
+		"targeting": {
+			"title": "Deliver the most precise and transparent OOH campaigns with built-in targeting",
+			"par": "Each package is equipped with pre-selected, data-driven breakdowns of audience segments, environments, dayparts, and venue types that are fully customizable based on your campaign objectives.",
+			"list": [
+				"Purchase a curated supply of audiences and inventory with data delivered through a single deal ID",
+				"Leverage data triggers like weather, events, or financial market conditions to quickly deliver intelligent campaigns ",
+				"Exclude specific venues or locations based on campaign parameters",
+				"Experience complete transparency with access to each package's granular details like screen location and audience segments"
+			]
+		},
+		"measureSuccess": {
+			"title": "Measure the success of your OOH campaign",
+			"par": "In addition to reporting capabilities that are built into DSPs, Broadsign also offers a variety of measurement capabilities through third-party partners to meet your needs.",
+			"list": [
+				{
+					"id": "brand_lift_study",
+					"title": "Brand lift study",
+					"par": "Brand lift studies measure a DOOH campaign's effect on overall brand metrics like ad recall, awareness and perception, consideration, and intent. They're often conducted via surveys broadcasted in geo-locations within a specific zone of the exposed DOOH screens."
+				},
+				{
+					"id": "foot_traffic",
+					"title": "Foot traffic attribution",
+					"par": "Foot traffic studies provide insights into immediate attribution by mapping audience travel patterns before and after they pass specific screens or points of interest. Brands with physical locations commonly use this type of measurement to measure a lift in store visits post-DOOH exposure. "
+				},
+				{
+					"id": "mobile_retargeting",
+					"title": "Mobile retargeting/mobile ID passback",
+					"par": "Capture device IDs when audiences enter defined location boundaries to determine qualified audience profiles which can later be retargeted with mobile ads via your DSP. "
+				},
+				{
+					"id": "qr_code",
+					"title": "QR code attribution ",
+					"par": "QR codes on DOOH ads offer an interactive and accurate way to measure engagement by tracking the number of codes scanned and sequential offers delivered based on interactions. "
+				}
+			]
+		},
+		"book_dooh_campaign": {
+			"title": "Book your DOOH campaign",
+			"par": "Work with our marketplace team to build a targeted DOOH strategy based on your business goals and key campaign objectives.",
+			"cta": "Talk to a Media Specialist"
+		}
+	},
+	"avgCPM": "Av. CPM",
+	"dailyImpressions": "Potential daily impressions per screen",
+	"commonSizing": "Common sizing"
+}

@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Déclaration de sécurité",
+		"description": "La confiance est au cœur de notre travail. Elle se reflète dans notre culture, notre technologie, et l'attention que nous portons à nos clients. La confiance commence par la transparence.",
+		"robots": "noindex, nofollow"
+	},
+	"title": "Déclaration de sécurité",
+	"intro": "La confiance est au cœur de notre travail. Elle se reflète dans notre culture, notre technologie, et l'attention que nous portons à nos clients. La confiance commence par la transparence.",
+	"sections": [
+		{
+			"id": "compliance",
+			"title": "Conformité",
+			"par": "Les produits de Broadsign sont conçus, et régulièrement vérifiés par des tiers reconnus mondialement, de manière à garantir que nous nous conformons aux diverses normes régionales et internationales. Nous maintenons des certifications de conformité, y compris le rapport SSAE 18 SOC 2 de type 2, pour certains de nos produits.  La discipline dont nous faisons preuve à cet égard s'applique à l'ensemble de notre entreprise et de notre gamme de produits."
+		},
+		{
+			"id": "platform_security",
+			"title": "Sécurité de la plateforme",
+			"par": "Nous nous efforçons d'intégrer des fonctionnalités de sécurité à tous les niveaux de nos produits. Vous pouvez mettre en œuvre celles qui conviennent à votre organisation, comme la gestion des échecs de connexion et les règles de contrôle d'accès. Nous savons que chaque client a sa propre vision de la configuration de la sécurité, alors nous nous efforçons de répondre à ses besoins."
+		},
+		{
+			"id": "availability",
+			"title": "Sécurité et accessibilité ",
+			"par": "Parce que la sécurité de vos données est primordiale, nos solutions infonuagiques sont conçues pour l'assurer en tout temps. Tous nos produits utilisent ce modèle et sont hébergés dans des environnements de pointe, tels qu'AWS, Azure, et Google Cloud, qui misent sur la surveillance.  Notre centre des opérations de sécurité nous permet de rester alertes aux vulnérabilités et aux menaces qui pèsent sur ces solutions, et de coordonner notre intervention."
+		},
+		{
+			"id": "billing_accuracy",
+			"title": "Exactitude de la facturation",
+			"par": "L'industrie de l'affichage extérieur numérique exige des rapports précis attestant la diffusion et présentant le rendement d'une campagne, garantissant ainsi l'exactitude de l'information financière.  Broadsign procède à de nombreux contrôles internes sur les rapports de preuve de diffusion, et dispose d'un rapport de tiers sur ses contrôles internes comme assurance de leur efficacité."
+		},
+		{
+			"id": "protection",
+			"title": "Protection du contenu",
+			"par": "Dans nos efforts de sécurité, nous nous assurons d'afficher le contenu pertinent sur les écrans. Nos clients peuvent désigner une seule personne ou au moins deux au sein de leur personnel à la promotion des médias ou des campagnes. Dans tous les cas, notre système est conçu pour maintenir des pistes de vérification complètes sur l'accès des utilisateurs. Broadsign procède à des contrôles sur le droit d'accès minimal en vue de garantir que seul le personnel nécessaire pour soutenir votre environnement peut promouvoir les médias; ce personnel est régulièrement formé au fonctionnement des systèmes."
+		},
+		{
+			"id": "commitment",
+			"title": "Engagement pour la sécurité",
+			"par": "Une unité certifiée de Broadsign se consacre à plein temps à l'administration et à la sécurité de nos produits, de notre entreprise et de nos clients. Le conseil de Broadsign est responsable de la connaissance et de la direction de notre situation de sécurité grâce à notre comité sur les risques."
+		},
+		{
+			"id": "policy",
+			"title": "Politique",
+			"par": "L'excellence est une conduite guidée par des politiques et des procédures écrites. Celles de Broadsign sont conformes à la norme ISO 27001, à l'image de l'intention de la direction. Ces politiques et ces procédures sont révisées périodiquement et modifiées conséquemment."
+		},
+		{
+			"id": "scope_disclaimer",
+			"title": "Portée et renonciation",
+			"par": "Ce qui précède résume la gestion de la sécurité à travers l'infrastructure de production de Broadsign et vise à fournir des exemples non exhaustifs des différents contrôles de sécurité auxquels nous procédons. Ces derniers peuvent plus ou moins s'appliquer à certains produits.  Bien que nous utilisions des mesures raisonnables de sécurité de l'information, comme décrit ci-dessus, aucune mesure de sécurité de l'information, transmission de données sur Internet ou méthode de stockage de données ne peut être garantie à 100 %. Par conséquent, bien que nous nous efforcions d'utiliser des moyens commercialement raisonnables pour protéger nos produits, nonobstant toute disposition contraire ci-dessus, nous n'offrons aucune garantie ni autre assurance inconditionnelle de sécurité complète."
+		}
+	]
+}

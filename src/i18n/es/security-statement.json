@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Declaración de seguridad",
+		"description": "La confianza y la seguridad son la base de todo lo que hacemos. Están en nuestra cultura, tecnología y enfoque en los clientes. La confianza comienza con la transparencia.",
+		"robots": "noindex, nofollow"
+	},
+	"title": "Declaración de seguridad",
+	"intro": "La confianza y la seguridad son la base de todo lo que hacemos. Están en nuestra cultura, tecnología y enfoque en los clientes. La confianza comienza con la transparencia.",
+	"sections": [
+		{
+			"id": "compliance",
+			"title": "Cumplimiento",
+			"par": "Los productos de Broadsign están diseñados para garantizar que cumplimos con las diferentes normas mundiales y regionales. Además, estos productos son auditados regularmente por terceros que cuentan con reconocimiento mundial. Para algunos de nuestros productos, contamos con certificaciones de cumplimiento de las normas, entre las que se incluye el informe de Control de Organización de Servicio (Service Organization Control, SOC) 2 tipo 2, de la Declaración de Normas de Tareas de Atestación (Statement on Standards for Attestation Engagement, SSAE) N.° 18.  Los controles de nuestros productos certificados rigen sobre toda nuestra empresa y línea de productos."
+		},
+		{
+			"id": "platform_security",
+			"title": "Seguridad de la plataforma",
+			"par": "Nos esforzamos por incorporar funciones de seguridad en todos los niveles de nuestros productos. Puede implementar las funciones de seguridad que sean apropiadas para su organización, desde la gestión de los inicios de sesión fallidos hasta las reglas de control de acceso. Entendemos que cada cliente tiene su propia opinión sobre cuál es la configuración de seguridad adecuada, por lo que tratamos de adaptarnos a estas necesidades individuales."
+		},
+		{
+			"id": "availability",
+			"title": "Seguridad y disponibilidad ",
+			"par": "La seguridad de sus datos es primordial; es por eso que nuestros servicios en la nube están diseñados para proteger sus datos en todo momento. Todos nuestros productos se encuentran en la nube y están alojados en entornos líderes, como AWS, Azure y Google Cloud Platform, donde la vigilancia es primordial.  Utilizamos un centro de operaciones de seguridad exclusivo para mantener el conocimiento y coordinar nuestra respuesta a las vulnerabilidades y amenazas a estos servicios."
+		},
+		{
+			"id": "billing_accuracy",
+			"title": "Precisión en la facturación",
+			"par": "La industria de la publicidad digital fuera de casa (digital out of home, DOOH) requiere informes precisos sobre las pruebas de reproducción y el rendimiento publicitario, a fin de garantizar una información financiera correcta.  Broadsign lleva a cabo numerosos controles internos sobre nuestro informe de pruebas de reproducción y cuenta con un informe de controles internos a cargo de un tercero para certificar su eficacia."
+		},
+		{
+			"id": "protection",
+			"title": "Protección del contenido",
+			"par": "Mostrar el contenido adecuado en las pantallas es fundamental para nuestros esfuerzos de seguridad. Los clientes pueden autorizar a cualquier miembro de su personal a promocionar los medios de comunicación, o pueden solicitar que, al menos, dos personas promocionen los medios o las campañas. En cualquier caso, nuestro sistema está diseñado para mantener un registro de auditoría completo del acceso de los usuarios. Broadsign lleva a cabo controles de acceso de mínimo privilegio, que se diseñaron para garantizar que solo el personal necesario para dar apoyo a su entorno pueda promocionar los medios; el personal recibe formación frecuentemente sobre el funcionamiento de los sistemas."
+		},
+		{
+			"id": "commitment",
+			"title": "Compromiso de seguridad",
+			"par": "Broadsign mantiene personal acreditado durante jornadas completas para controlar y ayudar a garantizar la seguridad de los productos, la empresa y los clientes mediante una unidad organizativa dedicada a esta tarea. El consejo de administración de Broadsign se encarga de mantener nuestra postura de seguridad, y su dirección, mediante nuestro comité de riesgos."
+		},
+		{
+			"id": "policy",
+			"title": "Política",
+			"par": "La excelencia es un hábito que se guía por políticas y procedimientos escritos. Broadsign mantiene un conjunto de documentos de políticas y procedimientos alineados con la norma ISO 27001, que reflejan las intenciones de la gestión. Estos documentos se revisan y adaptan periódicamente."
+		},
+		{
+			"id": "scope_disclaimer",
+			"title": "Alcance/exención de responsabilidad",
+			"par": "Lo anterior es un resumen completo de la gestión de seguridad de toda la infraestructura de producción de Broadsign y busca proporcionar ejemplos no exhaustivos de los diferentes controles de seguridad que empleamos; puede que algunos productos pasen por más o menos controles que los descritos anteriormente.  Aunque utilizamos medidas de seguridad de la información razonables, como las descritas anteriormente, no se puede garantizar que ninguna medida de seguridad de la información, la transmisión de datos por Internet o el método de almacenamiento de datos sean 100 % seguros. Por lo tanto, aunque nos esforzamos por utilizar métodos comercialmente razonables para proteger nuestros productos, y sin perjuicio de lo anterior, no ofrecemos ninguna garantía que brinde total seguridad."
+		}
+	]
+}

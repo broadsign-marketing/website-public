@@ -1,0 +1,743 @@
+{
+	"index": {
+		"js": "index",
+		"en": "/",
+		"fr": "fr",
+		"es": "es",
+		"de": "de",
+		"ja": "jp",
+		"zh": "cn"
+	},
+	"broadsignPlatform": {
+		"js": "broadsign-platform",
+		"en": "broadsign-platform",
+		"fr": "fr/plateforme-broadsign",
+		"es": "es/plataforma-broadsign",
+		"de": "de/broadsign-plattform",
+		"ja": "jp/broadsign-platform",
+		"zh": "cn/broadsign-platform"
+	},
+	"inStoreRetailPlatform": {
+		"js": "in-store-retail-platform",
+		"en": "in-store-retail-platform",
+		"fr": "fr/plateforme-en-magasin",
+		"es": "es/plataforma-en-tienda",
+		"de": "de/in-store-plattform"
+	},
+	"broadsignPlatformPT": {
+		"js": "pt",
+		"pt": "pt"
+	},
+	"broadsignAir": {
+		"js": "broadsign-air",
+		"en": "broadsign-air",
+		"fr": "fr/broadsign-air"
+	},
+	"campaignPlanning": {
+		"js": "campaign-planning",
+		"en": "campaign-planning",
+		"fr": "fr/gestion-campagnes",
+		"es": "es/planificacion-gestion-campanas",
+		"de": "de/kampagnenplanung-und-management",
+		"ja": "jp/campaign-planning",
+		"zh": "cn/campaign-planning"
+	},
+	"localSignageMessaging": {
+		"js": "local-signage-messaging",
+		"en": "local-signage-messaging",
+		"fr": "fr/affichage-numerique-messages-locaux",
+		"es": "es/mensajeria-local",
+		"de": "de/lokale-signage-nachrichten",
+		"ja": "jp/local-signage-messaging",
+		"zh": "cn/local-signage-messaging"
+	},
+	"contentNetworkManagement": {
+		"js": "content-network-management",
+		"en": "content-network-management",
+		"fr": "fr/gestion-contenu-reseau",
+		"es": "es/gestion-contenidos-redes",
+		"de": "de/content-netzwerkmanagement",
+		"ja": "jp/content-network-management",
+		"zh": "cn/content-network-management"
+	},
+	"globalProgrammaticSSP": {
+		"js": "global-programmatic-ssp",
+		"en": "global-programmatic-ssp",
+		"fr": "fr/plateforme-ssp-programmatique-mondiale",
+		"es": "es/ssp-programatico-global",
+		"de": "de/globale-programmatische-ssp",
+		"ja": "jp/global-programmatic-ssp",
+		"zh": "cn/global-programmatic-ssp"
+	},
+	"staticOperations": {
+		"js": "static-campaigns",
+		"en": "static-campaigns",
+		"fr": "fr/campagnes-statiques",
+		"es": "es/campanas-estaticas",
+		"de": "de/statische-kampagnen",
+		"ja": "jp/static-campaigns",
+		"zh": "cn/static-campaigns"
+	},
+	"measurementAttribution": {
+		"js": "measurement-attribution",
+		"en": "measurement-attribution",
+		"fr": "mesures-attribution"
+	},
+	"verticalAirports": {
+		"js": "verticals/airports",
+		"en": "airports-digital-signage",
+		"fr": "fr/aeroports-affichage-numerique"
+	},
+	"verticalBanking": {
+		"js": "verticals/banking",
+		"en": "banking-digital-signage",
+		"fr": "fr/banques-affichage-numerique"
+	},
+	"verticalCasino": {
+		"js": "verticals/casino",
+		"en": "casino-digital-signage",
+		"fr": "fr/casino-affichage-numerique"
+	},
+	"verticalCinema": {
+		"js": "verticals/cinema",
+		"en": "cinema-digital-signage",
+		"fr": "fr/cinema-affichage-numerique"
+	},
+	"verticalEV": {
+		"js": "verticals/ev",
+		"en": "electric-charging-stations-digital-signage"
+	},
+	"verticalGasStations": {
+		"js": "verticals/gas-stations",
+		"en": "gas-stations-digital-signage",
+		"fr": "fr/stations-service-affichage-numerique"
+	},
+	"verticalHealthcare": {
+		"js": "verticals/healthcare",
+		"en": "healthcare-digital-signage",
+		"fr": "fr/soins-sante-affichage-numerique"
+	},
+	"verticalHotels": {
+		"js": "verticals/hotels",
+		"en": "hotels-digital-signage",
+		"fr": "fr/hotels-affichage-numerique"
+	},
+	"verticalInternalCommunications": {
+		"js": "verticals/internal-communications",
+		"en": "internal-communications-digital-signage",
+		"fr": "fr/communications-internes-affichage-numerique"
+	},
+	"verticalOutdoor": {
+		"js": "verticals/outdoor",
+		"en": "outdoor-digital-signage",
+		"fr": "fr/exterieur-affichage-numerique"
+	},
+	"verticalRetail": {
+		"js": "verticals/retail",
+		"en": "retail-digital-signage",
+		"fr": "fr/commerce-detail-affichage-numerique",
+		"es": "es/venta-minorista-senalizacion-digital",
+		"de": "de/einzelhandel-digital-signage"
+	},
+	"verticalShoppingMall": {
+		"js": "verticals/shopping-malls",
+		"en": "shopping-malls-digital-signage",
+		"fr": "fr/centres-commerciaux-affichage-numerique"
+	},
+	"verticalSmartCities": {
+		"js": "verticals/smart-cities",
+		"en": "smart-cities-digital-signage",
+		"fr": "fr/villes-intelligentes-affichage-numerique"
+	},
+	"verticalTransit": {
+		"js": "verticals/transit",
+		"en": "transit-digital-signage",
+		"fr": "fr/transports-affichage-numerique"
+	},
+	"launchPDOOHCampaign": {
+		"js": "launch-pdooh-campaign",
+		"en": "launch-pdooh-campaign",
+		"fr": "lancez-campagne-dooh-programmatique"
+	},
+	"outmoove": {
+		"js": "outmoove",
+		"en": "outmoove",
+		"fr": "fr/outmoove"
+	},
+	"ourStory": {
+		"js": "our-story",
+		"en": "our-story",
+		"fr": "fr/notre-histoire",
+		"es": "es/nuestra-historia",
+		"de": "de/unsere-geschichte"
+	},
+	"dspAccountManager": {
+		"js": "dsp/account-manager",
+		"en": "dsp/account-manager"
+	},
+	"inventoryMarketplace": {
+		"js": "inventory-marketplace",
+		"en": "inventory-marketplace",
+		"fr": "fr/inventaire-du-marche"
+	},
+	"inventoryMarketplaceCityChicago": {
+		"js": "inventory-marketplace/chicago",
+		"en": "inventory-marketplace/chicago-billboards"
+	},
+	"inventoryMarketplaceCityLA": {
+		"js": "inventory-marketplace/los-angeles",
+		"en": "inventory-marketplace/los-angeles-billboards"
+	},
+	"inventoryMarketplaceCityNYC": {
+		"js": "inventory-marketplace/new-york-city",
+		"en": "inventory-marketplace/new-york-city-billboards"
+	},
+	"inventoryMarketplaceCityPhiladelphia": {
+		"js": "inventory-marketplace/philadelphia",
+		"en": "inventory-marketplace/philadelphia-billboards"
+	},
+	"inventoryMarketplaceCityToronto": {
+		"js": "inventory-marketplace/toronto",
+		"en": "inventory-marketplace/toronto-billboards"
+	},
+	"inventoryMarketplaceCityVancouver": {
+		"js": "inventory-marketplace/vancouver",
+		"en": "inventory-marketplace/vancouver-billboards"
+	},
+	"auctionPackagesTravelTourism": {
+		"js": "auction-packages/travel-tourism",
+		"en": "auction-packages/travel-tourism",
+		"fr": "fr/inventaire-du-marche/voyage-tourisme"
+	},
+	"auctionPackagesRetail": {
+		"js": "auction-packages/retail",
+		"en": "auction-packages/retail",
+		"fr": "fr/inventaire-du-marche/vente-detail"
+	},
+	"auctionPackagesBeautyWellness": {
+		"js": "auction-packages/beauty-wellness",
+		"en": "auction-packages/beauty-wellness",
+		"fr": "fr/inventaire-du-marche/beaute-bien-etre"
+	},
+	"auctionPackagesCpg": {
+		"js": "auction-packages/consumer-packaged-goods",
+		"en": "auction-packages/consumer-packaged-goods",
+		"fr": "fr/inventaire-du-marche/produits-consommation-courante"
+	},
+	"auctionPackagesHealthcarePharma": {
+		"js": "auction-packages/healthcare-pharma",
+		"en": "auction-packages/healthcare-pharma",
+		"fr": "fr/inventaire-du-marche/soins-sante-pharmacies"
+	},
+	"auctionPackagesFinances": {
+		"js": "auction-packages/financial-services",
+		"en": "auction-packages/financial-services",
+		"fr": "fr/inventaire-du-marche/services-financiers"
+	},
+	"auctionPackagesTelco": {
+		"js": "auction-packages/telco-tech",
+		"en": "auction-packages/telco-tech",
+		"fr": "fr/inventaire-du-marche/telecommunications-technologie"
+	},
+	"auctionPackagesSportsBetting": {
+		"js": "auction-packages/sports-betting",
+		"en": "auction-packages/sports-betting",
+		"fr": "fr/inventaire-du-marche/paris-sportifs"
+	},
+	"auctionPackagesAutomotive": {
+		"js": "auction-packages/automotive",
+		"en": "auction-packages/automotive",
+		"fr": "fr/inventaire-du-marche/automobile"
+	},
+	"auctionPackagesQsr": {
+		"js": "auction-packages/quick-serve-restaurants",
+		"en": "auction-packages/quick-serve-restaurants",
+		"fr": "fr/inventaire-du-marche/restaurants-service-rapide"
+	},
+	"auctionPackagesEntertainmentMedia": {
+		"js": "auction-packages/entertainment-media",
+		"en": "auction-packages/entertainment-media",
+		"fr": "fr/inventaire-du-marche/divertissement-medias"
+	},
+	"inventoryPackages": {
+		"js": "inventory-packages",
+		"en": "inventory-packages"
+	},
+	"inventoryPackagesTravelTourism": {
+		"js": "inventory-packages/travel-tourism",
+		"en": "inventory-packages/travel-tourism"
+	},
+	"inventoryPackagesRetail": {
+		"js": "inventory-packages/retail",
+		"en": "inventory-packages/retail"
+	},
+	"inventoryPackagesBeautyWellness": {
+		"js": "inventory-packages/beauty-wellness",
+		"en": "inventory-packages/beauty-wellness"
+	},
+	"inventoryPackagesCpg": {
+		"js": "inventory-packages/consumer-packaged-goods",
+		"en": "inventory-packages/consumer-packaged-goods"
+	},
+	"inventoryPackagesHealthcarePharma": {
+		"js": "inventory-packages/healthcare-pharma",
+		"en": "inventory-packages/healthcare-pharma"
+	},
+	"inventoryPackagesFinances": {
+		"js": "inventory-packages/financial-services",
+		"en": "inventory-packages/financial-services"
+	},
+	"inventoryPackagesTelco": {
+		"js": "inventory-packages/telco-tech",
+		"en": "inventory-packages/telco-tech"
+	},
+	"inventoryPackagesSportsBetting": {
+		"js": "inventory-packages/sports-betting",
+		"en": "inventory-packages/sports-betting"
+	},
+	"inventoryPackagesAutomotive": {
+		"js": "inventory-packages/automotive",
+		"en": "inventory-packages/automotive"
+	},
+	"inventoryPackagesQsr": {
+		"js": "inventory-packages/quick-serve-restaurants",
+		"en": "inventory-packages/quick-serve-restaurants"
+	},
+	"inventoryPackagesEntertainmentMedia": {
+		"js": "inventory-packages/entertainment-media",
+		"en": "inventory-packages/entertainment-media"
+	},
+
+	"audiences": {
+		"js": "audiences",
+		"en": "audiences",
+		"fr": "fr/public"
+	},
+	"dspPartners": {
+		"js": "dsp-partners",
+		"en": "dsp-partners"
+	},
+	"systemOnChip": {
+		"js": "system-on-chip",
+		"en": "system-on-chip",
+		"fr": "fr/systeme-sur-puce",
+		"es": "es/system-on-chip",
+		"de": "de/system-on-chip",
+		"ja": "jp/system-on-chip",
+		"zh": "cn/system-on-chip"
+	},
+	"audienceCampaigns": {
+		"js": "audience-campaigns",
+		"en": "audience-campaigns",
+		"fr": "fr/campagnes-daudience",
+		"es": "es/campanas-basadas-en-la-audiencia",
+		"de": "de/zielgruppenbasierte-kampagnen"
+	},
+	"resources": {
+		"js": "resources",
+		"en": "resources",
+		"fr": "fr/ressources",
+		"es": "es/recursos",
+		"de": "de/ressourcen"
+	},
+	"ebook5CommonMistakesInDigitalSignage": {
+		"js": "ebooks/five-common-mistakes-in-digital-signage-content",
+		"en": "ebooks/five-common-mistakes-in-digital-signage-content",
+		"fr": "fr/ebooks/cinq-erreurs-frequentes-dans-le-choix-de-contenu-pour-laffichage-numerique"
+	},
+	"ebook6StepsForIntegratingDOOHInYourOmnichannelStrategy": {
+		"js": "ebooks/six-steps-for-integrating-dooh-in-your-omnichannel-strategy",
+		"en": "ebooks/six-steps-for-integrating-dooh-in-your-omnichannel-strategy",
+		"fr": "fr/ebooks/six-etapes-pour-integrer-affichage-exterieur-numerique-a-votre-strategie-de-marketing-omnicanale"
+	},
+	"ebook7HabitsOfHighlyEffectiveMediaOwners": {
+		"js": "ebooks/seven-habits-of-highly-effective-dooh-media-owners",
+		"en": "ebooks/seven-habits-of-highly-effective-dooh-media-owners"
+	},
+	"ebookAddDigitalToYourOOHNetwork": {
+		"js": "ebooks/how-to-add-digital-to-your-static-ooh-network",
+		"en": "ebooks/how-to-add-digital-to-your-static-ooh-network"
+	},
+	"ebookAutomationInOOHMediaPlanning": {
+		"js": "ebooks/automation-in-ooh-media-planning",
+		"en": "ebooks/automation-in-ooh-media-planning"
+	},
+	"ebookCreateDOOHCampaignsThatGetResults": {
+		"js": "ebooks/create-dooh-campaigns-that-get-results",
+		"en": "ebooks/create-dooh-campaigns-that-get-results"
+	},
+	"ebookDynamicAndInteractiveContent": {
+		"js": "ebooks/dynamic-and-interactive-content",
+		"en": "ebooks/dynamic-and-interactive-content"
+	},
+	"ebookGuideToBuildingASuccessfulDigitalSignageNetwork": {
+		"js": "ebooks/guide-to-building-a-successful-digital-signage-network",
+		"en": "ebooks/guide-to-building-a-successful-digital-signage-network",
+		"fr": "fr/ebooks/guide-creation-reseau-affichage-numerique-performant",
+		"es": "es/ebooks/guia-para-construir-red-senalizacion-digital-exitosa",
+		"de": "de/ebooks/guide-fur-ein-erfolgreiches-digital-signage-netzwerk"
+	},
+	"ebookIncreaseRevenueWithContextualInStoreMedia": {
+		"js": "ebooks/increase-revenue-with-contextual-in-store-media",
+		"en": "ebooks/increase-revenue-with-contextual-in-store-media"
+	},
+	"ebookInStoreActivation": {
+		"js": "ebooks/in-store-activation",
+		"en": "ebooks/in-store-activation"
+	},
+	"ebookMediaBuyersGuideToPDOOH": {
+		"js": "ebooks/media-buyers-guide-to-programmatic-digital-out-of-home",
+		"en": "ebooks/media-buyers-guide-to-programmatic-digital-out-of-home"
+	},
+	"ebookModernizeOOHBusiness": {
+		"js": "ebooks/how-to-modernize-your-traditional-ooh-business",
+		"en": "ebooks/how-to-modernize-your-traditional-ooh-business",
+		"es": "es/ebooks/como-modernizar-su-negocio-de-ooh-tradicional"
+	},
+	"ebookOptimizeOOHSalesThroughAutomation": {
+		"js": "ebooks/optimize-ooh-sales-through-automation",
+		"en": "ebooks/optimize-ooh-sales-through-automation",
+		"de": "de/ebooks/zur-optimierung-ooh-verkauf-durch-automatisierung"
+	},
+	"ebookUnlockMoreValueFromYourEvChargingStations": {
+		"js": "ebooks/unlock-more-value-from-your-ev-charging-stations",
+		"en": "ebooks/unlock-more-value-from-your-ev-charging-stations"
+	},
+	"ebookDOOHPlaybookForProgrammaticBuyers": {
+		"en": "ebooks/media-buyers-guide-to-programmatic-digital-out-of-home"
+	},
+	"ebookRetailMediaInStoreReport2025": {
+		"js": "ebooks/retail-media-in-store-report-2025",
+		"en": "ebooks/retail-media-in-store-report-2025"
+	},
+	"ebookRiseOfRetailMedia": {
+		"js": "ebooks/rise-of-retail-media",
+		"en": "ebooks/rise-of-retail-media"
+	},
+	"stateOfStaticOOHReport": {
+		"js": "ebooks/state-of-static-ooh-report",
+		"en": "ebooks/state-of-static-ooh-report",
+		"fr": "fr/ebooks/rapport-etat-ooh-statique",
+		"es": "es/ebooks/estado-publicidad-ooh-estatica"
+	},
+
+	"webinarGoingTheLastMile": {
+		"en": "blog/how-to-influence-add-to-cart-moments-with-an-in-store-digital-media-channel"
+	},
+	"webinarLastTrueMassMedium": {
+		"en": "blog/addressability-is-killing-mass-marketing-so-what-do-we-dooh-about-it"
+	},
+	"webinarBestPracticesPDOOHCampaign": {
+		"en": "blog/watch-best-practices-for-running-a-dooh-campaign"
+	},
+	"webinarGlobalOOHInsights2022": {
+		"en": "blog/global-ooh-insights-2022"
+	},
+
+	"webinarImpressionToImpact": {
+		"js": "webinars/2024-09-attribution-for-dooh-advertising",
+		"en": "webinars/attribution-for-dooh-advertising"
+	},
+	"webinarMemorableAdvertising": {
+		"js": "webinars/2024-10-using-brand-lift-studies-to-measure-dooh-impact",
+		"en": "webinars/using-brand-lift-studies-to-measure-dooh-impact"
+	},
+	"webinar202504NewOnTheBroadsignPlatform": {
+		"js": "webinars/2025-04-new-on-the-broadsign-platform",
+		"en": "webinars/new-on-the-broadsign-platform-2025"
+	},
+
+	"freeTrial": {
+		"js": "free-trial",
+		"en": "free-trial",
+		"fr": "fr/essai-gratuit",
+		"es": "es/prueba-gratuita",
+		"de": "de/kostenlose-testversion",
+		"ja": "jp/free-trial",
+		"zh": "cn/free-trial"
+	},
+	"demo": {
+		"js": "request-a-demo",
+		"en": "request-a-demo",
+		"fr": "fr/demandez-une-demo",
+		"es": "es/solicite-una-demo",
+		"de": "de/demo-anfordern",
+		"ja": "jp/request-a-demo",
+		"zh": "cn/request-a-demo"
+	},
+	"bookDemo": {
+		"js": "book-demo",
+		"en": "book-demo",
+		"fr": "fr/reserver-demo"
+	},
+	"scheduleDemo": {
+		"js": "schedule-demo",
+		"en": "schedule-demo"
+	},
+	"requestAccess": {
+		"js": "request-access",
+		"en": "request-access",
+		"fr": "fr/demander-acces"
+	},
+	"partnersZitcha": {
+		"js": "partners/zitcha",
+		"en": "broadsign-zitcha"
+	},
+	"digitalSignageSoftware": {
+		"js": "ppc/digital-signage-software",
+		"en": "digital-signage-software",
+		"es": "es/software-senalizacion-digital",
+		"de": "de/software-fur-dooh-und-digital-signage",
+		"id": "id/software-papan-iklan-digital"
+	},
+	"doohMore": {
+		"js": "dooh-more",
+		"en": "dooh-more"
+	},
+	"digitalSignageSoftwareCanada": {
+		"js": "seo/digital-signage-software-canada",
+		"en": "digital-signage-software-canada"
+	},
+	"awsFAQ": {
+		"js": "aws-faq",
+		"en": "aws-faq"
+	},
+	"downtime": {
+		"js": "downtime",
+		"en": "downtime",
+		"fr": "fr/temps-mort"
+	},
+	"careers": {
+		"js": "careers",
+		"en": "careers",
+		"fr": "fr/carrieres"
+	},
+	"contact": {
+		"js": "contact",
+		"en": "contact",
+		"fr": "fr/nous-rejoindre",
+		"es": "es/contacto"
+	},
+	"documentation": {
+		"js": "documentation",
+		"en": "documentation",
+		"fr": "fr/documentation",
+		"es": "es/documentacion",
+		"de": "de/dokumentation",
+		"ja": "jp/documentation",
+		"zh": "cn/documentation"
+	},
+	"plans": {
+		"js": "plans",
+		"en": "plans",
+		"fr": "fr/forfaits",
+		"es": "es/planes",
+		"de": "de/angebote",
+		"ja": "jp/plans",
+		"zh": "cn/plans"
+	},
+	"privacyPolicy": {
+		"js": "privacy-policy",
+		"en": "privacy-policy",
+		"fr": "fr/politique-de-confidentialite",
+		"es": "es/politica-de-proteccion-de-datos",
+		"de": "de/datenschutzrichtlinie"
+	},
+	"privacyVendors": {
+		"js": "privacy-vendors",
+		"en": "privacy-vendors"
+	},
+	"termsConditions": {
+		"js": "terms-conditions",
+		"en": "terms-conditions"
+	},
+	"programmaticPlatformPolicies": {
+		"js": "programmatic-platform-policies",
+		"en": "programmatic-platform-policies",
+		"fr": "fr/politique-plateforme-programmatique"
+	},
+	"programmaticU": {
+		"js": "programmatic-u",
+		"en": "programmatic-u"
+	},
+	"securityStatement": {
+		"js": "security-statement",
+		"en": "security-statement",
+		"fr": "fr/declaration-securite",
+		"es": "es/declaracion-seguridad",
+		"de": "de/sicherheitserklarung"
+	},
+	"sustainabilityStatement": {
+		"js": "sustainability-statement",
+		"en": "sustainability-statement",
+		"fr": "fr/declaration-de-durabilite",
+		"es": "es/declaracion-de-sostenibilidad",
+		"de": "de/nachhaltigkeitserklarung"
+	},
+	"thankYou": {
+		"js": "thank-you",
+		"en": "thank-you",
+		"fr": "fr/merci",
+		"es": "es/gracias",
+		"de": "de/vielen-dank"
+	},
+	"events": {
+		"js": "events",
+		"en": "events"
+	},
+	"event2019BroadsignSummit": {
+		"js": "events/archives/broadsign-summit-2019",
+		"en": "events/broadsign-summit-2019"
+	},
+	"event2020BroadsignSummit": {
+		"js": "events/archives/broadsign-summit-2020",
+		"en": "events/broadsign-summit-2020"
+	},
+	"event2023ISECustomerSummit": {
+		"js": "events/archives/ise-customer-summit-2023",
+		"en": "events/ise-customer-summit-2023"
+	},
+	"event2024BroadsignConnectSummit": {
+		"js": "events/archives/broadsign-connect-summit-2024",
+		"en": "events/broadsign-connect-summit-2024"
+	},
+	"event2025BroadsignConnectSummit": {
+		"js": "events/archives/broadsign-connect-summit-2025",
+		"en": "events/broadsign-connect-summit-2025"
+	},
+	"event2025WooMexico": {
+		"js": "events/ooh-social-mexico-2025",
+		"en": "events/ooh-social-mexico"
+	},
+	"event2025CSPForum": {
+		"js": "events/csp-forum-2025",
+		"en": "events/csp-forum-2025"
+	},
+	"training": {
+		"js": "training",
+		"en": "training",
+		"fr": "fr/formation"
+	},
+	"whoWeAre": {
+		"js": "who-we-are",
+		"en": "who-we-are",
+		"fr": "fr/qui-nous-sommes",
+		"es": "es/quienes-somos",
+		"ja": "jp/who-we-are",
+		"zh": "cn/who-we-are"
+	},
+	"sitemap": {
+		"js": "sitemap",
+		"en": "sitemap"
+	},
+	"blog": {
+		"js": "blog",
+		"en": "blog",
+		"fr": "fr/blogue",
+		"es": "es/blog",
+		"de": "de/blog",
+		"pt": "pt/blog",
+		"ja": "jp/blog"
+	},
+
+	"streamAgenciesBrands": {
+		"en": "agencies-brands"
+	},
+	"streamBroadsignPlatformUpdates": {
+		"en": "broadsign-platform-updates"
+	},
+	"streamCaseStudiesCustomerSpotlights": {
+		"en": "case-studies-customer-spotlights"
+	},
+	"streamEVCharging": {
+		"en": "ev-charging-stations"
+	},
+	"streamMeasurementAttribution": {
+		"en": "ooh-measurement-attribution"
+	},
+	"streamMediaOwnerSpotlights": {
+		"en": "media-owner-spotlights",
+		"es": "es/destacados-de-propietarios-de-medios"
+	},
+	"streamOohMediaOwners": {
+		"en": "ooh-media-owners",
+		"es": "es/propietarios-de-medios-ooh"
+	},
+	"streamOptimizeYourOOHBusiness": {
+		"en": "optimize-your-ooh-business"
+	},
+	"streamProgrammaticDOOHInsights": {
+		"en": "programmatic-dooh-insights"
+	},
+	"streamRetailMediaNetworks": {
+		"en": "retail-media-networks",
+		"fr": "fr/reseaux-de-medias-de-detail",
+		"es": "es/redes-de-medios-minoristas",
+		"de": "de/mediennetzwerke-fuer-den-einzelhandel"
+	},
+	"streamVerticalStrategies": {
+		"en": "vertical-strategies"
+	},
+	"customerSpotlights": {
+		"en": "case-studies-customer-spotlights",
+		"fr": "case-studies-customer-spotlights",
+		"es": "case-studies-customer-spotlights",
+		"de": "case-studies-customer-spotlights",
+		"pt": "case-studies-customer-spotlights"
+	},
+	"platformDocumentation": {
+		"en": "https://docs.broadsign.com/broadsign-platform",
+		"fr": "https://docs.broadsign.com/broadsign-platform",
+		"es": "https://docs.broadsign.com/broadsign-platform",
+		"de": "https://docs.broadsign.com/broadsign-platform",
+		"pt": "https://docs.broadsign.com/broadsign-platform"
+	},
+	"controlDocumentation": {
+		"en": "https://docs.broadsign.com/broadsign-control/latest",
+		"fr": "https://docs.broadsign.com/broadsign-control/latest",
+		"es": "https://docs.broadsign.com/broadsign-control/latest",
+		"de": "https://docs.broadsign.com/broadsign-control/latest",
+		"pt": "https://docs.broadsign.com/broadsign-control/latest"
+	},
+	"directDocumentation": {
+		"en": "https://docs.broadsign.com/broadsign-direct",
+		"fr": "https://docs.broadsign.com/broadsign-direct",
+		"es": "https://docs.broadsign.com/broadsign-direct",
+		"de": "https://docs.broadsign.com/broadsign-direct",
+		"pt": "https://docs.broadsign.com/broadsign-direct"
+	},
+	"publishDocumentation": {
+		"en": "https://docs.broadsign.com/broadsign-publish/en",
+		"fr": "https://docs.broadsign.com/broadsign-publish/fr",
+		"es": "https://docs.broadsign.com/broadsign-publish/en",
+		"de": "https://docs.broadsign.com/broadsign-publish/en",
+		"pt": "https://docs.broadsign.com/broadsign-publish/en"
+	},
+	"reachDocumentation": {
+		"en": "https://docs.broadsign.com/broadsign-reach/en",
+		"fr": "https://docs.broadsign.com/broadsign-reach/fr",
+		"es": "https://docs.broadsign.com/broadsign-reach/en",
+		"de": "https://docs.broadsign.com/broadsign-reach/en",
+		"pt": "https://docs.broadsign.com/broadsign-reach/en"
+	},
+	"ayudaDocumentation": {
+		"en": "https://docs.broadsign.com/broadsign-ayuda",
+		"fr": "https://docs.broadsign.com/broadsign-ayuda",
+		"es": "https://docs.broadsign.com/broadsign-ayuda",
+		"de": "https://docs.broadsign.com/broadsign-ayuda",
+		"pt": "https://docs.broadsign.com/broadsign-ayuda"
+	},
+	"resubscribe": {
+		"js": "resubscribe",
+		"en": "resubscribe"
+	},
+	"subscribeProductNews": {
+		"js": "subscribe/product-news",
+		"en": "subscribe/product-news"
+	},
+	"broadsignPlatformEvolution": {
+		"en": "blog/modernizing-the-platform-that-powers-out-of-home-introducing-the-evolution-of-broadsign",
+		"fr": "blog/modernizing-the-platform-that-powers-out-of-home-introducing-the-evolution-of-broadsign",
+		"es": "es/blog/modernizando-la-plataforma-que-impulsa-la-publicidad-exterior-presentamos-la-evolucion-de-broadsign"
+	}
+}

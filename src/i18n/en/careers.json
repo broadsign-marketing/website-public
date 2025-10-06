@@ -1,0 +1,255 @@
+{
+	"seo": {
+		"title": "Broadsign is Hiring! | Careers in Tech",
+		"description": "Join a team of developers and industry experts behind the software solutions that light up billboards and screens around the world. See all job openings."
+	},
+	"spylinks": [
+		{
+			"id": "mission_statement",
+			"label": "Our Mission"
+		},
+		{
+			"id": "locations",
+			"label": "Locations"
+		},
+		{
+			"id": "awards",
+			"label": "Our Accolades"
+		},
+		{
+			"id": "values",
+			"label": "Our Values"
+		},
+		{
+			"id": "benefits",
+			"label": "The Perks"
+		},
+		{
+			"id": "openings",
+			"label": "Job Openings"
+		},
+		{
+			"id": "faq",
+			"label": "FAQ"
+		}
+	],
+	"Hero": {
+		"title": "_Together,_ we make great things happen",
+		"tagline": "Broadsign is a rapidly-expanding software company with a mission to make buying, selling, and delivering out-of-home media easier than ever. Our technology powers impactful, compelling campaigns seen on screens across the globe.",
+		"cta": "See job openings",
+		"videoBlurb": "Check out our culture video to see what makes Broadsign a great place to work."
+	},
+	"mission_statement": {
+		"overtitle": "Broadsign Careers",
+		"title": "Lighting up the world",
+		"par1": "Our mission is to empower our customers to inform, entertain, and delight worldwide audiences through connected screens. Behind Broadsign's platform is a team of hard-working, resourceful developers and industry experts building the cutting-edge technology that lights up billboards and screens in cities, along roadways, in malls, at airports, and more.",
+		"par2": "If you're ready to take your career in tech to the next level, join our mission. At Broadsign, your expertise helps define our success in the out-of-home industry.",
+		"know_us": "Get to know us"
+	},
+	"locations": {
+		"overtitle": "Broadsign HQ",
+		"title": "A team with global reach",
+		"par": "Headquartered in Montreal, Quebec, Canada, with employees located in countries across the world, Broadsign is a leading software developer shaping and redefining the global out-of-home industry.",
+		"quotes": [
+			{
+				"quote": "I'm based in Sydney, so I work in a completely different time zone and on the opposite end of the world as our head office. Despite that, I still feel like I'm a part of the team. I've built many great relationships at Broadsign, and though we're apart, I love to work together with the team.",
+				"sign": "Ben Allman, Head of Sales, ANZ",
+				"portrait": "ben"
+			}
+		],
+		"panel": {
+			"par": "_Want to work with us?_ See if we're hiring in your part of the world.",
+			"cta": "See job openings"
+		}
+	},
+	"awards": {
+		"title": "Awards and recognition",
+		"par": "We're proud to be recognized as a top employer in Canada and Montreal for a fourth consecutive year."
+	},
+	"values": {
+		"overtitle": "Corporate culture",
+		"title": "Shared mission, shared values",
+		"list": [
+			{
+				"id": "empower",
+				"label": "We empower each other",
+				"quote": {
+					"quote": "Broadsign values open communication and encourages challenging the status quo, reflected in every interaction with customers, partners, or internally. Shortly after joining, I was able to revamp our onboarding process. Every new hire's feedback helps improve the next one's experience. Your ideas, no matter how new you are, are evaluated with the same openness as those of long-standing executives. Here, the best idea always wins.",
+					"sign": "Danny Baldoni",
+					"portrait": "danny_baldoni"
+				}
+			},
+			{
+				"id": "right_thing",
+				"label": "We do the right thing",
+				"quote": {
+					"quote": "I love working at Broadsign! This is a company that pushes us to lead our own projects and encourages us to try something new, rather than telling us what to do.",
+					"sign": "Karoliina Paukku",
+					"portrait": "karoliina_paukku"
+				}
+			},
+			{
+				"id": "great_things",
+				"label": "We make great things happen",
+				"quote": {
+					"quote": "Broadsign's commitment to fostering personal growth not only strengthens my professional skills but also supports my academic pursuits, truly making it a unique and empowering place to work.",
+					"sign": "Jarnail Singh",
+					"portrait": "jarnail_singh"
+				}
+			},
+			{
+				"id": "respect",
+				"label": "We treat everyone with dignity and respect",
+				"quote": {
+					"quote": "I joined Broadsign last year, and I'm proud to be part of a dynamic team. Although I'm the only woman on my team, I'm happy to say that this has not impacted my day-to-day professional life. My opinions and ideas are treated with the same respect as those of my male colleagues. I feel supported by a team that values the contribution of everyone, regardless of gender. Diversity helps us succeed and achieve professional excellence.",
+					"sign": "Alexandra Roa",
+					"portrait": "alexandra_roa"
+				}
+			},
+			{
+				"id": "say_do",
+				"label": "We do what we say",
+				"quote": {
+					"quote": "Becoming more sustainable has been a huge area of interest across the company, and leadership invested a lot of time and money into understanding our carbon footprint and figuring out the best opportunities to reduce and offset that footprint. It's a long-term project, but the company is committed to doing this properly, just because it's the right thing to do. It's been wonderful to see.",
+					"sign": "Rob Côté",
+					"portrait": "rob_cote"
+				}
+			}
+		]
+	},
+	"diversity": {
+		"title": "Our Diversity, Equity, and Inclusion (DEI) Statement",
+		"par": "The most complicated problems are solved when you bring together a group of diverse people. At Broadsign, we are committed to encouraging a culture of diversity and equity in all aspects of our business. We want to ensure that all of our employees and partners feel valued, heard and comfortable to bring their whole selves to work every day. After all, in order to really innovate and create, we all need to feel like we can show up as ourselves, no matter our backgrounds, expressions or lifestyles."
+	},
+	"glassdoor": {
+		"par1": "See what employees past and present say",
+		"par2": "Check out reviews on Glassdoor"
+	},
+	"benefits": {
+		"overtitle": "Benefits at Broadsign",
+		"title": "The perks",
+		"par": "You want to work somewhere that cares about your well-being, not just your output. That's us. Whether it's our flexible schedule, group insurance, RRSP plan, social events, we know that a healthy work/life balance will reliably empower your success on both a personal and professional level.",
+		"list": [
+			{
+				"id": "wellness",
+				"title": "Wellness program",
+				"description": "Receive compensation for wellness-related purchases."
+			},
+			{
+				"id": "sick_days",
+				"title": "Sick days",
+				"description": "Feeling under the weather? We offer ample sick or personal days."
+			},
+			{
+				"id": "furnitures",
+				"title": "WFH furniture allowance",
+				"description": "Equip your home office with ergonomic furniture, supplies, and beyond."
+			},
+			{
+				"id": "health_plan",
+				"title": "Health plans",
+				"description": "Benefit from comprehensive health plans."
+			},
+			{
+				"id": "social_events",
+				"title": "Annual company events",
+				"description": "Take part in fun in-person or virtual events and gatherings."
+			},
+			{
+				"id": "paid_volunteer",
+				"title": "Volunteer initiatives",
+				"description": "We encourage employees to get involved in their communities through paid volunteering days."
+			},
+			{
+				"id": "training",
+				"title": "Learning and development",
+				"description": "Develop your professional skills through paid learning and training."
+			},
+			{
+				"id": "rrsp",
+				"title": "Retirement plans",
+				"description": "Want to plan for your future? Retirement plans are available."
+			},
+			{
+				"id": "parental_leave",
+				"title": "Parental leave",
+				"description": "We offer top-up pay for parental leave — and something extra to celebrate the arrival of your little one."
+			}
+		]
+	},
+	"openings": {
+		"overtitle": "Job openings at Broadsign",
+		"title": "A great place to work and grow",
+		"apply": "Apply",
+		"allDepartments": "All departments",
+		"allLocations": "All locations",
+		"departments": "Department",
+		"locations": "Location/Office",
+		"keywords": "Keywords",
+		"noResults": "Sorry, we couldn't find any results!",
+		"viewAll": "View all"
+	},
+	"ats": {
+		"par1": "Don't see what you are looking for?",
+		"par2": "We will let you know when we have new spots!",
+		"cta": "Sign up for job openings"
+	},
+	"training": {
+		"quote": [
+			{
+				"quote": "From day one, my growth at Broadsign has been a priority. In a 1:1 with my manager, they encouraged me to explore training opportunities to enhance my professional development, especially as a newcomer to financial planning and analysis. A year later, I've earned multiple online certifications thanks to Broadsign's support. It's fulfilling to continuously evolve and hone my skills, thanks to my colleagues and manager.",
+				"sign": "Viraj Gandhi",
+				"portrait": "raj"
+			}
+		]
+	},
+	"right_place": {
+		"overtitle": "Hear it from us",
+		"title": "This could be the right place for you"
+	},
+	"culturePlaybook": {
+		"title": "Discover Life at Broadsign",
+		"cta": "download our culture playbook",
+		"playbookLink": "tgry"
+	},
+	"faq": {
+		"title": "FAQ",
+		"list": [
+			{
+				"q": "What can I expect after I've submitted my application?",
+				"a": "We will try to respond to all applicants in two weeks. Please note that we'll only communicate with candidates selected to enter the interview process."
+			},
+			{
+				"q": "If I am not selected for an interview, can you provide me with feedback to help me improve? ",
+				"a": "We understand that constructive criticism is an important part of your professional development. However, we receive a high volume of applications and because of this, are unable to provide prospective candidates with personalized feedback. That being said, we encourage you to ask questions about the application process, particularly if you have landed an interview with one of our hiring managers. "
+			},
+			{
+				"q": "Who is reviewing my application?",
+				"a": "We do — not a computer! The hiring team reviews every application carefully to determine if applicants are the right fit. "
+			},
+			{
+				"q": "Why did I receive an automated rejection email? ",
+				"a": "Broadsign will automatically send out a rejection email if you applied for a position outside of your current location. Our job descriptions state that we can only hire applicants from the specific location of the job posting. "
+			},
+			{
+				"q": "Can I still apply for a position if I'm planning on relocating? ",
+				"a": "For now, we only consider applicants who are already legally eligible to work in the country that a specific job is based. Although possible, visa sponsorship is rare and mainly for specialized positions. "
+			},
+			{
+				"q": "What is the interview process like? ",
+				"a": "As a company, we value your time. For this reason, we try to streamline the interview process—you'll never be asked to fulfill more than four interviews at a time. We'll even provide you with the opportunity to meet with at least one member of your future team. Keep in mind that during the interview process, we may require assessments such as technical tests, presentations, writing samples, or more. "
+			},
+			{
+				"q": "Based on the job posting, I would be a good fit, but I wasn't offered an interview. Why?",
+				"a": "Our top priority is ensuring the candidate is the right fit for the job opening. Due to the sheer volume of high-quality candidates and our limited time frame, we unfortunately cannot schedule interviews with all candidates. However, we will keep your resumé on file for a future role if we see you would be a good fit. "
+			},
+			{
+				"q": "How do I know if the salary aligns with my expectations?",
+				"a": "We strive to be transparent with regards to salary expectations, and will do our best to maintain an open dialogue. If there are specific questions you have about salary, we encourage you to discuss with the hiring manager. "
+			}
+		]
+	},
+	"shareFacebook": "Share on Facebook",
+	"shareLinkedin": "Share on LinkedIn",
+	"shareEmail": "Share by email"
+}

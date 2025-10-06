@@ -1,0 +1,26 @@
+{
+	"seo": {
+		"title": "Resources for Digital Signage and DOOH",
+		"description": "Learn everything you need to know about digital signage and DOOH with the help of our handy eBooks and webinars! Whether you're a network owner, a marketing professional, or just curious, you'll find something that's right for you."
+	},
+	"Hero": {
+		"TitlePart1": "Broadsign",
+		"TitlePart2": "Resources",
+		"Tagline": "Your guide to digital signage _and DOOH_"
+	},
+	"upcoming": "Upcoming",
+	"featured": "Featured",
+	"ebooks": "eBooks",
+	"webinars": "Webinars",
+	"oohFromHome": {
+		"title": "The OOH From Home Webinar Series",
+		"description": "We're bringing OOH right to you with our series covering the buying, selling, and technology of outdoor media"
+	},
+	"programmaticU": {
+		"title": "Programmatic Digital Out-of-Home University",
+		"description": "Put on your thinking caps and join us in class to learn the basics of buying DOOH programmatically"
+	},
+	"learnMore": "Learn More",
+	"readMore": "Read More",
+	"watchWebinar": "Watch the webinar"
+}

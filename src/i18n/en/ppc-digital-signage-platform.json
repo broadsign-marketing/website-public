@@ -1,0 +1,78 @@
+{
+	"seo": {
+		"title": "Digital Signage Software",
+		"description": "Broadsign's digital signage software makes it easier than ever to buy, sell and deliver digital out-of-home campaigns across the globe."
+	},
+	"form": {
+		"title": "Get your free trial today"
+	},
+	"hero": {
+		"title1": "Intelligent tools",
+		"title2": "for out-of-home",
+		"tagline": "Our software tools help OOH businesses generate more revenue, work smarter, and grow without limits.",
+		"cta": "Get free trial"
+	},
+	"videoTitle": "Intro to Broadsign Control",
+	"success": {
+		"title": "Your OOH business runs better with Broadsign",
+		"laptop1": {
+			"bulletPoint1": {
+				"title": "Automate your network",
+				"text": "Streamline campaign scheduling and delivery with our content management solution"
+			},
+			"bulletPoint2": {
+				"title": "Maximize revenue",
+				"text": "Sell more and maximize yield with a sales solution built just for OOH"
+			}
+		},
+		"laptop2": {
+			"bulletPoint1": {
+				"title": "Enter the programmatic era",
+				"text": "Open your network to digital buyers around the world with a self-serve platform for programmatic DOOH"
+			},
+			"bulletPoint2": {
+				"title": "Connect with the tools you know and love",
+				"text": "Integrate sensors, data feeds, analytics tools, or anything else your business needs"
+			}
+		}
+	},
+	"benefits": {
+		"title": "The Benefits of Broadsign",
+		"benefit1": {
+			"title": "Enhance your sales process",
+			"text": "Make great deals in less time and let our system automatically optimize bookings for revenue"
+		},
+		"benefit2": {
+			"title": "Acquire new revenue streams",
+			"text": "Diversify your business by offering up your inventory to digital ad budgets"
+		},
+		"benefit3": {
+			"title": "Reclaim your time",
+			"text": "Reduce wasted time on repeated tasks and free your team to focus on the big picture"
+		}
+	},
+	"logosList": {
+		"title": "We work with the biggest names in OOH"
+	},
+	"customers": {
+		"title": "See what our customers are saying",
+		"quotes": [
+			{
+				"quote": "Since our transition to Broadsign, we've been able to streamline our workflow, become more flexible and react more quickly to changes made by advertisers. ",
+				"sign": "Amanda, Lightbox"
+			},
+			{
+				"quote": "We were able to scale our business in great part because of Broadsign's cooperation.",
+				"sign": "Sebastian, Broadcast Media"
+			},
+			{
+				"quote": "With Broadsign Direct, our sales team is able to book complex advertising campaigns across our entire network in a matter of minutes. ",
+				"sign": "Adrian, Intersection"
+			}
+		]
+	},
+	"floatingBanner": {
+		"tagline": "Get your free trial today",
+		"cta": "Click here"
+	}
+}

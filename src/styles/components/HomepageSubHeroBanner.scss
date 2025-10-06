@@ -1,0 +1,110 @@
+@import "../base/dependencies";
+
+@keyframes solarFlare {
+	0% {
+		transform: scale(0);
+	}
+
+	100% {
+		transform: scale(3);
+	}
+}
+
+#home .HSHB {
+	min-height: 360px;
+
+	.banner_title {
+		font-size: min(8vw, 34px);
+	}
+
+	.images {
+		transform-style: preserve-3d;
+		perspective: 300px;
+
+		&:after {
+			background-color: #FF0;
+			border-radius: 1000px;
+			content: "";
+			filter: blur(20px);
+			height: 100px;
+			opacity: 0.15;
+			pointer-events: none;
+			position: absolute;
+			right: 36.5%;
+			top: 10%;
+			transform: scale(0);
+			transition: transform 0.6s ease;
+			width: 100px;
+		}
+	}
+
+	.inner {
+		overflow: hidden;
+		position: relative;
+
+		span {
+			z-index: 1;
+		}
+
+		.flash {
+			background: linear-gradient(to right, rgba(#FFF, 0) 0%, rgba(#FFF, 0.5) 50%, rgba(#FFF, 0) 100%);
+			display: block;
+			height: 100%;
+			left: -20%;
+			position: absolute;
+			top: 0;
+			transform: rotate(20deg);
+			width: 100px;
+		}
+
+		.CTA {
+			background-color: $reflex;
+			color: #FFF;
+		}
+	}
+
+	&:hover {
+		.inner {
+			.flash {
+				left: 100%;
+				transition: left 0.6s ease;
+			}
+
+			.CTA {
+				background-color: $cerulean;
+			}
+		}
+	}
+}
+
+[lang="fr"] {
+	#home .HSHB {
+		.subtitle-1 {
+			max-width: 34ch;
+		}
+	}
+}
+
+[lang="es"] {
+	#home .HSHB {}
+}
+
+[lang="de"] {
+	#home .HSHB {
+		.banner_title {
+			font-size: min(7.4vw, 34px);
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	#home .HSHB .banner_title {
+		font-size: min(4vw, 34px);
+	}
+
+	[lang="de"] {
+		#home .HSHB .banner_title {
+			font-size: min(7.4vw, 34px);
+		}
+	}
+}

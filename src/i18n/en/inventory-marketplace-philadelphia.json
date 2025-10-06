@@ -1,0 +1,196 @@
+{
+	"seo": {
+		"title": "Targeted Advertising in Philadelphia | Broadsign Billboard & OOH Packages",
+		"description": "Unlock targeted advertising opportunities with Broadsign's curated billboard and OOH inventory packages. Reach your audience wherever they are with inventory strategically placed to target specific venue types, locations, and points of interest throughout Philadelphia."
+	},
+	"apSlug": "philadelphia",
+	"apLink": "3530",
+	"apToken": "jctVld6jZZgtKuTKsgqgSz5zjAx46X7szssa0nsy1IQ3XMjS9S3g9WDbxC6B",
+	"hero": {
+		"overtitle": "Philadelphia Billboards",
+		"title": "Billboard and Out-of-Home Advertising in Philadelphia",
+		"blurb": [
+			"Unlock targeted advertising opportunities with Broadsign's curated billboard and OOH inventory packages. Reach your audience wherever they are with inventory strategically placed to target specific venue types, locations, and points of interest throughout Philadelphia."
+		],
+		"ctaLaunchCampaign": "Launch a Billboard Campaign",
+		"ctaExplore": "Explore Advertising Inventory"
+	},
+	"opportunities": {
+		"title": "Unlock advertising opportunities in Philadelphia",
+		"blurb": "Philadelphia's diverse and dense population, combined with its extensive public transit system and heavy foot traffic in key areas, creates numerous high-visibility opportunities for out-of-home advertising.",
+		"list": [
+			{
+				"id": "diversity",
+				"title": "Demographics & Diversity",
+				"blurb": "The city's mix of tourists, commuters, and residents makes it an attractive market for advertisers looking to capture the attention of a broad and varied audience.",
+				"features": [
+					{
+						"id": "family",
+						"text": "Population of nearly 1.6 million people, making it one of the top 10 most populated cities in the U.S."
+					},
+					{
+						"id": "female",
+						"text": "Median age of approximately 35 years old, with a balanced gender distribution across age groups"
+					},
+					{
+						"id": "id",
+						"text": "Nearly 25% of Philadelphians speak a language other than English at home"
+					}
+				]
+			},
+			{
+				"id": "income",
+				"title": "Income & Education",
+				"blurb": "Philadelphia boasts a diverse economy with strong representation across various sectors, driving a robust and dynamic media landscape. ",
+				"features": [
+					{
+						"id": "household",
+						"text": "The city's workforce has a mix of industries, including healthcare, education, technology, manufacturing, and finance"
+					},
+					{
+						"id": "school",
+						"text": "Nearly 30% of residents hold a bachelor's degree or higher"
+					},
+					{
+						"id": "medal",
+						"text": "Philadelphia is home to numerous higher education institutions, including the University of Pennsylvania, Temple University, Drexel University, and others, contributing to a large population of college students and graduates in the city"
+					}
+				]
+			},
+			{
+				"id": "travel",
+				"title": "Transportation & Travel",
+				"blurb": "Philadelphia's robust public transit system contributes to its significant role as a major travel and tourism destination in the United States.",
+				"features": [
+					{
+						"id": "traffic",
+						"text": "The Southeastern Pennsylvania Transportation Authority (SEPTA) is one of the largest transit systems in the U.S."
+					},
+					{
+						"id": "subway",
+						"text": "Over 1 million trips are taken daily across SEPTA bus, trolley, subway, and regional rail services"
+					},
+					{
+						"id": "groups",
+						"text": "Over 28 million passengers travel through the Philadelphia International Airport (PHL) each year"
+					}
+				]
+			}
+		]
+	},
+	"ctaBox1": {
+		"title": "Looking to advertise in Philadelphia?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"topPackages": {
+		"title": "Explore digital OOH inventory packages for top audience segments in Philadelphia",
+		"blurb": "See our curated billboard and screen packages tailored for specific audiences around top advertising verticals in Philadelphia. Each package includes diverse environments, venue types, and demographics to boost brand visibility.",
+		"list": [
+			{
+				"slug": "healthcarePharma",
+				"linkID": "3511",
+				"token": "O6x0habNPnXtmF4rrnqteLAWvzHqTXJOmRkfLgCJZ67887X6VPS54mJdpTgf"
+			},
+			{
+				"slug": "automotive",
+				"linkID": "3515",
+				"token": "7c6KnVCNzBOtEkFnBMV5fxVS9dNk0oJjmksQQn6Qsy0iJmahwCj9nRdCyMQJ"
+			},
+			{
+				"slug": "telco",
+				"linkID": "3513",
+				"token": "izNjov0BzXLrLUQPsquskrvbbQhJXkoLMufJuZ8Asul4NKPaSjHP6v5QJuRm"
+			},
+			{
+				"slug": "cpg",
+				"linkID": "3510",
+				"token": "VTOKmr8ng7AyC7JHHBtwTReZ1LDx322pPOrm0Bu9FZOzFKwuiCamjEKiI1Aa"
+			},
+			{
+				"slug": "finances",
+				"linkID": "3512",
+				"token": "MbTFLuAmAYGmxofPOplAqOKRH181YW9qrclHwZH0GiUfZ4s5cQ6y0eKr2l8A"
+			},
+			{
+				"slug": "travelTourism",
+				"linkID": "3507",
+				"token": "nXVxRppUtsa1jZRyvI0FcX5aCdg91AU8KZ0LPpTMgTOTbV6b986Wd5kCykw8"
+			}
+		],
+		"cta": "Explore our inventory packages"
+	},
+	"billboards": {
+		"title": "Types of billboards and OOH formats in Philadelphia",
+		"list": [
+			{
+				"title": "Outdoor",
+				"types": [
+					{
+						"name": "Billboards",
+						"avgCPM": "$11.1",
+						"dailyImpressions": "+245k",
+						"commonSizing": ["20ft x 60ft", "14ft x 48ft"]
+					}
+				]
+			},
+			{
+				"title": "Transit",
+				"types": [
+					{
+						"name": "Subway",
+						"avgCPM": "Av. CPM: $7.3",
+						"dailyImpressions": "+53k",
+						"commonSizing": ["2ft x 2ft"]
+					},
+					{
+						"name": "Train Stations",
+						"avgCPM": "Av. CPM: $7.2",
+						"dailyImpressions": "+62k",
+						"commonSizing": ["5ft x 3ft"]
+					}
+				]
+			},
+
+			{
+				"title": "Place-Based",
+				"types": [
+					{
+						"name": "Malls",
+						"avgCPM": "$13.5",
+						"dailyImpressions": "+164k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft"]
+					},
+					{
+						"name": "Bars",
+						"avgCPM": "$5.9",
+						"dailyImpressions": "+125k",
+						"commonSizing": ["4ft x 6ft", "2ft x 2ft"]
+					},
+					{
+						"name": "Casual Dining",
+						"avgCPM": "$6.6",
+						"dailyImpressions": "+93k",
+						"commonSizing": ["4ft x 6ft", "2ft x 2ft"]
+					}
+				]
+			}
+		]
+	},
+	"ctaBox2": {
+		"title": "Get started with billboard and OOH advertising!",
+		"cta": "Talk to a Media Specialist"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explore More Markets"
+	},
+	"modalExplorePackage": {
+		"title": "Explore our $$$ package"
+	},
+	"faq": [
+		{
+			"id": "faq_inventory_marketplace_philadelphia_1",
+			"q": "",
+			"a": ""
+		}
+	]
+}

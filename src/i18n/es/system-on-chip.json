@@ -1,0 +1,57 @@
+{
+	"seo": {
+		"title": "Sistema en chip - Gestione pantallas a la manera de Broadsign",
+		"description": "La principal solución de señalización digital OOH en el mundo, hecha a medida para pantallas inteligentes."
+	},
+	"hero": {
+		"nowAvailable": "Disponible ahora",
+		"title": "Broadsign para System-on-Chip",
+		"tagline": "La principal solución de señalización digital OOH en el mundo, hecha a medida para pantallas inteligentes."
+	},
+	"features": {
+		"overtitle": "Sus pantallas inteligentes pueden hacer más de lo que piensa",
+		"title": "Expanda la capacidad de su red de señalización digital y abra la puerta al contenido basado en publicidad",
+		"list": [
+			{
+				"id": "management",
+				"title": "Funciones avanzadas de gestión de contenidos",
+				"description": "Obtenga acceso a las funciones de gestión de contenido (CMS) de Broadsign líderes del mercado, como la generación de listas de reproducción inteligentes, la generación de informes de prueba de reproducción y la producción de campañas dinámicas."
+			},
+			{
+				"id": "network",
+				"title": "Simplifique su red",
+				"description": "Gestione todas sus pantallas de forma centralizada y ahorre tiempo al simplificar sus tareas de gestión DOOH."
+			},
+			{
+				"id": "revenue",
+				"title": "Consiga ingresos adicionales",
+				"description": "Consiga ingresos por publicidad al integrar sus pantallas con nuestro SSP programático y nuestra solución para la gestión de campañas OOH."
+			},
+			{
+				"id": "growth",
+				"title": "Crezca de la forma que quiera",
+				"description": "Aumente la eficiencia de su negocio OOH con nuestros flujos de trabajo automatizados que ayudarán a equipos pequeños a gestionar redes enormes."
+			}
+		]
+	},
+	"verticals": {
+		"par": "Nuestra solución para sistema en chip es una forma grandiosa de monetizar, gestionar y aumentar su red de pantallas inteligentes, sin importar dónde estén.",
+		"list": [
+			"Ventas",
+			"Alimentos y bebidas",
+			"Cine",
+			"Hospitalidad",
+			"Aeropuertos",
+			"Transporte",
+			"Estaciones de carga de vehículos eléctricos",
+			"Cuidado de la salud"
+		]
+	},
+	"supportedOn": {
+		"p1": "Broadsign para SoC",
+		"p2": "funciona con"
+	},
+	"formHeader": "Póngase en contacto con nosotros hoy para descubrir cómo Broadsign puede ayudarle a obtener más de sus pantallas inteligentes.",
+	"furtherReading": "Para obtener más detalles sobre nuestra solución para sistema en chip, consulte la última publicación de nuestro blog!",
+	"thankYouSoC": "¡Gracias por su interés en nuestra solución para sistema en chip!"
+}

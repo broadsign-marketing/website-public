@@ -1,0 +1,114 @@
+{
+	"seo": {
+		"title": "Broadsign : La plateforme qui propulse l'affichage extérieur",
+		"description": "La solution globale pour les propriétaires et les acheteurs de médias pour planifier, gérer et diffuser l'affichage extérieur."
+	},
+	"hero": {
+		"title": ["La", "plateforme", "qui propulse", "l'affichage", "extérieur"],
+		"par": "Là où les propriétaires de médias et les acheteurs se réunissent pour planifier, gérer et conclure des transactions publicitaires en extérieur.",
+		"ctaContact": "Nous rejoindre",
+		"ctaPlans": "Découvrir nos forfaits"
+	},
+	"branches": {
+		"overtitle": "Illuminez votre monde",
+		"title": "Des solutions pour tous vos besoins d'affichage extérieur",
+		"mediaOwners": {
+			"overtitle": "Pour les propriétaires de médias",
+			"title": "Vendez vos services, gérez votre réseau d'affichage extérieur et augmentez votre rentabilité.",
+			"cta": "En savoir plus"
+		},
+		"brandsAgencies": {
+			"overtitle": "Pour les agences et les marques",
+			"title": "Créez et exécutez des campagnes d'affichage extérieur numérique programmatique contextuelles et ciblées.",
+			"cta": "En savoir plus"
+		}
+	},
+	"clients": {
+		"title": "Mettre en relation les vendeurs et les acheteurs d'affichage extérieur"
+	},
+	"inventoryRotate": {
+		"title": "Augmentez la rapidité et le ciblage de vos campagnes grâce à nos forfaits soigneusement conçus.",
+		"blurb": "Personnalisez votre campagne selon votre public cible, les types de lieux et les emplacements contextuels grâce à nos forfaits.",
+		"cta": "Explorez notre inventaire",
+		"list": [
+			[
+				{ "id": "retail", "type": "vertical", "label": "Commerce de détail" },
+				{ "id": "vancouver", "type": "city", "label": "Vancouver" },
+				{ "id": "finances", "type": "vertical", "label": "Services financiers" }
+			],
+			[
+				{ "id": "new_york_city", "type": "city", "label": "New York" },
+				{ "id": "beauty_wellness", "type": "vertical", "label": "Beauté et bien-être" },
+				{ "id": "los_angeles", "type": "city", "label": "Los Angeles" }
+			]
+		]
+	},
+	"map": {
+		"overtitle": "La plateforme d'affichage extérieur la plus fiable au monde",
+		"title": "Notre portée mondiale",
+		"stats": ["+2 M de publicités", "107 pays", "+48 Md de publicités/mois", "+190 Md d'impressions/mois"]
+	},
+	"panelMediaKit": {
+		"title": "Explorez notre inventaire mondial",
+		"cta": "Téléchargez notre trousse d'information",
+		"thankYou": {
+			"title": "Merci !",
+			"par": "La trousse ne s'est pas ouverte dans une nouvelle fenêtre ?",
+			"cta": "Cliquez ici"
+		}
+	},
+	"quotesTitle": "Des témoignages révélateurs",
+	"quotes": [
+		{
+			"id": "imedia",
+			"text": "« Nous devions continuellement remanier notre inventaire numérique pour l'optimiser lorsque nous utilisions une feuille de calcul. Maintenant, avec Broadsign, tout se fait automatiquement. Nous n'avons qu'à ajouter les écrans et à régler les paramètres, puis l'organisation se fait en un seul clic. »",
+			"name": "Martyn Perrie",
+			"title": "Responsable de la livraison numérique",
+			"company": "i-Media"
+		},
+		{
+			"id": "epa_media",
+			"text": "« Nous avons choisi Broadsign, qui offre toujours de nouvelles fonctionnalités et suit l'évolution du secteur. Nous pouvons ainsi compter sur des fonctionnalités qui nous sont pertinentes, comme la séparation du contenu, les exclusions par catégories, la vérification visuelle de la disponibilité, les rapports et le ciblage. »",
+			"name": "Stefanie Zeiler",
+			"title": "Médias numériques et graphisme",
+			"company": "EPAMEDIA"
+		},
+		{
+			"id": "hp",
+			"text": "« Les activations d'affichage extérieur numérique programmatique s'intègrent parfaitement à notre marché puisqu'elles nous permettent d'atteindre notre principal public cible à proximité d'emplacements stratégiques. »",
+			"name": "Fabiana Varriale",
+			"title": "Directrice de la programmatique pour la région EMEA",
+			"company": "HP"
+		},
+		{
+			"id": "precis",
+			"text": "« Broadsign nous aide toujours grâce à leurs recommandations et leur soutien durant les campagnes. Nous avons obtenu des résultats impressionnants à une étude sur l'amélioration de notre marque suite à notre partenariat. Nous n'hésiterons pas à faire appel à leurs services à l'avenir. »",
+			"name": "Sebastian Larsson",
+			"title": "Spécialiste de la programmatique",
+			"company": "Precis Digital"
+		},
+		{
+			"id": "corus",
+			"text": "« Broadsign nous a permis d'augmenter la portée de nos vidéos publicitaires en ligne et télévisuelles auprès de différents publics en diffusant des messages similaires à nos publicités affichées dans la réalité concrète. La plateforme facilite la création de publicités ciblées encourageant l'auditoire à passer à l'action. »",
+			"name": "Marita Olcese",
+			"title": "Directrice des plans médias",
+			"company": "Corus Entertainment Inc."
+		},
+		{
+			"id": "iris",
+			"text": "« Broadsign nous a permis d'exploiter la puissance de l'affichage extérieur numérique programmatique pour améliorer nos indicateurs de rendement clés (IRC) pertinents en étendant la portée de nos publicités vidéos dans le vrai monde. Nous avons pu facilement communiquer notre message de marque à travers nos canaux numériques et physiques grâce à cette plateforme qui nous permet de planifier et de diffuser des publicités uniques et contextuelles adressées à notre public cible. »",
+			"name": "Keri thomas",
+			"title": "Directrice de la performance média",
+			"company": "Iris Worldwide"
+		}
+	],
+	"shin": {
+		"title": "Découvrez ce que nous avons à offrir pour l'affichage extérieur",
+		"par": "Écrivez-nous et un membre de l'équipe communiquera avec vous dès que possible pour planifier un appel. N'hésitez pas à nous faire part de toute question dont vous aimeriez discuter.",
+		"cta": "Communiquez avec nous"
+	},
+	"getInTouch": "Communiquez avec nous",
+	"campaignsLaunchedWithBroadsign": "Campagnes lancées avec Broadsign",
+	"learnMore": "En savoir plus",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf"
+}

@@ -1,0 +1,82 @@
+@import "../base/dependencies";
+
+.mission_in_numbers {
+	.box {
+		text-align: center;
+
+		img {
+			height: 30px;
+			margin-bottom: 12px;
+			width: 30px;
+		}
+	}
+
+	.num {
+		@include fontBold;
+		color: $ash;
+		display: inline-block;
+		font-size: 20px;
+		margin: 0 0.5ch 0 0;
+	}
+
+	.what {
+		@include fontBold;
+		color: $ash;
+		display: inline-block;
+		font-size: 20px;
+		margin: 0;
+	}
+}
+
+@media (min-width:$sm) {
+	.mission_in_numbers {
+		.box {
+			img {
+				height: 50px;
+				margin-bottom: 30px;
+				width: 50px;
+			}
+		}
+
+		.num {
+			@include fontBlack;
+			color: $reflex;
+			display: block;
+			font-size: calc(min(44px, 5vw));
+			margin: 0;
+			text-align: center;
+		}
+
+		.what {
+			@include fontReg;
+			color: $reflex;
+			display: block;
+			font-size: 16px;
+			text-align: center;
+		}
+	}
+
+	html[lang="en"] {
+		.mission_in_numbers .num {
+			font-size: min(40px, 4vw);
+		}
+	}
+}
+
+@media (min-width:$md) {
+
+	html[lang="fr"],
+	html[lang="de"] {
+		.mission_in_numbers .num {
+			font-size: calc(clamp(16px, 2vw, 34px));
+			white-space: nowrap;
+		}
+	}
+
+	html[lang="es"] {
+		.mission_in_numbers .num {
+			font-size: calc(clamp(16px, 2vw, 28px));
+			white-space: nowrap;
+		}
+	}
+}

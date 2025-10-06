@@ -1,0 +1,59 @@
+{
+	"seo": {
+		"title": "Digital Signage for Internal Communications",
+		"description": "Brighten your offices and lobbies and deliver the information and content your team needs with digital signage powered by Broadsign."
+	},
+	"Hero": {
+		"TitlePart1": "Better, brighter Internal",
+		"TitlePart2": "Communications",
+		"TitlePart3": "with Digital Signage",
+		"TitlePart1Mobile": "Better, brighter",
+		"TitlePart2Mobile": "Internal Comms",
+		"TitlePart3Mobile": "with Digital Signage",
+		"Blurb": "Enhance internal communications with a digital signage solution that enables creative messaging and compelling visuals that make people take notice.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Boost Morale",
+			"Paragraph": "Celebrate wins both big and small across an internal network to drive greater productivity and workplace satisfaction."
+		},
+		"Pane2": {
+			"Title": "News your Team Needs",
+			"Paragraph": "Keep an organization's fingers on the pulse with up-to-the-minute industry content delivery drawn from social media or RSS feeds."
+		},
+		"Pane3": {
+			"Title": "Data for all",
+			"Paragraph": "Increase transparency and improve team confidence in their organization by sharing key organizational data across the internal network of screens."
+		},
+		"Pane4": {
+			"Title": "Local Messaging Made Simple",
+			"Paragraph": "Quickly get out messaging for corporate functions, special events, or emergencies with a template-based tool enabling easier local messaging on your network's screens."
+		}
+	},
+	"cards": {
+		"title": "Flexible options for maximum ad sales",
+		"par": "With specialized tools for both direct and programmatic sales teams, exceed sales targets and reach new buyers.",
+		"direct": "Empower your team with Campaign Planning",
+		"reach": "Sell programmatically with our Programmatic SSP"
+	},
+	"SpielPosterVisitor": {
+		"title": "Show visitors the way",
+		"text": "Take the guesswork out of navigating a large office or complex with wayfinding screens that provide personalized directions."
+	},
+	"Quoteblock": {
+		"Quote": "We really like that Broadsign's rules-based. You never touch the schedule, you just put circulation conditions and boom, the engine does the work. That really was a milestone for us..",
+		"Signature": "Plaxma Visual Media"
+	},
+	"Customers": {
+		"Title": "Trusted By leading Digital Signage Clients"
+	},
+	"Partners": {
+		"Title": "High-Quality Content & Data",
+		"Tagline": "Round out your internal communications with content provided by our content partners, and use analytics to discover what your team responds to the most."
+	},
+	"Shin": {
+		"Title": "How can your internal communications network benefit from the Broadsign platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

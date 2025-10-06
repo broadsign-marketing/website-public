@@ -1,0 +1,24 @@
+@import "../base/dependencies";
+
+.HeroDate {
+	&.lines_gradient {
+
+		&:before,
+		&:after {
+			@include bgGradient;
+			content: "";
+			display: block;
+			height: 1px;
+			position: absolute;
+			width: 100%;
+		}
+
+		&:before {
+			top: 0;
+		}
+
+		&:after {
+			bottom: 0;
+		}
+	}
+}

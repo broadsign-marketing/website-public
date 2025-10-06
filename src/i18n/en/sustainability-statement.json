@@ -1,0 +1,149 @@
+{
+	"seo": {
+		"title": "Sustainability Statement",
+		"description": "At Broadsign, we believe that we have an obligation to our employees, customers, communities, investors, and the environment to operate our business sustainably."
+	},
+	"title": "Sustainability at Broadsign",
+	"content": [
+		{
+			"type": "p",
+			"text": "At Broadsign, we believe that we have an obligation to our employees, customers, communities, investors, and the environment to operate our business sustainably. This commitment is built upon our five corporate values, which guide our actions:"
+		},
+		{
+			"type": "list",
+			"items": ["We do what we say", "We do the right thing", "We make great things happen", "We treat everyone with dignity and respect", "We empower"]
+		},
+		{
+			"type": "p",
+			"text": "We operate our business, activities and company in a manner that enables all people to realize their potential and improve their quality of life while protecting and enhancing the earth's natural capital. This aspiration is operationalised for our purposes by our sustainability objectives, targets and indicators, including:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Creating the healthiest, most collaborative and innovative work environments possible.",
+				"Integrating sustainability considerations into all our business decisions, specifically driving profit responsibly.",
+				"Minimising the carbon impact of all office, travel and commuter activities.",
+				"Enabling our customers to become more sustainable through the use of our products.",
+				"Measuring and communicating our progress across all stakeholders including our board, employees and customers to ensure accountability and to encourage sustainable practices within our ecosystem."
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Reduction"
+		},
+		{
+			"type": "h3",
+			"text": "Travel and meetings"
+		},
+		{
+			"type": "p",
+			"text": "Broadsign's carbon emissions are substantially derived from business travel. In order to reduce our footprint, our travel policy contains several measures to reduce the amount of travel that we do per revenue dollar and guidelines to improve the intensity of the remaining travel. Some examples include:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Avoiding carbon-intensive in-person travel unless deemed absolutely necessary for the business.",
+				"Supporting our employees to reduce carbon from their daily commutes through the use of hybrid working arrangements and ready-access to public transport by locating our offices in accessible locations.",
+				"Minimizing emissions per passenger mile through smart choices of transportation mode and timing of travel to meet with as many clients as possible per trip."
+			]
+		},
+		{
+			"type": "h3",
+			"text": "Office, equipment and consumption of resources"
+		},
+		{
+			"type": "p",
+			"text": "Reducing, reusing or recycling paper, consumables and office waste, as well as reducing energy consumption as much as possible. Wherever possible, we purchase energy-efficient equipment and partner with energy-conscious and efficient third parties, especially data centers."
+		},
+		{
+			"type": "h3",
+			"text": "Working practices"
+		},
+		{
+			"type": "p",
+			"text": "We will continue to develop digital products designed to enhance the sustainability initiatives of both employees and customers by following the <a href='https://principles.green/' target='_blank'>principles of Sustainable Software Engineering</a> to the best of our abilities when developing Broadsign software:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"<a href='https://principles.green/principles/carbon/' target='_blank'>Carbon</a>: Build applications that are carbon-efficient.",
+				"<a href='https://principles.green/principles/electricity/' target='_blank'>Electricity</a>: Build applications that are energy efficient.",
+				"<a href='https://principles.green/principles/carbon-intensity/' target='_blank'>Carbon Intensity</a>: Consume electricity with the lowest carbon intensity.",
+				"<a href='https://principles.green/principles/embodied-carbon/' target='_blank'>Embodied Carbon</a>: Build applications that are hardware efficient.",
+				"<a href='https://principles.green/principles/energy-proportionality/' target='_blank'>Energy Proportionality</a>: Maximize the energy efficiency of hardware.",
+				"<a href='https://principles.green/principles/networking/' target='_blank'>Networking</a>: Reduce the amount of data and distance it must travel across the network.",
+				"<a href='https://principles.green/principles/measurement/' target='_blank'>Measurement & Optimization</a>: Focus on step-by-step optimizations that increase the overall carbon efficiency."
+			]
+		},
+		{
+			"type": "p",
+			"text": "We are actively partnering with our suppliers to operate sustainably, reduce waste, and commit to powering digital delivery of our platform with renewable energy and recycled and recyclable products."
+		},
+		{
+			"type": "p",
+			"text": "Broadsign's products are often used to facilitate outdoor advertising, which can be a source of light pollution. To reduce the impact of light pollution, Broadsign does the following:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Automate settings to enable customers to turn down screen brightness according to ambient light conditions or time.",
+				"Work with manufacturers to support screens and signs that generate minimal light pollution."
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Offsets"
+		},
+		{
+			"type": "p",
+			"text": "We recognize that our emissions reduction efforts will only go so far to achieving our goal of net zero in the current market. As such, for any emissions that we are not able to reduce, Broadsign is committed to offsetting an equivalent amount of carbon by purchasing certified carbon credits on the open market. In purchasing these credits we abide by the following principles:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Purchase and retire credits for projects that capture and sequester atmospheric carbon.",
+				"Only purchase credits that are audited and certified by recognized industry bodies like Gold Standard.",
+				"Reduce the number of credits per revenue dollar that we purchase every year by increasing our reduction efforts through time."
+			]
+		},
+		{
+			"type": "p",
+			"text": "This year, we partnered with <a href='https://klimate.co' target='_blank'>Klimate.co</a> to source carbon removal credits from forestry, biochar and enhanced weathering projects."
+		},
+		{
+			"type": "h2",
+			"text": "Measurement & Accountability"
+		},
+		{
+			"type": "p",
+			"text": "As a company, Broadsign is committed to understanding our ecological footprint by undertaking the following measurement activities:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Collecting carbon emissions data on a quarterly basis as part of our financial reporting process and report progress annually",
+				"Having our reports periodically reviewed and assured by third parties",
+				"Requesting emissions reporting of all our suppliers of goods and services",
+				"Using industry-accepted benchmarks for those suppliers who are unable to provide an emissions figure and for whom no suitable alternative exists",
+				"Publicly sharing our emissions reporting with our customers and on our website",
+				"Monitoring the full life-cycle of our e-waste from procurement to disposal"
+			]
+		},
+		{
+			"type": "p",
+			"text": "We are committed to reporting results of our sustainability program to our board, employees, executive management and other stakeholders, minimally once per fiscal year."
+		},
+		{
+			"type": "h2",
+			"text": "Community"
+		},
+		{
+			"type": "p",
+			"text": "Our sustainability committee is composed of people from all levels and departments. Employee education and engagement are critical components to successfully meeting our sustainability commitments. We regularly host information sessions and work groups to educate our employees and evolve our practices. Employees are encouraged to undertake voluntary work with their local communities and/or environmental organizations and make donations to offset carbon emissions from their activities. Every employee is offered two volunteer days per year for use."
+		},
+		{
+			"type": "p",
+			"text": "Furthermore, to help promote sustainable practices within our industry, we include a Sustainability Statement in all our proposals to clients and contracts to suppliers."
+		}
+	]
+}

@@ -1,0 +1,107 @@
+@import "../../base/dependencies";
+
+#csp_forum_2025 {
+	ul.checks_gradient li {
+		background-position-y: 0.3em;
+	}
+
+	.subtitle-1 {
+		font-size: 18px !important;
+	}
+
+	.img_wrapper {
+		.flex {
+			transform-style: preserve-3d;
+			perspective: 200px;
+		}
+	}
+
+	.card_wrapper {
+		transition: transform 1s ease;
+
+		&:hover {
+			transform: rotate3d(1, -1, 1, 20deg);
+
+			.gift_card.hover {
+				opacity: 1;
+			}
+		}
+	}
+
+	.gift_card {
+		cursor: default;
+		max-width: 180px;
+		user-select: none;
+		width: 100%;
+		z-index: 1;
+	}
+
+	.gift_card.hover {
+		left: 0;
+		opacity: 0;
+		position: absolute;
+		top: 0;
+		transition: opacity 1s;
+		width: 100%;
+		z-index: 2;
+	}
+
+	.FormHubspotCalendly {
+		.field {
+			margin-bottom: 12px;
+		}
+
+		label:not(.hs-form-booleancheckbox-display)>span {
+			display: none;
+		}
+
+		.submitted-message {
+			margin: min(10vw, 60px) 0;
+
+			&:before {
+				height: 40px;
+				margin: 0 0 16px;
+				width: 40px;
+			}
+
+			p {
+				color: $dark;
+				line-height: 160%;
+
+				a {
+					text-decoration: underline;
+				}
+			}
+		}
+
+		&.is_calendly:not(.is_calendly_submitted) {
+			margin: max(-5vw, -20px) max(-5vw, -30px) 0;
+			max-width: calc(100% + min(10vw, 60px));
+			width: calc(100% + min(10vw, 60px));
+
+			iframe {
+				border-radius: 14px;
+				min-height: 500px;
+			}
+		}
+
+		&.is_calendly_submitted {
+			.calendly-inline-widget {
+				display: none;
+			}
+		}
+	}
+
+}
+
+@media (min-width:$sm) {
+	#csp_forum_2025 {
+		.FormHubspotCalendly {
+			&.is_calendly:not(.is_calendly_submitted) {
+				margin: max(-3vw, -20px) max(-3vw, -30px) 0;
+				max-width: calc(100% + min(6vw, 60px));
+				width: calc(100% + min(6vw, 60px));
+			}
+		}
+	}
+}

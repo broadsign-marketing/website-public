@@ -1,0 +1,53 @@
+{
+	"seo": {
+		"title": "Digital Signage in Cinemas",
+		"description": "Create a moviegoing experience that draws crowds and boosts revenue with digital signage and screens throughout your cinemas."
+	},
+	"title": "Digital Signage in Cinema",
+	"Hero": {
+		"TitlePart1": "Captivate your",
+		"TitlePart2": "Cinema",
+		"TitlePart3": "Audience",
+		"Blurb": "Create a moviegoing experience that draws crowds and boosts revenue with digital signage and screens throughout your cinemas.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Concession Stands that Sell",
+			"Paragraph": "Increase concession sales and upsell specialty items with bright and animated signage content that adjusts according to upcoming showtimes or special promotions."
+		},
+		"Pane2": {
+			"Title": "All of your screens, automated",
+			"Paragraph": "Integrate your CMS and POS systems so that all your screens—from concessions displays, to digital poster boards, to the pre-roll content played right before a film begins—can adapt their content to real-time changes and conditions."
+		},
+		"Pane3": {
+			"Title": "An interactive moviegoer experience",
+			"Paragraph": "Get audiences to head to their movie earlier with interactive pre-show experiences like mobile-enabled games connected to the big screen."
+		},
+		"Pane4": {
+			"Title": "Local Messaging Made Simple",
+			"Paragraph": "Quickly get out messaging for corporate functions, special events, or emergencies with a template-based tool enabling beautiful local messaging on your cinema's screens."
+		}
+	},
+	"cards": {
+		"title": "Flexible option for simpler ad sales",
+		"par": "Make running ad campaigns in your cinemas a breeze with specialized tools for both direct and programmatic sales teams.",
+		"direct": "Empower your team with Campaign Planning",
+		"reach": "Sell programmatically with our Programmatic SSP"
+	},
+	"Quoteblock": {
+		"Quote": "Broadsign brought us more agility, allowing us to deliver new campaigns whenever necessary and improving the interface with theaters. In addition, it offers proof-of-play reports which are essential to our operation.",
+		"Signature": "Flix media"
+	},
+	"Customers": {
+		"Title": "Trusted by leading Cinema Signage Clients"
+	},
+	"Partners": {
+		"Title": "Meet your Audience",
+		"Tagline": "Gain a deeper understanding of what speaks to your audience with analytics suites integrated with your digital signage."
+	},
+	"Shin": {
+		"Title": "How can your cinema network benefit from the Broadsign platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

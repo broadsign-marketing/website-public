@@ -1,0 +1,50 @@
+@import "../base/dependencies";
+@import "./blog/blog_grid";
+@import "./blog/wp_blocks";
+@import "./blog/blog_subnav";
+@import "./blog/blog_main_page";
+@import "./blog/blog_post";
+
+@include animThisWayRight;
+
+#blog,
+#blog_post {
+	.CTABox {
+		.Form {
+			.hs-input:not([type="checkbox"]) {
+				border-radius: 1000px;
+			}
+
+			.hs-fieldtype-booleancheckbox input:checked+span:before {
+				border-radius: 4px;
+			}
+		}
+	}
+}
+
+.scroll_percent_bar {
+	background: rgba($reflex, 0.2);
+	display: flex;
+	flex-flow: column nowrap;
+	height: 100%;
+	left: 0vw;
+	max-width: 1.25vw;
+	padding-top: var(--header-height);
+	pointer-events: none;
+	position: fixed;
+	top: 0;
+	transition: padding-top 0.6s ease;
+	width: 8px;
+	z-index: 1000;
+
+	.color_bar {
+		background: #001645;
+		height: 0%;
+	}
+}
+
+@media (min-width:1600px) {
+	.scroll_percent_bar {
+		padding-top: 0;
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"seo": {
+		"title": "Demandez votre essai gratuit",
+		"description": "Voyez comment nos solutions peuvent vous aider à vendre, à distribuer et à exploiter du contenu numérique sur un réseau extérieur de toute taille, plus facilement que jamais."
+	},
+	"cta": {
+		"next": "Suivant"
+	},
+	"hero": {
+		"title": "Découvrez la meilleure solution DOOH"
+	},
+	"convenience": {
+		"subtitle": "Puissance et aisance inégalées",
+		"par": "Voyez comment nos solutions peuvent vous aider à vendre, à distribuer et à exploiter du contenu numérique sur un réseau OOH, peu importe sa taille, plus facilement que jamais."
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Gestion de campagnes et diffusion d'annonces",
+			"title": "Des outils de campagnes perfectionnés qui génèrent plus de revenu",
+			"par": "Optimisez la réservation de l'ensemble de votre réseau d'affichage extérieur en temps réel grâce à l'intelligence et la flexibilité de notre outil intelligent.",
+			"cta": "En savoir plus"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Gestion de contenu et de réseau",
+			"title": "Gagnez du temps en automatisant la gestion de votre réseau",
+			"par": "Nos processus automatisés de gestion de campagnes vous permettent de diffuser le bon contenu au bon moment, tout en vous donnant une visibilité complète sur l'efficacité de ces campagnes, grâce notamment à nos rapports détaillés de performance.",
+			"cta": "En savoir plus"
+		},
+		"staticOperations": {
+			"overtitle": "Campagnes et gestion statiques",
+			"title": "Des processus rationalisés dédiés à vos campagnes publicitaires statiques",
+			"par": "Facilitez votre quotidien avec nos outils conçus pour les procédés de publicité statique. Nous synchronisons en temps réels les tâches d'affichage liées à vos campagnes, mais aussi les niveaux de stock et les communications avec vos afficheurs.",
+			"cta": "En savoir plus"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Plateforme ssp programmatique mondiale",
+			"title": "Augmentez vos revenus programmatiquement ",
+			"par": "Complétez vos ventes directes avec notre outil programmatique qui vous permet d'automatiser une partie de vos ventes en accédant à des acheteurs mondiaux, tout en gardant le contrôle sur le contenu que vous diffusez.",
+			"cta": "En savoir plus"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Affichage numérique de messages locaux",
+			"title": "Des messages locaux plus pertinents et personnalisés",
+			"par": "Permettez aux équipes locales de créer facilement des messages d'affichage numérique adaptés tout en restant fidèles à votre branding grâce à un outil de gestion de contenu personnalisable.",
+			"cta": "En savoir plus"
+		},
+		"audienceCampaigns": {
+			"overtitle": "Campagnes d'audience",
+			"title": "Débloquez de nouvelles opportunités et des revenus supplémentaires",
+			"par": "Le serveur publicitaire de Broadsign vous offre des outils de ciblage sophistiqués pour aider vos équipes de vente à planifier et vendre des campagnes, optimiser votre inventaire et rejoindre votre public-cible aux moments les plus opportuns.",
+			"cta": "En savoir plus"
+		},
+		"new": "Nouveau!",
+		"comingSoon": "Bientôt disponible!"
+	},
+	"quotes": {
+		"q1": {
+			"quote": "Depuis notre passage à Broadsign, nous avons simplifié notre flux de travail, nous sommes plus flexibles et nous réagissons plus rapidement aux changements apportés par les annonceurs.",
+			"company": "Lightbox",
+			"id": "lightbox"
+		}
+	},
+	"logos": {
+		"subtitle": "Reconnu par les plus grands noms du OOH"
+	},
+	"shinCTA": "Demandez un essai gratuit"
+}

@@ -1,0 +1,13 @@
+{
+	"seo": {
+		"title": "Privacy Vendors",
+		"description": ""
+	},
+	"title": "Service and Tool Providers",
+	"intro": [
+		"Broadsign may disclose Personal Information to our “service providers”, to our “contractors”, and to “third parties” for a Business Purpose. When we disclose Personal Information for a Business Purpose, we enter into an agreement with the receiving party that describes the purpose for sharing the Personal Information, and that requires the receiving party to keep that Personal Information confidential. In the case of disclosures to our “service providers,” our “service providers” are obligated not to use the Personal Information for any purpose other than performing the services according to their agreement with us. In the case of our “contractors”, our “contractors’ are obligated not to use the Personal Information for any purpose unrelated to the business purpose for which we’ve engaged them.",
+		"We may disclose your Personal Information with the following categories of entities: (i) “service providers”, (ii) “contractors,” and (iii) our “third party” industry business partners. We Share Personal Information, subject to your right to opt-out of those Sharing."
+	],
+	"serviceProvider": "Service Provider",
+	"toolProvider": "Online Tool Providers"
+}

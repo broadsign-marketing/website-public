@@ -1,0 +1,21 @@
+{
+	"seo": {
+		"title": "Request a Demo",
+		"description": "Ready to get started with a new digital signage software solution? Request your demo to see the benefits of Broadsign's platform for yourself."
+	},
+	"formTitle": "Light up the World _with the leading solutions for OOH_",
+	"formHeader": "Schedule a live demo today",
+	"contentDescription": {
+		"par1": "Whether you're working with _digital displays, static installations, transit-based media,_ or all three, we have the right tools for you.",
+		"par2": "Get a _personalized demo_ and see how we'll help you sell, manage, and deliver OOH media more efficiently than ever."
+	},
+	"tools": {
+		"title": "Our tools can help you:",
+		"content1": "Streamline your sales process",
+		"content2": "Boost operational efficiency",
+		"content3": "Automate your content delivery",
+		"content4": "Unlock new sources of revenue"
+	},
+	"shinCTA": "Request a Demo",
+	"form": { "submitText": "Request a Demo" }
+}

@@ -1,0 +1,74 @@
+{
+	"seo": {
+		"title": "Software de Digital Signage",
+		"description": "El software de digital signage de Broadsign hace que sea más fácil que nunca comprar, vender y desplegar campañas digital out-of-home en todo el mundo."
+	},
+	"Hero": {
+		"title": "Software de señalización digital potente y automatizado",
+		"par": "Broadsign permite a los dueños de medios Digital Out of Home (DOOH) automatizar sus redes y maximizar sus ingresos en tiempo real.",
+		"cta": "Solicite su prueba gratuita"
+	},
+	"trustedBy": {
+		"title": "Usado y apreciado por los nombres más importantes en Out of Home"
+	},
+	"whyBroadsign": {
+		"title": "¿Por qué elegir Broadsign?",
+		"feature1": {
+			"title": "Ahorrar tiempo",
+			"par": "Ahorre tiempo automatizando su red para que usted pueda concentrarse en el panorama general de su negocio."
+		},
+		"feature2": {
+			"title": "Maximizar sus ingresos",
+			"par": "Asegure su inventario en tiempo real y genere propuestas más rápidamente para ganar más tratos."
+		},
+		"feature3": {
+			"title": "Crecer sin limites",
+			"par": "Alcance el máximo potencial de su red con flujos de trabajo escalables que se adaptan a redes de cualquier tamaño."
+		}
+	},
+	"doBetter": {
+		"title": "Optimice sus operaciones de señalización digital con nuestras soluciones integradas",
+		"automatedYield": {
+			"title": "Gestión de ventas OOH",
+			"par": "Optimice sus ventas de publicidad OOH con herramientas inteligentes y disponibilidad de inventario en tiempo real."
+		},
+		"contentManagement": {
+			"title": "Optimización de rendimiento automatizada",
+			"par": "Desbloquee el valor total de su inventario con un sistema inteligente y automatizado."
+		},
+		"oOHSales": {
+			"title": "Gestión de contenido",
+			"par": "Automatice la entrega de contenido y muestre contenido a las audiencias en el momento perfecto."
+		},
+		"openAPI": {
+			"title": "API abierta",
+			"par": "Conecte Broadsign con las herramientas que ama utilizando nuestra API abierta."
+		},
+		"programmaticSales": {
+			"title": "Ventas programáticas",
+			"par": "Desbloquee nuevos ingresos conectando su inventario con compradores digitales de todo el mundo."
+		},
+		"security": {
+			"title": "Seguridad líder en la industria",
+			"par": "Mantenga todas sus ubicaciones seguras con la seguridad líder en la industria incorporada en nuestras soluciones."
+		},
+		"cta": "Solicite su prueba gratuita"
+	},
+	"quotes": {
+		"title": "Descubra por qué nuestros clientes prefieren Broadsign",
+		"q1": {
+			"quote": "Con Broadsign, tenemos la flexibilidad mejorada, las capacidades creativas y las herramientas de planificación que necesitamos para establecer conexiones de manera más eficiente y coherente en nuestra red.",
+			"cite": "Intersection"
+		},
+		"q2": {
+			"quote": "Desde nuestra transición a Broadsign, hemos podido optimizar nuestro flujo de trabajo, ser más flexibles y reaccionar más rápidamente a los cambios realizados por los anunciantes.",
+			"cite": "Lightbox"
+		}
+	},
+	"flexible": {
+		"title": "Comience hoy con un software de DOOH flexible y altamente confiable",
+		"par": "Desbloquee el valor total de su red a través de la automatización, la optimización y el soporte para transacciones programáticas.",
+		"cta": "Solicite su prueba gratuita"
+	},
+	"formTitle": "Ver Broadsign en acción"
+}

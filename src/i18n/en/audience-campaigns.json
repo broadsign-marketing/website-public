@@ -1,0 +1,115 @@
+{
+	"seo": {
+		"title": "Audience Campaigns and Ad Serving",
+		"description": "Broadsign's ad server provides you with sophisticated targeting tools to help your sales teams plan and sell campaigns, optimize your inventory,  and reach target audiences at the most compelling moments."
+	},
+	"hero": {
+		"overtitle": "Audience Campaigns",
+		"title": "Unlock new opportunities and additional revenue",
+		"blurb": "Broadsign's ad server provides you with sophisticated targeting tools to help your sales teams plan and sell campaigns, optimize your inventory,  and reach target audiences at the most compelling moments.",
+		"videoTitle": "Learn how Audience Campaigns can elevate your business!",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"before_after": {
+		"title": "Limited targeting and flexibility in direct sales are things of the past",
+		"before": {
+			"title": "Your life today",
+			"list": [
+				"You lack the targeting capabilities to deliver contextual campaigns",
+				"You rely on last-minute fire-sales to fill unsold inventory ",
+				"You require extensive administrative effort to execute campaigns"
+			]
+		},
+		"after": {
+			"title": "With the Broadsign Ad Server",
+			"list": [
+				"You can build campaigns using audience and contextual triggers like age, location and weather",
+				"You can sell last-minute impression-based campaigns, playing the ad only when there's availability",
+				"You can optimize the workload of your ad operations team making it easy to book last minute campaigns"
+			]
+		}
+	},
+	"features": {
+		"overtitle": "Use cases",
+		"title": "Unlock new opportunities with Broadsign's Audience Campaigns",
+		"feature_targeting": {
+			"overtitle": "Sophisticated targeting tools ",
+			"title": "Reach audiences at the most relevant time",
+			"par": "A global sports and lifestyle brand is launching a new shoe and wants to use DOOH to reach their customers on-the-go. Audience Campaigns allows them to target their intended audience down to age group, and target the best environments for them to reach their customers, like gyms or shopping malls."
+		},
+		"feature_delivery": {
+			"overtitle": "Flexible campaign delivery",
+			"title": "Say goodbye to filler content & skipped slots",
+			"par": "A media owner realizes that 30% of their monthly inventory runs filler content, like weather and news snippets. They decide to sell these unsold slots through Broadsign's Audience Campaigns, which will give the slot to the highest paying campaign. This allows them to generate more revenue than if they sold it at a deep discount or ran filler content."
+		},
+		"feature_revenue": {
+			"overtitle": "inventory and revenue optimization ",
+			"title": "Accommodate budgets of all sizes",
+			"par": "A small business wants to advertise on a screen near their store with a budget of $10,000 per year. Booking that campaign through Audience Campaigns allows them to run their ad over the next 12 months only when there is space, creating more availability for long-term guaranteed campaigns."
+		}
+	},
+	"lattice": {
+		"title": "Benefits",
+		"boxes": [
+			{
+				"id": "money",
+				"title": "Monetize filler, unsold or skipped slots",
+				"par": "Sell last-minute impression-based campaigns to fill unsold inventory, allowing you to monetize on every slot."
+			},
+			{
+				"id": "report",
+				"title": "Execute and monitor campaigns in real-time",
+				"par": "Track relevant KPIs like impressions, budget spent, and ads served through a comprehensive reporting platform."
+			},
+			{
+				"id": "people",
+				"title": "Widen your customer base",
+				"par": "Make local campaigns more profitable with increased agility in campaign activation times and flexibility in campaign delivery."
+			},
+			{
+				"id": "trigger",
+				"title": "Sell premium data-triggered campaigns",
+				"par": "Target environments & demographics, and leverage moment-based triggers, like weather & financial moments."
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_audience_campaigns_1",
+				"q": "What is Audience Campaigns?",
+				"a": "The Audience Campaigns module is made available through the Broadsign Platform, and enables media owner direct sales teams to sell impression-based non-guaranteed campaigns that layer in audience and demographic targeting."
+			},
+			{
+				"id": "faq_audience_campaigns_2",
+				"q": "Do I have to use targeting capabilities for every campaign?",
+				"a": "It's not necessary to include targeting capabilities in every campaign - you can adjust based on your buyer's needs! Some of our customers have started by focusing on filling previously empty slots with smaller budget campaigns for example."
+			},
+			{
+				"id": "faq_audience_campaigns_3",
+				"q": "What is an example of a contextual trigger?",
+				"a": "Weather and financial moments are two contextual triggers available in Audience Campaigns. For instance, triggering an ad to show when the temperature reaches above 20°C to reach consumers that might consider buying an ice cream or ice coffee or triggering an ad to show when the price of bitcoin has gone up. "
+			},
+			{
+				"id": "faq_audience_campaigns_4",
+				"q": "How does this differ from pre-emptible campaigns?",
+				"a": "These campaigns have an impression goal which means that the pacing will be adjusted based on the delivery of impressions and the campaign will automatically stop when the goal is reached."
+			}
+		]
+	},
+	"featuredPost": {
+		"tagline": "Learn more about Audience Campaigns",
+		"title": "Unlock new opportunities and additional revenue with Broadsign's Audience Campaigns",
+		"cta": "Learn more"
+	},
+	"shin": {
+		"title": "Optimize your inventory to monetize your unsold ad space today!",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	}
+}

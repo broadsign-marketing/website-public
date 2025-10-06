@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Google",
+		"type": "serviceProvider",
+		"privacyLink": "https://policies.google.com/privacy?hl=en"
+	},
+	{
+		"name": "Hotjar Ltd.",
+		"type": "toolProvider",
+		"privacyLink": "https://www.hotjar.com/legal/policies/privacy/"
+	},
+	{
+		"name": "HubSpot, Inc.",
+		"type": "serviceProvider",
+		"privacyLink": "https://legal.hubspot.com/privacy-policy"
+	},
+	{
+		"name": "LinkedIn",
+		"type": "serviceProvider",
+		"privacyLink": "https://www.linkedin.com/legal/privacy-policy"
+	},
+	{
+		"name": "Meta Platforms, Inc.",
+		"type": "serviceProvider",
+		"privacyLink": "https://www.facebook.com/privacy/policy/"
+	},
+	{
+		"name": "Microsoft Corporation",
+		"type": "serviceProvider",
+		"privacyLink": "https://www.microsoft.com/en-us/privacy/privacystatement"
+	},
+	{
+		"name": "Reddit",
+		"type": "toolProvider",
+		"privacyLink": "https://www.reddit.com/policies/privacy-policy"
+	},
+	{
+		"name": "Vimeo",
+		"type": "toolProvider",
+		"privacyLink": "https://vimeo.com/privacy"
+	},
+	{
+		"name": "VWO",
+		"type": "serviceProvider",
+		"privacyLink": "https://vwo.com/privacy-policy/"
+	},
+	{
+		"name": "X Corp.",
+		"type": "serviceProvider",
+		"privacyLink": "https://x.com/en/privacy#current"
+	},
+	{
+		"name": "Yahoo",
+		"type": "serviceProvider",
+		"privacyLink": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html"
+	},
+	{
+		"name": "YouTube",
+		"type": "serviceProvider",
+		"privacyLink": "https://policies.google.com/privacy?hl=en-GB"
+	}
+]

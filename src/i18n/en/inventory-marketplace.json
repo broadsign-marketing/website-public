@@ -1,0 +1,28 @@
+{
+	"seo": {
+		"title": "Inventory Packages",
+		"description": "Increase the impact of your OOH campaign with our specially curated packages complete with audience segments, different environments, venue types and moments to drive brand awareness and lift sales."
+	},
+	"hero": {
+		"title": "_Maximize_ Impact with strategically-placed DOOH ads",
+		"blurb": "Increase the impact of your OOH campaign with our specially curated packages complete with audience segments, different environments, venue types and moments to drive brand awareness and lift sales.",
+		"cta": "Contact Us"
+	},
+	"exploreVerticals": {
+		"title": "Explore our Inventory Packages"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explore popular billboard locations",
+		"moreLocations": "More Billboard Locations",
+		"modal": {
+			"title": "Explore our extensive global inventory network",
+			"blurb": "Talk to a media specialist to start planning your campaign!",
+			"thankYou": ["Thank you!", "A Broadsign Media Specialist will be in touch shortly."]
+		}
+	},
+	"shin": {
+		"title": "Build your own custom package",
+		"par": "Work with our marketplace team to build your personal custom package based on your advertising strategy and key campaign objectives.",
+		"cta": "Talk to a media specialist"
+	}
+}

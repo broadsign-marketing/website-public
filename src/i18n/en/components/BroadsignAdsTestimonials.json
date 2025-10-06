@@ -1,0 +1,51 @@
+[
+	{
+		"id": "republik",
+		"quote": "For a campaign manager that has progressed in the digital world, it is great to know that we can try outdoor advertising the same way we would launch a Facebook campaign, as an example. When it comes to choosing audiences as well as buying inventory, it's familiar ground. It opens so many new, unexpected doors!",
+		"name": "Justine Laurier",
+		"title": "Digital Campaign Manager",
+		"company": "Republik"
+	},
+	{
+		"id": "cookit",
+		"quote": "What used to take hours to plan and execute was reduced to minutes with Broadsign. The ease of use, which mimics online ad buying platforms, and its powerful DOOH targeting and scheduling features were a game-changer for us.",
+		"name": "Alexandre Cholette",
+		"title": "Media Placement Manager",
+		"company": "Cook It"
+	},
+	{
+		"id": "treehouse",
+		"quote": "The availability of screen level data allows us to tailor each campaign for maximum impact. It is easy to onboard any team member to the Broadsign buying platform, fast to roll out a new campaign or modify a current one, and the dedicated team support and service are just beyond amazing.",
+		"name": "Marcie Cerillo",
+		"title": "Brandmaster manager",
+		"company": " Treehouse Marketing"
+	},
+	{
+		"id": "flames",
+		"quote": "Broadsign gives us the power to display our digital out-of-home campaigns the way we want to, when we want to. The only thing we regret is not getting started sooner!",
+		"name": "Ryan Popowich",
+		"title": "Director of marketing and promotions",
+		"company": "Calgary Flames"
+	},
+	{
+		"id": "mainandlocal",
+		"quote": "The Broadsign platform was so easy to use. As a small business, we did not expect billboards to be so easy and accessible.",
+		"name": "Aline Dubois",
+		"title": "Co-owner",
+		"company": "Main & Local"
+	},
+	{
+		"id": "peoplespint",
+		"quote": "Broadsign was a no-brainer for us to reach people in our community. We know exactly who we're targeting, focusing on the neighbourhoods and buildings that we wanted. We got feedback from people who saw the ads. It resulted in a 12.8 % increase in foot traffic compared to last year.",
+		"name": "Peter Caira",
+		"title": "Owner",
+		"company": "People's Pint Brewery"
+	},
+	{
+		"id": "cheil",
+		"quote": "To execute a campaign of this magnitude we needed a DSP that could deliver on ease of use and transparency - and Broadsign performed above and beyond our expectations thanks to its numerous capabilities and capacity to streamline the DOOH-specific workflow. Furthermore, collaborating with Broadsign' team of programmatic digital-out-of-home experts meant seamless execution from start to finish.",
+		"name": "Keri Thomas",
+		"title": "Media Supervisor",
+		"company": "Cheil"
+	}
+]

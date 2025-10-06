@@ -1,0 +1,71 @@
+{
+	"seo": {
+		"title": "Partenaires DSP",
+		"description": "Rejognez le public partout sur la planète en accédant à des stocks d'affichage extérieur numérique de premier ordre qui élargissent la portée de vos campagnes."
+	},
+	"hero": {
+		"title": "Renforcez votre effet multicanal avec l'affichage extérieur numérique",
+		"tagline": "Générez des impressions omnicanales à grande échelle. Grâce aux partenaires DSP de Broadsign, vous pouvez rejoindre le public partout sur la planète en accédant à des stocks d'affichage extérieur numérique de premier ordre qui élargissent la portée de vos campagnes.",
+		"cta": "Faisons équipe"
+	},
+	"intro": {
+		"overtitle": "Plateforme SSP Broadsign Reach",
+		"title": "Des stocks offerts par l'entremise de 35 DSP et plus encore"
+	},
+	"powerful": {
+		"title": "Créez une expérience de marque sans faille lorsque les publics cibles se déplacent entre les canaux",
+		"l1": "Activez des campagnes à grande échelle en bénéficiant du plus vaste accès mondial à tous les stocks d'affichage extérieur numérique.",
+		"l2": "Lancez des campagnes percutantes avec des outils de planification et de ciblage fondés sur des données."
+	},
+	"limitless": {
+		"title": "Une mise en œuvre de campagne sans limites",
+		"l1": "Obtenez un soutien complet pour diverses structures de marché, dont la place de marché privée (PMP), la programmatique garantie (PG) et l'échange ouvert (Open Exchange).",
+		"l2": "Simplifiez les flux de travail entre les canaux d'affichage numérique et extérieur pour rejoindre le public au moyen tous les formats."
+	},
+	"complete": {
+		"title": "Une transparence programmatique complète",
+		"l1": "Gérez tous les aspects de votre campagne avec une excellente visibilité des données sur les écrans, le public et l'environnement.",
+		"l2": "Suivez et analysez la performance des campagnes grâce à des fonctionnalités avancées de création de rapports dans le contexte de l'ensemble de vos achats de médias."
+	},
+	"twoWays": {
+		"boxes": [
+			{
+				"title": "DSP spécifiques au DOOH",
+				"par": "Accédez à une expérience de planification et d'achat haut de gamme avec des DSP spécialement conçus pour l'affichage numérique extérieur.",
+				"list": [
+					"Accédez instantanément à l'inventaire mondial DOOH.",
+					"Activez des campagnes avec des plateformes efficaces, faciles à utiliser et optimisées pour le support.",
+					"Ajustez et optimisez les campagnes en vous basant sur des capacités de rapport robustes et transparentes."
+				],
+				"cta": "En savoir plus"
+			},
+			{
+				"title": "DSP omnicanal",
+				"par": "Activez des campagnes évolutives et complètes qui incluent plusieurs canaux tels que la recherche, l'affichage, la vidéo, la télévision connectée et le mobile avec des DSP omnicanaux.",
+				"list": [
+					"Gérez les audiences, les données et les éditeurs sur l'ensemble des canaux multimédias sur une plateforme unique et centralisée.",
+					"Diffusez des publicités ciblées et contextuelles en ligne et hors ligne tout au long du parcours client.",
+					"Analysez la performance de l'ensemble de votre campagne sur la base de rapports en temps réel."
+				],
+				"cta": "En savoir plus"
+			}
+		]
+	},
+	"panelMediaKit": {
+		"title": "Jetez un coup d'œil au kit Média SSP Broadsign Reach",
+		"cta": "Télécharger"
+	},
+	"blog": {
+		"title": "Consultez notre blogue sur la programmatique",
+		"cta": "S'abonner à notre bulletin DSP"
+	},
+	"panelContactUs": {
+		"title": "Réservez un appel pour nous découvrir",
+		"par": "Nous vous aiderons à planifier et à mettre en œuvre votre meilleure campagne avec le bon partenaire DSP. Communiquez avec nous aujourd'hui pour discuter de la façon dont l'affichage extérieur numérique peut s'intégrer à votre stratégie.",
+		"cta": "Faisons équipe"
+	},
+	"testimonials": {
+		"title": "Témoignages"
+	},
+	"mediaKitFormHeader": "Obtenez votre kit Média SSP Broadsign Reach"
+}

@@ -1,0 +1,138 @@
+@import "../base/dependencies";
+
+#aws_faq {
+	.hero {
+		h1 {
+			font-size: min(16vw, 100px);
+			margin-bottom: 6vw;
+			margin-top: 80vw;
+			top: 5%;
+
+			span.dim {
+				font-size: 61%;
+			}
+
+			em {}
+
+			span {
+				font-size: 53.5%;
+			}
+
+		}
+
+		.bg {
+
+			img,
+			picture {
+				object-fit: 100%;
+				object-position: 90% center;
+			}
+		}
+	}
+
+	h2 {
+		font-size: 3rem;
+		margin: 0 0 4rem;
+	}
+
+	ul {
+		list-style-type: disc;
+		margin-bottom: 6rem;
+		padding-left: 2rem;
+
+		li {
+			font-size: 1.8rem;
+			margin-bottom: 1rem;
+		}
+
+		ul {
+			list-style-type: lower-alpha;
+			margin-bottom: 0;
+		}
+	}
+}
+
+@media (max-width: $xsMax) {
+	#aws_faq {
+
+		.hero {}
+	}
+}
+
+@media (min-width: $sm) {
+	#aws_faq {
+		.hero {
+			h1 {
+				font-size: min(12vw, 100px);
+				margin: min(14vw, 120px) 0;
+			}
+
+			.bg {
+
+				img,
+				picture {
+					object-position: 75% center;
+				}
+			}
+		}
+	}
+}
+
+@media (min-width: $md) {
+	#aws_faq {
+		.hero {
+			.bg {
+
+				img,
+				picture {
+					object-position: right center;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: $tablet_max_width) {
+	#aws_faq {
+		.Hero {
+			background-position-x: 75%;
+
+			.title {
+				font-size: 10vw;
+
+				em {
+					margin-bottom: 1%;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: $mobile_max_width) {
+	#aws_faq {
+		.Hero {
+
+			img,
+			picture {
+				object-position: 85% bottom !important;
+			}
+
+			.title {
+				font-size: 15vw;
+				text-shadow: 2px 2px 6px $blue, 2px 2px 6px $blue;
+			}
+
+		}
+
+		#hull {
+			.Row {
+				flex-flow: column nowrap;
+			}
+
+			.column {
+				flex-basis: 100%;
+				max-width: 100%;
+			}
+		}
+	}
+}

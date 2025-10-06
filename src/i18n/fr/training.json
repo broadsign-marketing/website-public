@@ -1,0 +1,55 @@
+{
+	"seo": {
+		"title": "Formation en affichage dynamique",
+		"description": "Joignez-vous à nos séances de formation interactives pour maximiser l'efficacité et les recettes tirées de votre réseau."
+	},
+	"Hero": {
+		"Title": "Formation broadsign",
+		"Paragraph1": "Joignez-vous à nos séances de formation interactives pour maximiser l'efficacité et les recettes tirées de votre réseau.",
+		"Paragraph2": "Tirez parti d'exemples concrets, discutez des meilleures pratiques et obtenez les dernières nouvelles de l'industrie auprès de nos experts.",
+		"Paragraph3": "Les séances de formation se tiennent par l'intermédiaire de webinaires, mais elles peuvent être planifiées sur place à votre bureau ou au siège social de Broadsign à Montréal."
+	},
+	"trainings": {
+		"broadsignTraining": {
+			"Title": "Formation broadsign",
+			"Paragraph": "Nos spécialistes en solutions expliquent en profondeur le système de gestion de contenu pour l'affichage numérique Broadsign Control (anciennement Core). Que ce soit la mise sur pied du réseau, la planification et les paramètres avancés ou encore la surveillance et les fonctions d'établissement de rapports."
+		},
+		"expertTraining": {
+			"Title": "Formation pour experts broadsign",
+			"Paragraph": "Imaginée pour les opérateurs de réseaux ayant terminé la formation Broadsign Control et possédant une grande expérience d'utilisation du logiciel Broadsign, la formation pour experts Broadsign combine la configuration de réseau avancée, la planification avancée et la mise sur pied de solutions dynamiques ainsi que des réponses sur mesure aux besoins de chaque réseau."
+		},
+		"customizedTraining": {
+			"Title": "Séance de formation sur mesure",
+			"Paragraph": "Partagez vos objectifs de réseau et de campagne afin que nous puissions vous fournir les informations et les outils pour les concrétiser."
+		}
+	},
+	"quotes": {
+		"quote1": {
+			"Paragraph1": "Je tenais simplement à vous remercier de votre accueil et de la formation approfondie de la semaine dernière. Votre présentation détaillée était entraînante et à propos. Nous ne pouvions nous imaginer suivre la formation à distance. ",
+			"Paragraph2": "Le fait d'être sur place nous a permis de mieux comprendre comment chaque composante fonctionne dans l'ensemble et de remédier à nos préoccupations relatives au déploiement de nos efforts.",
+			"User": "- Gage Burke, graphiste",
+			"Company": "Icon Marketing Communications, Inc."
+		},
+		"quote2": {
+			"Paragraph": "Nous avons assisté à la séance de formation pour experts Broadsign à Hambourg et nous l'avons trouvée extrêmement utile. L'occasion de bénéficier de la formation des gens ayant conçu le produit, de rencontrer d'autres clients et de travailler sur nos défis uniques en a grandement valu la peine. Je recommande la formation à tous les clients de Broadsign.",
+			"User": "- John Purcell, directeur commercial, Exploitation et technologie",
+			"Company": "oOh! Media"
+		}
+	},
+	"trainingVideos": {
+		"Title": "Vidéos de formation",
+		"trainingVideo1": {
+			"Title": "Présentation et installation",
+			"Paragraph": "Compris dans cette vidéo : Listes de lecture des vidéos de formation de Broadsign, Broadsign Control et installation de l'administrateur et du lecteur Broadsign."
+		},
+		"trainingVideo2": {
+			"Title": "Tutoriel de démarrage rapide ",
+			"Paragraph": "Compris dans cette vidéo : téléversement de copies de publicité, ajout d'écran, réservation de campagne et enregistrement de lecteur."
+		},
+		"trainingVideo3": {
+			"Title": "Politiques de boucle",
+			"Paragraph": "Compris dans cette vidéo : politiques de boucle, ajout de fichier, ajout de politique de boucle et modification des propriétés des politiques de boucle."
+		},
+		"Allvideos": "Visionnez toutes nos vidéos sur Youtube"
+	}
+}

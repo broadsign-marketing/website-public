@@ -1,0 +1,264 @@
+@import "../base/dependencies";
+
+@include animFadeIn;
+
+#free_trial {
+	.Hero {
+		background-color: #740560;
+		height: auto;
+		max-height: none;
+
+		.bubbles {
+			@include bg;
+			overflow: hidden;
+		}
+
+		.bubble {
+			border-radius: 50%;
+			filter: blur(40px);
+			height: 110rem;
+			position: absolute;
+			width: 120rem;
+
+			&.bottom_right {
+				background: linear-gradient(89.9deg, #FF3D2D -0.81%, #765BE3 71.59%, #0029FF 99.92%);
+				height: 96rem;
+				right: -5%;
+				width: 96rem;
+				z-index: 5;
+			}
+
+			&.top_left {
+				background: linear-gradient(0deg, #FF0000 3.3%, #0505A9 60.14%, #0539C0 69.11%, #0585E2 82.08%, #05B6F7 92.05%, #05C8FF 97.03%);
+				left: -30%;
+				top: 50%;
+				transform: translate(0%, -50%);
+				z-index: 10;
+			}
+
+			&.bottom_center {
+				background: linear-gradient(247.95deg, #E2439F 9.79%, #ED6573 38.3%, #853AE0 74.28%, #1D00FA 99.52%);
+				left: 50%;
+				top: 10%;
+				transform: translate(-50%, 0%);
+				z-index: 1;
+			}
+		}
+
+
+
+		.form_wrapper {
+			box-shadow: 4px 4px 24px rgba(#000, 0.1);
+		}
+
+		.Form {
+			padding: calc(min(30px, 3vw));
+		}
+
+		h1 {
+			animation: 0.6s ease-out 1s 1 normal forwards running fadeIn;
+			color: #FFF;
+			font-size: min(8vw, 50px);
+			line-height: 120%;
+			opacity: 0;
+		}
+
+		.hero_form {
+			max-width: 560px;
+		}
+	}
+
+	.convenience {
+		padding-bottom: 4rem;
+		padding-top: 24rem;
+		text-align: center;
+
+		h2 {
+			@include fontLight;
+			font-size: 3.8rem;
+			text-transform: none;
+		}
+
+		p {
+			font-size: 1.9rem;
+			margin: 1.6rem auto 0;
+			max-width: 64rem;
+		}
+	}
+
+	.screenshots {
+		@mixin gradients {
+			content: "";
+			display: block;
+			height: 100%;
+			position: absolute;
+			width: 10%;
+			z-index: 100;
+		}
+
+		height: 26rem;
+
+		&:before {
+			@include gradients;
+			background: linear-gradient(to right, rgba(#FFF, 1) 0%, rgba(#FFF, 0.8) 50%, rgba(#FFF, 0) 100%);
+			left: 0;
+		}
+
+		&:after {
+			@include gradients;
+			background: linear-gradient(to left, rgba(#FFF, 1) 0%, rgba(#FFF, 0.8) 50%, rgba(#FFF, 0) 100%);
+			right: 0;
+		}
+
+		.inner {
+			@include bg;
+			display: flex;
+			flex-flow: row nowrap;
+			max-height: 100%;
+		}
+
+		.screenshot {
+			flex: 0 0 calc(33% - 4rem);
+			height: 100%;
+			margin: 0 2rem;
+			max-height: 100%;
+			object-fit: contain;
+			object-position: center center;
+			position: absolute;
+			width: calc(33% - 4rem);
+		}
+	}
+
+	.aquarius_feature {
+		background: transparent;
+	}
+
+	.quotes {
+		.panel {
+			background-color: #080C1F;
+			padding: min(8vw, 80px);
+		}
+
+		.quote_sign {
+			height: 30px;
+			width: 30px;
+		}
+
+		cite {
+			align-items: flex-start;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: contain;
+			filter: contrast(0) brightness(10);
+			height: 60px;
+			max-width: 240px;
+
+			&.grandi_stazioni {
+				background-image: url("../../../static/img/logos/gs_white.svg");
+			}
+
+			&.intersection {
+				background-image: url("../../../static/img/logos/intersection_white.svg");
+			}
+
+			&.clear_digital_media {
+				background-image: url("../../../static/img/logos/cleardm_white.png");
+			}
+
+			&.lightbox {
+				background-image: url("../../../static/img/logos/lightbox_type_white.svg");
+			}
+		}
+	}
+
+	.LogosList {
+		margin-top: 7rem;
+
+		h2 {
+			@include fontLight;
+			font-size: 3.8rem;
+			margin: 0 auto 6rem;
+			text-align: center;
+			text-transform: none;
+		}
+	}
+
+	.shin {
+		background-color: $darkBlue;
+		padding-bottom: 6rem;
+		padding-top: 6rem;
+
+		.Tank {
+			display: flex;
+			justify-content: center;
+		}
+
+		.CTA {
+			background-color: $pink;
+			border-radius: 0.6rem;
+			color: #FFF;
+			font-size: 1.6rem;
+			margin-left: 2.2rem;
+			margin-right: 2.2rem;
+			padding: 2.2rem 3.4rem 2rem;
+
+			&:hover {
+				background-color: #FFF;
+				color: $pink;
+			}
+		}
+	}
+
+}
+
+
+@media (min-width: $tank_max_width) and (hover: hover),
+(min-width: $tank_max_width) and (pointer: fine) {}
+
+@media (min-width: $sm) {
+	#free_trial {
+		.Hero .form {
+			margin-bottom: -18rem;
+		}
+	}
+}
+
+@media (hover: none) and (pointer: none),
+(hover: none) and (pointer: coarse) {
+	#free_trial {
+		.products {
+			.product {
+				&:hover {
+					.product_icon {
+						filter: none;
+						transform: none;
+					}
+				}
+			}
+
+			.product_icon {
+				transition: none;
+			}
+		}
+	}
+}
+
+html[lang="fr"] {}
+
+html[lang="es"] {}
+
+html[lang="de"] {}
+
+@media (max-width: $xsMax) {
+	#free_trial {
+		.Hero {
+			.form_wrapper {
+				margin: 0 auto;
+			}
+
+			.form {
+				z-index: 10;
+			}
+		}
+	}
+}

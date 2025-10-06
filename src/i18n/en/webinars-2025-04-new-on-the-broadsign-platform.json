@@ -1,0 +1,30 @@
+{
+	"seo": {
+		"title": "Webinar: New on the Broadsign Platform",
+		"description": "The Broadsign Platform is evolving to meet the ever-changing needs of the OOH industry. We're thrilled to announce a series of exciting enhancements designed to make your OOH campaigns smarter, more efficient, and more impactful."
+	},
+	"presenters": {
+		"title": "Speakers",
+		"list": [
+			{
+				"portrait": "francois_hechme",
+				"name": "Francois Hechme",
+				"title": "VP of Products",
+				"company": "Broadsign"
+			},
+			{
+				"portrait": "gavin_lee",
+				"name": "Gavin Lee",
+				"title": "Senior Director Product",
+				"company": "Broadsign"
+			},
+			{
+				"portrait": "seamus_hunn",
+				"name": "Seamus Hunn",
+				"title": "Senior Director Product",
+				"company": "Broadsign"
+			}
+		]
+	},
+	"recordingLink": "qadPAMOLoKY"
+}

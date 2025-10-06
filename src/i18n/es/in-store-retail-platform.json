@@ -1,0 +1,94 @@
+{
+	"seo": {
+		"title": "La plataforma que impulsa los anuncios en la tienda",
+		"description": "Broadsign permite a los minoristas escalar, gestionar y vender publicidad digital en la tienda de manera eficiente a través de software automatizado, herramientas de campaña inteligentes, operaciones de red potentes y publicidad programática."
+	},
+	"hero": {
+		"title": "The platform that powers in-store ads",
+		"blurb": "Broadsign empowers retailers to efficiently scale, manage, and sell in-store digital advertising through automated software, intelligent campaign tools, powerful network operations, and programmatic advertising",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"logos": {
+		"title": "Utilizado por los principales minoristas de todo el mundo"
+	},
+	"e2e": {
+		"title": "Monetice su tienda con una solución integral",
+		"boxes": [
+			{
+				"icon": "centralized",
+				"title": "Una plataforma centralizada para la máxima eficiencia",
+				"par": "Gestione fácilmente los anuncios digitales en la tienda que respaldan su estrategia de medios minoristas con opciones de entrega flexibles, todo diseñado para generar ingresos manteniendo el control total."
+			},
+			{
+				"icon": "automation",
+				"title": "Usted establece las reglas y la automatización hace el resto",
+				"par": "Nuestro reproductor de medios inteligente automatiza la entrega de campañas utilizando criterios dinámicos como el clima o la ubicación, por lo que su mensaje siempre es oportuno y relevante."
+			},
+			{
+				"icon": "insights",
+				"title": "Mida el rendimiento con información práctica",
+				"par": "Realice un seguimiento de las métricas clave de la campaña, como el alcance y las impresiones, para comprender el rendimiento y optimizar las estrategias futuras."
+			}
+		]
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Planificación de campañas",
+			"title": "Herramientas de mensajería avanzadas que generan más ingresos",
+			"par": "Aproveche la disponibilidad del inventario en la tienda en tiempo real en toda su red de medios minoristas y reserve instantáneamente campañas endémicas y no endémicas programadas de forma flexible y entregadas dinámicamente.",
+			"cta": "Más información"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Gestión de contenido y red",
+			"title": "Ahorre tiempo automatizando la gestión de su red",
+			"par": "Confíe en los flujos de trabajo de campaña automatizados para reproducir el contenido correcto en el momento adecuado y obtenga una visibilidad completa del rendimiento de su red con informes de campaña detallados.",
+			"cta": "Más información"
+		},
+		"staticOperations": {
+			"overtitle": "Campañas estáticas",
+			"title": "Procesos optimizados para sus campañas de publicidad estática",
+			"par": "Simplifique sus operaciones con nuestras herramientas especializadas diseñadas para procesos publicitarios estáticos. No solo sincronizamos en tiempo real las órdenes de visualización relacionadas con sus campañas, sino también los niveles de stock y las comunicaciones con sus displays.",
+			"cta": "Más información"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Plataforma ssp programática global",
+			"title": "Genere nuevos ingresos programáticamente",
+			"par": "Complemente sus ventas directas con una herramienta programática en tiempo real que le permite automatizar sus ventas y acceder a compradores globales sin perder el control de lo que se aprueba.",
+			"cta": "Más información"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Mensajería de la tienda local",
+			"title": "Aumente la participación de la tienda local e impulse las ventas",
+			"par": "Capacite a los operadores de la tienda para crear y gestionar contenido digital personalizado que atraiga a los clientes, aumente el tráfico peatonal y se mantenga fiel a su marca y estrategia de medios minoristas. ¡Muestre surtidos regionales, promueva a los agricultores locales y adapte los mensajes para un toque local!",
+			"cta": "Más información"
+		}
+	},
+	"plans": {
+		"title": "Planes para las necesidades de toda red",
+		"boxes": [
+			{
+				"title": "Standard",
+				"description": "Optimice su negocio con un software automatizado para OOH."
+			},
+			{
+				"title": "Professional",
+				"description": "Monitoreo en tiempo real, mensajería personalizada e infinitas posibilidades de integración."
+			},
+			{
+				"title": "Enterprise",
+				"description": "Venda de manera más inteligente y optimice el rendimiento con herramientas inteligentes para OOH."
+			}
+		],
+		"cta": "Comparar planes"
+	},
+	"shin": {
+		"title": "Descubra lo que podemos hacer por su red",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"cta": "Reservar una llamada"
+	},
+	"bookACall": {
+		"title": "Book a call"
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Digital Signage in Healthcare",
+		"description": "Increase patient engagement and improve the healthcare experience with information and ads delivered on a secure digital signage platform."
+	},
+	"cta": {
+		"discoverContentNetworkManagement": "Discover our content and network management solutions",
+		"discoverLocalSignageMessaging": "Learn more about local signage messaging",
+		"discoverCampaignPlanning": "Empower your team with Campaign Planning",
+		"discoverGlobalProgrammaticSSP": "Sell programmatically with our Programmatic SSP"
+	},
+	"Hero": {
+		"TitlePart1": "Deliver a more engaging",
+		"TitlePart2": "Healthcare",
+		"TitlePart3": "Experience",
+		"Blurb": "Increase patient engagement and improve the healthcare experience with information and ads delivered on a secure digital signage Platform.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Informed patients are empowered patients",
+			"Paragraph": "Improve communication between patients and health professionals by displaying relevant, targeted and informative content in every location."
+		},
+		"Pane2": {
+			"Title": "All your screens in one place",
+			"Paragraph": "From information kiosks to waiting room screens and everything in between, efficiently manage every screen in every practice from one centralized platform that easily scales as your digital signage network grows."
+		},
+		"Pane3": {
+			"Title": "Relevant messaging for each audience",
+			"Paragraph": "High-quality, relevant content puts patients at ease and helps healthcare businesses run smoothly. Empower local teams to create brand-consistent messaging like hours of operation, wait times and business policies, no technical ability required."
+		},
+		"Pane4": {
+			"Title": "Flexible Ad Sales that drive revenue",
+			"Paragraph": "Generate more revenue with advertising delivered across your signage network, with both direct and programmatic ad sales supported."
+		}
+	},
+	"Quote": {
+		"Quote": "Broadsign allows us to easily manage content on thousands of screens across the country from one single location.",
+		"Signature": "Health Media Network"
+	},
+	"CustomersTitle": "Trusted by leading Healthcare Networks",
+	"Partners": {
+		"Title": "Partnerships for great content",
+		"Tagline": "Create your own content, work with partners, or enhance your screens by working with our digital signage content, wayfinding and audience analytics partners."
+	},
+	"Shin": {
+		"Title": "How can your healthcare digital signage network benefit from the Broadsign Platform?",
+		"cta": "Request a personalized demo to find out"
+	},
+	"VideoCtaText": "Explore Broadsign Publish"
+}

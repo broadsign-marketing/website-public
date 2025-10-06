@@ -1,0 +1,60 @@
+@import "../base/dependencies";
+
+.Orbit {
+	.orbit_ribbon {
+		height: 400px;
+		margin: 0 auto;
+		opacity: 0;
+		padding: 20px 0;
+		user-select: none;
+	}
+
+	.orbit_item_grid {
+		left: 0;
+		max-width: none;
+		position: relative;
+		top: 0;
+		width: auto;
+		gap: 32px;
+	}
+
+	&.loaded {
+		.orbit_ribbon {
+			opacity: 1;
+			transition: opacity 1s ease;
+		}
+
+		.orbit_item_grid {
+			position: absolute;
+		}
+	}
+
+	.scroll_ctas {
+		margin-top: 32px;
+		text-align: center;
+
+		button {
+			height: 45px;
+			width: 45px;
+		}
+
+		.hover {
+			object-fit: contain;
+			opacity: 0;
+			transition: opacity 0.3s;
+		}
+
+		.prev {
+			img {
+				transform: rotate(180deg);
+			}
+		}
+
+		button:hover {
+
+			.hover {
+				opacity: 1;
+			}
+		}
+	}
+}

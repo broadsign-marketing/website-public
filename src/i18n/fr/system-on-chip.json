@@ -1,0 +1,48 @@
+{
+	"seo": {
+		"title": "Système sur puce - La gestion des enseignes signée Broadsign",
+		"description": "La principale solution mondiale d'affichage extérieur numérique, conçue sur mesure pour les écrans intelligents"
+	},
+	"hero": {
+		"nowAvailable": "Maintenant disponible",
+		"title": "Broadsign pour Système sur puce",
+		"tagline": "La principale solution mondiale d'affichage extérieur numérique, conçue sur mesure pour les écrans intelligents"
+	},
+	"features": {
+		"overtitle": "Vos écrans intelligents peuvent en faire plus",
+		"title": "Augmentez les fonctionnalités de votre réseau d'affichage numérique et accueillez le contenu publicitaire",
+		"list": [
+			{
+				"id": "management",
+				"title": "Fonctionnalités avancées de gestion de contenu",
+				"description": "Profitez des fonctionnalités de pointe de Broadsign en matière de système de gestion de contenu, comme la création de listes de lecture intelligentes, les rapports de preuve de diffusion et la diffusion dynamique des campagnes."
+			},
+			{
+				"id": "network",
+				"title": "Simplification de votre réseau",
+				"description": "Gérez l'ensemble de vos écrans de manière centralisée et gagnez du temps en simplifiant vos tâches de gestion de l'affichage extérieur numérique."
+			},
+			{
+				"id": "revenue",
+				"title": "Des revenus supplémentaires",
+				"description": "Générez des revenus publicitaires en intégrant vos enseignes à notre plateforme programmatique côté vente et à notre solution de gestion de campagnes d'affichage extérieur."
+			},
+			{
+				"id": "growth",
+				"title": "La croissance qui vous convient",
+				"description": "Améliorez l'efficacité de vos activités d'affichage extérieur grâce à nos flux de production automatisés qui aident de petites équipes à gérer de vastes réseaux."
+			}
+		]
+	},
+	"verticals": {
+		"par": "Notre solution pour système sur puce est un excellent moyen de rentabiliser, de gérer et de faire croître votre réseau d'écrans intelligents, peu importe leur emplacement.",
+		"list": ["Vente de détail", "Alimentation", "Cinéma", "Hôtellerie", "Aéroports", "Transports en commun", "Bornes de recharge", "Soins de santé"]
+	},
+	"supportedOn": {
+		"p1": "Broadsign pour système sur puce",
+		"p2": "est compatible avec"
+	},
+	"formHeader": "Contactez-nous dès aujourd'hui pour découvrir comment Broadsign peut vous aider à tirer davantage de vos écrans intelligents.",
+	"furtherReading": "Pour un aperçu plus approfondi de notre solution pour système sur puce, consultez notre dernier article de blog!",
+	"thankYouSoC": "Merci de l'intérêt que vous portez à notre solution pour système sur puce!"
+}

@@ -1,0 +1,115 @@
+{
+	"seo": {
+		"title": "Broadsign - Die Plattform für Out-of-Home",
+		"description": "Eine End-to-End-Softwarelösung für Medieneigentümer und -einkäufer zur ganzheitlichen Planung, Verwaltung und Bereitstellung von Out-of-Home-Medien."
+	},
+	"hero": {
+		"title": ["Die", "Plattform", "für", "out-of-home"],
+		"par": "Wo Medienbesitzer und Käufer zusammenkommen, um Out-of-Home-Werbung zu planen, zu verwalten und abzuwickeln.",
+		"ctaContact": "Kontaktieren Sie uns",
+		"ctaPlans": "Schauen Sie sich unsere Angebote an"
+	},
+	"branches": {
+		"overtitle": "Bringen Sie Ihre Welt zum Leuchten",
+		"title": "Lösungen für alle Ihre OOH-Anforderungen",
+		"mediaOwners": {
+			"overtitle": "Für Medieneigentümer",
+			"title": "Vermarktung Ihres Inventars, Verwaltung Ihres OOH-Netzwerks und Steigerung Ihrer Rentabilität",
+			"cta": "Mehr Erfahren"
+		},
+		"brandsAgencies": {
+			"overtitle": "Für Agenturen und Marken",
+			"title": "Erstellung und Ausführung kontextbezogener und zielgerichteter pDOOH-Kampagnen",
+			"cta": "Mehr Erfahren"
+		}
+	},
+	"clients": {
+		"title": "Vernetzung von Einkäufern und Anbietern von OOH-Werbung"
+	},
+	"inventoryRotate": {
+		"title": "Schnellere und gezieltere Umsetzung von Kampagnen mit unseren sorgfältig zusammengestellten Inventar-Paketen",
+		"blurb": "Sie erhalten Zugriff auf benutzerdefinierte Zielgruppen und Veranstaltungsorte sowie kontextbezogene Standortpakete und können hierdurch die jeweiligen Parameter ganz einfach an die konkreten Anforderungen Ihrer Werbekampagne anpassen.",
+		"cta": "Erkunden Sie unseren Inventar-Marketplace",
+		"list": [
+			[
+				{ "id": "retail", "type": "vertical", "label": "Einzelhandel" },
+				{ "id": "vancouver", "type": "city", "label": "Vancouver" },
+				{ "id": "finances", "type": "vertical", "label": "Finanzdienstleistungen" }
+			],
+			[
+				{ "id": "new_york_city", "type": "city", "label": "New York" },
+				{ "id": "beauty_wellness", "type": "vertical", "label": "Schönheit und Wellness" },
+				{ "id": "los_angeles", "type": "city", "label": "Los Angeles" }
+			]
+		]
+	},
+	"map": {
+		"overtitle": "Die angesehenste OOH-Plattform weltweit",
+		"title": "Unsere globale Reichweite",
+
+		"stats": [">2 Mio. Anzeigetafeln", "107 Länder", ">48 Mrd. geschaltete Anzeigen/Monat", ">190 Mrd. Impressionen/Monat"]
+	},
+	"panelMediaKit": {
+		"title": "Schauen Sie sich unser globales Inventar an",
+		"cta": "Laden Sie sich unser Media Kit herunter",
+		"thankYou": {
+			"title": "Danke!",
+			"par": "Das Medienkit wurde nicht in einem neuen Fenster geöffnet?",
+			"cta": "Klicken Sie hier"
+		}
+	},
+	"quotesTitle": "Verlassen Sie sich nicht nur auf unser Wort",
+	"quotes": [
+		{
+			"id": "imedia",
+			"text": "„Als unser Inventar noch über eine Tabellenkalkulation verwaltet wurde, mussten wir Kampagnen ständig manuell neu zusammenstellen, um unser digitales Inventar zu maximieren. Mit Broadsign läuft alles automatisch. Wir fügen die Bildschirme und Kampagnenparameter hinzu, und sofort wird alles auf Knopfdruck für uns organisiert.“",
+			"name": "Martyn Perrie",
+			"title": "Leiter Digitale Bereitstellung",
+			"company": "i-Media"
+		},
+		{
+			"id": "epa_media",
+			"text": "„Wir haben uns für Broadsign entschieden, weil das Unternehmen ständig neue Funktionen entwickelt und mit der Branche Schritt hält. Außerdem verfügte Broadsign über die von uns benötigten Funktionen, wie z. B. Content-Trennung, Ausschluss von Kategorien, visuelle Verfügbarkeitsprüfung, Berichterstellung und Targeting.“",
+			"name": "Stefanie Zeiler",
+			"title": "Digitale Medien & Grafikdesign",
+			"company": "EPAMEDIA"
+		},
+		{
+			"id": "hp",
+			"text": "„Programmatische DOOH-Aktivierungen eignen sich perfekt für unseren Markt, da wir so unsere Kernzielgruppe in unmittelbarer Nähe strategischer Einzelhandelsstandorte erreichen können.“",
+			"name": "Fabiana Varriale",
+			"title": "EMEA Programmatic Managerin",
+			"company": "HP"
+		},
+		{
+			"id": "precis",
+			"text": "„Broadsign stand uns während der Kampagne jederzeit mit Empfehlungen und Support zur Seite. Die beeindruckenden Ergebnisse der Brand-Lift-Studie belegen den Erfolg der Kampagne, und wir würden nicht zögern, die Dienste von Broadsign in Zukunft erneut in Anspruch zu nehmen.”",
+			"name": "Sebastian Larsson",
+			"title": "Programmatic Spezialist",
+			"company": "Precis Digital"
+		},
+		{
+			"id": "corus",
+			"text": "„Broadsign hat uns in entscheidendem Maße dabei geholfen, die Wirkung unserer OLV- und TV-Werbung zu verstärken, indem wir Zielgruppen mit ähnlichen Botschaften in der realen Welt erreichen konnten. Die Plattform hat es uns leicht gemacht, zielgerichtete Anzeigen zu schalten, die die Zielgruppen zum Handeln angeregt haben.“",
+			"name": "Marita Olcese",
+			"title": "Mediaplanungsmanagerin",
+			"company": "Corus Entertainment Inc."
+		},
+		{
+			"id": "iris",
+			"text": "„Durch die Ausweitung der Reichweite unserer Videoanzeigen auf die reale Welt hat Broadsign es uns ermöglicht, die Wirkungskraft der programmatischen DOOH-Werbung zu nutzen, um die wichtigsten Marken-KPIs zu steigern. Dank der Fähigkeit der Plattform, einzigartige, kontextbezogene Anzeigen für die Zielgruppe unseres Kunden zu planen und bereitzustellen, war es ein Leichtes, die Markenbotschaft nahtlos sowohl über digitale und als auch über physische Kanäle zu vermitteln.",
+			"name": "Keri thomas",
+			"title": "Leiterin Performance Media",
+			"company": "Iris Worldwide"
+		}
+	],
+	"shin": {
+		"title": "Entdecken Sie, was wir für OOH tun können",
+		"par": "Kontaktieren Sie uns, und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Teilen Sie uns dabei bitte mit, ob Sie ggf. Fragen haben, die Sie gerne besprechen möchten.",
+		"cta": "Kontaktieren Sie uns"
+	},
+	"getInTouch": "Kontaktieren Sie uns",
+	"campaignsLaunchedWithBroadsign": "Mit Broadsign gestartete Kampagnen",
+	"learnMore": "Mehr Erfahren",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf"
+}

@@ -1,0 +1,156 @@
+{
+	"seo": {
+		"title": "Declaración de sostenibilidad",
+		"description": "En Broadsign, sentimos que tenemos una obligación con nuestros empleados, clientes, comunidades, inversores y el medioambiente para manejar nuestro negocio de manera sostenible. Este compromiso se construye sobre nuestros cinco valores corporativos, los cuales guían nuestras acciones:"
+	},
+	"title": "Sostenibilidad en Broadsign",
+	"content": [
+		{
+			"type": "p",
+			"text": "En Broadsign, sentimos que tenemos una obligación con nuestros empleados, clientes, comunidades, inversores y el medioambiente para manejar nuestro negocio de manera sostenible. Este compromiso se construye sobre nuestros cinco valores corporativos, los cuales guían nuestras acciones:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Hacemos lo que decimos",
+				"Hacemos lo correcto",
+				"Hacemos que sucedan cosas grandiosas",
+				"Tratamos a cada persona con dignidad y respeto",
+				"Empoderamos"
+			]
+		},
+		{
+			"type": "p",
+			"text": "Manejamos nuestro negocio, nuestras actividades y nuestra empresa de forma que todas las personas puedan darse cuenta de su potencial y mejorar su calidad de vida mientras protegen y mejoran el capital natural de la Tierra. Esta ambición se lleva a cabo en nuestros propósitos mediante nuestros objetivos, metas e indicadores de sostenibilidad que incluyen, entre otros:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Crear el ambiente laboral más saludable, colaborativo e innovativo posible.",
+				"Integrar consideraciones sostenibles en todas las decisiones de nuestro negocio, en particular al generar ganancias de manera responsable.",
+				"Minimizar la huella de carbono en todas las actividades de oficina, viajes y transporte.",
+				"Permitir que nuestros clientes sean más sostenibles mediante el uso de nuestros productos.",
+				"Medir y comunicar nuestro progreso a todas las partes interesadas, lo que incluye a nuestra junta directiva, los empleados y clientes para generar responsabilidad y alentar prácticas sostenibles dentro de nuestro ecosistema."
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Disminución"
+		},
+		{
+			"type": "h3",
+
+			"text": "Viajes y reuniones"
+		},
+		{
+			"type": "p",
+			"text": "Las emisiones de carbono de Broadsign derivan considerablemente de viajes de negocios. Para reducir el impacto medioambiental que generamos, nuestra política de viajes contiene varias medidas para reducir la cantidad de viajes que hacemos por cada dólar ganado y normas para mejorar la intensidad del resto del viaje. Estos son algunos ejemplos:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Evitar viajes que generen carbono a menos que se consideren absolutamente necesarios para el negocio. ",
+				"Apoyar a nuestros empleados para que reduzcan la huella de carbono de sus viajes diarios al trabajo mediante planes de trabajo híbrido con acceso directo a transporte público y oficinas ubicadas en lugares accesibles.",
+				"Minimizar las emisiones por pasajero-milla mediante elecciones inteligentes de modos de transporte y tiempo de viaje para así reunirse con la mayor cantidad de clientes posibles por viaje."
+			]
+		},
+		{
+			"type": "h3",
+			"text": "Oficina, herramientas y consumo de recursos"
+		},
+		{
+			"type": "p",
+			"text": "Reducir, reutilizar o reciclar papel, insumos y desechos de oficina, como también reducir el consumo de energía al máximo. Cuando tenemos la oportunidad de hacerlo, compramos herramientas eficientes y nos asociamos con terceros eficientes y conscientes sobre el uso de energía, en especial los centros de datos."
+		},
+		{
+			"type": "h3",
+			"text": "Prácticas laborales"
+		},
+		{
+			"type": "p",
+			"text": "Continuaremos con el desarrollo de productos digitales diseñados para mejorar las iniciativas de sostenibilidad tanto de los empleados como de los clientes al seguir los <a href='https://principles.green/' target='_blank'>principios de ingeniería de software sostenible</a> al máximo de nuestras capacidades durante el desarrollo del software de Broadsign:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"<a href='https://principles.green/principles/carbon/' target='_blank'>Carbono</a>: Generar aplicaciones que sean eficientes en el uso de carbono.",
+				"<a href='https://principles.green/principles/electricity/' target='_blank'>Electricidad</a>: Generar aplicaciones que sean eficientes en el uso de la energía.",
+				"<a href='https://principles.green/principles/carbon-intensity/' target='_blank'>Intensidad del carbono</a>: Consumir electricidad con la intensidad de carbono más baja posible.",
+				"<a href='https://principles.green/principles/embodied-carbon/' target='_blank'>Carbono incorporado</a>: Generar aplicaciones que sean eficientes en el uso del hardware.",
+				"<a href='https://principles.green/principles/energy-proportionality/' target='_blank'>Proporcionalidad energética</a>: Maximizar la eficiencia energética del hardware.",
+				"<a href='https://principles.green/principles/networking/' target='_blank'>Uso de redes</a>: Reducir el monto y distancia de los datos que recorren la red.",
+				"<a href='https://principles.green/principles/measurement/' target='_blank'>Medición y optimización</a>: Enfocarse en las optimizaciones paso a paso que mejoran la eficiencia general del carbono."
+			]
+		},
+		{
+			"type": "p",
+			"text": "Nos asociamos de manera activa con nuestros proveedores para gestionar las operaciones de manera sostenible, reducir los desechos y comprometernos a alimentar la entrega digital de nuestra plataforma con energía renovable y productos reciclados y reciclables."
+		},
+		{
+			"type": "p",
+			"text": "Los productos de Broadsign suelen usarse para facilitar la publicidad en la vía pública, lo cual puede ser una fuente de contaminación lumínica. Para reducir el impacto de la contaminación lumínica, Broadsign hace lo siguiente:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Automatiza la configuración para permitir que los clientes bajen el brillo de las pantallas de acuerdo con las condiciones de luz ambiental o la hora.",
+				"Trabaja con productores que apoyen el uso de pantallas y anuncios que generen la mínima cantidad de contaminación lumínica posible."
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Compensación"
+		},
+		{
+			"type": "p",
+			"text": "Reconocemos que nuestros esfuerzos para reducir la emisión irán tan lejos como para alcanzar nuestro objetivo de cero neto en el mercado actual. Como tal, por cada emisión que no podamos reducir, Broadsign se compromete a compensar el monto de carbono equivalente comprando créditos certificados de carbono en el mercado abierto. Al comprar dichos créditos, nos atenemos a los siguientes principios:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Comprar y retirar créditos para proyectos que capturan y secuestran el carbono atmosférico.",
+				"Adquirir solo los créditos auditados y verificados por organismos industriales reconocidos como el patrón oro.",
+				"Reducir el número de créditos por cada dólar ganado que compramos por año al incrementar nuestros esfuerzos de reducción en el tiempo."
+			]
+		},
+		{
+			"type": "p",
+			"text": "Este año, nos asociamos con <a href='https://klimate.co' target='_blank'>Klimate.co</a> para conseguir créditos de eliminación de carbono de proyectos de ingeniería forestal, biochar y meteorización mejorada."
+		},
+		{
+			"type": "h2",
+			"text": "Medición y responsabilidad"
+		},
+		{
+			"type": "p",
+			"text": "Como empresa, Broadsign está comprometida a entender nuestra huella ecológica al llevar a cabo las siguientes actividades de medición:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Recopilar los datos de emisiones de carbono cada trimestre como parte de nuestro proceso de informe económico e informar del progreso anualmente.",
+				"Pedir a terceros que revisen y aseguren nuestros informes de manera periódica.",
+				"Pedir un informe de emisiones a todos nuestros proveedores de bienes y servicios.",
+				"Utilizar parámetros de referencia aceptados por la industria para aquellos proveedores que no pueden dar cifras de emisiones y para quienes no tuvieran otra alternativa apropiada.",
+				"Compartir de manera pública el informe de emisiones con nuestros clientes y en nuestro sitio web.",
+				"Hacer un seguimiento al ciclo de vida completo de nuestra basura electrónica, desde su adquisición hasta su desecho."
+			]
+		},
+		{
+			"type": "p",
+			"text": "Nos comprometemos a informar los resultados de nuestro programa de sostenibilidad a la junta directiva, los empleados, la gerencia ejecutiva y otras partes interesadas, al menos una vez por año fiscal."
+		},
+		{
+			"type": "h2",
+			"text": "Comunidad"
+		},
+		{
+			"type": "p",
+			"text": "Nuestro comité de sostenibilidad se compone de personas de todas las jerarquías y departamentos. La educación y el compromiso de los empleados son componentes fundamentales para alcanzar nuestros compromisos de sostenibilidad con éxito. Llevamos a cabo sesiones informativas y grupos laborales para educar a nuestros empleados y evolucionar en nuestras prácticas. Se alienta a los empleados a realizar trabajo voluntario con sus comunidades locales u organizaciones ambientales y hacer donaciones para compensar las emisiones de carbono de sus actividades. Se le ofrece a cada empleado dos días de voluntariado al año."
+		},
+		{
+			"type": "p",
+			"text": "Además, para colaborar con la promoción de prácticas sostenibles dentro de nuestra industria, incluimos una Declaración de sostenibilidad en todas nuestras propuestas para clientes y contratos de proveedores."
+		}
+	]
+}

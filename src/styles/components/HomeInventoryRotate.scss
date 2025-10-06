@@ -1,0 +1,169 @@
+@import "../base/dependencies";
+
+
+.Home_Inventory_Rotate {
+	margin-top: 25vw;
+	min-height: 300px;
+
+	.inventory_carousel {
+		aspect-ratio: 1;
+		position: relative;
+		width: 100%;
+	}
+
+	.card_wrapper {
+		aspect-ratio: 1;
+		left: 0;
+		margin: 0 auto;
+		max-width: 500px;
+		opacity: 0;
+		position: absolute;
+		top: -12%;
+		transform: translateY(-6%);
+		transition: opacity 0.4s ease 0.3s;
+		width: 100%;
+		z-index: 1;
+
+		&.active {
+			opacity: 1;
+			transition: opacity 0.6s ease 0s;
+			z-index: 2;
+		}
+	}
+
+	.card {
+		align-items: center;
+		aspect-ratio: 4/3;
+		background-color: #FFF;
+		border-radius: 12px;
+		box-shadow: 0px 0px 20px rgba(#0F3892, 0.5);
+		display: flex;
+		flex-flow: column nowrap;
+		opacity: 0;
+		overflow: hidden;
+		position: absolute;
+		transition-duration: 0.6s;
+		transition-property: box-shadow, left, top, opacity, transform;
+		transition-timing-function: ease;
+		width: 100%;
+
+		&.type_city {
+			label {
+				bottom: 1em;
+				left: 50%;
+				position: absolute;
+				transform: translateX(-50%);
+			}
+		}
+
+		&.big {
+			left: 50%;
+			opacity: 1;
+			top: 0%;
+			transform: translateX(-50%) scale(0.9);
+			z-index: 4;
+		}
+
+		&.medium {
+			left: 35%;
+			opacity: 1;
+			top: 30%;
+			transform: translateX(-50%) scale(0.8);
+			z-index: 3;
+		}
+
+		&.small {
+			left: 70%;
+			opacity: 1;
+			top: 51%;
+			transform: translateX(-50%) scale(0.5);
+			z-index: 2;
+		}
+
+		label {
+			font-size: min(5vw, 30px);
+		}
+	}
+}
+
+
+@media (min-width: $sm) {
+	.Home_Inventory_Rotate {
+		margin-top: 0;
+
+		.inventory_carousel {
+			aspect-ratio: 2/1;
+		}
+
+		.card_wrapper {
+			aspect-ratio: 2/1;
+			left: -10%;
+		}
+
+		.card {
+			aspect-ratio: 5/4;
+			max-width: 30vw;
+			transform: none;
+			width: 275px;
+
+			&.big {
+				left: 0%;
+				transform: scale(1);
+			}
+
+			&.medium {
+				transform: scale(0.8);
+			}
+
+			&.small {
+				left: 45%;
+				top: 5%;
+				transform: scale(0.6);
+			}
+		}
+	}
+}
+
+@media (min-width: $md) {
+	.Home_Inventory_Rotate {
+		.card_wrapper {
+			left: -5%;
+			top: -20%;
+		}
+
+		.card {
+			&.medium {
+				left: 25%;
+			}
+		}
+	}
+}
+
+@media (min-width: $lg) {
+	.Home_Inventory_Rotate {
+		.card_wrapper {
+			left: 0%;
+		}
+
+		.card {
+			aspect-ratio: 4/3;
+
+			&.big {
+				left: -2%;
+			}
+
+			&.medium {
+				transform: scale(0.85);
+			}
+
+			&.small {
+				left: 50%;
+				transform: scale(0.65);
+			}
+		}
+	}
+}
+
+@media (min-width: $xl) {
+	.Home_Inventory_Rotate {}
+}

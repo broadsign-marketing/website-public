@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Merci!",
+		"description": "",
+		"robots": "noindex"
+	},
+	"default": {
+		"title": "Merci de votre intérêt pour Broadsign!",
+		"blurb": "Un membre de notre équipe vous rejoindra sous peu pour planifier un rendez-vous.",
+		"relatedTitle": "En attendant, jetez un oeil aux ressources ci-dessous pour plus d'informations sur l'affichage numérique.",
+		"related": [
+			{
+				"id": "cook_it",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "fidelitix",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "australia",
+				"type": "blog",
+				"cta": "Read more"
+			}
+		]
+	},
+	"request_a_quote": {
+		"title": "Merci de votre intérêt pour Broadsign!",
+		"blurb": "Un membre de notre équipe vous rejoindra sous peu pour planifier un rendez-vous.",
+		"relatedTitle": "En attendant, jetez un oeil aux ressources ci-dessous pour plus d'informations sur l'affichage numérique.",
+		"related": [
+			{
+				"id": "cook_it",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "fidelitix",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "australia",
+				"type": "blog",
+				"cta": "Read more"
+			}
+		]
+	}
+}

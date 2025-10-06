@@ -1,0 +1,76 @@
+{
+	"sections": [
+		{
+			"id": "products",
+			"label": "产品",
+			"links": [
+				{
+					"label": "播尚Broadsign 平台",
+					"to": "broadsignPlatform"
+				},
+				{
+					"label": "广告计划 & 广告服务器",
+					"to": "campaignPlanning"
+				},
+				{
+					"label": "媒体 & 网络管理",
+					"to": "contentNetworkManagement"
+				},
+				{
+					"label": "静态广告",
+					"to": "staticOperations"
+				},
+				{
+					"label": "全球程序化SSP平台",
+					"to": "globalProgrammaticSSP"
+				},
+				{
+					"label": "本地信息管理",
+					"to": "localSignageMessaging"
+				},
+				{
+					"label": "我们的方案",
+					"to": "plans"
+				}
+			]
+		},
+
+		{
+			"id": "company",
+			"label": "公司 & 新闻",
+			"links": [
+				{
+					"label": "我们是谁",
+					"to": "whoWeAre"
+				},
+				{
+					"label": "文档",
+					"to": "documentation"
+				},
+				{
+					"label": "播尚Broadsign社区",
+					"to": "https://broadsign.force.com/"
+				},
+				{
+					"label": "Broadsign 服务状态",
+					"to": "https://status.broadsign.com/"
+				}
+			]
+		}
+	],
+	"social": {
+		"facebook": {
+			"title": "关注我们的Facebook！"
+		},
+		"linkedin": {
+			"title": "关注我们的LinkedIn！"
+		},
+		"x": {
+			"title": "关注我们的X！"
+		},
+		"youtube": {
+			"title": "观看我们的Youtube频道！"
+		}
+	},
+	"cookiePreferences": "Cookie 偏好设置"
+}

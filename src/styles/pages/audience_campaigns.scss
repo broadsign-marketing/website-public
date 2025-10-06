@@ -1,0 +1,132 @@
+@import "../base/dependencies";
+
+#audience_campaigns {
+	h1 {
+		font-size: min(10vw, 48px);
+	}
+
+	.faq {
+		.faq_collapse:last-of-type {
+			border-bottom: none;
+		}
+	}
+
+	.featured_post {
+		h3 {
+			max-width: 24ch;
+		}
+	}
+
+	.post_card {
+		.post_thumbnail {
+			transition: box-shadow 0.3s ease;
+		}
+
+		&:hover {
+			.post_thumbnail {
+				box-shadow: 6px 6px 24px rgba($reflex, 0.3);
+			}
+
+			.link_cerulean_arrow {
+				&:after {
+					@include animateArrow;
+				}
+			}
+		}
+	}
+
+	.aquarius_shin {
+		h2 {
+			max-width: 40ch;
+		}
+	}
+}
+
+html[lang="fr"] {
+	#audience_campaigns {
+		h1 {
+			max-width: 16ch;
+		}
+
+		.aquarius_shin h2 {
+			max-width: 38ch;
+		}
+	}
+}
+
+html[lang="es"] {
+	#audience_campaigns {
+		.aquarius_shin {
+			h2 {
+				max-width: 38ch;
+			}
+
+			.inner p {
+				max-width: 500px;
+			}
+		}
+	}
+}
+
+html[lang="de"] {
+	#audience_campaigns {
+		h1 {
+			font-size: min(9vw, 48px);
+			max-width: 16ch;
+		}
+
+		.hero p {
+			max-width: 48ch;
+		}
+
+		.aquarius_shin {
+			h2 {
+				max-width: 34ch;
+			}
+
+			.inner p {
+				max-width: 500px;
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#audience_campaigns {
+		h1 {
+			font-size: min(5.2vw, 48px);
+		}
+
+		.hero {
+			p {
+				max-width: 44ch;
+			}
+		}
+
+		.featured_post {
+			.tagline {
+				padding-right: 16px;
+			}
+		}
+	}
+
+	html[lang="de"] {
+		#audience_campaigns {
+			h1 {
+				font-size: min(4.6vw, 48px);
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#audience_campaigns {}
+}
+
+@media (min-width:$lg) {
+	#audience_campaigns {}
+}
+
+@media (min-width:$xl) {
+	#audience_campaigns {}
+}

@@ -1,0 +1,55 @@
+{
+	"seo": {
+		"title": "Digital Signage Training",
+		"description": "Broadsigners take good service seriously and that's why our digital signage services are the best. Receive simple training, or let Broadsign take the wheel."
+	},
+	"Hero": {
+		"Title": "Broadsign Training",
+		"Paragraph1": "Join our interactive training sessions to help your network maximize efficiency and revenue.",
+		"Paragraph2": "Benefit from real-world examples, discuss best practices and obtain industry updates from our experts.",
+		"Paragraph3": "Training sessions are conducted by webinar but can also be arranged onsite at your office or Broadsign's headquarters in Montreal."
+	},
+	"trainings": {
+		"broadsignTraining": {
+			"Title": "Broadsign Training",
+			"Paragraph": "Our Solutions Specialists explain the Broadsign Control (previously Core) digital signage CMS, from network build out, scheduling and advanced configurations to monitoring and reporting functions."
+		},
+		"expertTraining": {
+			"Title": "Broadsign Expert Training",
+			"Paragraph": "Geared to network operators who have completed Broadsign Control Training and possess significant experience using Broadsign Software, Broadsign Expert Training combines Advanced Network Setup, Advanced Scheduling and Dynamic Solutions with responses tailored to individual network needs."
+		},
+		"customizedTraining": {
+			"Title": "Customized Training Sessions",
+			"Paragraph": "Share your network and campaign goals so we can provide the insight and tools to make them a reality."
+		}
+	},
+	"quotes": {
+		"quote1": {
+			"Paragraph1": "I just wanted to thank you for your hospitality and the in-depth training last week. Your extensive presentation was both engaging and to-the-point, and we couldn't imagine taking the class remotely.",
+			"Paragraph2": "Being on-site allowed us to better understand how everything functioned as a whole and work out our concerns for the onset of our endeavor.",
+			"User": "- Gage Burke, Graphic Designer",
+			"Company": "Icon Marketing Communications, Inc."
+		},
+		"quote2": {
+			"Paragraph": "We attended the Broadsign Expert Training session in Hamburg and found it to be extremely useful for our team. The opportunity to experience training from the people that designed the product, as well as meeting other clients and workshopping our unique challenges was extremely worthwhile. I would recommend the training to all Broadsign clients.",
+			"User": "- John Purcell, Commercial Director – Operations & Technology",
+			"Company": "oOh! Media"
+		}
+	},
+	"trainingVideos": {
+		"Title": "Training videos",
+		"trainingVideo1": {
+			"Title": "Introduction and Installation",
+			"Paragraph": "Covered in this video: Broadsign's training video playlists, Broadsign Control and installing Broadsign Administrator and Broadsign Player."
+		},
+		"trainingVideo2": {
+			"Title": "Quick Start Tutorial",
+			"Paragraph": "Covered in this video: uploading ad copy, adding a display unit, booking a campaign and registering a player."
+		},
+		"trainingVideo3": {
+			"Title": "Loop Policies",
+			"Paragraph": "Covered in this video: loop policies, adding a folder, adding a loop policy and editing loop policy properties."
+		},
+		"Allvideos": "See all the videos on Youtube"
+	}
+}

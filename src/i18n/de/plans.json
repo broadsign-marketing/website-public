@@ -1,0 +1,63 @@
+{
+	"seo": {
+		"title": "Unsere Angebote",
+		"description": "Angebote für die Bedürfnisse jedes Netzwerks"
+	},
+	"hero": {
+		"title": "Unsere Angebote"
+	},
+	"forMediaOwners": "Für Medieninhaber",
+	"forAgencies": "Für Agenturen & Marken",
+	"agenciesTab": {
+		"title": "Starten Sie leistungsstarke DOOH-Kampagnen",
+		"par": "Sprechen Sie mit unseren Medienexperten, die Ihnen gerne dabei behilflich sind, wirkungsvolle DOOH-Kampagnenstrategien zu entwickeln und umzusetzen.",
+		"cta": "Setzen Sie sich mit uns in Verbindung"
+	},
+	"standard": "Standard",
+	"professional": "Professional",
+	"enterprise": "Enterprise",
+	"content_network_management": "Content- und Netzwerkmanagement",
+	"digital_media_management": "Verwaltung digitaler Medien",
+	"automated_campaign_scheduling": "Automatisierte Kampagnenplanung",
+	"network_player_management": "Netzwerk- und Player-Verwaltung",
+	"campaign_proof_of_play_reporting": "Proof-of-Play-Berichterstattung für Kampagnen",
+	"support_for_third_party_players": "Unterstützung für Player von Drittanbietern",
+	"api_access": "API-Zugriff",
+	"live_digital_screen_management": "Verwaltung digitaler Bildschirme in Echtzeit",
+	"on_demand_player_polling": "On-demand Player-Abfrage",
+	"remote_screenshot_capture": "Erfassung von Screenshots aus der Ferne",
+	"player_monitoring_center": "Player-Überwachungszentrum",
+	"cloud_based_content_synchronization": "Cloud-basierte Synchronisierung von Inhalten",
+	"campaign_planning_ad_serving": "Kampagnenplanung und Anzeigenschaltung",
+	"real_time_inventory_availability": "Inventarverfügbarkeit in Echtzeit",
+	"proposal_management": "ANGEBOTSMANAGEMENT",
+	"guaranteed_campaigns": "Garantierte Kampagnen",
+	"frequency": "Frequenz",
+	"impressions": "Impressions",
+	"share_of_voice": "Share-of-Voice",
+	"takeovers": "Takeovers",
+	"budget": "Budget",
+	"audience_campaigns": "Zielgruppenkampagnen",
+	"contextual_targeting": "Kontextbezogenes Targeting (Demographie, Anziehungspunkte, Impressionen)",
+	"moment_based_triggers": "Momentbasierter Trigger (Wetter, Finanzdaten)",
+	"optimization": "Optimierung:",
+	"campaign_reallocation": "Umverteilung von Kampagnen",
+	"campaign_rebalancing": "Neuausrichtung von Kampagnen",
+	"dynamic_screen_selection": "Dynamische Bildschirmauswahl",
+	"static_campaigns": "Statische Operations (kommen in Kürze)",
+	"asset_management": "Asset Management",
+	"campaign_management": "Kampagnenmanagement",
+	"charting": "Diagrammerstellung",
+	"operations": "Operations",
+	"programmatic_ssp": "Programmatische SSP",
+	"open_exchange_transactions": "Transaktionen auf offenen Marktplätzen",
+	"private_marketplace_programmatic_transactions": "Programmatische Transaktionen auf privaten Marktplätzen",
+	"local_signage_essaging": "Lokale Signage-Nachrichten",
+	"branded_messaging_templates": "Vorlagen für Markenbotschaften",
+	"shin": {
+		"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+		"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaRequestAQuote": "Angebot anfordern"
+	}
+}

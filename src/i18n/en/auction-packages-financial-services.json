@@ -1,0 +1,99 @@
+{
+	"seo": {
+		"title": "Financial Services",
+		"description": "Deliver contextually relevant DOOH ads at moments when consumers are likely to be thinking about payment, like promoting credit card cash-back rewards at the gas pump or checkout counter."
+	},
+	"apSlug": "finances",
+	"apLink": "350",
+	"apToken": "O2axbqrhOCG8mROnh8odZT573wrg6jFAJEnyF31mXLGbQKGEjN1p98fS7jL7",
+	"playbookLink": "sqts",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Financial Services",
+		"blurb": "Deliver contextually relevant DOOH ads at moments when consumers are likely to be thinking about payment, like promoting credit card cash-back rewards at the gas pump or checkout counter.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Financial Services package",
+			"ppcTitle": "Want a tour of the Financial Services package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Consumers"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Transit", "Airports", "Banks"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Work hours", "Peak commute hours"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Banks and residences",
+				"outdoor": "Billboard, urban panels, and transit shelters within proximity to financial institutions"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "Financial Moments",
+				"content": "Play relevant ads based on currencies, interest rates, cryptocurrency and commodities"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Financial Services\" audience segments",
+		"list": [
+			{
+				"category": "Home financial Planners",
+				"description": "Home Financial Planners are usually women between 25-34 years old. They are likely parents who are looking to make every dollar count. Their household incomes vary, siting within either high-income households or low-income households."
+			},
+			{
+				"category": "Active traders",
+				"description": "Active Traders are in it to win it by staying connected to the financial marketplace and are primarily men in the 35-44-year-old age group."
+			},
+			{
+				"category": "Insurance owners",
+				"description": "Insurance Owners include a high concentration of 25-44-year-olds, with a relatively even split amongst genders. This audience will likely also own transportation-focused apps along with insurance provider apps."
+			},
+			{
+				"category": "Mobile banking users",
+				"description": "Mobile Banking Users have a fairly even distribution across age groups, although 18-24-year-olds are less likely to appear in this audience segment."
+			},
+			{
+				"category": "Retirement planners",
+				"description": "Retirement Planners are equally distributed across genders. Over 55% of this audience is in the $75-100k+ income bracket."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Increase brand awareness and consideration for financial services",
+		"list": [
+			"Deliver ads at moments where consumers are likely to be thinking about payments, like at the gas pump ",
+			"Drive awareness on a mass-reach scale by targeting specific audiences with ads, like travel rewards for frequent flyers",
+			"Place ads in key neighbourhoods where your target audience resides or within proximity to your retail locations"
+		]
+	},
+	"playbook": {
+		"title": "Promote brand trust and loyalty with digital out-of-home",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Financial Services package" }
+}

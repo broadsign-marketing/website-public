@@ -1,0 +1,28 @@
+{
+	"seo": {
+		"title": "ALOOH Ciudad de México",
+		"description": "Acompáñanos en una velada íntima de cócteles y conversaciones antes del inicio de ALOOH Ciudad de México.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"overtitle": "ALOOH Ciudad de México",
+		"title": "Conecta con propietarios de medios y agencias de todo el mundo en el evento de networking de Broadsign",
+		"pars": [
+			"Acompáñanos en una velada íntima de cócteles y conversaciones antes del inicio de ALOOH Ciudad de México.",
+			"El evento será una gran oportunidad para conectar con colegas del sector y participar en conversaciones sobre todo lo que está ocurriendo en el mundo de OOH."
+		]
+	},
+	"date": ["Martes 16 de abril a las 5:30 p.m. CST"],
+	"place": ["La Única", "Anatole France 98, Polanco, Polanco III Secc, Miguel Hidalgo", "11550 Ciudad de México, Mexico"],
+	"hostedBy": "Organizado por:",
+	"hosts": [
+		{ "id": "jose_delgado", "name": "Jose Delgado", "title": "Director de Ventas Latinoamérica" },
+		{ "id": "natalia_rojas", "name": "Natalia Rojas", "title": "Directora de Gestión de Cuentas" },
+		{ "id": "guillermo_garcia", "name": "Guillermo García Maruny", "title": "Director de Business Development, Programmatic Media" },
+		{ "id": "amalia_quintanilla", "name": "Amalia Quintanilla Medina", "title": "Representante de Desarrollo de Negocios y Ventas" },
+		{ "id": "joe_cotugno", "name": "Joe Cotugno", "title": "Senior Vicepresidente de Operaciones Internacionales" }
+	],
+	"googleCalendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20240416T223000Z%2F20240417T013000Z&details=Join%20us%20for%20an%20evening%20of%20cocktails%20and%20conversations%20on%20all%20the%20exciting%20things%20happening%20in%20the%20world%20of%20OOH.%20You%20won%E2%80%99t%20want%20to%20miss%20the%20opportunity%20to%20learn%20more%20about%20Broadsign%E2%80%99s%20company%20and%20product%20roadmap%20while%20networking%20with%20media%20owners%20and%20agencies%20from%20around%20the%20world%21&location=La%20%C3%9Anica%2C%20Anatole%20France%2098%2C%20Polanco%2C%20Polanco%20III%20Secc%2C%20Miguel%20Hidalgo%2C%2011550%20Ciudad%20de%20M%C3%A9xico%2C%20Mexi&text=ALOOH%20Mexico%20City",
+	"icsFileLink": "https://marketing.broadsign.com/hubfs/ICS/2024_04_alooh_mexico_city_en.ics",
+	"thankYouForRegistering": ["Esperamos verte en la Ciudad de México.", "Asegúrese de agregar el evento a su calendario para mantenerse actualizado:"]
+}

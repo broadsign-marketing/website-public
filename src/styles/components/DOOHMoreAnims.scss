@@ -1,0 +1,513 @@
+@import "../base/dependencies";
+
+/*
+TABLE OF CONTENTS
+1. FeaturesRotatingTitle ; in the "Features" section
+2. People ; in the "Neck" section
+3. NewBuyers ; in the "Features" section
+4. EchoBillboards ; in the "Neck" section
+5. CampaignReallocation ; in the "Features" section
+*/
+
+/* 1. FeaturesRotatingTitle */
+
+.FeaturesRotatingTitle {
+	.rotating_wrapper {
+		display: inline-block;
+		height: calc(1em + 1px);
+		min-width: 150px;
+		transition: width 0.3s;
+		width: 0px;
+	}
+
+	.rotating {
+		display: inline-block;
+		left: 50%;
+		margin: 0 auto;
+		max-width: none;
+		opacity: 0;
+		padding: 0 0.4ch;
+		position: absolute;
+		top: 0;
+		transform: translate(-50%, 0%);
+		transition: opacity 0.6s ease, transform 0.6s ease;
+
+		&.prev {
+			transform: translate(-50%, -100%);
+		}
+
+		&.current {
+			opacity: 1;
+		}
+
+		&.next {
+			transform: translate(-50%, 100%);
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	.FeaturesRotatingTitle {}
+}
+
+@media (min-width:$md) {
+	.FeaturesRotatingTitle {}
+}
+
+
+/* 2. People */
+
+@keyframes eyeBlink {
+	0% {
+		transform: scaleY(1);
+	}
+
+	50% {
+		transform: scaleY(0);
+	}
+
+	100% {
+		transform: scaleY(1);
+	}
+}
+
+.People {
+	margin-right: min(3vw, 24px);
+	max-width: 500px;
+	top: 30px;
+	width: 100%;
+
+	.people {
+		flex: 0 0 50%;
+		width: 50%;
+	}
+
+	.people_img {
+		filter: invert(1) brightness(0.5);
+		max-width: 500px;
+	}
+
+	.person {
+		position: absolute;
+		width: auto;
+
+	}
+
+	.eye_bubble {
+		display: block;
+		height: 30px;
+		left: 50%;
+		position: absolute;
+		top: max(-34px, -5vw);
+		transform: scaleY(0) translate(-50%, 0%);
+		transform-origin: center top;
+		transition: transform 0.3s ease-out;
+		width: 25px;
+	}
+
+	.bubble {
+		height: min(5vw, 30px);
+		position: absolute;
+		width: min(5vw, 25px);
+		z-index: 10;
+	}
+
+	.eye {
+		background-color: transparent;
+		height: min(4vw, 19px);
+		left: 2px;
+		position: absolute;
+		top: min(0.4vw, 4px);
+		transition: background-color 0.3s;
+		width: min(4vw, 19px);
+		z-index: 20;
+
+		&.blink_single {
+			animation: eyeBlink 0.4s ease-out 0s 1 normal forwards running;
+		}
+
+		&.blink_double {
+			animation: eyeBlink 0.3s ease-out 0s 2 normal forwards running;
+		}
+	}
+
+	.person_img {
+		opacity: 0;
+		transition: opacity 0.6s;
+		width: 100%;
+	}
+
+	.person_01 {
+		left: 25.6%;
+		top: 3.4%;
+		width: 12.2%;
+
+		.eye_bubble {
+			left: 65%;
+		}
+	}
+
+	.person_02 {
+		left: 38.3%;
+		top: 8.9%;
+		width: 23.4%;
+
+		.eye_bubble {
+			left: 59%;
+		}
+	}
+
+	.person_03 {
+		left: 64.1%;
+		top: -1.5%;
+		width: 11.2%;
+
+		.eye_bubble {
+			left: 56%;
+		}
+	}
+
+	.person_04 {
+		left: 87.4%;
+		top: 3.5%;
+		width: 12.8%;
+
+		.eye_bubble {
+			left: 62%;
+		}
+	}
+
+	.person_05 {
+		left: 12.2%;
+		top: 25.6%;
+		width: 13.8%;
+
+		.eye_bubble {
+			left: 60%;
+		}
+	}
+
+	.person_06 {
+		left: 75.3%;
+		top: 28%;
+		width: 12.2%;
+
+		.eye_bubble {
+			left: 46%;
+		}
+	}
+
+	.person_07 {
+		left: 0%;
+		top: 50.9%;
+		width: 9%;
+
+		.eye_bubble {
+			left: 64%;
+		}
+	}
+
+	.person_08 {
+		left: 11.2%;
+		top: 67.4%;
+		width: 26.8%;
+
+		.eye_bubble {
+			left: 24%;
+		}
+	}
+
+	.person_09 {
+		left: 26.9%;
+		top: 49.3%;
+		width: 12.4%;
+
+		.eye_bubble {
+			left: 60%;
+		}
+	}
+
+	.person_10 {
+		left: 42.5%;
+		top: 55%;
+		width: 11.8%;
+
+		.eye_bubble {
+			left: 60%;
+		}
+	}
+
+	.person_11 {
+		left: 60.5%;
+		top: 48%;
+		width: 10.2%;
+
+		.eye_bubble {
+			left: 50%;
+		}
+	}
+
+	&.observed {
+		.eye_bubble {
+			transform: scale(1) translate(-50%, 0%);
+		}
+
+		.person_img {
+			opacity: 1;
+		}
+	}
+}
+
+
+@media (min-width:$sm) {
+	.People {}
+}
+
+@media (min-width:$md) {
+	.People {}
+}
+
+/* 3. NewBuyers */
+
+.NewBuyers {
+	margin-top: 20vw;
+
+	.profile {
+		margin-top: -5%;
+		position: relative;
+		width: min(50%, 240px);
+
+		&:nth-child(1) {
+			left: 5%;
+		}
+
+		&:nth-child(2) {
+			left: 50%;
+		}
+
+		&:nth-child(3) {
+			left: 10%;
+		}
+
+		.hide_field {
+			background: #FFF;
+			content: "";
+			height: 16%;
+			left: 8%;
+			opacity: 1;
+			position: absolute;
+			transition: opacity 1s;
+			width: 70%;
+			z-index: 10;
+		}
+
+		.hide_field_1 {
+			top: 40%;
+		}
+
+		.hide_field_2 {
+			top: 69%;
+			transition-delay: 3s;
+		}
+	}
+
+	.rect {
+		width: 100%;
+	}
+
+	.person {
+		left: 20px;
+		position: absolute;
+		top: 2px;
+		transform: translateY(0%);
+		transition: transform 0.6s ease;
+		width: 45px;
+	}
+
+	.bubble {
+		left: 52px;
+		position: absolute;
+		top: -70px;
+		transform: scale(0);
+		transform-origin: left bottom;
+		transition: transform 0.6s ease;
+	}
+
+	&.observed {
+		.person {
+			transform: translateY(-100%);
+		}
+
+		.bubble {
+			transform: scale(1);
+		}
+
+		.profile {
+			.hide_field {
+				opacity: 0;
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	.NewBuyers {
+		height: 100%;
+		margin-top: 0;
+
+		.profile {
+			margin: 0;
+			max-width: 140px;
+			position: absolute;
+			width: 40%;
+
+			&:nth-child(1) {
+				left: 0%;
+				top: 40%;
+			}
+
+			&:nth-child(2) {
+				left: 35%;
+				top: 65%;
+			}
+
+			&:nth-child(3) {
+				left: auto;
+				right: 0%;
+				top: 30%;
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	.NewBuyers {
+		.profile {
+			max-width: 160px;
+			width: 34%;
+		}
+	}
+}
+
+/* 4. EchoBillboards */
+
+.EchoBillboards {
+	flex: 0 0 50%;
+	left: min(3vw, 24px);
+	max-width: 50%;
+	position: relative;
+	width: 50%;
+
+	.echo_billboard_wrapper {
+		@for $i from 1 through 6 {
+			&:nth-of-type(#{$i}) {
+				$flex-bases: 15.7%, 17%, 18.9%, 20.4%, 21.9%, 23.3%;
+
+				@if $i==1 {
+					margin-left: 0;
+				}
+
+				flex-basis: list.nth($flex-bases, $i);
+				max-width: list.nth($flex-bases, $i);
+				top: #{($i - 1) * 15}px;
+				z-index: $i;
+			}
+		}
+
+		aspect-ratio: 127 / 223;
+		flex: 0 0 auto;
+		margin-left: -5.6%;
+		opacity: 0;
+		transform-origin: left top;
+
+		&:last-of-type {
+			&:after {
+				background: $reflex;
+				content: "";
+				height: 16px;
+				left: 10%;
+				position: absolute;
+				top: 99%;
+				width: 80%;
+			}
+		}
+	}
+
+	.echo_billboard {
+		border: 1px solid $reflex;
+		border-radius: min(1vw, 10px);
+	}
+
+	&.observed {
+		.echo_billboard_wrapper {
+			@for $i from 1 through 6 {
+				&:nth-of-type(#{$i}) {
+					animation-delay:#{$i * 0.2s};
+				}
+			}
+
+			@include fadeInOnce(1s);
+		}
+	}
+}
+
+/* 5. CampaignReallocation */
+
+@keyframes flyIntoSlot {
+	0% {
+		box-shadow: 2px 2px 8px rgba(#000, 0.2);
+		opacity: 0;
+		transform: translate3d(600%, 20%, 0px) rotate3d(0, 0, 0, 0deg);
+	}
+
+	50% {
+		box-shadow: 2px 16px 24px rgba(#000, 0.2);
+		opacity: 1;
+		transform: translate3d(400%, -20%, 100px) rotate3d(-4, -3, -1, 10deg);
+	}
+
+	100% {
+		box-shadow: 1px 1px 0px rgba(#000, 0.1);
+		opacity: 1;
+		transform: translate3d(0%, 0%, 0%) rotate3d(-4, -3, -1, 0deg);
+	}
+}
+
+.CampaignReallocation {
+	.hull {
+		gap: min(2vw, 16px);
+	}
+
+	.slot {
+		border: 2px solid #CBCBCB;
+		flex: 1 1 72px;
+		max-width: 72px;
+		transform-style: preserve-3d;
+		transition: border 0.3s;
+		perspective: 600px;
+
+
+		&.fly_in {
+			.slot_content {
+				opacity: 0;
+			}
+		}
+
+		&.border-dashed {
+			border-color: $campsiteGreen;
+			border-style: dashed;
+		}
+	}
+
+	&.observed {
+		.slot {
+			&.fly_in .slot_content {
+				animation: flyIntoSlot 1.6s cubic-bezier(0.3, 0, 0.7, 1) 0s 1 forwards;
+			}
+		}
+	}
+}
+
+@media(min-width:$sm) {
+	.CampaignReallocation {}
+}

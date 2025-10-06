@@ -1,0 +1,71 @@
+{
+	"seo": {
+		"title": "Plataforma Broadsign - Software para a próxima geração de DOOH",
+		"description": "Possibilitando que os proprietários de mídias DOOH maximizem a eficiência e as receitas"
+	},
+	"cta": {
+		"demo": "Peça uma demonstração ao vivo",
+		"freeTrial": "Teste gratuito",
+		"learnMore": "Saiba mais",
+		"readArticle": "Ler artigo",
+		"seeMorePosts": "Ver mais postagens"
+	},
+	"Hero": {
+		"Title": "Broadsign",
+		"Tagline": "Possibilitando que os proprietários de mídias DOOH maximizem a eficiência e as receitas"
+	},
+	"features": {
+		"title": "Ilumine o mundo com as nossas soluções integradas para DOOH",
+		"description": "Nosso software de DOOH líder de mercado ajuda os proprietários de mídias a alcançarem a totalidade do valor de suas redes por meio de automação, otimização de negócios e suporte para transações programáticas.",
+		"maximize": {
+			"title": "_Maximize_ as receitas com vendas mais inteligentes",
+			"description": "Otimize as suas vendas de anúncios OOH com ferramentas inteligentes e disponibilidade de estoque em tempo real, que podem encurtar o tempo de resposta a RFP e aumentar as receitas"
+		},
+		"saveTime": {
+			"title": "Economize tempo _automatizando_ a sua rede",
+			"description": "Deixe o escalonamento e a entrega para um sistema inteligente e automatizado e use o seu tempo extra para se concentrar no panorama geral da administração do seu negócio"
+		},
+		"generate": {
+			"title": "_Gere_ novas receitas de forma programática",
+			"description": "Abra a sua rede para campanhas direcionadas do mundo todo com uma plataforma de autoatendimento para publicidade DOOH programática"
+		},
+		"connect": {
+			"title": "_Conecte-se_ com as ferramentas que você conhece e ama",
+			"description": "Conecte a sua rede DOOH com quaisquer sensores, feeds de dados, plataformas de análise ou outros softwares de que você precise para impulsionar o seu negócio"
+		},
+		"shine": {
+			"title": "Faça o seu conteúdo local _brilhar_ sempre",
+			"description": "Ajude as equipes locais a manterem o conteúdo atualizado e alinhado com a sua marca por meio de uma ferramenta baseada em modelo HTML5, que é bastante simples para qualquer pessoa usar"
+		}
+	},
+	"products": {
+		"intro": "Conheça _nossos produtos_",
+		"direct": {
+			"title": "Direcione o seu sucesso",
+			"paragraph": "Venda de forma mais inteligente por meio de uma ferramenta de vendas projetada especificamente para campanhas OOH"
+		},
+		"control": {
+			"title": "Assuma o controle total",
+			"paragraph": "Descubra uma nova eficiência com um software automatizado de gerenciamento de DOOH"
+		},
+		"reach": {
+			"title": "Amplie o seu alcance",
+			"paragraph": "Impulsione novas receitas com a nossa plataforma de autoatendimento para DOOH programático"
+		},
+		"publish": {
+			"title": "Publique do seu jeito",
+			"paragraph": "Personalize as mensagens locais com um gerenciador de conteúdo em HTML5 fácil de usar"
+		}
+	},
+	"quoteBlock": {
+		"quote": "Desde a nossa transição para a Broadsign, conseguimos agilizar o nosso fluxo de trabalho, nos tornarmo-nos mais flexíveis e reagir com mais rapidez às alterações feitas pelos anunciantes.",
+		"sign": "Lightbox"
+	},
+	"demo": {
+		"description": "Quer potencializar o seu negócio com a plataforma líder para DOOH?",
+		"linkCta": "Entre em contato!"
+	},
+	"customerSpotlight": {
+		"title": "Veja a Broadsign em ação"
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"seo": {
+		"title": "Digital Signage Plattform",
+		"description": "Unsere Software-Tools helfen OOH-Unternehmen, mehr Umsatz zu generieren, intelligenter zu arbeiten und grenzenlos zu wachsen."
+	},
+	"form": {
+		"title": "Erhalten Sie noch heute Ihre kostenlose Testversion"
+	},
+	"hero": {
+		"title1": "Intelligente Tools",
+		"title2": "für Out-of-Home",
+		"tagline": "Unsere Software-Tools helfen OOH-Unternehmen, mehr Umsatz zu generieren, intelligenter zu arbeiten und grenzenlos zu wachsen.",
+		"cta": "Kostenlos testen"
+	},
+	"videoTitle": "Einführung in die Broadsign Control",
+	"success": {
+		"title": "Ihr OOH-Unternehmen läuft besser mit Broadsign",
+		"laptop1": {
+			"bulletPoint1": {
+				"title": "Automatisieren Sie Ihr Netzwerk",
+				"text": "Optimieren Sie die Planung und Durchführung von Kampagnen mit unserer Content-Management-Lösung"
+			},
+			"bulletPoint2": {
+				"title": "Maximieren Sie Ihren Umsatz",
+				"text": "Verkaufen Sie mehr und maximieren Sie den Ertrag mit einer speziell für OOH entwickelten Vertriebslösung"
+			}
+		},
+		"laptop2": {
+			"bulletPoint1": {
+				"title": "Treten Sie in das programmatische Zeitalter ein",
+				"text": "Öffnen Sie Ihr Netzwerk für digitale Käufer auf der ganzen Welt mit einer Self-Service-Plattform für programmatisches DOOH"
+			},
+			"bulletPoint2": {
+				"title": "Verbinden Sie sich mit den Tools, die Sie kennen und lieben",
+				"text": "Integrieren Sie Sensoren, Datenfeeds, Analysetools oder alles andere, was Ihr Unternehmen benötigt"
+			}
+		}
+	},
+	"benefits": {
+		"title": "Die Vorteile von Broadsign",
+		"benefit1": {
+			"title": "Verbessern Sie Ihren Vertriebsprozess",
+			"text": "Machen Sie tolle Angebote in kürzerer Zeit und lassen Sie unser System automatisch Buchungen für den Umsatz optimieren"
+		},
+		"benefit2": {
+			"title": "Akquirieren Sie neue Einnahmequellen",
+			"text": "Diversifizieren Sie Ihr Geschäft, indem Sie Ihr Inventar für digitale Werbebudgets anbieten"
+		},
+		"benefit3": {
+			"title": "Gewinnen Sie Ihre Zeit zurück",
+			"text": "Reduzieren Sie Zeitverschwendung durch sich wiederholende Aufgaben und geben Sie Ihrem Team den nötigen Freiraum, sich auf das große Ganze zu konzentrieren"
+		},
+		"benefit4": {
+			"title": "Höchste Sicherheit",
+			"text": "Schützen Sie Ihr Netzwerk mit einer Sicherheit, die stärker ist als der Standard für Online-Banking."
+		}
+	},
+	"logosList": {
+		"title": "Wir arbeiten mit den größten Namen in OOH"
+	},
+	"customers": {
+		"title": "Sehen Sie, was unsere Kunden sagen",
+		"quotes": [
+			{
+				"quote": "Seit unserer Umstellung auf Broadsign konnten wir unsere Arbeitsabläufe optimieren, flexibler werden und schneller auf Änderungen von Seiten der Werbetreibenden reagieren.",
+				"sign": "Amanda, Lightbox"
+			},
+			{
+				"quote": "Die Zusammenarbeit mit Broadsign war entscheidend für die Skalierung unseres Geschäfts",
+				"sign": "Sebastian, Broadcast Media"
+			},
+			{
+				"quote": "Mit Broadsign Direct ist unser Vertriebsteam in der Lage, innerhalb weniger Minuten komplexe Werbekampagnen über unser gesamtes Netzwerk zu buchen.",
+				"sign": "Adrian, Intersection"
+			}
+		]
+	},
+	"floatingBanner": {
+		"tagline": "Erhalten Sie noch heute Ihre kostenlose Testversion",
+		"cta": "Klicken Sie hier"
+	}
+}

@@ -1,0 +1,99 @@
+{
+	"seo": {
+		"title": "Services financiers",
+		"description": "Diffusez des publicités contextuelles stratégiques par affichage extérieur numérique à des moments où les consommateurs sont susceptibles de penser à leurs paiements. Par exemple, promouvoir les cartes de crédit offrant des récompenses en argent aux pompes à essence ou à la caisse."
+	},
+	"apSlug": "finances",
+	"apLink": "350",
+	"apToken": "O2axbqrhOCG8mROnh8odZT573wrg6jFAJEnyF31mXLGbQKGEjN1p98fS7jL7",
+	"playbookLink": "sqts",
+
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Services financiers",
+		"blurb": "Diffusez des publicités contextuelles stratégiques par affichage extérieur numérique à des moments où les consommateurs sont susceptibles de penser à leurs paiements. Par exemple, promouvoir les cartes de crédit offrant des récompenses en argent aux pompes à essence ou à la caisse.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Découvrez notre pack Services financiers",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Consommateurs"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Transports en commun", "aéroports", "banques"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Heures de travail", "Heures de pointe"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "Public cible : tous les affichages qui visent le public ciblé",
+				"placeBased": "En fonction du lieu : banques et résidences",
+				"outdoor": "À l'extérieur : panneaux-réclames, panneaux urbains et abribus à proximité d'institutions financières."
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "",
+				"content": "Diffusez des publicités pertinentes basées sur les devises, les taux d'intérêt, la cryptomonnaie et les matières premières."
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Services financiers »",
+		"list": [
+			{
+				"category": "Opérateurs de marché",
+				"description": "Les opérateurs de marché sont principalement des hommes âgés de 35 à 44 ans qui gagnent leur vie dans le marché financier."
+			},
+			{
+				"category": "Planificateurs financiers à domicile",
+				"description": "Les planificateurs financiers à domicile sont souvent des femmes âgées de 25 à 34 ans. Ce sont surtout des parents qui aiment maximiser chaque dollar. Ils disposent d'un revenu familial très variable."
+			},
+			{
+				"category": "Détenteurs d'assurances",
+				"description": "Les détenteurs d'assurances sont majoritairement âgés de 25 à 44 ans, répartis entre les genres. Ce public est susceptible d'utiliser des applications axées sur le transport ainsi que celles fournies par les fournisseurs d'assurances."
+			},
+			{
+				"category": "Utilisateurs de services bancaires mobiles",
+				"description": "Les utilisateurs de services bancaires mobiles se répartissent assez uniformément entre les différentes tranches d'âge, bien que les 18-24 ans soient moins nombreux dans ce segment."
+			},
+			{
+				"category": "Planificateurs de retraite",
+				"description": "Les planificateurs de retraite se répartissent uniformément entre les genres. Plus de 55 % de ce public dispose d'un revenu familial variant entre 75 000 $ et 100 000 $."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Rehaussez la notoriété de marque et la considération envers les services bancaires.",
+		"list": [
+			"Diffusez des publicités à des moments où les consommateurs sont susceptibles de penser à leurs paiements, comme à la pompe à essence.",
+			"Suscitez l'intérêt à grande échelle en ciblant des publics précis avec des publicités traitant, par exemple, de récompenses pour les voyageurs fréquents.",
+			"Diffusez des publicités à proximité d'endroits stratégiques où votre public cible demeure ou près de vos points de vente."
+		]
+	},
+	"playbook": {
+		"title": "Suscitez la confiance et la fidélité envers votre marque avec l'affichage extérieur numérique extérieur.",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Découvrez notre pack Services financiers" }
+}

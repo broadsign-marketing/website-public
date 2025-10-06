@@ -1,0 +1,39 @@
+{
+	"seo": {
+		"title": "Get the latest platform news from Broadsign",
+		"description": "Sign up to receive the latest Broadsign Platform updates and feature-related news",
+		"robots": "index, follow"
+	},
+	"hero": {
+		"overtitle": "Made for Broadsign users",
+		"title": "Get the latest platform news from Broadsign",
+		"blurb": "Sign up to receive the latest Broadsign Platform updates and feature-related news",
+		"cta": "Subscribe"
+	},
+	"included": {
+		"title": "What's included in your subscription",
+		"items": [
+			{
+				"title": "Product Announcements",
+				"description": "Occasional email from our product marketing team announcing the latest product releases and feature enhancements to help you maximize the potential of your OOH assets."
+			},
+			{
+				"title": "Broadsign Community Digest",
+				"description": "Quarterly newsletter rounding up the latest product-focused content, including product updates, feature spotlight videos, training webinars, and product blogs."
+			}
+		]
+	},
+	"pastEditions": {
+		"overtitle": "In case you missed it",
+		"title": "Past Editions"
+	},
+	"form": {
+		"inputPlaceholder": "Please enter your email address",
+		"header": "Subscribe to the latest Broadsign Platform updates"
+	},
+	"thankYou": {
+		"title": "Thanks for subscribing!",
+		"par": "You are now subscribed to the Broadsign Platform updates."
+	},
+	"invalidEmail": "Please enter a valid email address"
+}

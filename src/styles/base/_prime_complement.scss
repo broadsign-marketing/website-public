@@ -1,0 +1,42 @@
+:root {
+
+	@each $name,
+	$color in $broadsignColors {
+		--#{$name}: #{$color};
+	}
+}
+
+.grid:not(.container) {
+	max-width: none;
+}
+
+@include color-class('text-', 'color', $broadsignColors, true);
+@include color-class('bg-', 'background-color', $broadsignColors, true);
+@include color-class('border-', 'border-color', $broadsignColors, true);
+
+.bg-gradient,
+.bg-gradient-1 {
+	background: linear-gradient(96.54deg, #E43425 4.89%, #441FD8 72.33%, #0A26B8 119.62%) !important;
+}
+
+.p-button {
+	font-size: 16px;
+	font-weight: 500;
+	padding: 0.5em 1.8em 0.5em;
+
+	&.p-button-rounded {
+		border-radius: 3em;
+	}
+}
+
+.object-fit-contain {
+	object-fit: contain !important;
+}
+
+.object-fit-cover {
+	object-fit: cover !important;
+}
+
+.list-style-none {
+	list-style-type: none !important;
+}

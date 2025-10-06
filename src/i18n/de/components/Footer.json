@@ -1,0 +1,125 @@
+{
+	"sections": [
+		{
+			"id": "mediaOwners",
+			"label": "Für Medieneigentümer",
+			"links": [
+				{
+					"label": "Broadsign-Plattform",
+					"to": "broadsignPlatform"
+				},
+				{
+					"label": "Kampagnenplanung und Anzeigenschaltung",
+					"to": "campaignPlanning"
+				},
+				{
+					"label": "Zielgruppenbasierte Kampagnen und Anzeigenschaltung",
+					"to": "audienceCampaigns"
+				},
+				{
+					"label": "Content- und Netzwerkmanagement",
+					"to": "contentNetworkManagement"
+				},
+				{
+					"label": "Statische Kampagnen und Verwaltung",
+					"to": "staticOperations"
+				},
+				{
+					"label": "Globale programmatische SSP",
+					"to": "globalProgrammaticSSP"
+				},
+				{
+					"label": "Lokale Signage-Nachrichten",
+					"to": "localSignageMessaging"
+				},
+				{
+					"label": "Unsere Angebote",
+					"to": "plans"
+				}
+			]
+		},
+		{
+			"id": "resources",
+			"label": "Ressourcen",
+			"links": [
+				{
+					"label": "Blog",
+					"to": "blog"
+				},
+				{
+					"label": "E-Books und Webinare",
+					"to": "resources"
+				},
+				{
+					"label": "DOOHX Certification",
+					"to": "https://www.doohx.io/"
+				},
+				{
+					"label": "Produktdokumentation",
+					"to": "documentation"
+				},
+				{
+					"label": "Status der Broadsign-Dienste",
+					"to": "https://status.broadsign.com/"
+				}
+			]
+		},
+		{
+			"id": "broadsign",
+			"label": "Broadsign",
+			"links": [
+				{
+					"label": "Unsere Geschichte",
+					"to": "ourStory"
+				},
+				{
+					"label": "Sicherheitserklärung",
+					"to": "securityStatement"
+				},
+				{
+					"label": "Nachhaltigkeitserklärung",
+					"to": "sustainabilityStatement"
+				}
+			]
+		},
+		{
+			"id": "accounts",
+			"label": "Broadsign-Konten",
+			"links": [
+				{
+					"label": "Broadsign-Plattform-Anmeldung",
+					"to": "https://app.broadsign.com/"
+				},
+				{
+					"label": "Broadsign-Anzeigen-Anmeldung",
+					"to": "https://console.outmoove.com/auth/login"
+				},
+				{
+					"label": "Broadsign-Community-Anmeldung",
+					"to": "https://broadsign.force.com/"
+				}
+			]
+		}
+	],
+	"social": {
+		"facebook": {
+			"title": "Liken Sie uns auf Facebook!"
+		},
+		"linkedin": {
+			"title": "Besuchen Sie uns auf LinkedIn!"
+		},
+		"x": {
+			"title": "Folgen Sie uns auf X!"
+		},
+		"youtube": {
+			"title": "Sehen Sie uns auf YouTube!"
+		}
+	},
+	"privacy": [
+		{
+			"label": "Datenschutzrichtlinie",
+			"to": "privacyPolicy"
+		}
+	],
+	"cookiePreferences": "Cookie-Einstellungen"
+}

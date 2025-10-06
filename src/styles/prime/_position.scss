@@ -1,0 +1,36 @@
+$position-props: ('static': 'static',
+	'fixed': 'fixed',
+	'absolute': 'absolute',
+	'relative': 'relative',
+	'sticky': 'sticky'
+);
+
+$top-locations: ('top-auto': 'auto',
+	'top-0': '0px',
+	// 'top-50': '50%', // 2022-01 NOT NECESSARY
+	// 'top-100': '100%' // 2022-01 NOT NECESSARY
+);
+
+$left-locations: ('left-auto': 'auto',
+	'left-0': '0px',
+	// 'left-50': '50%', // 2022-01 NOT NECESSARY
+	// 'left-100': '100%' // 2022-01 NOT NECESSARY
+);
+
+$right-locations: ('right-auto': 'auto',
+	'right-0': '0px',
+	// 'right-50': '50%', // 2022-01 NOT NECESSARY
+	// 'right-100': '100%' // 2022-01 NOT NECESSARY
+);
+
+$bottom-locations: ('bottom-auto': 'auto',
+	'bottom-0': '0px',
+	// 'bottom-50': '50%', // 2022-01 NOT NECESSARY
+	// 'bottom-100': '100%' // 2022-01 NOT NECESSARY
+);
+
+@include style-class('position', $position-props, true);
+@include style-class('top', $top-locations, true);
+@include style-class('left', $left-locations, true);
+@include style-class('right', $right-locations, true);
+@include style-class('bottom', $bottom-locations, true);

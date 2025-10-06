@@ -1,0 +1,151 @@
+{
+	"seo": {
+		"title": "Broadsign SSP",
+		"description": "Sell a Truly Omnichannel Campaign Within Your DSP",
+		"robots": "noindex nofollow"
+	},
+	"hero": {
+		"overtitle": "Broadsign SSP",
+		"title": "Sell a Truly Omnichannel Campaign Within Your DSP",
+		"par": "Use programmatic DOOH to activate omnichannel ad campaigns for your accounts. There's no implementation needed, your DSP already offers Broadsign SSP. Book a strategy call with our Head of Channel Partnerships to learn how to tap into incremental spend.",
+		"presenter": {
+			"name": "Drew Thachuk",
+			"title": "Head of Channel Partnerships at Broadsign"
+		},
+		"cta": "Book a strategy call"
+	},
+	"why": {
+		"title": "This is why you need to leverage DOOH",
+		"boxes": [
+			{
+				"id": "money",
+				"num": "$20 billion",
+				"numSize": "med",
+				"what": "Projected DOOH spend in 2024",
+				"source": "Source: Statista"
+			},
+			{
+				"id": "marketers",
+				"num": "40%",
+				"numSize": "large",
+				"what": "Percentage of marketers that are planning to include DOOH in their 2024 strategy",
+				"source": "Source: Statista"
+			},
+			{
+				"id": "consumers",
+				"num": "76%",
+				"numSize": "large",
+				"what": "Percentage of consumers who take an action after seeing a DOOH ad",
+				"source": "Source: OAAA"
+			}
+		]
+	},
+	"relatedPosts": {
+		"title": "These industries are scaling with OOH"
+	},
+	"features": {
+		"overtitle": "Try programmatic dooh",
+		"title": "Drive incremental in-platform spend from your accounts by leveraging Broadsign SSP",
+		"list": [
+			{
+				"id": "inventory",
+				"overtitle": "Premium global Dooh inventory",
+				"title": "Say yes to global campaigns",
+				"par": "Your clients operate globally, so do we. Our SSP offers a premium collection of the world's most in-demand OOH locations. Broadsign has you covered, wherever your client wants to advertise.",
+				"cta": "Explore our global SSP inventory",
+				"ctaCallback": "setShowMediaKitModal"
+			},
+			{
+				"id": "campaign",
+				"overtitle": "Efficient campaign launch",
+				"title": "Say yes to complex campaigns",
+				"par": "With Broadsign SSP, you get access to enriched targeting capabilities, robust reporting, contextual ad serving, and streamlined creative management. In a nutshell, our Auction Package technology allows you to efficiently take on more RFPs.",
+				"cta": "Learn more",
+				"ctaCallback": "setShowVideoModal"
+			},
+			{
+				"id": "deal",
+				"overtitle": "Flexible deal types",
+				"title": "Say yes to campaign-specific deal types",
+				"par": "Every campaign is different. That's why our SSP offers a range of deal types, including Private Marketplace (PMP), Programmatic Guaranteed (PG), and Open Exchange. This allows you to provide optionality to your clients."
+			}
+		]
+	},
+	"partners": {
+		"overtitle": "Our SSP is Partnered with 35 + DSPs (including yours)"
+	},
+	"trySSP": {
+		"title": "Try Broadsign SSP today",
+		"boxes": [
+			{
+				"id": "money",
+				"overtitle": "Increase in-platform ad spend",
+				"par": "Say yes to previously hard-to-execute campaigns and campaigns you previously couldn't take on."
+			},
+			{
+				"id": "speed",
+				"overtitle": "Launch campaigns quickly",
+				"par": "Receive end-to-end account management to help you seamlessly go from planning to launch."
+			},
+			{
+				"id": "confidence",
+				"overtitle": "Sell DOOH confidently",
+				"par": "The world's biggest and most trusted media owners choose Broadsign SSP."
+			}
+		]
+	},
+	"caseStudies": {
+		"overtitle": "Campaigns powered by broadsign SSP"
+	},
+	"testimonials": {
+		"list": [
+			{
+				"id": "stackadapt",
+				"text": "“As a leading DOOH SSP and ad server, Broadsign offers scalable access to premium inventory, empowering our clients to reach their target audiences effectively and efficiently, translating into quicker campaign launches, optimized targeting strategies, and ultimately, improved ROI for advertisers in DOOH.”",
+				"name": "Michael shang",
+				"title": "SVP of Advertising Technologies",
+				"company": "StackAdapt"
+			},
+			{
+				"id": "displayce",
+				"text": "“We chose to collaborate with Broadsign for two pivotal reasons. Firstly, their expansive inventory reach impeccably aligns with our business opportunities, ensuring comprehensive and strategic DOOH coverage. Secondly, our decision was swayed by a shared mindset with Broadsign, particularly in terms of features and our vision for market evolution, helping to enhance the accuracy and effectiveness of DOOH campaigns”.",
+				"name": "Emma labrador",
+				"title": "Chief Marketing Officer",
+				"company": "Displayce"
+			},
+			{
+				"id": "illumin",
+				"text": "“When it comes to adding DOOH to our platform, we want to partner with the best, making Broadsign an obvious choice. Our work together will enhance the illumin platform by providing marketers access to a massive pool of premium DOOH inventory in one easy-to-use, connected canvas. It's a testament to our continued commitment to help redefine the industry's cross-channel journey.”",
+				"name": "Andrey feldman",
+				"title": "Vice President of Products",
+				"company": "Illumin"
+			}
+		]
+	},
+	"shin": {
+		"title": "Scale your accounts with DOOH",
+		"par": "Book a time with our Head of Channel Partnerships to understand how to start leveraging and selling programmatic DOOH today.",
+		"cta": "Book a strategy call"
+	},
+	"formBookACall": {
+		"title": "Book a DOOH Strategy Call With Drew",
+		"par": "Fill out the form to select a time in Drew's calendar",
+		"thankYou": {
+			"title": "Thank you!",
+			"par": "Not seeing the calendar?",
+			"cta": "Click here"
+		}
+	},
+	"formMediaKit": {
+		"title": "Download our Programmatic Media Kit and explore our global SSP inventory",
+		"thankYou": {
+			"title": "Thank you!",
+			"par": "Not seeing the media kit?",
+			"cta": "Click here"
+		}
+	},
+	"readArticle": "Read Article",
+	"allIndustries": "See All Industries",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf",
+	"accountManagerName": "Drew Thachuk"
+}

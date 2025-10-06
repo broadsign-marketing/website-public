@@ -1,0 +1,116 @@
+{
+	"seo": {
+		"title": "OutMoove",
+		"description": "OutMoove DSP delivers global inventory, unparalleled transparency and control, empowering media buyers to plan, buy, and optimize data-driven programmatic digital out-of-home (DOOH) campaigns.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"title": "The Digital Out-Of-Home DSP",
+		"par": "OutMoove DSP delivers global inventory, unparalleled transparency and control, empowering media buyers to plan, buy, and optimize data-driven programmatic digital out-of-home (DOOH) campaigns.",
+		"cta": "Talk to a Media Specialist"
+	},
+	"brands": { "title": "Trusted by Leading Agencies and Brands" },
+	"roi": {
+		"title": "Precise campaigns, scalable reach, measurable ROI",
+		"list": [
+			{
+				"id": "budget",
+				"title": "Get full control over your budget",
+				"par": "Gain complete clarity on spend, fees, and data usage to confidently manage and optimize your media investment."
+			},
+			{
+				"id": "audience",
+				"title": "Reach your audience with data-driven precision",
+				"par": "Efficiently reach your ideal audience with precise, data-driven targeting and real-time creative optimization."
+			},
+			{
+				"id": "global",
+				"title": "Scale your DOOH campaigns globally",
+				"par": "Simplify multi-market activations and efficiently scale your programmatic DOOH campaigns worldwide, all from a single unified platform."
+			},
+			{
+				"id": "proof",
+				"title": "Prove ROI with detailed insights",
+				"par": "Leverage detailed analytics and robust attribution to connect campaign performance to tangible business results."
+			}
+		]
+	},
+	"features": {
+		"title": "Powerful features designed for media buyers",
+		"list": [
+			{
+				"id": "planning_forecasting",
+				"name": "Planning and forecasting",
+				"desc": "Precisely predict campaign delivery with venue-level analysis to optimize reach and budget allocation."
+			},
+			{
+				"id": "campaign_options",
+				"name": "Custom campaign options",
+				"desc": "Take control of your programmatic DOOH campaigns with flexible flight schedules, budget allocation, pacing, and media types."
+			},
+			{
+				"id": "audience_targeting",
+				"name": "Advanced audience targeting",
+				"desc": "Reach your audience using built-in third-party demographic, behavioural, location-based, and venue type-based segments, or integrate your first-party data."
+			},
+			{
+				"id": "optimization",
+				"name": "Real-time optimization",
+				"desc": "Maximize campaign effectiveness by making in-flight adjustments to your targeting and bidding strategies based on live results."
+			},
+			{
+				"id": "campaign_reporting",
+				"name": "Detailed campaign reporting",
+				"desc": "Gain granular visibility into your campaign’s performance with impression-level data, screen-level analytics, and spend breakdowns."
+			}
+		]
+	},
+	"ctaBox": {
+		"overtitle": "Get started",
+		"title": ["Discover what's possible", "with OutMoove DSP"],
+		"par": "Combine cutting-edge technology and expert support to achieve impactful results. Connect with our specialists to explore how OutMoove can transform your media strategy.",
+		"cta": "Talk to a Media Specialist"
+	},
+	"outmooveCampaigns": "Campaigns launched with OutMoove",
+	"readCaseStudy": "Read the case study",
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_outmoove_1",
+				"q": "Who uses OutMoove DSP?",
+				"a": "OutMoove DSP is trusted by media buyers, advertising agencies, and brands of various sizes and industries, from global enterprise advertisers to specialized agencies looking to maximize their DOOH ROI."
+			},
+			{
+				"id": "faq_outmoove_2",
+				"q": "Does OutMoove offer managed service or self-serve options?",
+				"a": "OutMoove DSP offers both managed and self-service options. Solutions are tailored to your campaign goals, experience level, and budget."
+			},
+			{
+				"id": "faq_outmoove_3",
+				"q": "What kind of reporting and insights can I expect from OutMoove?",
+				"a": "OutMoove offers detailed reporting across impressions, playouts, CPMs, and spend. Results can be broken down by line item, time of day, publisher, or creative. For deeper measurement, Broadsign also offers third-party attribution solutions like brand lift, foot traffic, and web lift studies."
+			},
+			{
+				"id": "faq_outmoove_4",
+				"q": "Does OutMoove support Dynamic Creative Optimization (DCO)?",
+				"a": "Yes, OutMoove supports Dynamic Creative Optimization (DCO). This capability allows you to customize your ad creatives automatically in real-time based on factors such as audience demographics, location, time of day, weather conditions, and behavioral data. This ensures your ads are highly relevant and engaging, significantly boosting their impact and effectiveness."
+			},
+			{
+				"id": "faq_outmoove_5",
+				"q": "Can OutMoove campaigns run internationally?",
+				"a": "Yes. OutMoove DSP provides global reach, enabling users to plan and activate campaigns across multiple countries through a single, centralized platform. OutMoove offers access to 1.1M worldwide digital screens."
+			},
+			{
+				"id": "faq_outmoove_6",
+				"q": "What makes OutMoove different from other DOOH platforms?",
+				"a": "What sets OutMoove apart is its unique combination of advanced targeting, transparent pricing, flexible buying options, and robust analytics – all designed to empower you to run smarter, scalable programmatic DOOH campaigns that deliver measurable results."
+			}
+		]
+	},
+	"shin": {
+		"title": "Ready to run impactful DOOH campaigns?",
+		"par": "Combine expert guidance with a powerful platform to plan, activate, and optimize campaigns that drive real-world results.",
+		"cta": "Talk to a Media Specialist"
+	}
+}

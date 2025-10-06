@@ -1,0 +1,99 @@
+{
+	"seo": {
+		"title": "Beauty & Wellness",
+		"description": "Build brand awareness and generate excitement for new product launches with eye-catching DOOH displays that promote your brands in high-traffic locations and in close proximity to retail locations."
+	},
+	"apSlug": "beautyWellness",
+	"apLink": "345",
+	"apToken": "ALd5EnYXjYNcaRAnQ0YGW24ErGgu5GpQKvBvq6iB7vwcAysMM3KnkjahL6Il",
+	"playbookLink": "ujpk",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Beauty & Wellness",
+		"blurb": "Build brand awareness and generate excitement for new product launches with eye-catching DOOH displays that promote your brands in high-traffic locations and in close proximity to retail locations.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Beauty & Wellness package",
+			"ppcTitle": "Want a tour of the Beauty & Wellness package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Health & Beauty Enthusiasts"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Airports", "Luxury retail stores", "Pharmacies"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Commute to work", "Weekend shopping"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Salons, gyms, spas",
+				"outdoor": "Billboard, urban panels and transit shelters within proximity to retail stores and pharmacies"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Health & Beauty\" audience segments",
+		"list": [
+			{
+				"category": "Fitness device owners",
+				"description": "Fitness Device Owners are often women across all age groups. They are very health-conscious and often will own a variety of health-related mobile apps."
+			},
+			{
+				"category": "Health & fitness enthusiasts",
+				"description": "Health & Fitness Enthusiasts are often women female in the 25-44 age group. These enthusiasts own a variety of health-conscious apps."
+			},
+			{
+				"category": "Influencers",
+				"description": "Influencers are evenly distributed across genders and are most often in the 18-24, 25-34 and 35-44 age groups."
+			},
+			{
+				"category": "Home chefs",
+				"description": "Home Chefs are often women in the 25-44 age group. They are usually working parents, conscious of the food they eat, are into fitness and health and have a household income of $40k+."
+			},
+			{ "category": "Singles", "description": "Singles skew male and over 60% of this audience is in the 18-34 year age ranges." },
+			{
+				"category": "Social influencers",
+				"description": "Social Influencers are evenly distributed across genders. They are most likely in the 18-24 and 25-34 year age ranges, and equally distributed across 35-55+ age ranges. This audience is busy influencing products and/or services with the help of social media apps."
+			},
+			{
+				"category": "Concertgoers",
+				"description": "Concertgoers slightly skew towards women in the 25-34 year age range. This audience is either looking for their next show or big event or on their way to a concert."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Amplify your omnichannel marketing strategy with DOOH",
+		"list": [
+			"Incorporate DOOH advertising into your campaign to drive product awareness, consideration and brand engagement",
+			"Create excitement for product launches that promote your brand in high-traffic locations",
+			"Reach consumers that are already in the buying mindset by advertising in close proximity to relevant retail locations "
+		]
+	},
+	"playbook": {
+		"title": "Beauty & Wellness are rising on a global scale",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Beauty & Wellness package" }
+}

@@ -1,0 +1,239 @@
+@import "../base/dependencies";
+
+#inventory_marketplace {
+	.hero {
+		h1 {
+			font-size: min(48px, 10vw);
+
+			em {
+				display: block;
+			}
+
+			.hero_ctas {
+				@include fadeInOnce(0.2s, 0.2s);
+				opacity: 0;
+			}
+		}
+	}
+
+	.video_poster {
+		box-shadow: 0px 14px 24px rgba(158, 158, 158, 0.4);
+		transition: box-shadow 0.3s ease;
+
+		&:hover {
+			box-shadow: 0px 14px 24px rgba($reflex, 0.5);
+
+			.video_poster_img {
+				opacity: 0.8;
+			}
+
+			.video_poster_play_btn {
+				box-shadow: 0px 0px 40px rgba($reflex, 1), 0px 0px 80px rgba($reflex, 0);
+			}
+		}
+	}
+
+	.video_poster_play_btn {
+		@include flexCenter;
+		border-radius: 100px;
+		box-shadow: 0px 0px 80px rgba($reflex, 1), 0px 0px 80px rgba($reflex, 1);
+		font-size: 40px;
+		height: 1em;
+		transition: box-shadow 0.3s ease;
+		width: 1em;
+	}
+
+	.video_poster_img {
+		transition: opacity 0.3s ease;
+	}
+
+	.inventory_explore {
+		$h: 170px;
+
+		.orbit_ribbon {
+			height: $h;
+		}
+
+		.orbit_item_grid {
+			height: $h;
+			gap: 8px;
+		}
+
+		.inventory_card {
+			aspect-ratio: 1;
+			box-shadow: 4px 4px 24px rgba(115, 154, 240, 0.4);
+			cursor: pointer;
+			flex: 0 0 $h;
+			height: $h;
+			transition: box-shadow 0.3s;
+			width: $h;
+
+			.card_image {
+				flex: 0 1 80px;
+				margin: 4px auto auto;
+				max-height: 88px;
+				max-width: 130px;
+
+				img,
+				picture {
+					object-fit: contain;
+				}
+			}
+
+			.card_title {
+				margin: auto auto 12px;
+			}
+
+			hr {
+				background-color: $ev;
+				height: 1px;
+				margin: 0 -8px;
+				width: calc(100% + 16px);
+			}
+
+			.card_link {
+				height: 34px;
+			}
+
+			&:hover {
+				box-shadow: 4px 4px 24px rgba(115, 154, 240, 0.8);
+
+				.link_cerulean_arrow {
+					&:after {
+						@include animateArrow;
+					}
+				}
+			}
+		}
+
+		&.static {
+			.inventory_card {
+				flex-basis: 40%;
+				max-width: 220px;
+				width: 40%;
+			}
+		}
+	}
+
+	.explore_markets {
+		.markets_grid {
+			display: grid;
+			grid-template-columns: 1fr;
+			gap: 16px;
+		}
+
+		.card {
+			$shadow: #03082f;
+			aspect-ratio: 7 / 3;
+			box-shadow: 4px 4px 16px rgba($shadow, 0);
+			transition: box-shadow 0.6s ease;
+
+			&:after {
+				background: linear-gradient(to bottom, rgba($shadow, 0) 0%, rgba($shadow, 1) 100%);
+				bottom: 0;
+				content: "";
+				height: 80px;
+				position: absolute;
+				transition: bottom 0.6s ease;
+				width: 100%;
+				z-index: 2;
+			}
+
+			&:hover {
+				box-shadow: 4px 4px 16px rgba($shadow, 0.6);
+
+				.bg {
+					transform: scale(1.4);
+				}
+
+				.arrow {
+					animation: thisWayRight 1.4s linear 0s infinite;
+				}
+			}
+		}
+
+		.link {
+			z-index: 20;
+		}
+
+		.city {
+			bottom: 16px;
+			left: 0;
+			position: absolute;
+			z-index: 10;
+		}
+
+		.arrow {
+			width: 16px;
+		}
+
+		.bg {
+			transition: transform 0.6s ease;
+		}
+
+		.more_locations_cta_box {
+			aspect-ratio: 7 / 3;
+		}
+
+		.more_locations_cta {
+			max-width: 80%;
+		}
+	}
+
+	.shin p {
+		max-width: 70ch;
+	}
+}
+
+.Modal.modal_explore_more_locations {
+	.card {
+		max-width: 540px;
+		padding: min(8vw, 32px) min(8vw, 44px);
+	}
+
+	.check {
+		height: 30px;
+		width: 30px;
+	}
+}
+
+html[lang="fr"] #inventory_marketplace {
+	.hero {
+		h1 {
+			font-size: min(9vw, 46px);
+		}
+	}
+}
+
+@media (max-width: 400px) {
+	#inventory_marketplace {
+	}
+}
+
+@media (min-width: $sm) {
+	#inventory_marketplace {
+		.explore_markets {
+			.markets_grid {
+				grid-template-columns: 1fr 1fr;
+			}
+		}
+	}
+
+	html[lang="fr"] #inventory_marketplace {
+		.hero {
+			h1 {
+				font-size: min(4.6vw, 46px);
+			}
+		}
+	}
+}
+
+@media (min-width: $md) {
+	#inventory_marketplace {
+		.explore_markets {
+			.markets_grid {
+				grid-template-columns: 1fr 1fr 1fr;
+			}
+		}
+	}
+}

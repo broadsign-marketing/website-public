@@ -1,0 +1,28 @@
+{
+	"seo": {
+		"title": "ALOOH Mexico City",
+		"description": "Join us for an intimate evening of cocktails and conversations before ALOOH Mexico City kicks off!",
+		"robots": "index follow"
+	},
+	"hero": {
+		"overtitle": "ALOOH Mexico City",
+		"title": "Connect with media owners and agencies from around the world at Broadsign's networking event",
+		"pars": [
+			"Join us for an intimate evening of cocktails and conversations before ALOOH Mexico City kicks off! ",
+			"The event will be a great opportunity to network with industry peers and participate in conversations on all the exciting things happening in the world of OOH."
+		]
+	},
+	"date": ["Tuesday, April 16th at 5:30 PM CST"],
+	"place": ["La Única", "Anatole France 98, Polanco, Polanco III Secc, Miguel Hidalgo", "11550 Ciudad de México, Mexico"],
+	"hostedBy": "Hosted by:",
+	"hosts": [
+		{ "id": "jose_delgado", "name": "Jose Delgado", "title": "Sales Director Latin America" },
+		{ "id": "natalia_rojas", "name": "Natalia Rojas", "title": "Head of Account Management" },
+		{ "id": "guillermo_garcia", "name": "Guillermo García Maruny", "title": "Director of Business Development, Programmatic Media" },
+		{ "id": "amalia_quintanilla", "name": "Amalia Quintanilla Medina", "title": "Sales Development Representative" },
+		{ "id": "joe_cotugno", "name": "Joe Cotugno", "title": "Sr. Vice President of International Operations" }
+	],
+	"googleCalendarLink": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20240416T223000Z%2F20240417T013000Z&details=Join%20us%20for%20an%20evening%20of%20cocktails%20and%20conversations%20on%20all%20the%20exciting%20things%20happening%20in%20the%20world%20of%20OOH.%20You%20won%E2%80%99t%20want%20to%20miss%20the%20opportunity%20to%20learn%20more%20about%20Broadsign%E2%80%99s%20company%20and%20product%20roadmap%20while%20networking%20with%20media%20owners%20and%20agencies%20from%20around%20the%20world%21&location=La%20%C3%9Anica%2C%20Anatole%20France%2098%2C%20Polanco%2C%20Polanco%20III%20Secc%2C%20Miguel%20Hidalgo%2C%2011550%20Ciudad%20de%20M%C3%A9xico%2C%20Mexi&text=ALOOH%20Mexico%20City",
+	"icsFileLink": "https://marketing.broadsign.com/hubfs/ICS/2024_04_alooh_mexico_city_en.ics",
+	"thankYouForRegistering": ["We look forward to seeing you in Mexico City.", "Be sure to add the event to your calendar to stay up-to-date:"]
+}

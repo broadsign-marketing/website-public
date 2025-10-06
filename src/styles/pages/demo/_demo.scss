@@ -1,0 +1,239 @@
+@include animFadeIn;
+
+#demo {
+	.skew {
+		background-color: #FFF;
+		clip-path: polygon(0% 100%, 100% 100%, 100% 0%);
+		height: 20rem;
+		left: 50%;
+		max-width: 1600px;
+		position: absolute;
+		top: 1px;
+		transform: translate(-50%, -100%);
+		width: calc(100vw + 4px);
+	}
+
+	.Hero {
+		background-color: $blue;
+		height: auto;
+		max-height: none;
+		overflow: hidden;
+		padding-bottom: calc(24rem + 30px);
+		z-index: 1;
+
+		.blob_1 {
+			background: linear-gradient(113.23deg, #00C8FF -2.16%, #0500A9 47.56%, #FF0000 84.69%, #EE6800 125.13%);
+			border-radius: 360.5px;
+			filter: blur(7rem);
+			height: 878px;
+			left: 400px;
+			position: absolute;
+			transform: rotate(-180deg);
+			width: 910px;
+			z-index: 2;
+		}
+
+		.blob_2 {
+			background: linear-gradient(115.31deg, #00C8FF -2.16%, #0500A9 47.56%, #FF0000 84.69%, #EE6800 125.13%);
+			border-radius: 360.5px;
+			filter: blur(7rem);
+			height: 1180px;
+			left: 150px;
+			position: absolute;
+			top: 160px;
+			width: 1333px;
+			z-index: 2;
+		}
+
+		.person {
+			animation: 2s ease 0s 1 normal forwards running personZoomIn;
+			bottom: 0;
+			display: none;
+			height: 100%;
+			left: -20%;
+			overflow: hidden;
+			position: absolute;
+			transform-origin: center bottom;
+			width: 50%;
+			z-index: 3;
+
+			img {
+				transform: scaleX(-1);
+			}
+		}
+
+		&>.Tank {
+			max-width: calc(78rem + 40px);
+			z-index: 10;
+		}
+
+		h1 {
+			animation: 0.6s ease-out 1s 1 normal forwards running fadeIn;
+			color: #FFF;
+			font-size: calc(clamp(26px, 6vw, 32px));
+			line-height: 120%;
+			margin: 9rem 0 3rem;
+			max-width: 30ch;
+			opacity: 0;
+			text-transform: uppercase;
+			width: 100%;
+
+			em {
+				color: $picton;
+			}
+		}
+	}
+
+	.intro {
+		display: inline-block;
+		padding-bottom: calc(24rem + 30px);
+		width: 100%;
+		z-index: 10;
+
+		.Video {
+			margin-top: -10rem;
+			max-width: 340px;
+			transform: translateY(-50%);
+			width: 100%;
+		}
+
+		.descriptions {
+			margin: -3rem 0 6rem;
+		}
+
+		p {
+			font-size: calc(clamp(18px, 3.6vw, 24px));
+			margin: 0 auto 1.6em;
+			max-width: 78rem;
+
+			em {
+				font-weight: bold;
+			}
+		}
+	}
+
+	.shin {
+		background-color: $picton;
+		display: inline-block;
+		padding-bottom: 9rem;
+		width: 100%;
+		z-index: 20;
+
+		.skew {
+			background-color: $picton;
+			transform: translate(-50%, -100%) translate(-2px, 0rem);
+		}
+
+		.screen {
+			height: auto;
+			left: 45%;
+			margin-top: -10rem;
+			max-width: 340px;
+			transform: translate(-50%, -60%);
+			width: 100%;
+		}
+
+		h3 {
+			@include fontBold;
+			font-size: calc(clamp(20px, 4vw, 24px));
+			margin: -6rem auto 6rem;
+			max-width: 78rem;
+			text-transform: none;
+		}
+
+		.list {
+			column-gap: 2rem;
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			margin: 0 auto 6rem;
+			max-width: 78rem;
+		}
+
+		.ImgHat {
+			margin-bottom: 3rem;
+
+			p {
+				@include fontBold;
+				font-size: calc(clamp(14px, 3vw, 16px));
+				margin-top: 1rem;
+				max-width: 16ch;
+				text-align: center;
+			}
+
+			img {
+				height: 85px;
+				max-width: 85px;
+				object-fit: contain;
+				width: 40vw;
+			}
+		}
+
+		.CTA {
+			display: none;
+			margin: 0 auto;
+		}
+	}
+
+	.Form {
+		.hs-error-msgs {
+			background: rgba(#FFF, 0.8);
+			border-radius: 0 0 6px 6px;
+			margin: -6px 0 0;
+			padding: 10px 8px 4px;
+		}
+
+		.hs-fieldtype-booleancheckbox {
+			.hs-error-msgs {
+				border-radius: 6px;
+				margin: 6px 0 0 30px;
+				padding: 5px 8px 4px;
+			}
+		}
+
+		.hs_error_rollup {
+			.hs-error-msgs {
+				border-radius: 8px;
+				margin: 0 0 20px;
+				padding: 8px;
+			}
+		}
+
+		.actions {
+			text-align: center;
+		}
+
+		.hs-button {
+			@include ctaColors($red, #FFF);
+			border-color: $red;
+		}
+	}
+
+	.submitted-message {
+		border-bottom: 2px solid rgba(#FFF, 0.6);
+		border-top: 2px solid rgba(#FFF, 0.6);
+		font-size: 2rem;
+		margin: 3em auto;
+		padding: min(10vw, 60px) 0;
+		text-align: center;
+
+		strong {
+			@include fontBolder;
+			color: $teal;
+			font-size: 3rem;
+		}
+
+		em {
+			font-size: 2.4rem;
+		}
+
+		span {
+			display: inline-block;
+			padding-bottom: 3rem;
+			text-decoration: none !important;
+		}
+
+		a {
+			display: none;
+		}
+	}
+}

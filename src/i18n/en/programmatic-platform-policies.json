@@ -1,0 +1,62 @@
+{
+	"seo": {
+		"title": "Broadsign Programmatic Platform Policies",
+		"description": "In order to maintain a secure and fair advertising market, all users of Broadsign's advertising platforms and services must abide by the following policies.",
+		"robots": "index, follow"
+	},
+	"title": "_Broadsign Programmatic_ _Platform Policies_",
+	"intro": "In order to maintain a secure and fair advertising market, all users of Broadsign's advertising platforms and services (OutMoove, Reach SSP, collectively known as the Services) must abide by the following policies. Those that fail to do so may have their accounts suspended or revoked at Broadsign's sole discretion.",
+	"appropriateUse": {
+		"title": "Appropriate use",
+		"p1": "The Services may only be used for the purpose of buying or selling advertising inventory in good faith. All transactions handled through the Services must be settled in full through the mechanisms provided by the Services. Opaque auction practices such as bid caching, bid trawling etc. are forbidden."
+	},
+	"security": {
+		"title": "Security",
+		"p1": "In order to maintain the security of the Services users shall not:",
+		"li1": "share their passwords or API keys or other system access credentials with others,",
+		"li2": "upload unnecessary confidential information to the Services,",
+		"li3": "upload untested code to the Services,",
+		"li4": "attempt to break, disable, overwhelm or otherwise damage the Services or invite others to do so"
+	},
+	"inventory": {
+		"title": "Inventory",
+		"p1": "All inventory and screens offered through the system must:",
+		"li1": "be legally allowed to be sold by the Publisher,",
+		"li2": "be in clear, unobstructed view of the audience,",
+		"li3": "have accurate and current meta data including but not limited to:",
+		"li31": "impression count,",
+		"li32": "audience composition,",
+		"li33": "location,",
+		"li34": "venue type, ",
+		"li35": "resolution, ",
+		"li36": "aspect ratio, ",
+		"li37": "allowed ad formats,",
+		"li38": "pricing",
+		"li4": "maintain up to date operating systems, player versions, security credentials and network protocols ",
+		"p2": "All advertising opportunities offered for sale through the system must:",
+		"li5": "accurately represent the opportunities to play an ad on the screen in question at the time offered,",
+		"li6": "be within the opening hours of the venue in question"
+	},
+	"content": {
+		"title": "Content",
+		"p1": "Inventory sellers (Publishers) reserve the right to accept or reject advertising content at their sole discretion. Publishers shall make reasonable efforts to review advertising content submitted to them in a timely manner and shall not alter the advertising content in any way.",
+		"p2": "The Services must not be used for trafficking ads that:",
+		"li1": "misrepresent the goods or services on offer,",
+		"li2": "infringe on another party's copyright or trademark,",
+		"li3": "violate the laws of the jurisdiction in which the screen is located,",
+		"li4": "contain abusive messaging,",
+		"li5": "advocate or depict:",
+		"li51": "pornographic imagery",
+		"li52": "violence against humans or animals,",
+		"li53": "advocacy against a protected group,",
+		"li6": "contain malicious software or code,",
+		"li7": "target an individual private citizen"
+	},
+	"data": {
+		"title": "Data",
+		"p1p1": "No personally identifiable information shall be used for the purpose of targeting, tracking, attribution or otherwise within the Services. All data collection, storage and sharing must be compliant with the ",
+		"p1LinkURL": "https://gdpr-info.eu/",
+		"p1LinkText": "General Data Protection Regulation",
+		"p1p2": " (GDPR) and the relevant legislation in the jurisdiction of the screens in question."
+	}
+}

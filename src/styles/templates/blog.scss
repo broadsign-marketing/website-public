@@ -1,0 +1,27 @@
+@import "../base/dependencies";
+
+.template_blog {
+	.breadcrumb {
+
+		&,
+		& * {
+			line-height: 1.2em;
+		}
+
+		.slash_after {
+			&:not(a) {
+				cursor: default;
+			}
+
+			&:after {
+				color: $ash;
+				content: "/";
+				display: inline-block;
+				margin: 0 0.4em;
+				pointer-events: none;
+			}
+		}
+	}
+
+
+}

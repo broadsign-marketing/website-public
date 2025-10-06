@@ -1,0 +1,167 @@
+@import "../base/dependencies";
+
+/* @keyframes bounce {
+	0% {
+		transform: scale(1);
+	}
+
+	50% {
+		transform: scale(0.8);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+} */
+
+
+.CaseStudyCard {
+	overflow-x: hidden;
+
+	hr {
+		background-color: $reflex;
+		max-height: 1px;
+		width: 100%;
+	}
+
+	.btn_see_details {
+		display: none;
+	}
+}
+
+.BroadsignAdsCarousel__item {
+	transition: opacity 0.6s ease 0s, max-height 0s ease 0.3s;
+}
+
+@media (max-width:$xsMax) {
+	.App__Carousel_CaseStudies {
+		&>.align-items-stretch {
+			align-items: flex-start !important;
+		}
+	}
+
+	.CaseStudyCard {
+
+		.icon {
+			height: 24px;
+			width: 24px;
+		}
+	}
+
+	.CaseStudyCard__stats_wrapper {}
+
+	.CaseStudyCard__thumbnail_wrapper {
+		top: 0px !important;
+	}
+
+	.CaseStudyCard__thumbnail {}
+
+	.BroadsignAdsCarousel__item {
+		max-height: 0px;
+		position: absolute;
+
+		&.active {
+			max-height: 5000px;
+			position: relative;
+
+			.CaseStudyCard {}
+
+			.CaseStudyCard__stats_wrapper {}
+
+			.CaseStudyCard__thumbnail_wrapper {}
+		}
+
+		&.leaving {
+			opacity: 0;
+
+			.CaseStudyCard {}
+
+			.CaseStudyCard__stats_wrapper {}
+
+			.CaseStudyCard__thumbnail_wrapper {}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	.CaseStudyCard {
+		opacity: 0;
+		overflow: hidden;
+		transition: opacity 0s linear 0.4s;
+
+		.icon {
+			height: 18px;
+			width: 18px;
+		}
+
+		.CaseStudyCard__stats_wrapper {
+			width: 60%;
+		}
+
+		.CaseStudyCard__thumbnail_wrapper {
+			height: min(50vw, calc(100vh - 120px));
+			max-height: 100%;
+			width: 40%;
+
+			&.thumb_down {
+				align-self: flex-end;
+			}
+		}
+	}
+
+	.CaseStudyCard__stats_wrapper {
+		transform: rotateY(-90deg);
+		transition: transform 0.2s ease 0s;
+
+	}
+
+	.CaseStudyCard__thumbnail_wrapper {
+		transform: rotateY(-90deg);
+		transition: transform 0.2s ease 0.2s;
+
+	}
+
+	.BroadsignAdsCarousel__item {
+		&.active {
+			.CaseStudyCard {
+				opacity: 1;
+				transition-delay: 0.4s;
+			}
+
+			.CaseStudyCard__stats_wrapper {
+				transform: rotateY(0deg);
+				transition-delay: 0.4s;
+			}
+
+			.CaseStudyCard__thumbnail_wrapper {
+				transform: rotateY(0deg);
+				transition-delay: 0.6s;
+			}
+		}
+
+		&.leaving {
+			.CaseStudyCard {}
+
+			.CaseStudyCard__stats_wrapper {
+				transform: rotateY(90deg);
+			}
+
+			.CaseStudyCard__thumbnail_wrapper {
+				transform: rotateY(90deg);
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	.CaseStudyCard {
+		.CaseStudyCard__stats_wrapper {
+			width: calc(100% - 496px);
+		}
+
+		.CaseStudyCard__thumbnail_wrapper {
+			height: 100%;
+			width: 496px;
+		}
+	}
+}

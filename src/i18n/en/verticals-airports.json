@@ -1,0 +1,54 @@
+{
+	"seo": {
+		"title": "Digital Signage in Airports",
+		"description": "Make stronger connections with passengers and families with an automated, optimized digital signage network that puts the right content and services before the right people."
+	},
+	"title": "Digital Signage in Airports",
+	"Hero": {
+		"TitlePart1": "Make your Airport",
+		"TitlePart2": "Digital Signage",
+		"TitlePart3": "Network take off",
+		"Blurb": "Light up your airports with digital signage that delivers the information and advertising travellers love to see, wherever they're headed.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Keeping passengers on time",
+			"Paragraph": "Integrate maps, wayfinding, schedules and other useful services with screens throughout your airport and help passengers get to their gates on time."
+		},
+		"Pane2": {
+			"Title": "Entertain and Inform",
+			"Paragraph": "Deliver market updates, weather, traffic, and other information or entertainment content that customers will appreciate seeing while waiting for their flight."
+		},
+		"Pane3": {
+			"Title": "Travel made More Profitable",
+			"Paragraph": "Achieve the full value of your airport screens with intelligent ad delivery that puts the right messages in front of the right passengers every single day."
+		},
+		"Pane4": {
+			"Title": "Every screen right at your Fingertips",
+			"Paragraph": "From digital signage to info kiosks and everything in between, efficiently manage every screen on your network from one centralized platform."
+		}
+	},
+	"SpielPosterAirports": {
+		"title": "Go big with Ads",
+		"text": "Sync multiple screens for local visual impact or have one brand take over all your available signage for a big signal boost that grabs attention."
+	},
+	"cards": {
+		"title": "Flexible options for maximum ad sales",
+		"par": "With specialized tools for both direct and programmatic sales teams, you can exceed sales targets and reach new buyers.",
+		"direct": "Empower your team with Campaign Planning",
+		"reach": "Sell programmatically with our Programmatic SSP"
+	},
+	"Quoteblock": {
+		"Quote": "Broadsign is now the heart of the company here. We got Broadsign and the whole company is own organized around it.",
+		"Signature": "MMD Media"
+	},
+	"Partners": {
+		"Title": "Partnerships for great Content",
+		"Tagline": "Create your own content, work with local collaborators, or enhance your screens by working with our digital signage content, wayfinding and audience analytics partners."
+	},
+	"Shin": {
+		"Title": "How can your airport signage network benefit from the Broadsign platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

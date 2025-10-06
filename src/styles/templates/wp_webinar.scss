@@ -1,0 +1,135 @@
+@import "../base/dependencies";
+
+#webinar {
+	.breadcrumb {
+
+		&,
+		& * {
+			line-height: 1.2em;
+		}
+
+		.slash_after {
+			&:not(a) {
+				cursor: default;
+			}
+
+			&:after {
+				color: $ash;
+				content: "/";
+				display: inline-block;
+				margin: 0 0.4em;
+				pointer-events: none;
+			}
+		}
+	}
+
+	h1 {
+		font-size: min(10vw, 48px);
+		text-transform: none;
+
+		.series {
+			&:after {
+				content: ":";
+				margin-right: 0.3em;
+			}
+		}
+	}
+
+	.wp-block-embed-youtube {
+		display: flex;
+		height: auto;
+		justify-content: center;
+		margin: 40px auto;
+		width: 100%;
+
+		.wp-block-embed__wrapper {
+			display: flex;
+			justify-content: center;
+			width: 100%;
+		}
+
+		iframe {
+			@include blogMediaBoxShadow;
+			aspect-ratio: 16 / 9;
+			border-radius: 10px;
+			height: auto;
+			margin: 0 auto;
+			max-width: 800px;
+			width: 100%;
+		}
+	}
+
+	.wp-embed-aspect-16-9 {
+		iframe {
+			@include blogMediaBoxShadow;
+			aspect-ratio: 16 / 9;
+			border-radius: 10px;
+			height: auto;
+			margin: 0 auto;
+			max-width: 800px;
+			width: 100%;
+		}
+	}
+
+	.gated_content {
+		height: auto;
+		max-width: 800px;
+		width: 100%;
+
+		.form_card {
+			.bg-reflex {
+				@include blogMediaBoxShadow;
+				width: min(90vw, 320px);
+			}
+
+			.poster {
+				@include bg;
+				filter: blur(6px);
+				max-width: 800px;
+				object-fit: contain;
+				pointer-events: none;
+			}
+
+			.Form {
+				background-color: $reflex;
+				z-index: 10;
+			}
+
+			p {
+				z-index: 10;
+			}
+		}
+	}
+
+	.related_video {
+		overflow: hidden;
+		transition: box-shadow 0.3s;
+
+		.thumbnail {
+			height: 160px;
+		}
+
+		.description {
+			flex: 0 0 calc(100% - 160px);
+		}
+
+		&:hover {
+			@include blogMediaBoxShadow;
+
+			.link_cerulean_arrow {
+				&:after {
+					@include animateArrow;
+				}
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#webinar {
+		.wp-block-embed-youtube {
+			margin-bottom: 80px;
+			margin-top: 80px;
+		}
+	}
+}

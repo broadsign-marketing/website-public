@@ -1,0 +1,115 @@
+{
+	"seo": {
+		"title": "Campañas basadas en la audiencia",
+		"description": "El servidor de anuncios de Broadsign le brinda herramientas de segmentación sofisticadas para ayudar a sus equipos de ventas a planificar y vender campañas, optimizar su inventario y llegar a audiencias objetivo en los momentos más convincentes."
+	},
+	"hero": {
+		"overtitle": "Campañas basadas en la audiencia",
+		"title": "Descubra nuevas oportunidades e ingresos adicionales",
+		"blurb": "El servidor de anuncios de Broadsign le brinda herramientas de segmentación sofisticadas para ayudar a sus equipos de ventas a planificar y vender campañas, optimizar su inventario y llegar a audiencias objetivo en los momentos más convincentes.",
+		"videoTitle": "¡Descubra cómo las campañas de audiencia pueden elevar su negocio!",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"before_after": {
+		"title": "El enfoque reducido y la flexibilidad limitada en las ventas directas son cosas del pasado",
+		"before": {
+			"title": "Su vida hoy",
+			"list": [
+				"Carece de capacidades de segmentación para ofrecer campañas contextuales",
+				"Depende de ventas de última hora para llenar inventario no vendido",
+				"Requiere un esfuerzo administrativo extenso para ejecutar campañas"
+			]
+		},
+		"after": {
+			"title": "Con el Servidor de Anuncios de Broadsign",
+			"list": [
+				"Puede construir campañas utilizando audiencias y desencadenadores contextuales como la edad, ubicación y clima",
+				"Puede vender campañas de última hora basadas en impresiones, mostrando el anuncio solo cuando hay disponibilidad",
+				"Puede optimizar la carga de trabajo de su equipo de operaciones publicitarias, facilitando la reserva de campañas de último minuto"
+			]
+		}
+	},
+	"features": {
+		"overtitle": "Casos de uso",
+		"title": "Descubra nuevas oportunidades e ingresos adicionales",
+		"feature_targeting": {
+			"overtitle": "Herramientas de segmentación sofisticadas",
+			"title": "Llegue a las audiencias en el momento más relevante",
+			"par": "Una marca global de deportes y estilo de vida está lanzando un nuevo calzado y quiere utilizar la publicidad digital fuera de casa (DOOH) para llegar a sus clientes en movimiento. Las campañas basadas en la audiencia les permite dirigirse a su audiencia prevista hasta el grupo de edad y seleccionar los mejores entornos, como gimnasios o centros comerciales, para llegar a sus clientes."
+		},
+		"feature_delivery": {
+			"overtitle": "Entrega flexible de campañas",
+			"title": "Diga adiós al contenido de relleno y a los espacios ignorados",
+			"par": "Un propietario de medios se da cuenta de que el 30 % de su inventario mensual presenta contenido de relleno, como fragmentos meteorológicos y noticias. Deciden vender estos espacios no vendidos a través de las campañas de audiencia de Broadsign, que asignará el espacio a la campaña que pague más. Esto les permite generar más ingresos que si los vendieran con un gran descuento o transmitieran contenido de relleno."
+		},
+		"feature_revenue": {
+			"overtitle": "Optimización de inventario e ingresos",
+			"title": "Adapte el presupuesto a todos los tamaños",
+			"par": "Una pequeña empresa desea anunciarse en una pantalla cerca de su tienda con un presupuesto de $10,000 al año. Reservar esa campaña a través de las campañas basadas en la audiencia les permite mostrar su anuncio durante los próximos 12 meses solo cuando hay espacio, creando más disponibilidad para campañas garantizadas a largo plazo."
+		}
+	},
+	"lattice": {
+		"title": "Beneficios",
+		"boxes": [
+			{
+				"id": "money",
+				"title": "Monetice espacios vacíos, no vendidos o saltados",
+				"par": "Venda campañas de última hora basadas en impresiones para llenar inventarios no vendidos, permitiéndose monetizar cada espacio."
+			},
+			{
+				"id": "report",
+				"title": "Ejecute y monitorice campañas en tiempo real",
+				"par": "Realice un seguimiento de KPI relevantes como impresiones, presupuesto gastado y anuncios servidos a través de una plataforma de informes integral."
+			},
+			{
+				"id": "people",
+				"title": "Amplíe su base de clientes",
+				"par": "Haga que las campañas locales sean más rentables con una mayor agilidad en los tiempos de activación de la campaña y flexibilidad en la entrega de la campaña."
+			},
+			{
+				"id": "trigger",
+				"title": "Venda campañas premium desencadenadas por datos",
+				"par": "Dirija entornos y demografías, y aproveche los desencadenantes basados en momentos, como el clima y momentos financieros."
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_audience_campaigns_1",
+				"q": "¿Qué son las campañas basadas en la audiencia?",
+				"a": "El módulo Audience Campaigns está disponible a través de la plataforma Broadsign y permite a los equipos de ventas directas de los propietarios de medios vender campañas no garantizadas basadas en impresiones que incluyen segmentación de audiencia y demográfica."
+			},
+			{
+				"id": "faq_audience_campaigns_2",
+				"q": "¿Es necesario utilizar capacidades de segmentación para cada campaña?",
+				"a": "No es necesario incluir capacidades de segmentación en cada campaña; ¡puede ajustarse según las necesidades de su comprador! Algunos de nuestros clientes han comenzado centrándose en llenar espacios previamente vacíos con campañas de presupuesto más pequeño, por ejemplo."
+			},
+			{
+				"id": "faq_audience_campaigns_3",
+				"q": "¿Cuál es un ejemplo de un desencadenante contextual?",
+				"a": "El clima y los momentos financieros son dos desencadenantes contextuales disponibles en las campañas de audiencia. Por ejemplo, activar un anuncio para que se muestre cuando la temperatura alcance más de 20°C para llegar a los consumidores que podrían considerar comprar un helado o café helado, o activar un anuncio para que se muestre cuando el precio del bitcoin haya subido."
+			},
+			{
+				"id": "faq_audience_campaigns_4",
+				"q": "¿Cómo difiere esto de las campañas no preferentes?",
+				"a": "Estas campañas tienen un objetivo de impresiones, lo que significa que el ritmo se ajustará según la entrega de impresiones y la campaña se detendrá automáticamente cuando se alcance el objetivo."
+			}
+		]
+	},
+	"featuredPost": {
+		"tagline": "Obtenga más información sobre las campañas de audiencia",
+		"title": "Descubra nuevas oportunidades e ingresos adicionales con las campañas basadas en la audiencia de Broadsign",
+		"cta": "Más información"
+	},
+	"shin": {
+		"title": "¡Optimice su inventario para monetizar sus espacios publicitarios no vendidos hoy mismo!",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	}
+}

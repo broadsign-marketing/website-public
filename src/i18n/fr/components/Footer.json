@@ -1,0 +1,225 @@
+{
+	"sections": [
+		{
+			"id": "mediaOwners",
+			"label": "Pour les propriétaires de médias",
+			"links": [
+				{
+					"label": "Plateforme Broadsign",
+					"to": "broadsignPlatform"
+				},
+				{
+					"label": "Gestion de campagnes",
+					"to": "campaignPlanning"
+				},
+				{
+					"label": "Campagnes d'audience et diffusion d'annonces",
+					"to": "audienceCampaigns"
+				},
+				{
+					"label": "Gestion du contenu et du réseau",
+					"to": "contentNetworkManagement"
+				},
+				{
+					"label": "Campagnes et gestion statiques",
+					"to": "staticOperations"
+				},
+				{
+					"label": "Plateforme SSP programmatique mondiale",
+					"to": "globalProgrammaticSSP"
+				},
+				{
+					"label": "Affichage numérique de messages locaux",
+					"to": "localSignageMessaging"
+				},
+				{
+					"label": "Nos forfaits",
+					"to": "plans"
+				}
+			]
+		},
+		{
+			"id": "verticals",
+			"label": "Solutions par industrie",
+			"links": [
+				{
+					"label": "Commerce de Détail",
+					"to": "verticalRetail"
+				},
+				{
+					"label": "Aéroports",
+					"to": "verticalAirports"
+				},
+				{
+					"label": "Banques",
+					"to": "verticalBanking"
+				},
+				{
+					"label": "Casinos",
+					"to": "verticalCasino"
+				},
+				{
+					"label": "Cinéma",
+					"to": "verticalCinema"
+				},
+				{
+					"label": "Stations-services",
+					"to": "verticalGasStations"
+				},
+				{
+					"label": "Soins de santé",
+					"to": "verticalHealthcare"
+				},
+				{
+					"label": "Hôtel",
+					"to": "verticalHotels"
+				},
+				{
+					"label": "Communications internes",
+					"to": "verticalInternalCommunications"
+				},
+				{
+					"label": "Extérieur",
+					"to": "verticalOutdoor"
+				},
+				{
+					"label": "Centres commerciaux",
+					"to": "verticalShoppingMall"
+				},
+				{
+					"label": "Villes intelligentes",
+					"to": "verticalSmartCities"
+				},
+				{
+					"label": "Transports",
+					"to": "verticalTransit"
+				}
+			]
+		},
+		{
+			"id": "agencies",
+			"label": "Pour les marques et agences",
+			"links": [
+				{
+					"label": "Lancez une campagne programmatique",
+					"to": "launchPDOOHCampaign"
+				},
+				{
+					"label": "DSP OutMoove",
+					"to": "outmoove"
+				},
+				{
+					"label": "Partenaires DSP",
+					"to": "dspPartners"
+				},
+				{
+					"label": "Inventaire",
+					"to": "inventoryMarketplace"
+				},
+				{
+					"label": "Mesures et attribution",
+					"to": "measurementAttribution"
+				}
+			]
+		},
+		{
+			"id": "resources",
+			"label": "Ressources",
+			"links": [
+				{
+					"label": "Blogue",
+					"to": "blog"
+				},
+				{
+					"label": "Livres électroniques et webinaires",
+					"to": "resources"
+				},
+				{
+					"label": "DOOHX Certification",
+					"to": "https://www.doohx.io/"
+				},
+				{
+					"label": "Documentation de produits",
+					"to": "documentation"
+				},
+				{
+					"label": "État des services Broadsign",
+					"to": "https://status.broadsign.com/"
+				}
+			]
+		},
+		{
+			"id": "broadsign",
+			"label": "Broadsign",
+			"links": [
+				{
+					"label": "Qui Sommes-Nous?",
+					"to": "whoWeAre"
+				},
+				{
+					"label": "Notre histoire",
+					"to": "ourStory"
+				},
+				{
+					"label": "Rejoignez-nous",
+					"to": "contact"
+				},
+				{
+					"label": "Carrières",
+					"to": "careers"
+				},
+				{
+					"label": "Déclaration de sécurité",
+					"to": "securityStatement"
+				},
+				{
+					"label": "Déclaration de durabilité",
+					"to": "sustainabilityStatement"
+				}
+			]
+		},
+		{
+			"id": "accounts",
+			"label": "Comptes Broadsign",
+			"links": [
+				{
+					"label": "Se connecter à la plateforme Broadsign",
+					"to": "https://app.broadsign.com/"
+				},
+				{
+					"label": "Se connecter à OutMoove par Broadsign",
+					"to": "https://console.outmoove.com/auth/login"
+				},
+				{
+					"label": "Se connecter à la communauté Broadsign",
+					"to": "https://broadsign.force.com/"
+				}
+			]
+		}
+	],
+	"social": {
+		"facebook": {
+			"title": "Donnez-nous un \"Like\" sur Facebook!"
+		},
+		"linkedin": {
+			"title": "Rejoignez-nous sur LinkedIn!"
+		},
+		"x": {
+			"title": "Suivez-nous sur X!"
+		},
+		"youtube": {
+			"title": "Regardez-nous sur Youtube!"
+		}
+	},
+	"privacy": [
+		{
+			"label": "Politique de confidentialité",
+			"to": "privacyPolicy"
+		},
+		{
+			"label": "Politiques de la plateforme programmatique",
+			"to": "programmaticPlatformPolicies"
+		}
+	],
+	"cookiePreferences": "Préférences de cookies"
+}

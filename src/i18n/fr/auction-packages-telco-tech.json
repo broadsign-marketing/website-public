@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "Télécommunications et technologie",
+		"description": "Faites connaître votre marque et imposez-la à l'esprit des utilisateurs d'appareils mobiles tout au long de la journée, avec des publicités par affichage extérieur numérique à des moments stratégiques durant leur parcours d'achat."
+	},
+	"apSlug": "telco",
+	"apLink": "348",
+	"apToken": "UW1F9hVm8hC0ezNKEkLQZc33oscytMTqFDnsFkLQ3rcLcck8X9UWcZOzv1Su",
+	"playbookLink": "ufnl",
+
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Télécommunications et technologie",
+		"blurb": "Faites connaître votre marque et imposez-la à l'esprit des utilisateurs d'appareils mobiles tout au long de la journée, avec des publicités par affichage extérieur numérique à des moments stratégiques durant leur parcours d'achat.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Télécommunications et technologie package",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Passionnés de technologie et de gadgets"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Centres commerciaux", "résidences", "immeubles de bureaux"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Trajet d'aller-retour pour le travail", "Heures d'ouverture des détaillants"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "tous les affichages qui visent le public ciblé",
+				"placeBased": "centres commerciaux et points de vente de détail",
+				"outdoor": "panneaux-réclames, panneaux urbains et abribus à proximité de points de vente"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "",
+				"content": "Play relevant ads based on technology stock prices"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Télécommunications et technologie »",
+		"list": [
+			{
+				"category": "Acheteurs d'appareils électroniques",
+				"description": "Les acheteurs d'électronique sont habituellement des hommes de tous âges. Ils magasinent ici et là pour trouver la prochaine technologie à se procurer."
+			},
+			{
+				"category": "Adeptes de domotique",
+				"description": "Les adeptes de domotique sont autant des hommes que des femmes, de tous âges. Ils cherchent à créer un environnement domestique à la fine pointe et ils utilisent les applications les plus récentes et les plus performantes pour automatiser leur maison intelligente."
+			},
+			{
+				"category": "Adeptes du divertissement à domicile",
+				"description": "Les adeptes du divertissement à domicile sont autant des hommes que des femmes. Ils sont habituellement âgés de 25 à 34 ans, de 35 à 44 ans ou de 45 à 54 ans. Ceux-ci alimentent leurs systèmes de divertissement à domicile avec des applications mobiles."
+			},
+			{
+				"category": "Utilisateurs de téléphones prépayés",
+				"description": "Les utilisateurs de téléphones prépayés sont répartis équitablement entre les genres et les groupes d'âge, avec une concentration de 55 ans et plus."
+			},
+			{
+				"category": "Passionnés de technologie et de gadgets",
+				"description": "Les passionnés de technologie et de gadgets sont autant des hommes que des femmes. Plus de 50 % de ce public est âgé de 25 à 34 ans ou de 35 à 44 ans. Le revenu familial de près de 50 % des passionnés de technologie et de gadgets est supérieur à 100 000 $."
+			},
+			{
+				"category": "Acheteurs de technologie et de gadgets",
+				"description": "Les acheteurs de technologie et de gadgets sont autant des hommes que des femmes, souvent âgés de 25 à 55 ans et plus. Ce public est à l'affût de technologie et de gadgets et il évalue ses dernières trouvailles par le biais d'applications."
+			},
+			{
+				"category": "Utilisateurs d'applications de recherche de points d'accès Wi-Fi",
+				"description": "Les utilisateurs d'application de recherche de Wi-Fi font partie des deux genres et de tous les groupes d'âge. Ils recherchent toujours le signal Wi-Fi le plus fort pour visionner un film ou une série télé."
+			},
+			{
+				"category": "Détenteurs de forfaits d'applications sans fil",
+				"description": "Les détenteurs d'applications sans fil sont autant des hommes que des femmes et répartis équitablement entre les groupes d'âge, avec une concentration de 55 ans et plus."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Renforcez l'achalandage en magasin, les ventes de téléphones mobiles, les abonnements, et plus!",
+		"list": [
+			"Attirez les consommateurs en magasin avec des publicités par affichage extérieur numérique stratégiquement placées à proximité de vos points d'intérêt.",
+			"Mettez en valeur vos dernières promotions comme des données illimitées ou des forfaits familiaux pour générer des abonnements à votre réseau",
+			"Misez sur les tendances saisonnières comme le retour en classe pour sensibiliser des publics qui songent possiblement à s'acheter un appareil ou à le mettre à niveau"
+		]
+	},
+	"playbook": {
+		"title": "Faites connaître votre réseau grâce à l'affichage extérieur numérique.",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Télécommunications et technologie" }
+}

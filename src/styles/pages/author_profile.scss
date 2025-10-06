@@ -1,0 +1,18 @@
+@import "../base/dependencies";
+@import "./blog/blog_grid";
+@import "./blog/wp_blocks";
+@import "./blog/blog_subnav";
+@import "./blog/blog_main_page";
+@import "./blog/blog_post";
+
+@include animThisWayRight;
+
+.author_profile {
+	.bio {
+		p:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+}
+
+@media (min-width:$sm) {}

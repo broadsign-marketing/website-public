@@ -1,0 +1,221 @@
+{
+	"seo": {
+		"title": "Targeted Advertising in New York City | Broadsign Billboard & OOH Packages",
+		"description": "Advertise in New York City with Broadsign's targeted billboard and OOH inventory packages. Reach your audience at prime locations, venues, and points of interest throughout NYC. Maximize your advertising impact with Broadsign's strategic placements."
+	},
+	"apSlug": "nyc",
+	"apLink": "3182",
+	"apToken": "7piKb5yWjEFzcr2henQWiBcofPK6Mo0FNJvjgvl4I6XhDuoqX67ztcDonVxU",
+	"hero": {
+		"overtitle": "NYC Billboards",
+		"title": "Billboard and Out-of-Home Advertising in New York City",
+		"blurb": [
+			"Looking to advertise in New York City? Unlock targeted advertising opportunities with Broadsign's curated billboard and OOH inventory packages. Reach your audience wherever they are with inventory strategically placed to target specific venue types, locations, and points of interest throughout NYC."
+		],
+		"ctaLaunchCampaign": "Launch a Billboard Campaign",
+		"ctaExplore": "Explore Advertising Inventory"
+	},
+	"opportunities": {
+		"title": "Unlock advertising opportunities in NYC",
+		"blurb": "As the #1 media market in the U.S., the opportunities for out-of-home and billboard advertising in New York City are extensive.",
+		"list": [
+			{
+				"id": "diversity",
+				"title": "Demographics & Diversity",
+				"blurb": "A rich blend of cultures, backgrounds, and lifestyles, the city's diverse market offers significant possibilities for advertisers to connect with a broad spectrum of desirable consumers.",
+				"features": [
+					{
+						"id": "family",
+						"text": "8.5 million people and 3.1 million households across the five boroughs"
+					},
+					{
+						"id": "female",
+						"text": "52% of the population made up of women"
+					},
+					{
+						"id": "id",
+						"text": "Average population age of 37 years old"
+					}
+				]
+			},
+			{
+				"id": "income",
+				"title": "Income & Education",
+				"blurb": "New York City is a highly desirable market with a population that surpasses the national average education and income levels.",
+				"features": [
+					{
+						"id": "household",
+						"text": "Mean household income close to $115,000"
+					},
+					{
+						"id": "income",
+						"text": "Median income of nearly $77,000"
+					},
+					{
+						"id": "school",
+						"text": "Over 45% of residents have a college degree or higher"
+					},
+					{
+						"id": "business",
+						"text": "Nearly 65% have a white-collar job"
+					}
+				]
+			},
+			{
+				"id": "travel",
+				"title": "Transportation & Travel",
+				"blurb": "The city holds one of the busiest and most extensive transportation networks in the world.",
+				"features": [
+					{
+						"id": "airport",
+						"text": "Home to three major airports (La Guardia, JFK, Newark)"
+					},
+					{
+						"id": "camera",
+						"text": "Over 60 million tourists visit each year"
+					},
+					{
+						"id": "subway",
+						"text": "Over 36 subway lines and 470 stations"
+					},
+					{
+						"id": "groups",
+						"text": "Nearly 1 million workers enter NYC every day, representing 20% of the city's workforce"
+					}
+				]
+			}
+		]
+	},
+	"ctaBox1": {
+		"title": "Looking to advertise in NYC?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"topPackages": {
+		"title": "Explore digital OOH inventory packages for top audience segments in NYC",
+		"blurb": "See our curated billboard and screen packages tailored for specific audiences around top advertising verticals in New York City. Each package includes diverse environments, venue types, and demographics to boost brand visibility.",
+		"list": [
+			{
+				"slug": "entertainmentMedia",
+				"linkID": "2097",
+				"token": "5xGoXjwpXX1ZKiaI9VT82koigzAJOtyC9gfhUpJ7bkoljeGdOSHZA2kPd7re"
+			},
+			{
+				"slug": "finances",
+				"linkID": "2093",
+				"token": "GFJVkzR0qlmA9UIgJeVTxNWKT3sGHDy1lMLqAw0KbBGrSMc4BrGLdprbphZL"
+			},
+			{
+				"slug": "retail",
+				"linkID": "2089",
+				"token": "1O9Ia8e2IdRko8s6my0F08U2V5JdkDdbtQ71HQYs2VpfOvg2A7aEMLN2mNtw"
+			},
+			{
+				"slug": "sportsBetting",
+				"linkID": "2095",
+				"token": "w4zdSrJg263BVDXqRBGe3LgKyd7BiZo6eQ8s2fqT54s30y8Nx3FUcCcAkWGl"
+			},
+			{
+				"slug": "telco",
+				"linkID": "2094",
+				"token": "Ovk6YhdiBfA7TTxmwGxjpelMJkCQ7izcYac8xhykKjYysauNRTO4mBHKtC3w"
+			},
+			{
+				"slug": "travelTourism",
+				"linkID": "2088",
+				"token": "JNgi67AWh8sIcct1foJCEtXbfTTHh05XSh4ln20NkmFkjOpbOfvEknz6qfcg"
+			}
+		],
+		"cta": "Explore our inventory packages"
+	},
+	"billboards": {
+		"title": "Types of billboards and OOH formats in New York City",
+		"list": [
+			{
+				"title": "Outdoor",
+				"types": [
+					{
+						"name": "Billboards",
+						"avgCPM": "$12.7",
+						"dailyImpressions": "+3.5M",
+						"commonSizing": ["20ft x 60ft", "14ft x 48ft"]
+					},
+					{
+						"name": "Urban Panels",
+						"avgCPM": "$12.7",
+						"dailyImpressions": "+3.5M",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					}
+				]
+			},
+			{
+				"title": "Street Furniture & Transit",
+				"types": [
+					{
+						"name": "Subway",
+						"avgCPM": "$5.3",
+						"dailyImpressions": "+65k",
+						"commonSizing": ["2ft x 2ft"]
+					},
+					{
+						"name": "Train Stations",
+						"avgCPM": "$6.2",
+						"dailyImpressions": "+67k",
+						"commonSizing": ["5ft x 3ft"]
+					},
+					{
+						"name": "Taxi & Rideshare Toppers",
+						"avgCPM": "$4.0",
+						"dailyImpressions": "+77k",
+						"commonSizing": ["2ft x 4ft"]
+					}
+				]
+			},
+			{
+				"title": "Place-Based",
+				"types": [
+					{
+						"name": "Office Buildings",
+						"avgCPM": "$8.7",
+						"dailyImpressions": "+100k",
+						"commonSizing": ["4ft x 6ft"]
+					},
+					{
+						"name": "Apartment Buildings",
+						"avgCPM": "$8.4",
+						"dailyImpressions": "+15k",
+						"commonSizing": ["4ft x 6ft"]
+					},
+					{
+						"name": "Bars",
+						"avgCPM": "$6.7",
+						"dailyImpressions": "+113k",
+						"commonSizing": ["2ft x 2ft"]
+					},
+					{
+						"name": "Hotels",
+						"avgCPM": "$8.6",
+						"dailyImpressions": "+110k",
+						"commonSizing": ["4ft x 6ft"]
+					}
+				]
+			}
+		]
+	},
+	"ctaBox2": {
+		"title": "Found the OOH format in NYC you were looking for?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explore More Markets"
+	},
+	"modalExplorePackage": {
+		"title": "Explore our $$$ package"
+	},
+	"faq": [
+		{
+			"id": "faq_inventory_marketplace_nyc_1",
+			"q": "",
+			"a": ""
+		}
+	]
+}

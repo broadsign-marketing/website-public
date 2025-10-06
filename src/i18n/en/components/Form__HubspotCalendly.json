@@ -1,0 +1,18 @@
+{
+	"submitTexts": {
+		"default": [
+			{ "extraClassNames": "h4", "text": "Thanks for your interest in Broadsign!" },
+			{ "extraClassNames": "text-20", "text": "A member of our team will be in touch shortly to schedule a meeting." }
+		],
+		"event2025CSPRetailForum": [
+			{
+				"extraClassNames": "text-reflex text-20 font-bold line-height-140 mb-5",
+				"text": "Thanks for entering our $250 gift card giveaway and taking the first step toward unlocking new revenue with Broadsign."
+			},
+			{
+				"extraClassNames": "",
+				"text": "If you're selected as the lucky winner, we'll reach out to you directly via email after the deadline. Good luck, and we look forward to connecting!"
+			}
+		]
+	}
+}

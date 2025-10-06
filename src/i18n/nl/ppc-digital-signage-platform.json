@@ -1,0 +1,78 @@
+{
+	"seo": {
+		"title": "Digital Signage-software",
+		"description": "De digital signage-software van Broadsign maakt het eenvoudiger dan ooit om wereldwijd digitale out-of-home-campagnes te kopen, verkopen en leveren."
+	},
+	"form": {
+		"title": "Start vandaag nog uw gratis proefperiode"
+	},
+	"hero": {
+		"title1": "Intelligente oplossingen",
+		"title2": "voor out-of-home",
+		"tagline": "Dankzij onze software kunnen OOH-bedrijven meer inkomsten genereren, sneller werken en groeien zonder grenzen.",
+		"cta": "Profiteer van een gratis proefperiode"
+	},
+	"videoTitle": "Inleiding tot Broadsign Control",
+	"success": {
+		"title": "Je OOH-bedrijf draait beter met Broadsign",
+		"laptop1": {
+			"bulletPoint1": {
+				"title": "Automatiseer je netwerk",
+				"text": "Stroomlijn de planning en uitvoering van campagnes met onze oplossing voor netwerk management en contentbeheer."
+			},
+			"bulletPoint2": {
+				"title": "Maximaliseer inkomsten",
+				"text": "Verkoop meer en maximaliseer je winst met een speciale salesoplossing voor OOH."
+			}
+		},
+		"laptop2": {
+			"bulletPoint1": {
+				"title": "Betreed het programmatic tijdperk",
+				"text": "Open je netwerk voor digitale kopers wereldwijd met een zelfserviceplatform voor programmatic DOOH."
+			},
+			"bulletPoint2": {
+				"title": "Maak verbinding met de tools die je kent en waardeert",
+				"text": "Integreer sensors, datafeeds, analysetools en alle andere dingen die je bedrijf nodig heeft"
+			}
+		}
+	},
+	"benefits": {
+		"title": "De voordelen van Broadsign",
+		"benefit1": {
+			"title": "Verbeter je salesproces",
+			"text": "Sluit geweldige deals sneller, laat ons systeem je boekingen automatisch optimaliseren en genereer meer inkomsten"
+		},
+		"benefit2": {
+			"title": "Creëer nieuwe inkomstenstromen",
+			"text": "Diversifieer je bedrijf door je reclamemiddelen beschikbaar te maken voor kopers van digitale advertenties"
+		},
+		"benefit3": {
+			"title": "Bespaar meer tijd",
+			"text": "Verspil minder tijd aan repetitieve taken en geef je team de vrijheid om zich op het grotere plaatje te concentreren"
+		}
+	},
+	"logosList": {
+		"title": "We werken met de grootste namen in OOH"
+	},
+	"customers": {
+		"title": "Hoor wat onze klanten zeggen",
+		"quotes": [
+			{
+				"quote": "Sinds onze overstap naar Broadsign hebben we onze workflows kunnen stroomlijnen, zijn we flexibeler geworden en kunnen we sneller reageren op last-minute wijzigingen van adverteerders.",
+				"sign": "Amanda, Lightbox"
+			},
+			{
+				"quote": "We waren in staat om ons bedrijf voor een groot deel op te schalen dankzij de samenwerking met Broadsign.",
+				"sign": "Sebastian, Broadcast Media"
+			},
+			{
+				"quote": "Dankzij Broadsign Direct is ons verkoopteam nu in staat om binnen enkele minuten complexe advertentiecampagnes over ons hele netwerk te boeken.",
+				"sign": "Adrian, Intersection"
+			}
+		]
+	},
+	"floatingBanner": {
+		"tagline": "Start vandaag nog uw gratis proefperiode",
+		"cta": "Klik hier"
+	}
+}

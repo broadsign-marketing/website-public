@@ -1,0 +1,100 @@
+@import "../base/dependencies";
+
+#partners_zitcha {
+	.hero {
+
+		&.empty {
+			height: 62.8vw;
+		}
+	}
+}
+
+.Modal.zitcha {
+	.card {
+		max-width: 530px;
+	}
+
+	.Form .field>label {
+		display: none;
+	}
+}
+
+@media (max-width:$xsMax) {
+	#partners_zitcha {
+		.hero {
+			height: auto;
+		}
+	}
+}
+
+@media (max-width:$xsMax) {
+	#partners_zitcha {
+		.CTA {
+			padding-bottom: 0.75em;
+			padding-top: 0.8em;
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#partners_zitcha {
+		.hero {
+			background:
+				url("../../img/pages/partners/zitcha/hero_gradients.png") var(--bg-posx, -200vw) 50% / cover no-repeat,
+				url("../../img/pages/partners/zitcha/hero_bg.png") 80% center / cover no-repeat;
+			height: 70vw;
+			max-height: 530px;
+			background-blend-mode: multiply;
+
+			&>.gatsby-image-wrapper {
+				height: 70vw;
+				max-height: 530px;
+				position: absolute;
+				right: 0;
+				top: 0;
+				width: auto;
+
+				img,
+				picture {
+					left: auto;
+					object-fit: contain;
+					object-position: 50% 60%;
+					right: 0;
+				}
+			}
+
+			.blurb {
+				font-size: min(3.6vw, 34px);
+			}
+		}
+
+		.hero_title {
+			max-width: 380px;
+			width: 100%;
+		}
+
+		.hero_content {
+			max-width: 530px;
+			width: 50vw;
+		}
+
+		.hero_people {
+			bottom: max(-15vw, -100px);
+			position: absolute;
+			right: min(2vw, 80px);
+			width: min(40vw, 310px);
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#partners_zitcha {}
+}
+
+@media (min-width:$lg) {
+	#partners_zitcha {}
+}
+
+@media (min-width:$xl) {
+	#partners_zitcha {}
+}

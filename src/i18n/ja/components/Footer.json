@@ -1,0 +1,85 @@
+{
+	"sections": [
+		{
+			"id": "products",
+			"label": "製品",
+			"links": [
+				{
+					"label": "プラットフォーム",
+					"to": "broadsignPlatform"
+				},
+				{
+					"label": "キャンペーンプランニングと広告配信",
+					"to": "campaignPlanning"
+				},
+				{
+					"label": "コンテンツ&ネットワーク管理",
+					"to": "contentNetworkManagement"
+				},
+				{
+					"label": "スタティック広告キャンペーン",
+					"to": "staticOperations"
+				},
+				{
+					"label": "グローバルなプログラマティック サプライサイド プラットフォーム",
+					"to": "globalProgrammaticSSP"
+				},
+				{
+					"label": "ローカルサイネージメッセージ",
+					"to": "localSignageMessaging"
+				},
+				{
+					"label": "提供しているプラン",
+					"to": "plans"
+				}
+			]
+		},
+		{
+			"id": "company",
+			"label": "会社＆ニュース",
+			"links": [
+				{
+					"label": "会社概要",
+					"to": "whoWeAre"
+				},
+				{
+					"label": "ブログ",
+					"to": "blog"
+				}
+			]
+		},
+		{
+			"id": "portal",
+			"label": "顧客ツール",
+			"links": [
+				{
+					"label": "製品ドキュメントへのリンク",
+					"to": "documentation"
+				},
+				{
+					"label": "ブロードサインコミュニティ",
+					"to": "https://broadsign.force.com/"
+				},
+				{
+					"label": "Broadsignサービスのステータス",
+					"to": "https://status.broadsign.com/"
+				}
+			]
+		}
+	],
+	"social": {
+		"facebook": {
+			"title": "Like us on Facebook!"
+		},
+		"linkedin": {
+			"title": "Join us on LinkedIn!"
+		},
+		"x": {
+			"title": "Follow us on X!"
+		},
+		"youtube": {
+			"title": "Watch us on Youtube!"
+		}
+	},
+	"cookiePreferences": "Cookie 設定"
+}

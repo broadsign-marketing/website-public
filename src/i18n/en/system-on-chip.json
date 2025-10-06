@@ -1,0 +1,45 @@
+{
+	"seo": {
+		"title": "Broadsign for System-on-Chip",
+		"description": "The world's leading OOH digital signage solution, tailor-made for smart screens."
+	},
+	"hero": {
+		"nowAvailable": "Now available",
+		"title": "Broadsign for System-on-Chip",
+		"tagline": "The world's leading OOH digital signage solution, tailor-made for smart screens."
+	},
+	"features": {
+		"overtitle": "Your smart screens can do more than you think",
+		"title": "Expand your digital signage network capabilities and open the door to ad-based content",
+		"list": [
+			{
+				"id": "management",
+				"title": "Access advanced content management capabilities",
+				"description": "Access Broadsign's market-leading CMS capabilities such as intelligent playlist generation, proof-of-play reporting and dynamic campaign delivery."
+			},
+			{
+				"id": "network",
+				"title": "Simplify your network",
+				"description": "Centrally manage all of your screens and save time by simplifying your DOOH management tasks."
+			},
+			{
+				"id": "revenue",
+				"title": "Unlock additional revenue",
+				"description": "Unlock advertising revenue by integrating your displays with our programmatic SSP and our dedicated OOH campaign management solution."
+			},
+			{
+				"id": "growth",
+				"title": "Grow the way you want to",
+				"description": "Boost the efficiency of your OOH business with our automated workflows that help small teams manage huge networks."
+			}
+		]
+	},
+	"verticals": {
+		"par": "Our system-on-chip solution is a great way to monetize, manage and scale your network of smart screens, no matter where they are.",
+		"list": ["Retail", "Food & Beverage", "Cinema", "Hospitality", "Transit", "Airports", "EV charging stations", "Healthcare"]
+	},
+	"supportedOn": { "p1": "Broadsign for SoC", "p2": "is supported on" },
+	"formHeader": "Get in touch with us today to find out how Broadsign can help you get more from your smart screens.",
+	"furtherReading": "For a more in-depth look at our system-on-chip solution, check out our latest blog post!",
+	"thankYouSoC": "Thank you for your interest in our system-on-chip solution!"
+}

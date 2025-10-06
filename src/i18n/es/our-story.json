@@ -1,0 +1,136 @@
+{
+	"seo": {
+		"title": "La historia de Broadsign",
+		"description": "20 años iluminando la industria de la publicidad exterior OOH! En 2003, una pequeña empresa con sede en Montreal decidió invertir en una nueva área conocida como Señalización digital, que se estaba expandiendo gracias a los avances en la conectividad inalámbrica y las capacidades de reproducción de múltiples pantallas. Así nació la idea de Broadsign.",
+		"robots": "index follow"
+	},
+
+	"hero": {
+		"title": "20 años iluminando la industria de la publicidad exterior OOH!",
+		"blurb": "Este año se cumple un aniversario muy especial para Broadsign: ¡Celebramos nuestro vigésimo año iluminando pantallas de publicidad exterior OOH en todo el mundo!",
+		"cta": "¡Abramos el baúl de los recuerdos!"
+	},
+	"story": {
+		"s01": {
+			"date": "2003-2010",
+			"title": "Los (muy) primeros años",
+			"content": [
+				{
+					"type": "p",
+					"text": "En 2003, una pequeña empresa con sede en Montreal decidió invertir en una nueva área conocida como Señalización digital, que se estaba expandiendo gracias a los avances en la conectividad inalámbrica y las capacidades de reproducción de múltiples pantallas. Así nació la idea de Broadsign."
+				},
+				{
+					"type": "p",
+					"text": "A partir de ahí, Broadsign lanzó la primera versión de su sistema de gestión de contenido (CMS), que incluía el primer motor de ejecución de campañas automatizado, un sistema de inventario de anuncios y un sistema de informes de prueba de rendimiento. La empresa pasó a llamarse BroadSign, y el equipo se mudó a una oficina propia en el Beaver Hall de Montreal."
+				},
+				{
+					"type": "p",
+					"text": "Broadsign continuó emprendiendo su recorrido de señalización digital, sin darse cuenta de que era una empresa OOH."
+				},
+				{
+					"type": "quote",
+					"portrait": "bryan_mongeau",
+					"text": "En 2004, la denominamos una empresa ASP (Proveedor de servicios de aplicaciones). Esto hacía referencia a que el software estaba alojado en la 'nube', que en ese momento era en realidad un armario hecho de paneles de yeso que albergaba 3 o 4 servidores",
+					"cite": { "name": "Bryan Mongeau", "position": "primer empleado de Broadsign y ahora director de Tecnología de la empresa" }
+				},
+				{
+					"type": "p",
+					"text": "Luego de algunos años emocionantes desarrollando su CMS, la empresa obtuvo su primer cliente importante, AccentHealth (ahora Patient Point). Con 18 000 pantallas y reproductores de DVD en los consultorios médicos de los EE. UU., AccentHealth necesitaba ayuda para automatizar la entrega de contenido en toda su red, una oportunidad interesante que ayudó a Broadsign a lanzarse al mundo del OOH."
+				}
+			]
+		},
+		"s02": {
+			"date": "2010-2017",
+			"title": "Iluminando el mundo",
+			"content": [
+				{
+					"type": "p",
+					"text": "En 2008, Burr Smith invirtió en Broadsign y asumió la presidencia de la empresa. Luego, en 2011, se convirtió en presidente y director ejecutivo. Al igual que muchas otras empresas, la crisis financiera de 2008 marcó un momento difícil pero crucial para Broadsign, y la empresa trabajó duro para reestructurar y sortear el desafiante panorama económico."
+				},
+				{
+					"type": "p",
+					"text": "En su décimo aniversario, los líderes de la industria de la publicidad exterior como JCDecaux y Exterion Media comenzaron a notar el trabajo de Broadsign y le otorgaron la oportunidad de llevar a otro nivel sus operaciones digitales de publicidad exterior. Ganarlos como clientes ayudó a que el producto de Broadsign avanzara al agregar funciones más compatibles con OOH. "
+				},
+				{
+					"type": "p",
+					"text": "El 2017 fue un gran año para la empresa. Al sumar a Intersection como otro cliente importante, Broadsign alcanzó las 100 000 suscripciones y obtuvo su Certificación SOC 2 Tipo 1. Ese mismo año, la empresa se mudó a su nueva oficina en el centro de Montreal y comenzó a expandir su equipo directivo. Esto marcó la presentación de la nueva marca e identidad de Broadsign, celebrando su evolución hacia una plataforma completa de OOH."
+				}
+			]
+		},
+		"s03": {
+			"date": "2018-2023",
+			"title": "Crecimiento de la industria y los años de pandemia",
+			"content": [
+				{
+					"type": "p",
+					"text": "Instalada en el nuevo espacio, Broadsign continuó creciendo con el lanzamiento de su nueva plataforma SSP DOOH programática líder en el mercado, Broadsign Reach. Poco después de su lanzamiento, Broadsign se integró con 17 socios DSP y comenzó a realizar campañas en nueve países, un logro significativo para el próspero lado programático de la industria."
+				},
+				{
+					"type": "p",
+					"text": "A principios de 2019, Broadsign logró grandes avances en nombre de la industria OOH al resolver un litigio en curso por violación de patente presentado por T-Rex Property AB respecto al uso de tecnología de control remoto para mostrar información en pantallas públicas al aire libre. Bajo la dirección de Burr, Broadsign peleó el caso sin ayuda de nadie, ganó en nombre de sus clientes y de toda la industria, y Burr recibió el premio Outstanding Individual (persona destacada) en los premios <a href='https://digitalsignageawards.com/2020-results/' target='_blank'>Digital Signage Awards de 2019</a>."
+				},
+				{
+					"type": "p",
+					"text": "Esa primavera, la empresa adquirió Ayuda Media Systems, lo que permitió a los propietarios de medios de publicidad exterior administrar, vender y entregar toda su publicidad OOH desde un solo proveedor de soluciones. El año 2023 marca 20 años de experiencia en software para Ayuda, que comenzó como una empresa de software OOH estático a principios del año 2000."
+				},
+				{
+					"type": "p",
+					"text": "Simultáneamente, Broadsign llevó a cabo su segunda adquisición: Canadian DSP Campsite. Con la intención de extender la DOOH programática en todo el mundo, esta interesante adquisición automatizó aún más la compra y venta de inventario de medios para facilitar que las agencias y los compradores de medios encuentren, planifiquen y reserven campañas publicitarias DOOH."
+				},
+				{
+					"type": "p",
+					"text": "Sin dudas, el año 2020 conllevó desafíos particulares para muchos, y la industria OOH se vio particularmente afectada debido a que las personas estaban confinadas en sus hogares. Broadsign pasó rápidamente al trabajo remoto, con casi toda su infraestructura de clientes alojada en la nube. Los empleados trasladaron los entornos de control de calidad a sus sótanos y habitaciones libres, y las reuniones en línea se convirtieron en la principal manera de mantenerse conectado con los clientes, lo que permitió a la empresa continuar compartiendo noticias y actualizaciones de productos de manera virtual."
+				},
+				{
+					"type": "p",
+					"text": "En el año 2022, la <a href='https://www.worldooh.org/' target='_blank'>World Out of Home Organization</a> otorgó el Leadership Award (premio al liderazgo) a Burr Smith y Charmaine Moldrich, ex directora ejecutiva de The Outdoor Media Association. El premio reconoce a las personas que continuamente demuestran liderazgo a través de un enfoque pionero de OOH mientras inspiran a otros; un merecido homenaje para Burr luego de la respuesta de la empresa ante el Covid-19."
+				}
+			]
+		},
+		"s04": {
+			"date": "Hoy",
+			"title": "Hoy",
+			"content": [
+				{
+					"type": "p",
+					"text": "En 2023, Broadsign también fue nombrada una de las principales pequeñas y medianas empresas de Canadá por cuarto año consecutivo, un testimonio del compromiso de la empresa de crear una cultura positiva en el lugar de trabajo al apoyar el crecimiento y desarrollo de los empleados."
+				},
+				{
+					"type": "p",
+					"text": "Broadsign celebró sus logros con su primera cumbre mundial de empleados, donde todos los empleados se reunieron en Montreal durante cuatro días de capacitación, conexión, trabajo en equipo y diversión, ¡todo en el mismo huso horario (por primera vez)!"
+				},
+				{
+					"type": "quote",
+					"portrait": "burr_smith",
+					"text": "Nuestro equipo es excelente en muchos sentidos. Rara vez suceden imprevistos en Broadsign. Nadie podría haber hecho realidad esto sin un grupo excepcional de personas, y ese grupo excepcional de personas atrae a más personas excepcionales",
+					"cite": { "name": "Burr Smith", "position": "presidente y director ejecutivo" }
+				},
+				{
+					"type": "p",
+					"text": "¡Brindemos por estos 20 años y todos los que vendrán!"
+				}
+			]
+		}
+	},
+
+	"caption_01_01": "El flujo de trabajo del primer sistema de gestión de contenido (CMS) de Broadsign.",
+	"caption_01_02": "Uno de los primeros logotipos de la empresa cuando se llamaba \"BroadSign\".",
+	"caption_02_01": "El difunto Jean Beaudry, ex director de Operaciones de Broadsign y Ashley Larbalestier, gerente de proyectos de Marketing en un stand de Broadsign.",
+	"caption_02_02": "El equipo de Broadsign se muda a su nueva sede en el centro de Montreal, Quebec.",
+	"caption_02_03": "Broadsign obtiene su Certificación SOC 2 Tipo 1 en 2017, un gran logro para la empresa.",
+	"caption_03_01": "El stand de Broadsign en el evento Integrated Systems Europe (ISE) de 2020 en Ámsterdam.",
+	"caption_03_02": "El primer stand de Ayuda en un evento de OAAA en 2019 tras la adquisición de la empresa por parte de Broadsign.",
+	"caption_03_03": "En el año 2022, la World Out of Home Organization otorga el Leadership Award (premio al liderazgo) a Burr Smith y Charmaine Moldrich, ex directora ejecutiva de The Outdoor Media Association.",
+	"caption_03_04": "La empresa rápidamente pasa al trabajo remoto durante los primeros días de la pandemia en 2020.",
+	"caption_04_01": "Por cuarto año consecutivo, Broadsign es nombrada una de las principales pequeñas y medianas empresas de Canadá en 2023.",
+	"caption_04_02": "Cumbre mundial de empleados de Broadsign 2022 en Montreal, Quebec.",
+	"caption_04_03": "Cumbre mundial de empleados de Broadsign 2022 en Montreal, Quebec.",
+	"caption_04_04": "Presentaciones de expertos de la industria OOH en la cumbre de empleados de Broadsign 2022.",
+	"unfoldStory": "Ampliar Sección",
+	"foldStory": "Cerrar",
+	"shin": {
+		"title": "¿Se siente inspirado?",
+		"par": "¡Haga tu propia historia con nosotros!",
+		"cta": "Contáctenos"
+	}
+}

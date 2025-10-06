@@ -1,0 +1,199 @@
+{
+	"seo": {
+		"title": "Lancez une campagne DOOH programmatique",
+		"description": "Diffusez des messages contextuellement pertinents sur des écrans de qualité supérieure à travers le monde et captez l'attention de votre public cible au moment et à l'endroit où son engagement est le plus élevé."
+	},
+	"hero": {
+		"title": "Lancez une campagne DOOH programmatique avec Broadsign",
+		"blurb": "Diffusez des messages contextuellement pertinents sur des écrans de qualité supérieure à travers le monde et captez l'attention de votre public cible au moment et à l'endroit où son engagement est le plus élevé. Grâce à sa technologie de pointe et à son expertise du secteur, Broadsign vous permet de créer des campagnes DOOH percutantes qui sauront générer des résultats mesurables.",
+		"cta": "Parlez à un spécialiste des médias"
+	},
+	"agencies": {
+		"title": "Les plus grandes agences et marques font confiance à Broadsign"
+	},
+	"why": {
+		"title": "Pourquoi choisir Broadsign?",
+		"boxes": [
+			{
+				"icon": "trusted_partners",
+				"title": "Un partenaire de confiance",
+				"par": "Faites équipe avec les spécialistes des médias de Broadsign pour planifier, lancer et optimiser vos campagnes DOOH et les diffuser aux côtés de vos publicités numériques avec votre plateforme DSP préférée. ",
+				"cta": "Découvrez nos partenaires DSP",
+				"to": "dspPartners"
+			},
+			{
+				"icon": "worldwide_reach",
+				"title": "Une portée mondiale",
+				"par": "Accédez à plus d'un million d'écrans numériques de qualité supérieure installés dans des endroits très fréquentés : panneaux d'affichage en bord de route, stations de transport en commun, aéroports et bien d'autres. Assurez-vous que le message de votre marque parvient à votre public à chaque étape dans son trajet quotidien.",
+				"cta": "Explorez notre inventaire",
+				"to": "mediaKit"
+			},
+			{
+				"icon": "measurable_results",
+				"title": "Des résultats mesurables",
+				"par": "Obtenez une visibilité complète de la performance de votre campagne grâce à des mesures clés comme le CPM et les données d'impressions sur les écrans. Démontrez l'impact de votre campagne et affinez vos stratégies avec des outils d'attribution comme des études sur la hausse de la notoriété de la marque et sur le trafic piétonnier.",
+				"cta": "En savoir plus sur les mesures et l'attribution",
+				"to": "measurementAttribution"
+			}
+		],
+		"cta": "Parlez à un spécialiste des médias"
+	},
+	"how": {
+		"title": "Choisissez comment lancer votre campagne PDOOH",
+		"par": "Collaborez avec les spécialistes des médias de Broadsign pour optimiser vos campagnes DOOH programmatiques. De la planification et du lancement à la mesure et l'optimisation, nos experts sont là pour vous conseiller et vous aider à réaliser des campagnes efficaces qui génèrent des résultats.",
+		"boxes": [
+			{
+				"img": "dsp_choice",
+				"title": "La plateforme DSP de votre choix ",
+				"par": "Diffusez vos campagnes DOOH parallèlement à vos publicités numériques en utilisant le DSP de votre choix. Grâce à ses intégrations à 35 plateformes de premier plan, vous pouvez facilement incorporer le DOOH à votre offre multicanale. Élargissez votre portée, maintenez une diffusion cohérente des messages sur tous les canaux et mesurez les performances, le tout en un seul endroit, sans perturber votre flux de travail.",
+				"cta": "Parlez à un spécialiste des médias"
+			},
+			{
+				"img": "dsp_outmoove",
+				"title": "DSP Outmoove",
+				"par": "Gérez et exécutez vos campagnes DOOH sur OutMoove, une plateforme conçue spécialement pour l'affichage extérieur numérique. Intégrez vos données de ciblage, affinez vos paramètres et maintenez la pertinence de vos messages avec des déclencheurs dynamiques comme la météo, les événements locaux et la densité de la circulation. Grâce à des informations en temps réel et à des capacités de ciblage avancées, OutMoove vous aide à optimiser vos campagnes et à atteindre vos objectifs.",
+				"cta": "En savoir plus",
+				"to": "outmoove"
+			}
+		]
+	},
+	"quotesTitle": "Des témoignages révélateurs",
+	"quotes": [
+		{
+			"id": "adsmurai",
+			"text": "« Le DOOH s'intègre parfaitement à notre stratégie omnicanal car il exploite les mêmes outils de ciblage, de mesure et d'optimisation que les autres canaux numériques. Vous pouvez atteindre votre audience à travers de multiples points de contact de manière cohérente et synchronisée. Il s'agit donc de créer une expérience de marque fluide qui résonne partout où se trouve le client. »",
+			"name": "Giancarlo Arena",
+			"title": "Responsable mondial du programmatique",
+			"company": "Agence Adsmurai"
+		},
+		{
+			"id": "mediaplus",
+			"text": "« Broadsign a été un partenaire exceptionnel pour notre première campagne DOOH programmatique. L'équipe nous a aidés à facilement atteindre notre public cible aux endroits où il se rend pour travailler et se divertir. Les résultats ont été impressionnants : les visites chez les concessionnaires ont augmenté de 68 % et nous avons observé une hausse importante en termes de préférence de marque et d'intention d'achat. Grâce à l'expertise de Broadsign en matière de médias et de mesure des performances, le PDOOH a gagné en importance dans notre stratégie omnicanale, démontrant sa capacité à générer à la fois de la notoriété et des actions concrètes. Nous nous réjouissons à l'idée de continuer d'utiliser le PDOOH dans nos prochaines campagnes! »",
+			"name": "Alexander Maxe",
+			"title": "Responsable de la clientèle numérique",
+			"company": "Agence Mediaplus"
+		},
+		{
+			"id": "ubereats",
+			"text": "« Broadsign nous a permis d'activer rapidement notre campagne DOOH programmatique, nous donnant la possibilité de rejoindre une audience contextuellement pertinente à grande échelle. Ses données d'audience et de géolocalisation ont été essentielles pour cibler le bon public et diffuser le message approprié à travers divers formats de manière. De plus, la possibilité de mettre à jour le contenu en cours de campagne nous a permis de maintenir nos messages actuels et efficaces du début à la fin. Le soutien de Broadsign a rendu l'ensemble du processus simple et efficaces, nous permettant d'obtenir des résultats percutants. »",
+			"name": "Fadli Gunawan",
+			"title": "Responsable EMEA du brand media",
+			"company": "Uber"
+		},
+		{
+			"id": "stackadapt",
+			"text": "« En tant que principale plateforme SSP et serveur publicitaire DOOH, Broadsign offre un accès évolutif à de l'inventaire premium, permettant à nos clients d'atteindre efficacement et rapidement leurs audiences cibles. Cela se traduit par des lancements de campagnes plus rapides, des stratégies de ciblage optimisées et, au final, un retour sur investissement amélioré pour les annonceurs en DOOH. »",
+			"name": "Michael Shang",
+			"title": "SVP de la technologie publicitaire",
+			"company": "StackAdapt"
+		},
+		{
+			"id": "displayce",
+			"text": "« Nous avons choisi de collaborer avec Broadsign pour deux raisons fondamentales. Tout d'abord, l'étendue de son réseau correspond parfaitement à nos perspectives commerciales, assurant une couverture DOOH complète et stratégique. Ensuite, notre décision a été influencée par une vision commune avec Broadsign, notamment en ce qui a trait aux fonctionnalités et à notre vision de l'évolution du marché, ce qui permet d'améliorer la précision et l'efficacité des campagnes DOOH. »",
+			"name": "Emma Labrador",
+			"title": "Chef de la commercialisation",
+			"company": "Displayce"
+		},
+		{
+			"id": "illumin",
+			"text": "“« Lorsque nous avons décidé d'ajouter le DOOH à notre plateforme, nous souhaitons nous associer au meilleur partenaire, ce qui a fait de Broadsign un choix évident. Notre collaboration enrichira la plateforme Illumin en offrant aux spécialistes du marketing une vaste gamme d'inventaire DOOH premium, le tout dans un seul réseau connecté et facile d'utilisation. Cela témoigne de notre engagement continu à redéfinir le parcours multicanal de notre secteur. »",
+			"name": "Andrey Feldman",
+			"title": "Vice-président, Produits",
+			"company": "Illumin"
+		}
+	],
+	"campaignsTitle": "Quelques campagnes DOOH programmatiques propulsées par Broadsign",
+	"readCaseStudy": "Lire L'article",
+	"panelMediaKit": {
+		"title": "Télécharger notre kit média",
+		"thankYou": {
+			"title": "Merci!",
+			"par": "Le kit média ne s'est pas ouvert dans une nouvelle fenêtre ?",
+			"cta": "Cliquez ici"
+		}
+	},
+	"whatisPDOOHBlogLink": "/blog/what-is-programmatic-digital-out-of-home/",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf",
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_launch_pdooh_campaign_1",
+				"q": "Où les inventaires de Broadsign se trouvent-ils?",
+				"a": "Broadsign offre une couverture mondiale, avec plus d'un million d'écrans numériques en Amérique du Nord et du Sud, en Europe, en Asie-Pacifique et au-delà."
+			},
+			{
+				"id": "faq_launch_pdooh_campaign_2",
+				"q": "Dans quels types de lieux peut-on les trouver?",
+				"a": [
+					"Broadsign propose un inventaire dans une variété de lieux à fort trafic, notamment :",
+					[
+						"Panneaux publicitaires en bord de route",
+						"Les stations de transport en commun (abribus, stations de métro, gares)",
+						"Les aéroports",
+						"Les centres commerciaux",
+						"Les magasins de détail",
+						"Les restaurants",
+						"Les bars",
+						"Les gyms",
+						"Les cliniques médicales",
+						"Les cinémas",
+						"Les stades",
+						"Les lieux d'événements",
+						"Les immeubles de bureaux",
+						"Les immeubles résidentiels",
+						"Le mobilier urbain (kiosques, bancs)",
+						"Les universités",
+						"Les stations-service",
+						"Les dépanneurs",
+						"Les stationnements intérieurs"
+					]
+				]
+			},
+			{
+				"id": "faq_launch_pdooh_campaign_3",
+				"q": "Comment puis-je mesurer l'efficacité de ma campagne DOOH?",
+				"a": [
+					"Broadsign offre plusieurs façons de mesurer vos campagnes DOOH, vous permettant de suivre les performances et de les optimiser en temps réel.",
+					[
+						"<b>Les mesures standards</b> : impressions, diffusions, portée, fréquence, engagement (ex. balayage d'un code QR).",
+						"<b>Les études sur la hausse de la notoriété et l'attribution</b> : évaluation de la hausse de la notoriété, de l'achalandage piétonnier et du taux de conversion en ligne (ventes, téléchargements de l'application) qui permettent d'obtenir un portrait global de l'impact de votre campagne.",
+						"<b>Les partenaires de données</b> : Broadsign fait équipe avec des fournisseurs de mesures de premier plan afin d'établir des liens entre l'exposition et les résultats (visites en magasin, ventes en magasin), ce qui permet d'obtenir des renseignements plus précis."
+					]
+				]
+			},
+			{
+				"id": "faq_launch_pdooh_campaign_4",
+				"q": "Quelle est la différence entre OutMoove et un autre DSP?",
+				"a": "Vous pouvez utiliser la plateforme DSP de votre choix pour diffuser vos campagnes DOOH parallèlement à vos autres publicités numériques. Vous pouvez également opter pour <a href='/outmoove'>OutMoove</a>, une plateforme DSP spécialement conçue pour l'affichage numérique extérieur, afin de gérer et diffuser vos campagnes DOOH. OutMoove vous permet d'intégrer vos propres données de ciblage, d'affiner les paramètres et de maintenir des messages hyper-pertinents grâce à des déclencheurs dynamiques tels que la météo, les événements locaux, la densité du trafic, et bien d'autres."
+			},
+			{
+				"id": "faq_launch_pdooh_campaign_5",
+				"q": "À quoi puis-je m'attendre du DSP OutMoove?",
+				"a": "Faisant maintenant partie de Broadsign, <a href='/outmoove'>OutMoove</a> est une plateforme d'affichage extérieur numérique programmatique reconnue pour son expertise en matière de campagnes locales à travers plusieurs marchés. La plateforme offre des fonctionnalités de ciblage avancées, un support multi-langues et multi-devises, ainsi que des analyses en temps réel, le tout permettant aux annonceurs de développer leurs campagnes efficacement tout en optimisant leur performances en cours de route. Avec un accès au réseau mondial de Broadsign et à son inventaire premium, vous bénéficierez d'une portée élargie, de flux de travail efficaces, d'analyses approfondies et de la flexibilité nécessaire pour adapter chaque campagne à des objectifs spécifiques."
+			},
+			{
+				"id": "faq_launch_pdooh_campaign_6",
+				"q": "Comment les spécialistes des médias de Broadsign peuvent-ils m'aider avec ma campagne?",
+				"a": "Les spécialistes des médias de Broadsign peuvent vous aider à planifier, à lancer, à mesurer et à optimiser vos campagnes d'affichage extérieur numérique programmatique. Ils commenceront par élaborer une proposition en fonction de vos objectifs de campagne, de votre budget, des zones géographiques ciblés et de votre public. Par la suite, ils vous fourniront l'accompagnement nécessaire pour mettre en œuvre des campagnes efficaces qui génèrent des résultats."
+			}
+		]
+	},
+	"gradientBoxes": [
+		{
+			"title": "Vous commencez à découvrir le DOOH programmatique? ",
+			"par": "Consultez notre blogue pour tout savoir sur le sujet.",
+			"cta": "Qu'est-ce que le pdooh?"
+		},
+		{
+			"title": "Vous ne savez pas quelle plateforme DSP choisir? ",
+			"par": "Laissez notre équipe de spécialistes des médias vous guider vers la plateforme qui répondra aux besoins et aux objectifs de votre campagne.",
+			"cta": "Parlez à un spécialiste des médias"
+		},
+		{
+			"title": "Prêt à lancer une campagne DOOH programmatique ?",
+			"par": "Communiquez avec un spécialiste des médias de Broadsign pour définir une stratégie d'achat qui correspond à vos objectifs, et commencez dès aujourd'hui à diffuser des campagnes percutantes et contextuellement pertinentes.",
+			"cta": "Parlez à un spécialiste des médias"
+		}
+	]
+}

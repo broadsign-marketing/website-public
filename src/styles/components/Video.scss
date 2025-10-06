@@ -1,0 +1,241 @@
+@import "../base/dependencies";
+
+@keyframes startPlay {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.Video {
+	align-items: center;
+	background-color: #000;
+	border-radius: 1rem;
+	box-shadow: 4px 4px 16px rgba(#000, 0.2);
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	margin: 0 auto;
+	max-width: 68rem;
+	overflow: hidden;
+	position: relative;
+	transition: box-shadow 0.3s;
+
+	&,
+	video {
+		aspect-ratio: 16/9;
+		border: none;
+		height: auto;
+		object-fit: cover;
+		width: 100%;
+	}
+
+	.poster {
+		@include bg;
+		@include flexCenter;
+		cursor: pointer;
+		flex-flow: column nowrap;
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 0.6s;
+		transition-delay: 0.5s;
+		z-index: 10;
+	}
+
+	.tagline {
+		@include fontBolder;
+		color: #FFF;
+		font-size: min(3.4vw, 34px);
+		line-height: 100%;
+		margin: 0 auto;
+		max-height: 100px;
+		overflow: hidden;
+		position: relative;
+		text-align: center;
+		text-transform: uppercase;
+		transition: filter 0.3s, opacity 0.3s, max-height 0.2s;
+		width: 100%;
+		z-index: 5;
+	}
+
+	.PlayBtn {
+		filter: drop-shadow(2px 2px 16px $reflex) drop-shadow(2px 2px 16px $reflex);
+		pointer-events: none;
+		z-index: 100;
+	}
+
+	&:hover {
+		.PlayBtn {
+			filter: drop-shadow(2px 2px 4px $reflex) drop-shadow(0px 0px 8px $reflex);
+		}
+
+		.tagline {
+			filter: drop-shadow(0 0 10px #FFF);
+		}
+	}
+
+	iframe {
+		@include fadeInOnce(0.6s);
+		appearance: none;
+		aspect-ratio: 16/9;
+		border: none;
+		height: auto;
+		opacity: 0;
+		width: 100%;
+		z-index: 1;
+	}
+
+	&.not_loaded {
+		.poster {
+			opacity: 1;
+			pointer-events: all;
+			transition: none;
+		}
+	}
+
+	&.unstarted {}
+
+	&.ended {}
+
+	&.playing {}
+
+	&.paused {}
+
+	&.buffering {}
+
+	&.cued {}
+
+	&:not(.playing):hover {
+		box-shadow: 8px 8px 24px rgba(#000, 0.4);
+	}
+}
+
+.VideoHTML {
+	aspect-ratio: 16/9;
+	cursor: pointer;
+	max-height: 100%;
+	max-width: 100%;
+	transition: box-shadow 0.3s;
+	width: 100%;
+
+	video {
+		width: 100%;
+	}
+
+	.PlayBtn {
+		$size: min(5vw, 44px);
+		filter: drop-shadow(4px 4px 4px rgba(#000, 0.25));
+		height: $size;
+		left: 50%;
+		object-fit: contain;
+		opacity: 1;
+		position: absolute;
+		top: 50%;
+		transform: translate(-50%, -50%);
+		transition: opacity 0.3s;
+		width: $size;
+	}
+
+	&.playing {
+		.PlayBtn {
+			opacity: 0;
+		}
+	}
+}
+
+.VideoVimeo {
+
+	&,
+	&>div,
+	iframe {
+		border-radius: 10px;
+		overflow: hidden;
+		width: 100%;
+	}
+
+	.play_btn {
+		filter: drop-shadow(2px 2px 16px $reflex) drop-shadow(2px 2px 16px $reflex);
+		transition: filter 0.3s;
+	}
+
+	.video_poster {
+		border-radius: 10px;
+		height: calc(100% + 2px);
+		left: -1px;
+		object-fit: cover;
+		overflow: hidden;
+		position: absolute;
+		top: -1px;
+		transition: opacity 0.3s;
+		width: calc(100% + 2px);
+
+		&:hover {
+			.play_btn {
+				filter: drop-shadow(2px 2px 4px $reflex) drop-shadow(0px 0px 8px $reflex);
+			}
+		}
+	}
+
+	.desktop {
+		display: block;
+		pointer-events: all;
+	}
+
+	.ipad {
+		display: none;
+		pointer-events: none;
+	}
+
+	&.playing {
+		.video_poster {
+			opacity: 0;
+			pointer-events: none;
+		}
+	}
+}
+
+.Modal:not(.visible) {
+	.VideoVimeo {
+
+		.desktop,
+		.ipad {
+			pointer-events: none;
+		}
+	}
+}
+
+.VideoYoutube {}
+
+@media (max-width: $tablet_max_width) and (hover:none) {
+	.VideoHTML {
+		.PlayBtn {
+			display: none;
+		}
+	}
+
+	.VideoVimeo {
+		.video_poster {
+			display: none;
+			pointer-events: none;
+		}
+
+		.desktop {
+			display: none;
+			pointer-events: none;
+		}
+
+		.ipad {
+			display: block;
+			pointer-events: all;
+		}
+	}
+}
+
+@media (max-width: $mobile_max_width) and (hover:none) {
+	.VideoHTML {
+		.PlayBtn {}
+	}
+}

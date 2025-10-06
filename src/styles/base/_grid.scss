@@ -1,0 +1,39 @@
+body {
+	background-color: #FFF;
+	overflow-x: hidden;
+	position: relative;
+}
+
+#___gatsby {
+	background-color: #FFF;
+	margin: 0 auto;
+	max-width: 100%;
+	max-width: min(100vw, 100%);
+	overflow-x: hidden;
+	width: 100%;
+	width: min(100vw, 100%);
+	z-index: 10;
+}
+
+main {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1600px;
+	/* overflow: hidden; */
+	width: min(100vw, 100%);
+}
+
+.content {
+	margin: 0 auto;
+	max-width: 1200px;
+	width: 100%;
+}
+
+.wrap {
+	flex-wrap: wrap;
+}
+
+.nowrap,
+.row-nowrap {
+	flex-wrap: nowrap;
+}

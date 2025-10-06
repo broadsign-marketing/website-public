@@ -1,0 +1,17 @@
+{
+	"seo": {
+		"title": "¡Gracias!",
+		"description": "",
+		"robots": "noindex"
+	},
+	"default": {
+		"title": "¡Gracias por su interés en Broadsign!",
+		"blurb": "Un miembro de nuestro equipo se pondrá en contacto en breve para programar una reunión.",
+		"relatedTitle": "Mientras tanto, consulte los enlaces a continuación para obtener más información sobre la señalización digital."
+	},
+	"request_a_quote": {
+		"title": "¡Gracias por su interés en Broadsign!",
+		"blurb": "Un miembro de nuestro equipo se pondrá en contacto en breve para programar una reunión.",
+		"relatedTitle": "Mientras tanto, consulte los enlaces a continuación para obtener más información sobre la señalización digital."
+	}
+}

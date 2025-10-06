@@ -1,0 +1,54 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les casinos",
+		"description": "Gardez vos invités souriants et engagés avec une expérience de casino alimentée par un affichage numérique qui sert des publicités et des informations utiles."
+	},
+	"title": "Casino",
+	"Hero": {
+		"TitlePart1": "Casino",
+		"TitlePart2": "L'Affichage Numérique au",
+		"TitlePart3": "Une solution gagnante",
+		"Blurb": "Offrez à vos clients une expérience agréable au casino propulsée par un affichage numérique qui diffuse des publicités et des renseignements utiles.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"title": "Diffusez des messages dynamiques en toute simplicité",
+			"paragraph": "Affichez des messages soulignant les grandes victoires et les délais d'attente aux tables. Diffusez des promotions et des événements grâce à un affichage numérique qui s'adapte en fonction de l'heure ou des conditions ambiantes."
+		},
+		"Pane2": {
+			"title": "Montrez le chemin à vos clients",
+			"paragraph": "Grâce aux terminaux de signalisation qui fournissent des indications personnalisées, les clients garderont le cap sur leurs jeux, leur gîte et plus encore."
+		},
+		"Pane3": {
+			"title": "Des promotions plus grandes que nature",
+			"paragraph": "Soyez créatif avec les prises de contrôle : lorsque vous souhaitez diffuser un événement, une publicité promotionnelle ou un message déclenché à un grand nombre de personnes, optez pour des prises de contrôle diffusées à l'échelle du casino ou ciblées sur quelques écrans seulement."
+		},
+		"Pane4": {
+			"title": "Monétisez vos données sur le public",
+			"paragraph": "Intégrez les données sur la fidélité des joueurs et les réservations d'hôtel à votre système d'affichage numérique afin de mieux cibler votre public et de retirer un meilleur rendement sur votre investissement."
+		}
+	},
+	"VideoPoster": {
+		"title": "Vos écrans, au bout des doigts",
+		"paragraph": "Des kiosques aux affiches numériques, gérez efficacement tous les écrans de votre casino à partir d'une plateforme centralisée qui évolue facilement à mesure que votre réseau d'affichage numérique croît."
+	},
+	"BroadsignControlVideoTitle": "Introduction à Broadsign Control",
+	"cards": {
+		"title": "Des options souples pour simplifier les ventes de publicité",
+		"par": "Lancez des campagnes de publicité dans votre casino en un tour de main grâce à des outils spécialisés destinés aux équipes de ventes directes et programmatiques.",
+		"direct": "Dotez vos équipes de vente de nouvelles capacités grâce à Broadsign Direct ",
+		"reach": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Quoteblock": {
+		"Quote": "Pour profiter des meilleurs conseils, il faut faire affaire avec un fournisseur chevronné qui sait travailler à grande échelle. Nous en sommes actuellement à ce point et nous comptons sur Broadsign pour passer au niveau supérieur.",
+		"Signature": "Clear Digital Media"
+	},
+	"Customers": {
+		"title": "Une solution adopteé par les principaux réseaux d'affichage numérique"
+	},
+	"Shin": {
+		"Title": "En quoi la plateforme Broadsign convient-elle à votre réseau de casinos?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

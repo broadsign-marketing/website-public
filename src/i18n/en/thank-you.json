@@ -1,0 +1,130 @@
+{
+	"seo": {
+		"title": "Thank You!",
+		"description": "",
+		"robots": "noindex"
+	},
+	"default": {
+		"title": "Thanks for your interest in Broadsign!",
+		"blurb": "A member of our team will be in touch shortly to schedule a meeting.",
+		"relatedTitle": "In the meantime, check out the links below for more on digital signage.",
+		"related": [
+			{
+				"id": "samsung",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "cardoor",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "qr_codes",
+				"type": "blog",
+				"cta": "Read more"
+			}
+		]
+	},
+	"book_a_call": {
+		"title": "Thanks for your interest in Broadsign!",
+		"blurb": {
+			"part1": "If you want, you can schedule a meeting ",
+			"ctaText": "here",
+			"ctaLink": "https://calendly.com/d/yrk-82t-bv6/meeting-with-sdr",
+			"part2": ". Otherwise, a member of our team will be in touch shortly by email."
+		},
+		"relatedTitle": "In the meantime, check out the links below for more on digital signage.",
+		"related": [
+			{
+				"id": "samsung",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "cardoor",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "qr_codes",
+				"type": "blog",
+				"cta": "Read more"
+			}
+		]
+	},
+	"book_a_call_retail": {
+		"title": "Thanks for your interest in Broadsign!",
+		"blurb": "A member of our team will reach out shortly to explore how we can help enhance your in-store retail media strategy.",
+		"relatedTitle": "In the meantime, check out the links below for more on digital signage."
+	},
+	"inside_ooh": {
+		"title": "Thanks for your interest in our newsletter!",
+		"blurb": "A member of our team will be in touch shortly to schedule a meeting.",
+		"relatedTitle": "In the meantime, check out the links below for more on digital signage.",
+		"related": [
+			{
+				"id": "samsung",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "cardoor",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "qr_codes",
+				"type": "blog",
+				"cta": "Read more"
+			}
+		]
+	},
+	"request_a_quote": {
+		"title": "Thanks for your interest in Broadsign!",
+		"blurb": "A member of our team will be in touch shortly to schedule a meeting.",
+		"relatedTitle": "In the meantime, check out the links below for more on digital signage.",
+		"related": [
+			{
+				"id": "samsung",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "cardoor",
+				"type": "blog",
+				"cta": "Read more"
+			},
+			{
+				"id": "qr_codes",
+				"type": "blog",
+				"cta": "Read more"
+			}
+		]
+	},
+	"partner_zitcha": {
+		"title": "Thank you!",
+		"blurb": "We'll be in touch shortly to confirm your retail media consultation with Broadsign and Zitcha!",
+		"relatedTitle": "In the meantime, check out the links below for more on digital signage.",
+		"related": [
+			{
+				"id": "retail101",
+				"type": "blog",
+				"to": "/blog/retail-media-networks-101/",
+				"cta": "Read more"
+			},
+			{
+				"id": "enhanceInStoreRetailExperience",
+				"type": "blog",
+				"to": "/blog/how-to-enhance-the-in-store-retail-experience-with-digital-signage/",
+				"cta": "Read more"
+			},
+			{
+				"id": "ebookIncreaseRevenueWithContextualInStoreMedia",
+				"title": "EBook: How to Increase Revenue with Contextual In-Store Media",
+				"type": "ebook",
+				"cta": "Read more"
+			}
+		]
+	}
+}

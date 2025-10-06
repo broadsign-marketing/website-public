@@ -1,0 +1,64 @@
+@import "../base/dependencies";
+
+#product_summit_2022 {
+	.hero {
+		h1 {
+			font-size: calc(min(14vw, 90px));
+			max-width: 15ch;
+
+			span {
+				font-size: 0.9em;
+				line-height: inherit;
+			}
+		}
+
+		p {
+			max-width: 58ch;
+		}
+
+		.icon_calendar {
+			@include flexCenter;
+			border: 2px solid #FFF;
+			border-radius: 50%;
+			filter: brightness(1000);
+			font-size: 22px;
+			height: 2em;
+			width: 2em;
+
+			img {
+				height: 1em;
+				object-fit: contain;
+				width: 1em;
+			}
+		}
+
+		hr {
+			border-bottom: 2px solid #FFF;
+			width: 150px;
+		}
+	}
+
+	ul.checks_gradient li {
+		background-position: 0 0.85em;
+	}
+}
+
+@media(min-width:460px) {
+	#product_summit_2022 {
+		.hero {
+			h1 {
+				font-size: calc(min(9vw, 90px));
+			}
+		}
+	}
+}
+
+@media(min-width:$sm) {
+	#product_summit_2022 {
+		.hero {
+			h1 {}
+		}
+	}
+}
+
+@media(min-width:$md) {}

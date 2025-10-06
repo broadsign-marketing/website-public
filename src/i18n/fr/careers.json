@@ -1,0 +1,258 @@
+{
+	"seo": {
+		"title": "Broadsign engage! | Carrières en technologies",
+		"description": "Joignez-vous à l'équipe de développeurs et d'experts derrière les logiciels qui illuminent les panneaux d'affichage du monde entier. Voir les offres d'emploi."
+	},
+	"spylinks": [
+		{
+			"id": "mission_statement",
+			"label": "Notre mission"
+		},
+		{
+			"id": "locations",
+			"label": "Emplacements"
+		},
+		{
+			"id": "awards",
+			"label": "Nos distinctions"
+		},
+		{
+			"id": "values",
+			"label": "Nos valeurs"
+		},
+		{
+			"id": "benefits",
+			"label": "Avantages"
+		},
+		{
+			"id": "openings",
+			"label": "Offres"
+		},
+		{
+			"id": "faq",
+			"label": "FAQ"
+		}
+	],
+	"Hero": {
+		"title": "_Ensemble,_ nous accomplissons de grandes choses",
+		"tagline": "Broadsign est une entreprise de logiciels en pleine croissance dont la mission est de faciliter plus que jamais l'achat, la vente et l'exécution de média d'affichage extérieur. Notre technologie permet de créer des campagnes percutantes et convaincantes diffusées sur les écrans du monde entier.",
+		"cta": "Afficher les offres d'emploi",
+		"videoBlurb": "Notre vidéo culturelle : découvrez ce qui fait de Broadsign un excellent lieu de travail."
+	},
+	"mission_statement": {
+		"overtitle": "Carrières chez Broadsign",
+		"title": "Éclairer le monde",
+		"par1": "Notre mission est de donner à nos clients les moyens d'informer, de divertir et d'émerveiller un public mondial par l'intermédiaire d'écrans connectés. Derrière la plateforme de Broadsign se trouve une équipe de développeurs et d'experts de l'industrie qui, avec ambition et ingéniosité, mettent au point la technologie de pointe qui alimente les panneaux d'affichage et les écrans dans des villes, des centres commerciaux et des aéroports, le long des routes et à bien d'autres endroits.",
+		"par2": "Si vous souhaitez propulser votre carrière au niveau supérieur, joignez-vous à notre équipe. Chez Broadsign, votre expertise est la clé de notre succès dans l'industrie de l'affichage extérieur.",
+		"know_us": "Découvrez qui nous sommes"
+	},
+	"locations": {
+		"overtitle": "Siège social de Broadsign",
+		"title": "Une équipe d'envergure mondiale",
+		"par": "Grâce à ses équipes réparties aux quatre coins du globe, Broadsign est un chef de file mondial de l'industrie de l'affichage extérieur. Son siège social est situé à Montréal, au Québec (Canada).",
+		"quotes": [
+			{
+				"quote": "J'habite à Sydney, donc je travaille dans un fuseau horaire complètement différent et à l'autre bout du monde par rapport à notre siège social. Malgré cela, j'ai toujours l'impression de faire partie de l'équipe. J'ai noué d'excellentes relations avec mes collègues, et j'adore travailler avec eux même si de nombreux kilomètres nous séparent.",
+				"sign": "Ben Allman, responsable des ventes, Australie et Nouvelle-Zélande",
+				"portrait": "ben"
+			}
+		],
+		"panel": {
+			"par": "_Vous voulez travailler avec nous?_ Découvrez les offres d'emploi dans votre région.",
+			"cta": "Voir les offres d'emploi"
+		}
+	},
+	"awards": {
+		"overtitle": "Nos distinctions",
+		"title": "Prix et reconnaissance",
+		"par": "Chez Broadsign, notre culture d'entreprise primée est notre fierté. Au fil des ans, nos efforts ont été salués par nos pairs et les membres de l'industrie, et nous sommes très honorés de cette reconnaissance.",
+		"learn_more": ""
+	},
+	"values": {
+		"overtitle": "Culture d'entreprise",
+		"title": "Notre mission et nos valeurs",
+		"par": "Nous travaillons fort pour éclairer le monde. Les valeurs qui nous animent sont au cœur de notre entreprise.",
+		"list": [
+			{
+				"id": "empower",
+				"label": "Renforcer la capacité d'action",
+				"quote": {
+					"quote": "Broadsign valorise la communication ouverte et encourage à remettre en question le statu quo, ce qui se reflète dans chaque interaction avec les clients, les partenaires, ou en interne. Peu de temps après avoir rejoint l'entreprise, j'ai pu remanier notre processus d'intégration. Les retours de chaque nouvelle recrue contribuent à améliorer l'expérience des suivantes. Vos idées, peu importe votre niveau d'ancienneté, sont évaluées avec la même ouverture que celles des cadres de longue date. Ici, la meilleure idée l'emporte toujours.",
+					"sign": "Danny Baldoni",
+					"portrait": "danny_baldoni"
+				}
+			},
+			{
+				"id": "right_thing",
+				"label": "Faire ce qui est juste",
+				"quote": {
+					"quote": "J'adore travailler chez Broadsign ! C'est une entreprise qui nous pousse à diriger nos propres projets et nous encourage à essayer quelque chose de nouveau, plutôt que de nous dire quoi faire.",
+					"sign": "Karoliina Paukku",
+					"portrait": "karoliina_paukku"
+				}
+			},
+			{
+				"id": "great_things",
+				"label": "Accomplir de grandes choses",
+				"quote": {
+					"quote": "L'engagement de Broadsign à favoriser la croissance personnelle renforce non seulement mes compétences professionnelles, mais soutient également mes démarches académiques, en faisant réellement un lieu de travail unique et valorisant.",
+					"sign": "Jarnail Singh",
+					"portrait": "jarnail_singh"
+				}
+			},
+			{
+				"id": "respect",
+				"label": "Traiter toute personne avec dignité et respect",
+				"quote": {
+					"quote": "J'ai rejoint Broadsign l'année dernière, et je suis fière de faire partie d'une équipe dynamique. Bien que je sois la seule femme dans mon équipe, je suis heureuse de dire que cela n'a pas eu d'impact sur ma vie professionnelle quotidienne. Mes opinions et idées sont traitées avec le même respect que celles de mes collègues masculins. Je me sens soutenue par une équipe qui valorise la contribution de chacun, quel que soit le genre. La diversité nous aide à réussir et à atteindre l'excellence professionnelle.",
+					"sign": "Alexandra Roa",
+					"portrait": "alexandra_roa"
+				}
+			},
+			{
+				"id": "say_do",
+				"label": "Faire ce que l'on dit",
+				"quote": {
+					"quote": "Devenir plus durable a été un domaine d'intérêt majeur au sein de l'entreprise, et la direction a investi beaucoup de temps et d'argent pour comprendre notre empreinte carbone et déterminer les meilleures opportunités pour réduire et compenser cette empreinte. C'est un projet à long terme, mais l'entreprise est déterminée à le faire correctement, simplement parce que c'est la chose à faire. Cela a été merveilleux à voir.",
+					"sign": "Rob Côté",
+					"portrait": "rob_cote"
+				}
+			}
+		]
+	},
+	"diversity": {
+		"title": "Notre déclaration sur la diversité, l'équité et l'inclusion (DEI)",
+		"par": "Les problèmes les plus complexes sont résolus lorsque l'on rassemble un groupe de personnes diverses. Chez Broadsign, nous nous engageons à encourager une culture de la diversité et de l'équité dans tous les aspects de notre entreprise. Nous voulons nous assurer que tous nos employés et partenaires se sentent valorisés, écoutés et à l'aise pour apporter leur entière personnalité au travail chaque jour. Après tout, pour vraiment innover et créer, nous devons tous avoir le sentiment que nous pouvons être nous-mêmes, peu importe nos origines, nos expressions ou nos modes de vie."
+	},
+	"glassdoor": {
+		"par1": "Découvrez les témoignages de notre personnel et de nos anciens collègues",
+		"par2": "Consulter les avis sur Glassdoor"
+	},
+	"benefits": {
+		"overtitle": "Les avantages de travailler chez Broadsign",
+		"title": "Ce que nous offrons",
+		"par": "Vous voulez travailler dans un endroit qui se soucie de votre bien-être, et pas seulement de votre rendement. Une carrière chez Broadsign est destinée à favoriser votre réussite tant sur le plan professionnel que personnel. Nous offrons un modèle de travail hybride, un régime d'assurance collective, des régimes de retraite, un REER collectif, et nous reconnaissons l'importance d'un équilibre sain entre la vie personnelle et le travail.",
+		"list": [
+			{
+				"id": "wellness",
+				"title": "Programme de bien-être",
+				"description": "Recevez un remboursement de vos dépenses liées au bien-être."
+			},
+			{
+				"id": "sick_days",
+				"title": "Congés de maladie",
+				"description": "Vous ne vous sentez pas bien? Pas de problème, nous offrons de nombreux jours de congé de maladie ou de congé personnel."
+			},
+			{
+				"id": "furnitures",
+				"title": "Allocations pour l'achat de mobilier de bureau",
+				"description": "Équipez votre bureau à la maison de meubles ergonomiques, de fournitures et d'autre matériel essentiel."
+			},
+			{
+				"id": "health_plan",
+				"title": "Régime d'assurance maladie",
+				"description": "Choisissez parmi plusieurs régimes complets de soins de santé."
+			},
+			{
+				"id": "social_events",
+				"title": "Événements annuels de l'entreprise",
+				"description": "Participez à des événements et à des rassemblements amusants, en personne ou virtuels."
+			},
+			{
+				"id": "paid_volunteer",
+				"title": "Bénévolat",
+				"description": "Impliquez-vous dans votre communauté grâce à des journées de bénévolat rémunérées."
+			},
+			{
+				"id": "training",
+				"title": "Apprentissage et perfectionnement",
+				"description": "Renforcez vos compétences professionnelles grâce à des formations rémunérées."
+			},
+			{
+				"id": "rrsp",
+				"title": "Régimes de retraite",
+				"description": "Vous souhaitez planifier votre avenir? Nous offrons différents régimes de retraite."
+			},
+			{
+				"id": "parental_leave",
+				"title": "Congé parental",
+				"description": "Nous offrons un complément d'indemnités de congé parental et nous célébrons l'arrivée de votre enfant."
+			}
+		]
+	},
+	"openings": {
+		"overtitle": "Offres d'emploi chez Broadsign",
+		"title": "Un formidable milieu de travail",
+		"apply": "Postuler",
+		"allDepartments": "Tous les départements",
+		"allLocations": "Tous les lieux/bureaux",
+		"departments": "Département",
+		"locations": "Lieu/bureau",
+		"keywords": "Mots-clés",
+		"noResults": "Sorry, we couldn't find any results!",
+		"viewAll": "Voir tout"
+	},
+	"ats": {
+		"par1": "Don't see what you are looking for?",
+		"par2": "We will let you know when we have new spots!",
+		"cta": "Sign up for job openings"
+	},
+	"training": {
+		"quote": [
+			{
+				"quote": "Dès le premier jour, ma croissance chez Broadsign a été une priorité. Lors d'un entretien individuel avec mon manager, il m'a encouragé à explorer des opportunités de formation pour améliorer mon développement professionnel, surtout en tant que nouveau venu dans la planification financière et l'analyse. Un an plus tard, j'ai obtenu plusieurs certifications en ligne grâce au soutien de Broadsign. C'est gratifiant d'évoluer continuellement et de perfectionner mes compétences, grâce à mes collègues et à mon manager.",
+				"sign": "Viraj Gandhi",
+				"portrait": "raj"
+			}
+		]
+	},
+	"right_place": {
+		"overtitle": "Notre témoignage",
+		"title": "Nous avons une place pour vous"
+	},
+	"culturePlaybook": {
+		"title": "Découvrez la culture chez Broadsign",
+		"cta": "téléchargez notre guide de la culture",
+		"playbookLink": "ptkg"
+	},
+	"faq": {
+		"title": "Foire aux questions",
+		"list": [
+			{
+				"q": "À quoi puis-je m'attendre après avoir envoyé ma candidature?",
+				"a": "Nous nous efforcerons de répondre à tout le monde dans un délai de deux semaines. Veuillez noter toutefois que nous ne communiquerons qu'avec les personnes dont la candidature a été sélectionnée pour le processus d'entrevue."
+			},
+			{
+				"q": "Si ma candidature n'est pas retenue, vais-je recevoir de la rétroaction pour m'aider à m'améliorer?",
+				"a": "Nous comprenons que les commentaires constructifs sont essentiels au perfectionnement professionnel. Cependant, nous recevons un nombre élevé de candidatures et, de ce fait, nous ne sommes pas en mesure de fournir une rétroaction personnalisée à chaque personne qui postule. Cela dit, nous vous encourageons à poser des questions sur le processus de candidature, en particulier si vous avez obtenu une entrevue avec l'un de nos responsables du recrutement."
+			},
+			{
+				"q": "Qui examinera ma candidature?",
+				"a": "Ce processus est dirigé par des humains et non par un ordinateur. L'équipe de recrutement examine attentivement chaque candidature afin de sélectionner celles qui conviennent le mieux pour le poste."
+			},
+			{
+				"q": "Pourquoi ai-je reçu un courriel de refus automatique?",
+				"a": "Broadsign enverra automatiquement un courriel de refus si vous avez posé votre candidature pour un poste situé dans un endroit autre que votre lieu de résidence actuel. Nous ne pouvons embaucher que des personnes qui se trouvent au même endroit que le lieu de travail indiqué dans l'offre d'emploi."
+			},
+			{
+				"q": "Puis-je quand même postuler si je prévois de déménager?",
+				"a": "Pour l'instant, nous ne prenons en considération que les candidatures des personnes qui sont déjà légalement autorisées à travailler dans le pays où se trouve l'emploi en question. Le parrainage pour les demandes de visa est possible, mais demeure rare et concerne principalement des postes spécialisés."
+			},
+			{
+				"q": "À quoi ressemble le processus d'entrevue?",
+				"a": "Nous sommes reconnaissants du temps que vous accordez à notre entreprise. C'est pourquoi nous nous efforçons de simplifier le processus d'entrevue. Vous ne devrez jamais passer plus de quatre entrevues pour un même poste. Nous vous donnerons même l'occasion de rencontrer au moins un membre de votre future équipe. N'oubliez pas qu'au cours de ce processus, nous pouvons vous soumettre à diverses évaluations (tests techniques, présentations, rédaction, etc.)."
+			},
+			{
+				"q": "Ma candidature répondait aux exigences de l'offre d'emploi, mais elle n'a pas été retenue pour le processus d'entrevue. Pourquoi?",
+				"a": "Notre priorité absolue : trouver la personne idéale pour le poste à pourvoir. Nous recevons un nombre important de candidatures de qualité. Malheureusement, en raison du temps limité dont nous disposons, nous ne pouvons pas organiser d'entrevue avec toutes les personnes qui postulent. Toutefois, nous conserverons votre CV pour un poste futur si nous estimons que vous répondez à nos critères."
+			},
+			{
+				"q": "Comment puis-je savoir si le salaire correspond à mes attentes?",
+				"a": "En ce qui concerne les attentes salariales, la transparence est importante pour nous. Nous ferons de notre mieux pour établir un dialogue ouvert à ce sujet. Si vous avez des questions concernant le salaire, nous vous encourageons à en discuter avec la personne responsable du recrutement."
+			}
+		]
+	},
+	"shareFacebook": "Partager sur Facebook",
+	"shareLinkedin": "Partager sur LinkedIn",
+	"shareEmail": "Partager par courriel"
+}

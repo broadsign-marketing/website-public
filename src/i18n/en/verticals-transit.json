@@ -1,0 +1,55 @@
+{
+	"seo": {
+		"title": "Digital Signage in Transit Networks",
+		"description": "Increase revenue and break up the monotony of transit with digital signage that delivers the dynamic and data-driven content, ads and services that audiences love."
+	},
+	"Hero": {
+		"TitlePart1": "Unlock new value in",
+		"TitlePart2": "Transit",
+		"Blurb": "Increase revenue and break up the monotony of transit with digital signage that delivers the dynamic and data-driven content, ads and services that audiences love.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Transit Made more profitable",
+			"Paragraph": "Achieve the full value of your transit network with intelligent ad delivery that puts the right messages in front of the right passengers every single day."
+		},
+		"Pane2": {
+			"Title": "A livelier daily commute",
+			"Paragraph": "Digital signage does a great job of brightening the interior of buses, trains, stations and shelters. Use your network to inject a little life into commuters' journeys and reap the rewards of their attention."
+		},
+		"Pane3": {
+			"Title": "Travelers on the right track",
+			"Paragraph": "Help get people on their way by integrating maps, wayfinding, schedules and other useful services and data across your network of screens."
+		},
+		"Pane4": {
+			"Title": "Many screens, Major impact",
+			"Paragraph": "Sync multiple screens for local visual impact or have one brand take over all your screens for a big signal boost that grabs attention."
+		}
+	},
+	"SpielPoster": {
+		"title": "Content that moves with your audience",
+		"text": "Integrate geolocation tools to deliver relevant content and messaging wherever your screens and Audience go."
+	},
+	"cards": {
+		"title": "Flexible options for maximum ad sales",
+		"par": "With specialized tools for both direct and programmatic Sales Teams, you can exceed sales targets and reach new buyers.",
+		"direct": "Empower your team with Campaign Planning",
+		"reach": "Sell programmatically with our Programmatic SSP"
+	},
+	"Quoteblock": {
+		"Quote": "We were looking for a robust and scalable digital signage product that was able to speak the advertising language and help us innovate. Broadsign made it easier to focus on campaign features rather than the software itself.",
+		"Signature": "Grandi Stazioni"
+	},
+	"Customers": {
+		"Title": "Trusted by leading Transit Signage Clients"
+	},
+	"Partners": {
+		"Title": "Partnerhips For Great Content",
+		"Tagline": "Create your own content, work with local collaborators, or enhance your screens by working with our digital signage content, wayfinding and audience analytics partners."
+	},
+	"Shin": {
+		"Title": "How can your transit network benefit from the Broadsign platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

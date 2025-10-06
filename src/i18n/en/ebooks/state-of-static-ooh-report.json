@@ -1,0 +1,37 @@
+{
+	"seo": {
+		"title": "The State of Static Out-of-Home Report",
+		"description": "If you're ready to take a deep dive into the world of static out-of-home advertising, then download your copy of The State of Static Out-of-Home Advertising Report.",
+		"robots": "index follow"
+	},
+	"ebookLink": "https://online.fliphtml5.com/abair/mkns/",
+	"hero": {
+		"overtitle": "Discover the future of Static OOH",
+		"title": "The State of Static Out-of-Home Report",
+		"data": ["64 countries", "126 respondents"]
+	},
+	"intro": {
+		"pars": [
+			"In an age of digital growth, static out-of-home still comprises 70% of inventory, making it an important yet underrepresented part of the OOH conversation. Broadsign surveyed media owners from around the globe to better understand their static priorities and drivers for the future. Our global industry report is packed with in-depth insights, trends, and analysis that dive into the industry's collective challenges and emerging opportunities.",
+			"If you're ready to take a deep dive into the world of static out-of-home advertising, then download your copy of The State of Static Out-of-Home Advertising Report."
+		],
+		"cta": "Download the Report"
+	},
+	"stats": [
+		{
+			"id": "real_time",
+			"number": "75%",
+			"desc": "of survey respondents cite real-time inventory availability as one of the top features they look for in static OOH management."
+		},
+		{ "id": "targeting", "number": "59%", "desc": "of respondents believe data-driven targeting will play a key role in the growth of static OOH." },
+		{ "id": "carbon", "number": "64%", "desc": "of the static OOH companies that we surveyed have already pledged to reduce their carbon footprint." }
+	],
+	"readMore": {
+		"title": "Interested in more?",
+		"par": "Download your free copy of the full report and learn the latest insights and trends in static OOH from professionals from around the world.",
+		"cta": "Download the Report"
+	},
+	"thankYou": {
+		"cta": "Thank you and happy reading!"
+	}
+}

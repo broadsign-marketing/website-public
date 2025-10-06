@@ -1,0 +1,221 @@
+{
+	"seo": {
+		"title": "Targeted Advertising in Chicago | Broadsign Billboard & OOH Packages",
+		"description": "Advertise in Chicago with Broadsign's targeted billboard and OOH inventory packages. Reach your audience at prime locations, venues, and points of interest throughout Chicago. Maximize your advertising impact with Broadsign's strategic placements."
+	},
+	"apSlug": "chicago",
+	"apLink": "3181",
+	"apToken": "5SpW6cp9Ibnh87PRxCZW3Cyt27H0gDn1HW0EMGI6gbe3qDQe7Hiv0vkz4JN0",
+	"hero": {
+		"overtitle": "Chicago Billboards",
+		"title": "Billboard and Out-of-Home Advertising in Chicago",
+		"blurb": [
+			"Looking to advertise in Chicago? Unlock targeted advertising opportunities with Broadsign's curated billboard and OOH inventory packages. Reach your audience wherever they are with inventory strategically placed to target specific venue types, locations, and points of interest throughout Chicago."
+		],
+		"ctaLaunchCampaign": "Launch a Billboard Campaign",
+		"ctaExplore": "Explore Advertising Inventory"
+	},
+	"opportunities": {
+		"title": "Unlock advertising opportunities in Chicago",
+		"blurb": "As the third-largest media market in the United States, Chicago is a key hub for marketers and advertisers to reach audiences across various demographics and industries.",
+		"list": [
+			{
+				"id": "diversity",
+				"title": "Demographics & Diversity",
+				"blurb": "A vibrant and diverse landscape, advertisers in Chicago can engage with a wide variety of audiences across the designated market area.",
+				"features": [
+					{
+						"id": "groups",
+						"text": "Population of over 2.7 million residents within the city and 9.5 million people across the broader metropolitan area"
+					},
+					{
+						"id": "tv",
+						"text": "Third largest designated market area (DMA) in the US"
+					},
+					{
+						"id": "age",
+						"text": "Average age of 35 years old, with a fairly even distribution among age groups"
+					}
+				]
+			},
+			{
+				"id": "income",
+				"title": "Income & Education",
+				"blurb": "Chicago stands as a top-10 financial and trading hub in the United States, making it an important economic and cultural center in the nation.",
+				"features": [
+					{
+						"id": "household",
+						"text": "Median household income within the city exceeding $71,000"
+					},
+					{
+						"id": "school",
+						"text": "35 Fortune 500 companies are headquartered in Chicago"
+					},
+					{
+						"id": "medal",
+						"text": "Over 43% of Chicagoans hold a bachelor's degree or higher"
+					},
+					{
+						"id": "temple",
+						"text": "Home to more than 100 colleges, universities, and higher-education institutions"
+					}
+				]
+			},
+			{
+				"id": "travel",
+				"title": "Transportation & Travel",
+				"blurb": "Chicago's extensive transportation network caters to a dynamic and mobile audience, giving advertisers opportunities to engage with a high volume of commuters and travelers.",
+				"features": [
+					{
+						"id": "airport",
+						"text": "2 major airports, including O'Hare International Airport, one of the busiest in the world"
+					},
+					{
+						"id": "commute",
+						"text": "Over 1.2 million commuters travel into Chicago daily"
+					},
+					{
+						"id": "train",
+						"text": "Eight ‘L' train lines with over 140 stations"
+					},
+					{
+						"id": "luggage",
+						"text": "Over 50 million visitors travel to Chicago annually, including tourists, business travelers, and convention attendees"
+					}
+				]
+			}
+		]
+	},
+	"ctaBox1": {
+		"title": "Looking to advertise in Chicago?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"topPackages": {
+		"title": "Explore digital OOH inventory packages for top audience segments in Chicago",
+		"blurb": "See our curated billboard and screen packages tailored for specific audiences around top advertising verticals in Chicago. Each package includes diverse environments, venue types, and demographics to boost brand visibility.",
+		"list": [
+			{
+				"slug": "finances",
+				"linkID": "2263",
+				"token": "U8PQzAiHqCQeYNe4PS0SRt89oLJrYMFuNcsPna7QcCqEswX2sBSTqEA4GR6B"
+			},
+			{
+				"slug": "automotive",
+				"linkID": "2266",
+				"token": "mlnnY7RGcdEIqLvDn8WMI8PTinG6xMDjknBZzOTB9M3aHngaeqTjEd6AUaUW"
+			},
+			{
+				"slug": "sportsBetting",
+				"linkID": "2265",
+				"token": "JIEIploqRNlxT0y6tyj2E1D9edK1A3RYI4xwYgFMZZBqORSDlduPrIYBF3bF"
+			},
+			{
+				"slug": "retail",
+				"linkID": "2259",
+				"token": "G5GJkItfR2iEZziFknKy9AEypFyvJSGhHddqkd84VxJ8OQp4rBGC6KhfNVfX"
+			},
+			{
+				"slug": "travelTourism",
+				"linkID": "2258",
+				"token": "2F7WtEaJ64Hn284nLgdskwiU1GTm4u4wiVSWc45J15yt2bp0H5re6kWnKNH6"
+			},
+			{
+				"slug": "healthcarePharma",
+				"linkID": "2262",
+				"token": "bAp27UtAyrtNfUxyoFYUFxr3H6cq0zTBvYySiWbCWf8HPT66yQ7gE9ZtSEHK"
+			}
+		],
+		"cta": "Explore our inventory packages"
+	},
+	"billboards": {
+		"title": "Types of billboards and OOH formats in Chicago",
+		"list": [
+			{
+				"title": "Outdoor",
+				"types": [
+					{
+						"name": "Billboards",
+						"avgCPM": "$8.2",
+						"dailyImpressions": "+32k",
+						"commonSizing": ["20ft x 60ft", "14ft x 48ft"]
+					},
+					{
+						"name": "Urban Panels",
+						"avgCPM": "$8.6",
+						"dailyImpressions": "+14k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					}
+				]
+			},
+			{
+				"title": "Transit",
+				"types": [
+					{
+						"name": "Subway",
+						"avgCPM": "$5",
+						"dailyImpressions": "+135k",
+						"commonSizing": ["2ft x 2ft"]
+					}
+				]
+			},
+
+			{
+				"title": "Place-Based",
+				"types": [
+					{
+						"name": "Office Buildings",
+						"avgCPM": "$9.6",
+						"dailyImpressions": "+62k",
+						"commonSizing": ["4ft x 6ft"]
+					},
+					{
+						"name": "Colleges",
+						"avgCPM": "$10",
+						"dailyImpressions": "+3.4M",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					},
+					{
+						"name": "Gyms",
+						"avgCPM": "$5.6",
+						"dailyImpressions": "+88k",
+						"commonSizing": ["4ft x 6ft", "2ft x 2ft"]
+					}
+				]
+			},
+			{
+				"title": "Retail",
+				"types": [
+					{
+						"name": "Malls",
+						"avgCPM": "$6.1",
+						"dailyImpressions": "+600k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft"]
+					},
+					{
+						"name": "Liquor Stores",
+						"avgCPM": "$5.1",
+						"dailyImpressions": "+48k",
+						"commonSizing": ["4ft x 6ft", "2ft x 4ft", "2ft x 2ft"]
+					}
+				]
+			}
+		]
+	},
+	"ctaBox2": {
+		"title": "Get started with billboard and OOH advertising!",
+		"cta": "Talk to a Media Specialist"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explore More Markets"
+	},
+	"modalExplorePackage": {
+		"title": "Explore our $$$ package"
+	},
+	"faq": [
+		{
+			"id": "faq_inventory_marketplace_chicago_1",
+			"q": "",
+			"a": ""
+		}
+	]
+}

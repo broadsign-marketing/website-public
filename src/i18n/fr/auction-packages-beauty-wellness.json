@@ -1,0 +1,102 @@
+{
+	"seo": {
+		"title": "Beauté et bien-être",
+		"description": "Bâtissez la notoriété de votre marque et générez de l'engouement pour vos lancements de nouveaux produits, grâce à un affichage extérieur numérique accrocheur qui mettra en valeur votre marque dans des lieux hautement fréquentés, et à proximité de vos points de vente au détail."
+	},
+	"apSlug": "beautyWellness",
+	"apLink": "345",
+	"apToken": "ALd5EnYXjYNcaRAnQ0YGW24ErGgu5GpQKvBvq6iB7vwcAysMM3KnkjahL6Il",
+	"playbookLink": "ujpk",
+
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Beauté et bien-être",
+		"blurb": "Bâtissez la notoriété de votre marque et générez de l'engouement pour vos lancements de nouveaux produits, grâce à un affichage extérieur numérique accrocheur qui mettra en valeur votre marque dans des lieux hautement fréquentés, et à proximité de vos points de vente au détail.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Découvrez notre pack Beauté et bien-être",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Fervents de santé et de beauté"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Aéroports", "boutiques de luxe", "pharmacies"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Trajet vers le travail", "Magasinage de fin de semaine"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "Tous les affichages qui visent le public ciblé",
+				"placeBased": "Salons de beauté, centres de remise en forme, spas",
+				"outdoor": "Panneaux-réclames, panneaux urbains et abribus à proximité de magasins de détail et de pharmacies."
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Beauté et santé »",
+		"list": [
+			{
+				"category": "Amateurs de concerts",
+				"description": "Les amateurs de concerts ont tendance à être des femmes de 25 à 34 ans. Ce public est constamment à l'affût du prochain spectacle ou il est en route pour assister à un concert."
+			},
+			{
+				"category": "Propriétaires d'appareils de mise en forme",
+				"description": "Les propriétaires d'appareils de mise en forme sont souvent des femmes dans toutes les tranches d'âges. Elles accordent beaucoup d'importance à la santé et disposent souvent d'une gamme d'applications mobiles axées sur ce thème."
+			},
+			{
+				"category": "Adeptes de santé et de bonne forme physique",
+				"description": "Les adeptes de santé et de bonne forme physique sont fréquemment des femmes âgées de 25 à 44 ans. Ces adeptes disposent généralement d'une gamme d'applications axées sur la santé."
+			},
+			{
+				"category": "Chefs à domicile",
+				"description": "Les chefs à domicile sont souvent des femmes de 25 à 44 ans. Elles ont généralement une famille, elles occupent un emploi, elles se soucient de leur alimentation, de leur forme physique et de leur santé, et leur revenu familial est de 40 000 $ et plus."
+			},
+			{
+				"category": "Influenceurs",
+				"description": "Les influenceurs sont répartis également entre les genres, le plus souvent dans les tranches d'âges de 18 à 24, de 25 à 34 et de 35 à 44."
+			},
+			{
+				"category": "Célibataires",
+				"description": "Les célibataires sont majoritairement des mâles, et 60 % de ce public est âgé de 18 à 34 ans."
+			},
+			{
+				"category": "Influenceurs sociaux",
+				"description": "Les influenceurs sociaux sont répartis également entre les genres. Règle générale, ils font partie des tranches d'âges de 18 à 24 et de 25 à 34, et ils sont répartis également dans les groupes de 35 à 55 ans et plus. Ce public s'affaire à exercer une influence à l'égard de produits ou de services au moyen d'applications de médias sociaux."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Renforcez votre stratégie de marketing omnicanale grâce à l'affichage extérieur numérique.",
+		"list": [
+			"Intégrez la publicité par affichage extérieur numérique dans votre campagne pour mettre en valeur votre produit et pour susciter l'intérêt et l'engagement envers votre marque.",
+			"Générez de l'engouement envers vos lancements de produits afin de promouvoir votre marque dans des lieux hautement fréquentés.",
+			"Attirez l'attention des consommateurs déjà animés d'un désir d'acheter en prévoyant des publicités près de commerces de détail pertinents."
+		]
+	},
+	"playbook": {
+		"title": "La beauté et le bien-être sont des secteurs en croissance mondialement",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Découvrez notre pack Beauté et bien-être" }
+}

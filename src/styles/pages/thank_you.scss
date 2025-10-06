@@ -1,0 +1,250 @@
+@import "../base/dependencies";
+
+/*
+#thank_you is for the actual broadsign.com/thank-you page.
+.thank_you is for all the other thank-you pages, e.g. broadsign.com/thank-you-broadsign-ads-book-demo
+*/
+
+#thank_you {
+	.hero {
+		height: clamp(30vw, 300px, 50vh);
+		max-height: 50vh;
+	}
+
+	.check {
+		max-height: 14vw;
+		max-width: 14vw;
+	}
+
+	.related {
+		&:hover {
+			.related_thumb {
+				box-shadow: 4px 4px 12px rgba(#000, 0.1);
+			}
+
+			.link_cerulean_arrow {
+				&:after {
+					@include animateArrow;
+				}
+			}
+		}
+	}
+
+	.related_thumb {
+		height: 150px;
+		transition: box-shadow 0.3s;
+	}
+
+	.placeholder {
+		height: 70vh;
+	}
+
+	.inside_ooh {
+		&#intro .check {
+			filter: saturate(0) brightness(100);
+		}
+
+		.related_resources {
+			margin: 0 auto;
+			max-width: 900px;
+			width: 100%;
+
+			hr {
+				background-color: #fff;
+				opacity: 0.6 !important;
+			}
+
+			h3 {
+				color: #fff;
+			}
+
+			.grid {
+				margin: 0;
+				padding: 0;
+			}
+
+			.related {
+				border: 1px solid #fff;
+				border-radius: 12px;
+				margin: 0 0 30px;
+				padding: min(3vw, 20px);
+
+				&:hover {
+					background-color: rgba(#fff, 0.3);
+				}
+			}
+
+			.related_date,
+			.related_title,
+			.related_cta {
+				color: #fff !important;
+				filter: saturate(0) brightness(100);
+			}
+		}
+	}
+}
+
+@media (orientation: portrait) {
+	#thank_you {
+		.hero {
+			height: min(50vw, 500px);
+		}
+	}
+}
+
+.thank_you {
+	&:not(#global) {
+		padding-bottom: 6rem;
+	}
+
+	.Hero {
+		margin-bottom: 3rem;
+	}
+
+	.Panel {
+		padding: 9rem 6rem;
+		text-align: center;
+
+		h1 {
+			@include fontSuperBold;
+			color: $mint;
+			font-size: 6.2rem;
+			line-height: 90%;
+			margin: 0 auto;
+			max-width: 75rem;
+		}
+
+		.blurb {
+			font-size: 2.6rem;
+			font-weight: bold;
+			margin-top: 3rem;
+		}
+
+		.cant_wait {
+			margin-bottom: 3rem;
+		}
+
+		hr {
+			margin: 4rem auto;
+			max-width: 75rem;
+		}
+	}
+
+	.resources {
+		h3 {
+			font-size: 3.2rem;
+			line-height: 120%;
+			margin-bottom: 2rem;
+			text-transform: none;
+		}
+	}
+
+	&.theme_carolina {
+		.thank_you_check {
+			height: 75px;
+			width: 75px;
+		}
+
+		.panel {
+			h1 {
+				margin-left: auto;
+				margin-right: auto;
+				max-width: 24ch;
+			}
+
+			p {
+				margin-left: auto;
+				margin-right: auto;
+				max-width: 70ch;
+			}
+		}
+
+		.related {
+			&:hover {
+				.related_thumb {
+					box-shadow: 4px 4px 12px rgba(#000, 0.1);
+				}
+			}
+		}
+
+		.related_thumb {
+			height: 220px;
+			transition: box-shadow 0.3s;
+		}
+	}
+}
+
+@media (max-width: $tablet_max_width) {
+}
+
+@media (max-width: $mobile_max_width) {
+	.thank_you {
+		.Hero {
+			margin-bottom: 0;
+			max-height: 40vh;
+		}
+
+		#intro {
+			padding: 0;
+
+			.Panel {
+				padding-left: 4rem;
+				padding-right: 4rem;
+
+				.CTA {
+					height: auto;
+					max-height: none;
+					white-space: normal;
+				}
+			}
+		}
+
+		.resources {
+			h3 {
+				font-size: 2.2rem;
+			}
+
+			.CardPanel {
+				margin-top: 2rem;
+
+				.title {
+					display: none;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: $xs_max_width) {
+}
+
+@media (max-width: $xs_max_width) and (orientation: portrait) {
+	.thank_you {
+		#intro {
+			.Panel {
+				h1 {
+				}
+			}
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	.thank_you.theme_carolina .related_thumb {
+		max-height: 150px;
+	}
+	#thank_you {
+		.inside_ooh {
+			.related_resources {
+				.grid {
+					justify-content: space-between;
+				}
+
+				.related {
+					margin: 0;
+					max-width: 32%;
+				}
+			}
+		}
+	}
+}

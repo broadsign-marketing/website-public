@@ -1,0 +1,63 @@
+{
+	"seo": {
+		"title": "提供しているプラン",
+		"description": "プランごとに利用できる機能"
+	},
+	"hero": {
+		"title": "提供しているプラン"
+	},
+	"forMediaOwners": "メディアオーナー様へ",
+	"forAgencies": "代理店・ブランド様へ",
+	"agenciesTab": {
+		"title": "効果的なDOOHキャンペーンを展開",
+		"par": "メディア専門家チームが、DOOHキャンペーン戦略の構築と実行を支援いたします。",
+		"cta": "相談する"
+	},
+	"standard": "スタンダード",
+	"professional": "プロフェッショナル",
+	"enterprise": "エンタープライズ",
+	"content_network_management": "コンテンツとネットワークの管理",
+	"digital_media_management": "デジタルメディア管理",
+	"automated_campaign_scheduling": "キャンペーンの動的スケジューリング",
+	"network_player_management": "ネットワークとプレーヤーの管理",
+	"campaign_proof_of_play_reporting": "キャンペーンの配信証明のレポート",
+	"support_for_third_party_players": "サードパーティ製プレーヤーのサポート",
+	"api_access": "API アクセス",
+	"live_digital_screen_management": "デジタルスクリーンの管理",
+	"on_demand_player_polling": "オンデマンドプレーヤーポーリング",
+	"remote_screenshot_capture": "リモートスクリーンショットキャプチャ",
+	"player_monitoring_center": "プレイヤーモニタリングセンター",
+	"cloud_based_content_synchronization": "クラウドベースによるコンテンツの同期",
+	"campaign_planning_ad_serving": "キャンペーン設計と広告配信",
+	"real_time_inventory_availability": "リアルタイムの在庫確認",
+	"proposal_management": "プロポーザルの管理",
+	"guaranteed_campaigns": "保証されたキャンペーン",
+	"frequency": "フリークエンシー",
+	"impressions": "インプレッション",
+	"share_of_voice": "シェアオブボイス",
+	"takeovers": "テイクオーバー",
+	"budget": "予算",
+	"audience_campaigns": "オーディエンスキャンペーン",
+	"contextual_targeting": "コンテキストターゲティング（POI、インプレッションなどの属性）",
+	"moment_based_triggers": "モーメントベースのトリガー（天気、財務データ）",
+	"optimization": "最適化：",
+	"campaign_reallocation": "キャンペーンの再割り当て",
+	"campaign_rebalancing": "キャンペーンのリバランス",
+	"dynamic_screen_selection": "動的な画面選択",
+	"static_campaigns": "ステティックキャンペーン",
+	"asset_management": "運用管理",
+	"campaign_management": "キャンペーン管理",
+	"charting": "チャート",
+	"operations": "オペレーション",
+	"programmatic_ssp": "プログラマティックSSP",
+	"open_exchange_transactions": "オープンエクスチェンジ",
+	"private_marketplace_programmatic_transactions": "プライベートマーケットプレイスにおけるプログラマティック取引",
+	"local_signage_essaging": "ローカライズしたサイネージのメッセージ",
+	"branded_messaging_templates": "ブランドメッセージングのテンプレート",
+	"shin": {
+		"title": "お客様のネットワークに提供できるもの",
+		"par": "ぜひお気軽にお問い合わせください。チームよりすみやかにお電話での相談予約についてご連絡させていただきます。ご質問があればぜひお知らせください。",
+		"ctaBookCall": "電話の予約",
+		"ctaRequestAQuote": "プランを見る"
+	}
+}

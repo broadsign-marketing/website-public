@@ -1,0 +1,98 @@
+{
+	"seo": {
+		"title": "Automotive",
+		"description": "Promote brand awareness, loyalty and affinity by delivering DOOH ads that capture the attention of vehicle owners and potential car buyers."
+	},
+	"apSlug": "automotive",
+	"apLink": "351",
+	"apToken": "TK9ze0JbV6nP4TQIpCsXgkhv6JcYa2W4nkTwGUsXSHOzRYmIV7TUiLqM4pe0",
+	"playbookLink": "zfhb",
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Automotive",
+		"blurb": "Promote brand awareness, loyalty and affinity by delivering DOOH ads that capture the attention of vehicle owners and potential car buyers.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Automotive package",
+			"ppcTitle": "Want a tour of the Automotive package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Auto Enthusiasts"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Malls", "Gas stations", "Car Dealerships", "Maintenance and repair shops"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Peak commute hours"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Dealerships, subway and transit",
+				"outdoor": "Billboard, urban panels and transit shelters within proximity to dealerships and office buildings"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "Weather and Financial Moments",
+				"content": "Play relevant ads based on gas and crude oil prices or during key weather conditions to promote seasonal products or services"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Automotive\" audience segments",
+		"list": [
+			{
+				"category": "Auto shoppers",
+				"description": "Auto Shoppers are working professionals between 25-44 years old and usually men. Their household income is either less than $25k or between $75-$100k."
+			},
+			{
+				"category": "Auto enthusiasts",
+				"description": "Auto Enthusiasts are usually between 24-44 years of age, with an average household income of $25k+. They often already own a car, which they may want to trade or upgrade. This audience segment follows the news and pays attention to the latest auto-release and innovation announcements for their favourite and prospective cars."
+			},
+			{
+				"category": "Vehicle owners",
+				"description": "Vehicle Owners are evenly distributed across genders, and 50% appear in the 25-34 or 35-44 age groups. This audience likely owns apps specific to their existing vehicle make and model."
+			},
+			{
+				"category": "DIY Auto Enthusiasts",
+				"description": "DIY Auto Enthusiasts are focused on fixing, maintaining and updating their cars. They are evenly distributed across genders and most likely appear in the 35-44 year age group."
+			},
+			{
+				"category": "Boat owners",
+				"description": "Boat Owners are evenly distributed across genders, and also evenly distributed across age groups, including 25-34, 35-44, 45-54 and 55+ ranges."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Deliver ads that drive vehicle consideration and sales",
+		"list": [
+			"Capture the attention of potential car buyers by placing ads in key spots across the path to purchase.",
+			"Reach audiences while they're on the road, targeting commuters in high-traffic areas ",
+			"Target ideal demographics by adapting messaging based on factors like life stage, income, and purchasing habits"
+		]
+	},
+	"playbook": {
+		"title": "Drive your audience directly to dealerships with DOOH",
+		"par": "Browse our Automotive playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Automotive package" }
+}

@@ -1,0 +1,140 @@
+{
+	"seo": {
+		"title": "Die Geschichte von Broadsign",
+		"description": "20 Jahre Leuchtkraft für die Out-of-Home-Branche! In 2003, a small Montreal-based company decided to invest in a new area known as Digital Signage, which was taking off thanks to advancements in wireless connectivity and multi-screen playback capabilities, and the idea for Broadsign was born.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"title": "20 Jahre Leuchtkraft für die Out-of-Home-Branche!",
+		"blurb": "In diesem Jahr feiert Broadsign ein bedeutendes Jubiläum: Seit 20 Jahren bringen wir Out-of-Home-Bildschirme auf der ganzen Welt zum Leuchten!",
+		"cta": "Begleiten Sie uns auf eine Reise in die Vergangenheit."
+	},
+	"story": {
+		"s01": {
+			"date": "2003-2010",
+			"title": "Die (sehr) frühen Jahre",
+			"content": [
+				{
+					"type": "p",
+					"text": "Im Jahr 2003 beschloss ein kleines Unternehmen in Montreal, in einen neuen Bereich zu investieren: Digital-Signage-Lösungen erlebten dank fortschrittlicher Entwicklungen in den Bereichen der drahtlosen Konnektivität und Multi-Screen-Wiedergabe einen Aufschwung. So entstand die Idee für Broadsign. "
+				},
+				{
+					"type": "p",
+					"text": "Broadsign brachte daraufhin die allererste Version seines CMS auf den Markt, einschließlich des ersten Moduls für eine automatisierte Durchführung von Kampagnen, Anzeigeninventarsystem und Berichtsfunktionen zur Kampagnen-Performance. Das Unternehmen wurde in „BroadSign“ umbenannt, und das Team bezog eigene Büroräumlichkeiten in Montreals Beaver Hall."
+				},
+				{
+					"type": "p",
+					"text": "Broadsign setzte seine Reise im Digital-Signage-Geschäft fort, ohne sich bewusst zu sein, dass es zu einem OOH-Unternehmen geworden war."
+				},
+				{
+					"type": "quote",
+					"portrait": "bryan_mongeau",
+					"text": "Damals, 2004, nannten wir es ein ASP-Unternehmen (Applications Service Provider). Das bezog sich darauf, dass die Software in der „Cloud“ gehostet wurde, und die bestand damals aus einem Schrank mit Wänden aus Gipskarton, in dem drei oder vier Server untergebracht waren.",
+					"cite": {
+						"name": "Bryan Mongeau",
+						"position": "erster Angestellter und heutiger Chief Technology Officer von Broadsign"
+					}
+				},
+				{
+					"type": "p",
+					"text": "Nach einigen spannenden Jahren, in denen das Unternehmen sein CMS weiterentwickelte, gewann es seinen ersten großen Kunden, AccentHealth (jetzt Patient Point). Mit 18.000 Bildschirmen und DVD-Playern in Arztpraxen überall in den USA benötigte AccentHealth Unterstützung dabei, die Bereitstellung von Inhalten im gesamten Netzwerk zu automatisieren – eine herausragende Gelegenheit, die Broadsigns Einstieg in die OOH-Welt vorantrieb."
+				}
+			]
+		},
+		"s02": {
+			"date": "2010-2017",
+			"title": "Die Welt wird heller",
+			"content": [
+				{
+					"type": "p",
+					"text": "Burr Smith wurde 2008 Broadsign-Investor, übernahm den Vorsitz des Unternehmens und wurde 2011 President & CEO. Wie für viele andere Unternehmen war die Finanzkrise im Jahr 2008 auch für Broadsign eine herausfordernde und gleichzeitig entscheidende Zeit, in der das Unternehmen hart an Umstrukturierungen und der Bewältigung des schwierigen wirtschaftlichen Klimas arbeitete."
+				},
+				{
+					"type": "p",
+					"text": "Zum Zeitpunkt des 10-jährigen Bestehens wurden führende Unternehmen der Out-of-Home-Branche wie JCDecaux und Exterion Media auf Broadsign aufmerksam; sie erkannten die Gelegenheit, ihr digitales Out-of-Home-Geschäft zu erweitern. Mit diesen Kunden war Broadsign in der Lage, sein Produkt mit zusätzlichen Funktionen weiterzuentwickeln, durch die es noch OOH-freundlicher wurde."
+				},
+				{
+					"type": "p",
+					"text": "2017 war ein großes Jahr für das Unternehmen. Mit Intersection gewann Broadsign einen weiteren wichtigen Kunden hinzu und es feierte 100.000 erreichte Abonnements. Außerdem erhielt es die SOC 2 Typ I-Zertifizierung. Im selben Jahr bezog das Unternehmen sein neues Büro in der Innenstadt von Montreal und begann, sein Management-Team zu vergrößern. Dies war der Start für die Einführung des neuen Brandings und der neuen Broadsign-Identität, welche der Evolution des Unternehmens zu einer umfassenden OOH-Plattform Rechnung tragen."
+				}
+			]
+		},
+		"s03": {
+			"date": "2018-2023",
+			"title": "Branchenwachstum und die Pandemiejahre",
+			"content": [
+				{
+					"type": "p",
+					"text": "Nun sesshaft in neuen Räumen, setzte Broadsign sein Wachstum mit der Einführung seiner neuen marktführenden programmatischen DOOH-SSP-Lösung, Broadsign Reach, fort.  Schon kurz nach der Einführung hatte Broadsign 17 DSP-Partner integriert und mit der Auslieferung von Kampagnen in neun Ländern begonnen – ein bedeutender Erfolg für die noch junge programmatische Seite der Branche."
+				},
+				{
+					"type": "p",
+					"text": "Anfang 2019 erreichte Broadsign einen wesentlichen Fortschritt für die OOH-Branche mit der Beilegung einer andauernden Patentverletzungsklage von T-Rex Property AB, bei der es um die Verwendung von Fernsteuerungstechnologie zur Anzeige von Informationen auf öffentlichen Außenbildschirmen ging. Unter Burrs führender Hand durchschritt Broadsign den Fall im Alleingang und gewann im Namen seiner Kunden und der gesamten Branche. Burr wurde daraufhin bei den <a href='https://digitalsignageawards.com/2020-results/' target='_blank'>2019 Digital Signage Awards</a> mit dem Outstanding Individual or Company Award ausgezeichnet."
+				},
+				{
+					"type": "p",
+					"text": "In diesem Frühjahr erwarb das Unternehmen Ayuda Media Systems und ermöglichte damit den Besitzern von OOH-Medien, ihre gesamte Out-of-Home-Werbung von einem einzigen Lösungsanbieter managen, vertreiben und ausliefern zu lassen.  2023 ist auch das Jahr, in dem Ayuda 20 Jahre Software-Geschichte feiert, die es Anfang der 2000er Jahre als Anbieter statischer OOH-Software begann."
+				},
+				{
+					"type": "p",
+					"text": "Gleichzeitig vollzog Broadsign seine zweite Übernahme: die kanadische Demand-Side-Plattform (DSP) Campsite. Mit dem Ziel, programmatische DOOH-Werbung global auszuweiten, konnte mit dieser spannenden Akquisition der Kauf und Verkauf von Medieninventar weiter automatisiert werden, sodass Agenturen und Medienkäufer es leichter haben würden, DOOH-Kampagnen zu finden, zu planen und zu buchen."
+				},
+				{
+					"type": "p",
+					"text": "Natürlich brachte das Jahr 2020 für Viele große Herausforderungen mit sich; die OOH-Branche war auch besonders stark betroffen, weil die Menschen an ihre Wohnungen und Häuser gebunden waren.  Broadsign stellte schnell auf Remote-Arbeit um, und die Kundeninfrastruktur wurde fast vollständig in der Cloud gehostet. Mitarbeiter verlegten die QA-Umgebungen in ihre Keller und Gästezimmer, und Online-Summits wurden zu einem wichtigen Mittel, um mit Kunden in Verbindung zu bleiben. Auf diese Weise konnte das Unternehmen weiterhin Neuigkeiten und Produktaktualisierungen virtuell mit seinen Kunden teilen."
+				},
+				{
+					"type": "p",
+					"text": "Im Jahr 2022 verlieh die <a href='https://www.worldooh.org/' target='_blank'>World Out of Home Organization</a> den Leadership Award an Burr Smith und Charmaine Moldrich, damalige CEO der Outdoor Media Association.  Mit dieser Auszeichnung werden Personen gewürdigt, die mit zukunftsweisenden Ansätzen kontinuierlich Führungsqualitäten im OOH-Bereich demonstrieren und andere inspirieren – eine wohlverdiente Ehre für Burr nach der Reaktion des Unternehmens auf die Corona-Pandemie."
+				}
+			]
+		},
+		"s04": {
+			"date": "Heute",
+			"title": "Heute",
+			"content": [
+				{
+					"type": "p",
+					"text": "2023 wurde Broadsign außerdem zum vierten Mal in Folge als einer der besten Arbeitgeber Kanadas in der Kategorie kleiner und mittelständischer Unternehmen ausgezeichnet – ein Beweis für sein Engagement, eine positive Arbeitsplatzkultur und das Wachstum und die Entwicklung seiner Mitarbeiter zu fördern. "
+				},
+				{
+					"type": "p",
+					"text": "Broadsign feierte die Erfolge mit einem ersten globalen Mitarbeiter-Summit, bei dem alle Mitarbeiter in Montreal zusammenkamen, um vier Tage lang zu lernen, sich in Teambuildings zu vernetzen und Spaß zu haben – alle gemeinsam in einer Zeitzone (eine Premiere für das Unternehmen)!"
+				},
+				{
+					"type": "quote",
+					"portrait": "burr_smith",
+					"text": "Unser Team ist wirklich großartig, in vielerlei Hinsicht. Es gibt kaum Überraschungen, an die bei Broadsign nicht gedacht wurde. Das hätte niemand ohne eine außergewöhnliche Gruppe von Menschen schaffen können, und diese außergewöhnliche Gruppe zieht weitere außergewöhnliche Menschen an.",
+					"cite": {
+						"name": "Burr Smith",
+						"position": "President & CEO"
+					}
+				},
+				{
+					"type": "p",
+					"text": "Ein Hoch auf 20 Jahre und noch viele weitere mehr!"
+				}
+			]
+		}
+	},
+	"caption_01_01": "Workflow des ersten Content-Management-Systems (CMS) von Broadsign.",
+	"caption_01_02": "Eines der ersten Logos, als das Unternehmen „BroadSign“ hieß.",
+	"caption_02_01": "Der kürzlich verstorbene Jean Beaudry, früherer COO von Broadsign, und Marketing Project Manager Ashley Larbalestier am Messestand.",
+	"caption_02_02": "Das Broadsign-Team zieht in den neuen Hauptsitz in der Innenstadt von Montreal, Quebec.",
+	"caption_02_03": "Broadsign erhält 2017 die SOC 2 Typ I-Zertifizierung, ein großer Erfolg für das Unternehmen.",
+	"caption_03_01": "Der Stand von Broadsign auf der Integrated Systems Europe (ISE) 2020 in Amsterdam.",
+	"caption_03_02": "Der erste Ayuda-Stand auf einer OAAA-Veranstaltung im Jahr 2019, nach der Übernahme des Unternehmens durch Broadsign.",
+	"caption_03_03": "Broadsign-CEO Burr Smith und Charmaine Moldrich, ehemalsehemalig CEO der Outdoor Media Association, werden gemeinsam mit dem World Out-of-Home Organization's Leadership Award 2022 ausgezeichnet.",
+	"caption_03_04": "In der frühen Phase der Pandemie 2020 stellt das Unternehmen schnell auf Remote-Arbeit um.",
+	"caption_04_01": "Zum vierten Mal in Folge wird Broadsign im Jahr 2023 zu einem der besten kleinen und mittleren Arbeitgeber Kanadas ernannt.",
+	"caption_04_02": "Broadsigns globaler Mitarbeiter-Summit 2022 in Montreal, Quebec.",
+	"caption_04_03": "Broadsigns globaler Mitarbeiter-Summit 2022 in Montreal, Quebec.",
+	"caption_04_04": "Vorträge von Experten der OOH-Branche am Broadsign-Mitarbeiter-Summit 2022.",
+	"unfoldStory": "Abschnitt erweitern",
+	"foldStory": "Schließen",
+	"shin": {
+		"title": "Fühlen Sie sich inspiriert?",
+		"par": "Schreiben Sie mit uns Ihre eigene Geschichte!",
+		"cta": "Kontaktiere uns"
+	}
+}

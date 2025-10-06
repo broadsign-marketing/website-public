@@ -1,0 +1,140 @@
+{
+	"seo": {
+		"title": "L'Histoire de Broadsign",
+		"description": "20 ans à éclairer le secteur de l'affichage extérieur! En 2003, une petite boîte montréalaise a décidé d'investir dans l'affichage numérique, un domaine émergent qui connaissait alors un essor remarquable grâce aux avancées dans la connectivité sans fil et la lecture sur écrans multiples. C'est ainsi qu'est né le concept Broadsign.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"title": "20 ans à éclairer le secteur de l'affichage extérieur!",
+		"blurb": "Cette année marque un anniversaire important pour Broadsign! En effet, cela fait maintenant 20 ans que nous illuminons des écrans extérieurs aux quatre coins du monde!",
+		"cta": "Et si, pour l'occasion, nous faisions un petit voyage dans le temps?"
+	},
+	"story": {
+		"s01": {
+			"date": "2003-2010",
+			"title": "Nos (tout) débuts",
+			"content": [
+				{
+					"type": "p",
+					"text": "En 2003, une petite boîte montréalaise a décidé d'investir dans l'affichage numérique, un domaine émergent qui connaissait alors un essor remarquable grâce aux avancées dans la connectivité sans fil et la lecture sur écrans multiples. C'est ainsi qu'est né le concept Broadsign."
+				},
+				{
+					"type": "p",
+					"text": "Broadsign a ensuite lancé la toute première version de son système de gestion de contenu, qui comprenait le premier moteur automatisé de mise en œuvre de campagnes, un système de stocks publicitaires ainsi qu'un système de rapports de preuve de diffusion. La première mouture de l'entreprise s'appelait « BroadSign », et son équipe a emménagé dans ses premiers bureaux, sur la côte du Beaver-Hall, à Montréal."
+				},
+				{
+					"type": "p",
+					"text": "Chemin faisant, Broadsign a progressé dans le monde de l'affichage numérique, sans se rendre compte qu'elle était en fait une entreprise d'affichage extérieur."
+				},
+				{
+					"type": "quote",
+					"portrait": "bryan_mongeau",
+					"text": "En 2004, nous nous voyions comme un FSA, un fournisseur de services applicatifs. Cela voulait dire que notre logiciel était hébergé dans le \"nuage\", ce qui à l'époque correspondait à un placard contenant trois ou quatre serveurs.",
+					"cite": {
+						"name": "Bryan Mongeau",
+						"position": "premier employé de Broadsign, aujourd'hui directeur de la technologie de l'entreprise."
+					}
+				},
+				{
+					"type": "p",
+					"text": "Après quelques années à mettre en place son système de gestion de contenu, l'entreprise a obtenu son premier client majeur, AccentHealth (maintenant appelée Patient Point). Avec ses 18 000 écrans et lecteurs DVD installés dans des cliniques médicales de partout aux États-Unis, AccentHealth avait besoin d'un coup de main pour automatiser la diffusion de son contenu à l'échelle de son réseau. C'était le défi parfait pour propulser Broadsign dans le monde de l'affichage!"
+				}
+			]
+		},
+		"s02": {
+			"date": "2010-2017",
+			"title": "Éclairer le monde",
+			"content": [
+				{
+					"type": "p",
+					"text": "En 2008, Burr Smith est devenu investisseur et président de Broadsign. Il deviendra PDG trois ans plus tard, en 2011. Comme cela a été le cas pour bon nombre d'entreprises, la crise financière de 2008 a plongé Broadsign dans une période difficile mais transformatrice qui a donné lieu à un vaste chantier de restructuration visant à s'adapter au contexte économique."
+				},
+				{
+					"type": "p",
+					"text": "Alors que Broadsign soufflait ses dix bougies, son travail a attiré l'attention de grands noms de l'industrie de l'affichage extérieur comme JCDecaux et Exterion Media, qui ont vu une possibilité d'étendre ses activités dans le domaine de l'affichage extérieur numérique. L'arrivée de ces nouveaux clients a aidé Broadsign à perfectionner ses produits en les dotant de fonctionnalités pour l'affichage extérieur."
+				},
+				{
+					"type": "p",
+					"text": "L'année 2017 a été marquante pour Broadsign. En plus de signer un contrat avec Intersection, un nouveau client de renom, l'entreprise a atteint le cap des 100 000 abonnements et a obtenu la certification SOC 2 de type 1. La même année, Broadsign a emménagé dans un nouveau siège social au centre-ville de Montréal et a entrepris d'élargir son équipe de direction. Dans la foulée de ces changements, Broadsign a adopté une nouvelle image de marque ainsi qu'une nouvelle identité en tant que plateforme généraliste d'affichage extérieur."
+				}
+			]
+		},
+		"s03": {
+			"date": "2018-2023",
+			"title": "Croissance de l'industrie et les années de pandémie",
+			"content": [
+				{
+					"type": "p",
+					"text": "Bien installée dans ses nouveaux bureaux, l'équipe de Broadsign a continué de faire croître l'entreprise, avec le lancement de Broadsign Reach, une nouvelle plateforme SSP d'affichage extérieur numérique programmatique à la fine pointe du marché. Peu de temps après, Broadsign a fait équipe avec 17 partenaires de DSP pour diffuser des campagnes dans 9 pays – un exploit remarquable dans une filière programmatique en plein essor!"
+				},
+				{
+					"type": "p",
+					"text": "Au début de 2019, Broadsign a décroché une importante victoire au nom de tout le secteur de l'affichage extérieur. En effet, elle s'est battue en cour dans le cadre d'une poursuite pour violation de brevet intentée par T-Rex Property AB concernant l'utilisation de technologies de contrôle à distance pour afficher de l'information sur des écrans publics extérieurs. Sous le leadership de Burr Smith, Broadsign s'est battue seule dans cette affaire et a eu gain de cause. C'est une victoire non seulement pour elle, mais aussi pour ses clients et pour l'ensemble de l'industrie! Cette victoire a valu à M. Smith un prix aux <a href='https://digitalsignageawards.com/2020-results/' target='_blank'>2019 Digital Signage Awards</a>, dans la catégorie « Personne ou entreprise exceptionnelle »."
+				},
+				{
+					"type": "p",
+					"text": "Au printemps 2019, Broadsign a fait l'acquisition d'Ayuda Media Systems, ce qui lui a permis d'offrir aux propriétaires de médias d'affichage extérieur une solution unique pour gérer, vendre et diffuser toutes leurs publicités d'affichage extérieur. En 2023, Ayuda a franchi le cap des 20 ans d'expérience en logiciels. L'entreprise avait fait ses débuts au début des années 2000 dans le domaine des logiciels d'affichage extérieur statique."
+				},
+				{
+					"type": "p",
+					"text": "Parallèlement à tout cela, Broadsign a acquis une deuxième entreprise : la plateforme DSP canadienne Campsite. Cette acquisition, qui visait à accroître l'offre mondiale d'affichage extérieur numérique programmatique, a contribué à l'automatisation des processus d'achat et de vente de médias, ce qui a permis aux agences et aux acheteurs de médias de trouver, planifier et réserver plus facilement des campagnes publicitaires."
+				},
+				{
+					"type": "p",
+					"text": "Il va sans dire que l'année 2020 a amené son lot de défis dans tous les domaines – en particulier dans l'industrie de l'affichage extérieur, dont le public était confiné chez lui. Dans ce contexte, Broadsign est rapidement passée au télétravail, la quasi-totalité de son infrastructure client étant hébergée dans le nuage. Les employés ont troqué leurs activités de terrain pour leur sous-sol, se tournant vers les rencontres et les sommets virtuels pour garder contact avec les clients et permettre à Broadsign de diffuser ses annonces et mises à jour de produits."
+				},
+				{
+					"type": "p",
+					"text": "En 2022, la <a href='https://www.worldooh.org/' target='_blank'>World Out of Home Organization</a> a remis le prix Leadership Award à Burr Smith et à Charmaine Moldrich, ancienne cheffe de la direction de l'Outdoor Media Association. Ce prix souligne la contribution de chefs de file, pionniers et figures inspirantes du domaine de l'affichage extérieur. Pour M. Smith, c'est une marque de reconnaissance bien méritée après tous les efforts déployés par Broadsign durant la pandémie."
+				}
+			]
+		},
+		"s04": {
+			"date": "Today",
+			"title": "Today",
+			"content": [
+				{
+					"type": "p",
+					"text": "En 2023, Broadsign a été nommée parmi les meilleurs petits et moyens employeurs au Canada pour la quatrième année consécutive – une reconnaissance qui témoigne de sa détermination à créer une culture positive axée sur la croissance et le perfectionnement de son personnel."
+				},
+				{
+					"type": "p",
+					"text": "Pour célébrer cet honneur, l'entreprise a tenu son tout premier sommet mondial des employés, lors duquel ses équipes ont convergé vers Montréal pour quatre journées amusantes sous le signe de l'apprentissage, du réseautage et de la consolidation d'équipe. C'était la première fois que tout le monde était réuni dans le même fuseau horaire!"
+				},
+				{
+					"type": "quote",
+					"portrait": "burr_smith",
+					"text": "Nous avons une équipe formidable à bien des égards. Il y a rarement des surprises auxquelles nous n'avons pas pensé chez Broadsign. Personne n'aurait pu y arriver sans ce groupe de personnes exceptionnelles, et ce groupe de personnes exceptionnelles attire encore plus de personnes exceptionnelles.",
+					"cite": {
+						"name": "Burr Smith",
+						"position": "président et chef de la direction"
+					}
+				},
+				{
+					"type": "p",
+					"text": "Ensemble, célébrons ces 20 années formidables et les nombreuses autres qui viendront!"
+				}
+			]
+		}
+	},
+	"caption_01_01": "Le flux de travail du tout premier système de gestion de contenu de Broadsign.",
+	"caption_01_02": "L'un des premiers logos de l'entreprise, à l'époque où elle s'appelait « BroadSign ».",
+	"caption_02_01": "Le regretté Jean Beaudry, ancien chef de l'exploitation, dans un kiosque Broadsign avec Ashley Larbalestier, cheffe de projet marketing.",
+	"caption_02_02": "L'équipe de Broadsign s'installe dans son nouveau siège social du centre-ville de Montréal.",
+	"caption_02_03": "En 2017, Broadsign a atteint un nouveau jalon important en obtenant la certification SOC 2 de type 1.",
+	"caption_03_01": "Le kiosque de Broadsign lors de l'événement Integrated Systems Europe (ISE) 2020 à Amsterdam.",
+	"caption_03_02": "Le tout premier kiosque Ayuda lors d'un événement de l'OAAA en 2019, après l'acquisition de cette entreprise par Broadsign.",
+	"caption_03_03": "En 2022, la World Out of Home Organization a remis le prix Leadership Award à Burr Smith et à Charmaine Moldrich, ancienne cheffe de la direction de l'Outdoor Media Association.",
+	"caption_03_04": "L'entreprise est rapidement passée en mode télétravail lors des premiers mois de la pandémie, en 2020.",
+	"caption_04_01": "Pour la quatrième année consécutive, Broadsign est nommé l'un des meilleurs petits et moyens employeurs au Canada en 2023.",
+	"caption_04_02": "Le sommet mondial des employés de Broadsign de 2022, à Montréal.",
+	"caption_04_03": "Le sommet mondial des employés de Broadsign de 2022, à Montréal.",
+	"caption_04_04": "Présentations d'experts du secteur de l'affichage extérieur lors du sommet mondial des employés de Broadsign de 2022.",
+	"unfoldStory": "Développer la section",
+	"foldStory": "Fermer",
+	"shin": {
+		"title": "Ça vous inspire?",
+		"par": "Venez écrire votre propre histoire avec nous!",
+		"cta": "Nous contacter"
+	}
+}

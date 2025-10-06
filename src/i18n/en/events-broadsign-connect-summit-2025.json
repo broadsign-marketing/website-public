@@ -1,0 +1,96 @@
+{
+	"seo": {
+		"title": "Broadsign Connect Summit 2025",
+		"description": "Join us in Barcelona for the annual Broadsign Connect Summit 2025. Get ready to uncover key insights and access powerful tools to drive your business forward while making meaningful connections with fellow industry experts.",
+		"robots": "noindex nofollow"
+	},
+	"hero": {
+		"title": "Broadsign Connect Summit 2025",
+		"par": "Our customer summit might be over, but you can still watch the keynote sessions on demand. Enjoy!"
+	},
+	"featuredVideo": {
+		"title": "See the highlights from our 2025 Customer Summit in Barcelona, Spain!",
+		"vimeoId": "1064736577"
+	},
+	"watchSessions": "Watch the sessions",
+	"extraResources": "Additional resources",
+	"videos": [
+		{
+			"title": "Driving OOH Growth with Measurement",
+			"description": "Deeper data insights and attribution capabilities are helping advertisers better understand OOH performance. Learn practical strategies to leverage these advancements, proving the value of OOH to attract larger advertising budgets and secure your spot in multi-channel campaigns.",
+			"presenters": [
+				{
+					"id": "emily_alcorn",
+					"name": "Emily Alcorn",
+					"position": "Head of Measurement, Talon UK"
+				}
+			],
+			"vimeoId": "1062522559"
+		},
+		{
+			"title": "Unlocking the Power of Automation",
+			"description": "Be among the first to experience our newest innovation, set to transform how OOH advertising is bought and sold. Watch for an exclusive look at our latest platform update—the first of its kind—designed to put automation at the heart of OOH transactions.",
+			"presenters": [
+				{
+					"id": "adam_garrity",
+					"name": "Adam Garrity",
+					"position": "Head of Global OOH, dentsu"
+				},
+				{
+					"id": "gavin_lee",
+					"name": "Gavin Lee",
+					"position": "Sr Director Product, Broadsign"
+				},
+				{
+					"id": "sijmen_vos",
+					"name": "Sijmen Vos",
+					"position": "Senior Software Developer, OutMoove"
+				}
+			],
+			"vimeoId": "1063681310"
+		},
+		{
+			"title": "Sustainability on Screen",
+			"description": "Sustainability is taking center stage in the advertising landscape. Discover how Scope 3's carbon measurement tools help media owners like you meet environmental goals, tap into green media budgets, and add compelling value to your offerings.",
+			"presenters": [
+				{
+					"id": "harvin_gupta",
+					"name": "Harvin Gupta",
+					"position": "Head of Commercial Partnerships, Scope 3"
+				}
+			],
+			"vimeoId": "1062157613"
+		},
+		{
+			"title": "The Platform that Powers OOH",
+			"description": "Join our product leaders as they unveil the 2025 roadmap, providing a clear view of what's coming to the platform this year. ",
+			"presenters": [
+				{
+					"id": "francois_hechme",
+					"name": "Francois Hechme",
+					"position": "VP of Products, Broadsign"
+				},
+				{
+					"id": "gavin_lee",
+					"name": "Gavin Lee",
+					"position": "Sr Director Product, Broadsign"
+				}
+			],
+			"vimeoId": "1064721210",
+			"cta": "Sign in to watch",
+			"gated": true
+		},
+		{
+			"title": "State of the Industry",
+			"description": "Vincent draws on his extensive experience in the advertising industry to explore key market insights and EMEA emerging trends shaping 2025.",
+			"presenters": [
+				{
+					"id": "vincent_letang",
+					"name": "Vincent Létang",
+					"position": "EVP, Managing Partner, Global Market Intelligence, MAGNA"
+				}
+			],
+			"vimeoId": "1063599230"
+		}
+	]
+}

@@ -1,0 +1,106 @@
+@import "../base/dependencies";
+
+#content_network_management {
+	.hero {
+		h1 {
+			font-size: calc(min(48px, 10vw));
+		}
+
+		.CTA.clear {
+			background-color: transparent;
+		}
+	}
+}
+
+html[lang="de"] #content_network_management {
+	.hero {
+		h1 {
+			font-size: min(48px, 8vw);
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#content_network_management {
+		.mission {
+			.box {
+				img {
+					height: 50px;
+					margin-bottom: 30px;
+					width: 50px;
+				}
+
+				.num {
+					@include fontBlack;
+					color: $reflex;
+					display: block;
+					font-size: calc(min(44px, 5vw));
+					margin: 0;
+					text-align: center;
+				}
+
+				.what {
+					@include fontReg;
+					color: $reflex;
+					display: block;
+					font-size: 16px;
+					text-align: center;
+				}
+			}
+		}
+	}
+
+	html[lang="en"] {
+		#content_network_management {
+			.mission .box .num {
+				font-size: min(44px, 4vw);
+			}
+		}
+	}
+}
+
+html[lang="es"] #content_network_management {
+	.hero .CTA {
+		white-space: normal;
+	}
+}
+
+
+@media (min-width:$md) {
+
+	html[lang="fr"],
+	html[lang="de"] {
+		#content_network_management {
+			.mission {
+				.box {
+					.num {
+						font-size: calc(clamp(16px, 2vw, 34px));
+						white-space: nowrap;
+					}
+				}
+			}
+		}
+	}
+
+	html[lang="es"] {
+		#content_network_management {
+			.mission {
+				.box {
+					.num {
+						font-size: calc(clamp(16px, 2vw, 28px));
+						white-space: nowrap;
+					}
+				}
+			}
+		}
+	}
+
+	html[lang="de"] #content_network_management {
+		.hero {
+			.ctas {
+				max-width: 120ch;
+				width: 120ch;
+			}
+		}
+	}
+}

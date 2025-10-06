@@ -1,0 +1,878 @@
+[
+	{
+		"key": "burrsmith",
+		"name": "Burr Smith",
+		"title": "Chairman, President and Chief Executive Officer",
+		"badge": "Winner of Outstanding Individual Award, 2020 Global Digital Signage Award",
+		"description": [
+			"Burr Smith is the chairman, president and CEO at Broadsign. Burr is deeply invested in the company's success and has a strong propensity for pursuing interesting opportunities and initiatives for the company.",
+			"Burr was the recipient of the \"Outstanding Individual\" award at the 2020 Global Digital Signage Awards and \"Leadership\" award from the World Out-of-Home Organization (WOO) in 2022. He is highly involved in the digital signage industry and an active member of the World Out-of-Home Organization and a past member of the board of the Digital Place-Based Advertising Association (DPAA). Burr has a keen eye for identifying trends that move the out-of-home industry forward.",
+			"In addition to his role at Broadsign, Burr is the manager of the Brisco-Davis Group, family investment portfolio, a position that he has held for the past 17 years.",
+			"Burr holds an LLM in Taxation from Washington University School of Law, a J.D. from the Emory University School of Law and a B.A. from Vanderbilt University."
+		],
+		"language": "en",
+		"order": 1
+	},
+	{
+		"key": "danatunks",
+		"name": "Dana Tunks, CPA, CA",
+		"title": "Chief Financial Officer",
+		"description": [
+			"As Broadsign's Chief Financial Officer, Dana Tunks oversees financial reporting, corporate planning, treasury, taxation, risk-management, human resources, marketing, platform services and support functions globally.",
+			"Dana is passionate about the D/OOH industry and its transformation as the industry adopts programmatic software tools. Dana's past industry work involved data standardization and transparency in the digital out-of-home industry which garnered her a spot on the Interactive Advertising Bureau (IAB) Board of Directors of the Data Center for four years, where she and other members help advertisers and marketers operationalize their data assets while maintaining quality, transparency, accountability, and consumer protection.",
+			"A seasoned professional, Dana has held roles as CFO and advisory board member of software and technology companies in the healthcare, mobile commerce and emissions industries. Dana has a passion for technologies and solutions that digitally transform industries. She spent over 23 years as a senior partner with Ernst & Young LLP, both in audit and consulting services. As a senior partner, she led numerous engagements delivering digital transformation initiatives globally.",
+			"Dana is a Chartered Accountant and received her Honours Bachelor of Business Administration from Wilfrid Laurier University. Her community involvement has included the Audit Committee of Wilfrid Laurier University, Innovation Council at the Canadian Institute of Chartered Accountants and Board positions on the Windsor Symphony Orchestra and Kitchener-Waterloo YWCA."
+		],
+		"language": "en",
+		"order": 2
+	},
+	{
+		"key": "joecotugno",
+		"name": "Joe Cotugno",
+		"title": "Sr. Vice President, International Operations",
+		"description": [
+			"Joe Cotugno, Senior Vice President, International Operations, is responsible for overseeing all of Broadsign's operations outside of North America.",
+			"Prior to joining Broadsign, Joe was a co-founder of Ayuda, starting as a developer in the very early days, and then spearheading the Product Management, Client Services, and Professional Services teams, eventually culminating in his role as Managing Director of the EMEA Region.",
+			"Joe has over 20 years of experience in software development, and previously worked for Business Objects (now SAP) as a Senior Consultant based in Silicon Valley, managing the rollout of numerous, successful multi-million-dollar implementations of Business Intelligence solutions to Fortune 500 companies.",
+			"A polyglot mathematician at heart, he speaks 4.3 languages, and holds a Bachelor's degree in Mathematical Statistics & Computer Science from Concordia University. Joe enjoys playing ice hockey and soccer, reading Dr. Seuss books to his children, and has a profound interest in all things digital."
+		],
+		"language": "en",
+		"order": 3
+	},
+	{
+		"key": "maartendollevoet",
+		"name": "Maarten Dollevoet",
+		"title": "Chief Revenue Officer",
+		"description": [
+			"As CRO, Maarten Dollevoet brings deep product and industry knowledge to his role overseeing Broadsign's global sales and product strategy.",
+			"Maarten joined Broadsign in 2008 as the company's European Sales Director, developing a consistent track record of revenue growth as well as high praise amongst his accounts as a key business partner. Fluent in Dutch, German and English, Maarten holds a Bachelor degree in Sales and Marketing from Hogeschool van Arnhem en Nijmegen and an MBA from Radboud University Nijmegen."
+		],
+		"language": "en",
+		"order": 4
+	},
+	{
+		"key": "bryanmongeau",
+		"name": "Bryan Mongeau",
+		"title": "Chief Technology Officer",
+		"description": [
+			"As Broadsign's Chief Technology Officer, Bryan Mongeau oversees all of the company's engineering and product teams. Working in tandem with senior leadership, he ensures that Broadsign's product vision and roadmap is aligned with the company's objectives while making sure the engineering teams can deliver and scale it.",
+			"A co-founder of Broadsign, Bryan has greatly contributed to the development of its digital signage software, both as a developer in the early days and later as the head of the engineering and product teams. An OOH industry veteran, he has over 18 years of experience in building enterprise SaaS software and services."
+		],
+		"language": "en",
+		"order": 5
+	},
+
+	{
+		"key": "raphaelabele",
+		"name": "Raphael Abele",
+		"title": "Vice President, Corporate Development",
+		"description": [
+			"Raphael Abele, Vice President, Corporate Development, works in close collaboration with Broadsign's executive committee to lead the formation and execution of Broadsign's inorganic growth strategy globally.  Raphael is involved in every stage of the lifecycles of investment, merger or acquisition opportunities to enhance Broadsign's platform and create value for all stakeholders.",
+			"Prior to joining Broadsign, Raphael held a number of leadership roles driving acquisitive growth in the business-to-business services sector at a private equity owned Canadian corporation, which transformed into a joint venture with a U.S. publicly traded partner, and at a Fortune 1000 company, all of which had multinational footprints.  In addition, Raphael has worked as an investment banker at one of Canada's largest financial institutions.  Raphael holds a Bachelor of Business Administration degree from Wilfrid Laurier University."
+		],
+		"language": "en",
+		"order": 7
+	},
+	{
+		"key": "tracyanema",
+		"name": "Tracy Anema",
+		"title": "Vice President, Finance",
+		"description": [
+			"As Vice President of Finance, Tracy provides leadership to Broadsign's accounting and administration teams, and works to ensure that the company's financial planning, reporting and analysis supports long-term strategic objectives.",
+			"Tracy has over 20 years experience working in global and regional companies, having held senior management positions in pharmaceutical, retail and not-for-profit organizations. Through Anema McIntosh Inc., a company she cofounded in 2008 to provide financial guidance to entrepreneurs, she gained experience in technology, manufacturing and construction industries.",
+			"Tracy completed her CPA, CGA designation in 1998 and holds a Business Administration degree."
+		],
+		"language": "en",
+		"order": 8
+	},
+	{
+		"key": "johndolan",
+		"name": "John Dolan",
+		"title": "Vice President, Global Head of Media Sales",
+		"description": [
+			"As Broadsign's Vice President, Global Head of Media Sales, John Dolan oversees the global direction of Broadsign's media sales team, providing sales leadership across the US, Canada, EMEA, and APAC regions. John's work focuses on identifying growth opportunities both geographically and within the Broadsign team while investing in the growth of Broadsign's programmatic OOH solutions and DSP partners.",
+			"A veteran in the programmatic industry, John brings over a decade of experience in the ad-tech space. He joined Broadsign from Integral Ad Science, where he spearheaded agency and programmatic development for the company as Global VP. Prior, he served as VP of National Sales at Sizmek, developer of an independent buy-side ad server, and various sales roles at Rocket Fuel, a global programmatic marketing platform. He holds a Bachelor of Science from the University of Rhode Island."
+		],
+		"language": "en",
+		"order": 9
+	},
+	{
+		"key": "giovangentile",
+		"name": "Giovan Gentile",
+		"title": "Vice President, Engineering",
+		"description": [
+			"Giovan “GG” Gentile, VP, Engineering, oversees all engineering operations at Broadsign, contributing to product development, DevOps, and cloud architecture across the Broadsign and Ayuda software platforms.",
+			"An Ayuda veteran of 15 years, Giovan helped build the Ayuda platform from the ground up, and has spent the past several years in an executive role. He has more than 20 years of development experience."
+		],
+		"language": "en",
+		"order": 10
+	},
+	{
+		"key": "liseannegillham",
+		"name": "Liseanne Gillham",
+		"title": "Vice President, Marketing",
+		"description": [
+			"As VP marketing, Liseanne Gillham oversees Broadsign's brand, lead generation, digital, and product marketing functions. As a senior leader for several high-growth technology companies, Liseanne has successfully introduced numerous products and services to the market, led cross-functional global business teams, integrated complex business structures across newly merging companies, and launched and run an eCommerce business.",
+			"Prior to joining Broadsign, Liseanne held a variety of business development and marketing roles at Autodesk, primarily with their media and entertainment division. More recently, Liseanne led content and marketing communications for Lightspeed, one of Canada's fastest growing software companies, navigated several high-profile VC funding rounds, as well as consulted to a number of tech start-ups."
+		],
+		"language": "en",
+		"order": 11
+	},
+	{
+		"key": "meghanhastings",
+		"name": "Meghan Hastings",
+		"title": "Vice President, HR",
+		"description": [
+			"As Vice President of HR, Meghan oversees Broadsign's human resources and people functions to ensure a positive, rewarding, and impactful employee experience. With over a decade of HR experience, she leads a team dedicated to fostering a motivated and engaged culture while maintaining alignment with the company's values.",
+			"Prior to joining Broadsign's recruitment department in 2016, Meghan held various roles at Epicor and Aptos, a software provider, and IBM, where she served as an HR Delivery Professional leading a team of recruiters under the IBM Kenexa division.",
+			"Meghan holds a Bachelor of Commerce in Human Resource Management and is a member of Canada's Chartered Professionals in Human Resources (CPHR)."
+		],
+		"language": "en",
+		"order": 12
+	},
+	{
+		"key": "francoishechme",
+		"name": "François Hechme",
+		"title": "Vice President, Products",
+		"description": [
+			"François Hechme, vice president of products, oversees Broadsign's product vision and direction. With a mix of tech and business knowhow, and over a decade of experience in the digital signage industry, François lays out the strategy for Broadsign's software platform and works with his team to drive product growth and development.",
+			"François is a Broadsign veteran, having worked with the company in its early years. He has since returned with numerous product leadership positions under his belt, and brings a new perspective and deep industry knowledge to the Broadsign team. François additionally holds a degree in computer engineering from Concordia University."
+		],
+		"language": "en",
+		"order": 13
+	},
+	{
+		"key": "francoromanelli",
+		"name": "Franco Romanelli",
+		"title": "Vice President, Client Services",
+		"description": [
+			"As Vice President of Client Services, Franco Romanelli oversees Broadsign's support, technical consultation and managed services departments. In doing so, Franco ensures that the highest level of service is provided to Broadsign clients.",
+			"Franco joined Broadsign in 2004 as a support agent. Given that there was no support department in place at that time, he was handed the task of building one. As a result of Franco's success, he then spearheaded the creation of the managed services department in 2007.",
+			"Franco holds a Computer Engineering degree from Concordia University."
+		],
+		"language": "en",
+		"order": 14
+	},
+	{
+		"key": "frankvallenga",
+		"name": "Frank Vallenga",
+		"title": "Vice President, SaaS Sales",
+		"description": [
+			"As Vice President of SaaS Sales, Frank Vallenga oversees new business sales and growth initiatives for our media owner SaaS business.",
+			"Frank joined Broadsign in 2015, beginning his journey with the company as a sales director and later excelling in his leadership position as Head of Sales EMEA and APAC. He then began taking on more responsibilities for the North American sales team and will continue to provide leadership across all regions as VP of SaaS Sales. A self-proclaimed (D)OOH enthusiast, Frank's deep knowledge and innate understanding of the OOH industry have greatly contributed to the development and achievements of Broadsign."
+		],
+		"language": "en",
+		"order": 15
+	},
+	{
+		"key": "remiroques",
+		"name": "Remi Roques",
+		"title": "General Manager, Broadsign APAC",
+		"description": [
+			"Remi Roques, General Manager, Broadsign APAC, oversees regional activity for the APAC market, driving and implementing strategy for Broadsign and establishing strong partnerships with regional entities.",
+			"Previously, Remi directed and developed technical teams while driving growth in both startups and large corporations, in San Francisco, Paris, and Sydney. He holds a Master's degree in aerospace engineering and an MBA, and has more than 20 years of experience in the software industry."
+		],
+		"language": "en",
+		"order": 16
+	},
+	{
+		"key": "burrsmith",
+		"name": "Burr Smith",
+		"title": "Président et chef de la direction",
+		"badge": "Gagnant du Outstanding Individual Award, 2020 Global Digital Signage Award",
+		"description": [
+			"Burr Smith est le président et chef de la direction de Broadsign. Burr est profondément investi dans le succès de l'entreprise et a une forte propension à poursuivre des opportunités et des initiatives intéressantes pour l'entreprise.",
+			"Burr a reçu le prix «Outstanding Individual» lors des Global Digital Signage Awards 2020 et le prix «Leadership» de la World Out-of-Home Organization (WOO) en 2022. Il est très impliqué dans l'industrie de l'affichage numérique et un membre actif de la World Out-of-Home Organization, ainsi qu'un ancien membre du conseil d'administration de la Digital Place-Based Advertising Association (DPAA). Burr a un sens aigu pour identifier les tendances qui font avancer l'industrie de l'affichage extérieur.",
+			"En plus de son rôle chez Broadsign, Burr est le gestionnaire du portefolio d'investissement familial du groupe Brisco-Davis, poste qu'il occupe depuis 17 ans.",
+			"Burr est titulaire d'un LLM en fiscalité de la Washington University School of Law, d'un J.D. de la Emory University School of Law et d'un B.A. de l'Université Vanderbilt"
+		],
+		"language": "fr",
+		"order": 1
+	},
+	{
+		"key": "danatunks",
+		"name": "Dana Tunks, CPA, CA",
+		"title": "Directrice Financière",
+		"description": [
+			"Dans sa fonction de directrice financière chez Broadsign, Dana Tunks supervise les activités mondiales liées à l'information financière, à la planification d'entreprise, à la trésorerie, à l'imposition, à la gestion du risque, aux ressources humaines, au marketing, aux services de la plateforme et aux fonctions de soutien.",
+			"Dana se passionne pour le secteur de l'affichage extérieur numérique et non numérique ainsi que pour la transformation de ce secteur par l'adoption de logiciels programmatiques. Elle a d'ailleurs occupé des fonctions sur la normalisation et la transparence des données de l'affichage extérieur numérique, ce qui lui a valu de siéger pendant quatre ans au conseil d'administration du centre de données de l'Interactive Advertising Bureau (IAB), qui aide les annonceurs et les spécialistes en marketing à opérationnaliser leurs actifs de données, à préserver la qualité, la transparence et la responsabilité, et à protéger les consommateurs.",
+			"Cette professionnelle chevronnée a occupé des postes de directrice financière ainsi que de membre de conseil consultatif au sein d'entreprises de technologies et de développement logiciel dans les domaines des soins de santé, du commerce mobile, et des émissions produites par l'industrie. Elle a un grand intérêt pour les technologies et les solutions qui transforment les secteurs sur le plan numérique. Elle a travaillé pendant 23 ans comme associée principale dans les services d'audit et de conseils chez Ernst & Young s.r.l. Dans cette fonction, elle a dirigé de nombreux projets de transformation numérique à l'échelle mondiale.",
+			"Dana est une comptable agréée et a obtenu son baccalauréat spécialisé en administration des affaires à l'Université Wilfrid Laurier. Elle s'est impliquée auprès de sa communauté comme membre du comité d'audit de l'Université Wilfrid Laurier, du comité sur l'innovation de l'Institut Canadien des Comptables Agréés, du Windsor Symphony Orchestra et du YMCA Kitchener-Waterloo."
+		],
+		"language": "fr",
+		"order": 2
+	},
+	{
+		"key": "joecotugno",
+		"name": "Joe Cotugno",
+		"title": "Vice-président directeur, opérations internationales",
+		"description": [
+			"Joe Cotugno, vice-président directeur des opérations internationales, supervise l'ensemble des activités de Broadsign à l'extérieur de l'Amérique du Nord.",
+			"Avant de rejoindre l'équipe de Broadsign, Joe était cofondateur d'Ayuda. Il a d'abord commencé comme développeur, puis a mené les équipes de gestion des produits, de service à la clientèle et de services professionnels, pour finalement assumer l'important rôle de directeur général des régions de l'Europe, du Moyen-Orient et de l'Afrique.",
+			"Joe possède plus de 20 ans d'expérience en développement de logiciels. Il a travaillé pour Business Objects (maintenant SAP) en tant que conseiller principal basé dans la Silicon Valley, assurant avec brio le déploiement de nombreuses solutions de veille économique chiffrées à plusieurs millions de dollars pour le compte d'entreprises Fortune 500.",
+			"Mathématicien polyglotte dans l'âme, il parle 4,3 langues et détient un baccalauréat en statistique mathématique et en informatique de l'Université Concordia. Joe aime jouer au hockey et au soccer, adore lire les livres du Docteur Seuss à ses enfants, et démontre un vif intérêt pour tout ce qui est numérique."
+		],
+		"language": "fr",
+		"order": 3
+	},
+	{
+		"key": "maartendollevoet",
+		"name": "Maarten Dollevoet",
+		"title": "Directeur des recettes",
+		"description": [
+			"En tant que directeur des recettes, Maarten Dollevoet apporte une connaissance approfondie des produits et de l'industrie à son rôle consistant à superviser les ventes et la stratégie de Broadsign à l'échelle globale.",
+			"Maarten s'est joint à Broadsign en 2008 en tant que directeur de ventes de la région EMEA. Il a développé un historique cohérent de croissance des revenus ainsi que des éloges parmi ses comptes en tant que partenaire commercial essentiel. Parlant couramment allemand, néerlandais et anglais, il détient un diplôme en vente et marketing de Hogeschool van Arnhem en Nijmegen et un MBA de Radboud University Nijmegen."
+		],
+		"language": "fr",
+		"order": 4
+	},
+	{
+		"key": "bryanmongeau",
+		"name": "Bryan Mongeau",
+		"title": "Directeur de la technologie",
+		"description": [
+			"En tant que directeur de la technologie de Broadsign, Bryan Mongeau supervise toutes les équipes d'ingénierie et de produits de l'entreprise. Travaillant en tandem avec la direction, il s'assure que la vision produit et la feuille de route de Broadsign sont alignées sur les objectifs de l'entreprise tout en s'assurant que les équipes d'ingénierie peuvent le livrer et le faire évoluer.",
+			"Co-fondateur de Broadsign, Bryan a grandement contribué au développement de son logiciel d'affichage numérique, à la fois en tant que développeur dans les premiers jours et plus tard en tant que chef des équipes d'ingénierie et de produits. Vétéran de l'industrie OOH, il possède plus de 18 ans d'expérience dans la création de logiciels et de services SaaS d'entreprise."
+		],
+		"language": "fr",
+		"order": 5
+	},
+
+	{
+		"key": "raphaelabele",
+		"name": "Raphael Abele",
+		"title": "Vice-président à l'expansion",
+		"description": [
+			"Raphael Abele, vice-président à l'expansion, travaille en étroite collaboration avec le conseil de direction de Broadsign afin de diriger l'élaboration et la mise en œuvre de la stratégie de croissance externe de l'entreprise. Il participe à toutes les étapes des activités d'investissement et de fusion-acquisition, avec pour objectif d'améliorer la plateforme de Broadsign et de créer de la valeur pour toutes les parties concernées.",
+			"Avant de rejoindre l'équipe de Broadsign, Raphael a occupé plusieurs postes de direction axés sur les acquisitions dans le secteur des services interentreprises, d'abord au sein d'une société canadienne détenue par des fonds de capital-investissement, qui s'est ensuite transformée en coentreprise dans le cadre d'un partenariat avec une société américaine cotée en bourse, et ensuite au sein d'une société Fortune 1000. Ces deux entreprises jouissaient d'une portée internationale. De plus, Raphael a travaillé comme banquier d'affaires pour l'une des institutions financières les plus importantes au Canada. Il détient un baccalauréat en administration des affaires de l'Université Wilfrid-Laurier."
+		],
+		"language": "fr",
+		"order": 7
+	},
+	{
+		"key": "tracyanema",
+		"name": "Tracy Anema",
+		"title": "Vice-présidente, finances",
+		"description": [
+			"En tant que Vice-présidente des finances, Tracy est à la tête des équipes de comptabilité et administration. Elle s'assure que la planification financière, les rapports et l'analyse viennent en appui aux objectifs stratégiques long-terme.",
+			"Tracy a plus de 20 ans d'expérience dans des entreprises régionales et mondiales, elle a occupé des postes de haute direction dans le domaine pharmaceutique, la vente ainsi qu'au sein d'organisations à but non lucratif. Elle a acquis de l'expérience dans les domaines de la technologie, la fabrication et la construction à travers Anema McIntosh Inc. Une entreprise qu'elle a cofondée en 2008 pour offrir de l'encadrement financier aux entrepreneurs.",
+			"Tracy a obtenu ses titres de CPA et CGA en 1998 et a un diplôme en administration des affaires."
+		],
+		"language": "fr",
+		"order": 8
+	},
+	{
+		"key": "johndolan",
+		"name": "John Dolan",
+		"title": "Vice-président, responsable mondial des ventes de médias",
+		"description": [
+			"À titre de vice-président, responsable mondial des ventes de médias de Broadsign, John Dolan supervise l'équipe des ventes de médias de Broadsign à l'échelle mondiale et assure la direction des activités dans plusieurs marchés (États-Unis, Canada, EMOA et Asie-Pacifique). Son rôle consiste à trouver des occasions de croissance dans le monde comme à l'interne, tout en soutenant le développement des solutions d'affichage extérieur programmatique et des partenaires de plateforme côté demande de Broadsign.",
+			"Fort de plus de 10 ans d'expérience en technologie publicitaire, M. Dolan est un vétéran du secteur de la programmatique. Il s'est joint à Broadsign après été vice-président mondial chez Integral Ad Science, où il a supervisé la croissance du service de programmatique. Auparavant, il a occupé le poste de vice-président des ventes nationales chez Sizmek, développeur d'un serveur publicitaire indépendant côté achat. Il a également occupé plusieurs postes dans l'équipe des ventes de Rocket Fuel, une plateforme mondiale de marketing programmatique. Il est titulaire d'un baccalauréat ès sciences de l'Université du Rhode Island."
+		],
+		"language": "fr",
+		"order": 9
+	},
+	{
+		"key": "giovangentile",
+		"name": "Giovan Gentile",
+		"title": "Vice-président, travaux techniques",
+		"description": [
+			"Giovan « GG » Gentile, vice-président des travaux techniques, supervise toutes les opérations techniques chez Broadsign. Il contribue au développement de produits, au processus de développement et d'exploitation, et à l'architecture infonuagique sur les plateformes logicielles de Broadsign et d'Ayuda.",
+			"Fort de 15 années d'expérience chez Ayuda, Giovan a contribué à bâtir la plateforme Ayuda dès ses débuts, avant d'occuper un poste de direction au cours des dernières années. Il possède plus de 20 ans d'expérience en développement."
+		],
+		"language": "fr",
+		"order": 10
+	},
+	{
+		"key": "liseannegillham",
+		"name": "Liseanne Gillham",
+		"title": "Vice-présidente, marketing",
+		"description": [
+			"En tant que vice-présidente du marketing, Liseanne Gillham supervise les services liés au numérique, à la marque, à la génération de prospects et au marketing des produits. Dans le cadre de ses fonctions de haute dirigeante de plusieurs entreprises de technologie à forte croissance, Mme Gillham a lancé avec succès de nombreux produits et services sur le marché, dirigé des équipes commerciales mondiales interfonctionnelles, intégré des structures commerciales complexes dans des entreprises nouvellement fusionnées, et lancé et administré une entreprise de commerce électronique.",
+			"Avant de se joindre à Broadsign, Mme Gillham a occupé divers postes de développement des affaires et de marketing chez Autodesk, principalement au sein de sa division responsable des médias et du divertissement. Elle a plus récemment dirigé le service des communications de contenu et de marketing pour Lightspeed, une des entreprises de logiciels connaissant la plus forte croissance au Canada. Elle a aussi dirigé plusieurs tours de financement par capital de risque notoires et agi comme conseillère auprès de plusieurs entreprises en démarrage du secteur technologique."
+		],
+		"language": "fr",
+		"order": 11
+	},
+	{
+		"key": "meghanhastings",
+		"name": "Meghan Hastings",
+		"title": "Vice-présidente, RH",
+		"description": [
+			"En tant que Vice-Présidente des ressources humaines, Meghan supervise les fonctions des ressources humaines et de gestion du personnel chez Broadsign pour assurer une expérience positive, enrichissante et impactante pour les employés. Avec plus d'une décennie d'expérience en RH, elle dirige une équipe dédiée à favoriser une culture motivante et engagée tout en maintenant l'alignement avec les valeurs de l'entreprise.",
+			"Avant de rejoindre le département de recrutement de Broadsign en 2016, Meghan a occupé divers postes chez Epicor et Aptos, un fournisseur de logiciels, ainsi que chez IBM, où elle a été Professionnelle de la livraison des RH, dirigeant une équipe de recruteurs au sein de la division IBM Kenexa.",
+			"Meghan est titulaire d'un baccalauréat en commerce spécialisé en gestion des ressources humaines et est membre des Professionnels agréés en ressources humaines du Canada (CPHR)."
+		],
+		"language": "fr",
+		"order": 12
+	},
+	{
+		"key": "francoishechme",
+		"name": "François Hechme",
+		"title": "Vice-président, produits",
+		"description": [
+			"François Hechme, vice-président des produits, supervise l'orientation et la vision des produits chez Broadsign. Avec son sens des affaires, ses connaissances techniques et plus d'une décennie d'expérience au sein de l'industrie de l'affichage numérique, François oeuvre avec son équipe à tracer la stratégie pour la plateforme de logiciel de Broadsign et en guider le développement et la croissance.",
+			"François est un vétéran chez Broadsign, ayant travaillé pour l'entreprise dans le passé. Il est de retour avec une expérience de leadership sur de nombreux produits, et il apporte avec lui une nouvelle perspective et une connaissance approfondie de l'industrie. De plus, François détient un diplôme en ingénierie informatique de l'Université Concordia."
+		],
+		"language": "fr",
+		"order": 13
+	},
+	{
+		"key": "francoromanelli",
+		"name": "Franco Romanelli",
+		"title": "Vice-président, services à la clientèle",
+		"description": [
+			"En tant que Vice Président Services à la clientèle, Franco Romanelli supervise le support technique de Broadsign, les consultations techniques et les départements de services de gestion du réseau. Franco s'assure, ainsi, que les clients de Broadsign ont accès à un niveau de service hors pair.",
+			"Franco a intégré Broadsign en 2004 en tant qu' agent de support technique. N'ayant pas de département de support technique à ce moment là, il a été mandaté de le créer. Suite à son succès, il a ensuite dirigé la création du département de services de gestion du réseau en 2007.",
+			"Franco est titulaire d'un Baccalauréat en génie informatique de l'Université Concordia."
+		],
+		"language": "fr",
+		"order": 14
+	},
+	{
+		"key": "frankvallenga",
+		"name": "Frank Vallenga",
+		"title": "Vice-président, ventes de SaaS",
+		"description": [
+			"En tant que vice-président des ventes de SaaS, Frank Vallenga supervise les ventes d'affaires nouvelles et les initiatives de croissance pour les SaaS de nos propriétaires de médias.",
+			"Frank s'est joint à l'équipe de Broadsign en 2015 à titre de directeur des ventes, avant d'exceller dans un poste de direction à titre de chef des ventes, EMOA et APAC. Il a ensuite commencé à assumer de plus en plus de responsabilités au sein de l'équipe des ventes d'Amérique du Nord, et il continuera à agir comme leader dans toutes les régions à titre de vice-président des ventes de SaaS. Frank, qui se qualifie d'adepte de l'affichage extérieur, possède une vaste connaissance et une compréhension innée de ce secteur, ce qui lui a permis de contribuer grandement au développement et aux réalisations de Broadsign."
+		],
+		"language": "fr",
+		"order": 15
+	},
+	{
+		"key": "remiroques",
+		"name": "Remi Roques",
+		"title": "Directeur général, l'Asie-Pacifique",
+		"description": [
+			"Remi Roques, directeur général pour l'Asie-Pacifique, supervise les activités de Broadsign dans cette région du globe, où il dirige et met en œuvre des stratégies de l'entreprise tout en tissant des partenariats solides avec des organisations locales.",
+			"Auparavant, Remi a supervisé et monté des équipes techniques dans une optique de croissance tant au sein d'entreprises en démarrage que de grandes sociétés, que ce soit à San Francisco, à Paris ou à Sydney. Il détient une maîtrise en génie aérospatial ainsi qu'un MBA, en plus de posséder plus de 20 ans d'expérience dans l'industrie du logiciel."
+		],
+		"language": "fr",
+		"order": 16
+	},
+	{
+		"key": "burrsmith",
+		"name": "Burr Smith",
+		"title": "Presidente del directorio, presidente ejecutivo y director ejecutivo",
+		"badge": "El ganador del Premio a la Persona Destacada durante la edición 2020 de los Premios Globales de Señalización Digital (Global Digital Signage Award)",
+		"description": [
+			"Burr Smith, es el presidente del directorio, presidente ejecutivo y director ejecutivo de Broadsign. Burr se involucra profundamente en el éxito de la empresa y muestra una fuerte tendencia a buscar oportunidades e iniciativas comerciales interesantes.",
+			"Burr fue galardonado con el premio \"Outstanding Individual\" en los Global Digital Signage Awards de 2020 y el premio \"Leadership\" de la World Out-of-Home Organization (WOO) en 2022. Está muy involucrado en la industria de la señalización digital y es un miembro activo de la World Out-of-Home Organization y ex miembro de la junta directiva de la Digital Place-Based Advertising Association (DPAA). Burr tiene una gran habilidad para identificar tendencias que impulsan la industria de la publicidad exterior.",
+			"Además de su rol en Broadsign, Burr es gerente de Brisco-Davis Group, una cartera de inversiones para familias, cargo que ocupa desde hace 17 años.",
+			"Burr posee un máster en Fiscalidad de la Facultad de Derecho de la Universidad de Washington, un doctorado en Derecho de la Facultad de Derecho de la Universidad de Emory y una licenciatura de la Universidad de Vanderbilt."
+		],
+		"language": "es",
+		"order": 1
+	},
+	{
+		"key": "danatunks",
+		"name": "Dana Tunks",
+		"title": "Directora financiera",
+		"description": [
+			"Como directora financiera de Broadsign, Dana Tunks supervisa todos los informes financieros, la tesorería, el desarrollo corporativo, las finanzas corporativas y la fiscalidad, así como también las actividades de gestión de riesgos a nivel mundial.",
+			"Gracias a su trabajo en relación con la estandarización y la transparencia de los datos en la industria de la publicidad exterior digital, Dana obtuvo un puesto en la Junta Directiva del Centro de Datos de la Oficina de Publicidad Interactiva (Interactive Advertising Bureau, IAB). Allí ella y otros miembros ayudan a publicistas y profesionales del marketing a poner en funcionamiento sus recursos de datos, mientras mantienen la calidad, la transparencia, la responsabilidad y la protección del consumidor.",
+			"Como profesional experimentada, Dana desempeñó funciones como directora financiera y miembro del consejo asesor de empresas de software y tecnología en la industria de la atención médica, de la industria del comercio a través de dispositivos móviles y de la industria relacionada con las emisiones. Además, trabajó más de 23 años como socia sénior de Ernst & Young LLP, tanto en auditorías como en consultoría.",
+			"Dana es contadora pública y se graduó con honores en la licenciatura de Administración de Empresas de la Universidad Wilfrid Laurier. Se ha involucrado con la comunidad mediante su participación en el Comité Auditor de la Universidad de Wilfrid Laurier (Audit Committee of Wilfrid Laurier University) y el Consejo de Innovación del Instituto Canadiense de Contadores Públicos (Canadian Institute of Chartered Accountants), así como también mediante su rol de presidenta directiva, vicepresidenta y presidenta del Comité Auditor de la Asociación Cristiana de Mujeres Jóvenes (Young Women's Christian Association, YWCA) de Kitchener-Waterloo."
+		],
+		"language": "es",
+		"order": 2
+	},
+	{
+		"key": "joecotugno",
+		"name": "Joe Cotugno",
+		"title": "Vicepresidente sénior de Operaciones Internacionales",
+		"description": [
+			"Joe Cotugno, vicepresidente sénior de Operaciones Internacionales, es responsable de la supervisión de todas las operaciones de Broadsign fuera de Norteamérica.",
+			"Antes de unirse a Broadsign, Joe fue cofundador de Ayuda. En principio comenzó como desarrollador y luego encabezó los equipos de gestión de productos, servicios al cliente y servicios profesionales. Finalmente, culminó con su rol de director general de la región de Europa, Oriente Medio y África.",
+			"Joe tiene más de 20 años de experiencia en el desarrollo de software y anteriormente trabajó para Business Objects (actualmente llamada SAP) como consultor sénior desde Silicon Valley. Allí gestionó el despliegue de numerosas y exitosas implementaciones multimillonarias de soluciones de inteligencia empresarial para compañías que figuran en Fortune 500.",
+			"Como matemático políglota de corazón, habla casi 5 idiomas y es licenciado en Estadística Matemática e Informática, graduado en la Universidad de Concordia. A Joe le gusta jugar al hockey sobre hielo y al fútbol, y leerles a sus hijos libros del Dr. Seuss, y está muy interesado en todo lo digital."
+		],
+		"language": "es",
+		"order": 3
+	},
+	{
+		"key": "maartendollevoet",
+		"name": "Maarten Dollevoet",
+		"title": "Gerente general de ingresos (Chief Revenue Officer, CRO)",
+		"description": [
+			"Como CRO, Maarten Dollevoet aporta un profundo conocimiento del producto y de la industria a su función de supervisar la estrategia global de ventas y productos de Broadsign.",
+			"Maarten se unió a Broadsign en 2008 como director de ventas en Europa y desarrolló un registro constante del seguimiento al crecimiento de los ingresos. Además, es muy elogiado entre sus clientes, ya que lo consideran un socio de negocios fundamental. Además de hablar holandés, alemán e inglés de forma fluida, Marteen es licenciado en Ventas y Marketing, graduado en Hogeschool van Arnhem en Nijmegen. Asimismo, posee un máster en Administración de Empresas de la Radboud University Nijmegen."
+		],
+		"language": "es",
+		"order": 4
+	},
+	{
+		"key": "bryanmongeau",
+		"name": "Bryan Mongeau",
+		"title": "Gerente general de Tecnología",
+		"description": [
+			"Como gerente general de Tecnología de Broadsign, Bryan Mongeau supervisa todos los equipos de ingeniería y productos de la empresa. Mediante un trabajo en conjunto con los miembros de liderazgo sénior, se asegura de que la visión del producto y la hoja de ruta de Broadsign esté alineada con los objetivos de la compañía, mientras garantiza que los equipos de ingeniería puedan entregar el producto y adaptar sus dimensiones.",
+			"Como cofundador de Broadsign, Bryan contribuyó en gran medida al desarrollo del software de señalización digital de la empresa, tanto como desarrollador, en un principio, así como también en su rol de jefe de los equipos de ingeniería y productos. Es un veterano de la industria de la publicidad exterior, ya que tiene más de 18 años de experiencia en la creación de software y servicios de software como servicio (Software as a Service, SaaS) para empresas."
+		],
+		"language": "es",
+		"order": 5
+	},
+
+	{
+		"key": "raphaelabele",
+		"name": "Raphael Abele",
+		"title": "Vicepresidente de Desarrollo Corporativo",
+		"description": [
+			"Raphael Abele, el vicepresidente de Desarrollo Corporativo, trabaja en estrecha colaboración con el comité ejecutivo de Broadsign para dirigir la formación y ejecución de estrategias de crecimiento inorgánico para la empresa a nivel mundial. Raphael participa en todos los ciclos vitales de la inversión y en oportunidades de fusión o adquisición, con el fin de mejorar la plataforma de Broadsign y aportar valor a todas las partes interesadas.",
+			"Antes de incorporarse a Broadsign, Raphael ocupó varios puestos de liderazgo, en los cuales impulsó el crecimiento adquisitivo en el sector de los servicios de empresa a empresa. Trabajó en una corporación canadiense de capital privado que luego se fusionó con un socio que cotizaba en la bolsa de los Estados Unidos, y en una empresa de la lista Fortune 1000. Todas ellas tenían presencia multinacional. Además, Raphael trabajó como banquero de inversión en una de las instituciones financieras más importantes de Canadá. Es licenciado en Administración de Empresas, graduado en la Universidad Wilfrid Laurier."
+		],
+		"language": "es",
+		"order": 7
+	},
+	{
+		"key": "tracyanema",
+		"name": "Tracy Anema",
+		"title": "Vicepresidenta de Finanzas",
+		"description": [
+			"Como vicepresidenta de Finanzas, Tracy lidera los equipos de contabilidad y administración de Broadsign, y trabaja para garantizar que la planificación, los informes y los análisis financieros de la empresa respalden los objetivos estratégicos a largo plazo.",
+			"Tracy tiene más de 20 años de experiencia trabajando en empresas globales y regionales. Durante su trayectoria, ocupó puestos de alta dirección en organizaciones farmacéuticas, minoristas y sin fines de lucro. A través de Anema McIntosh Inc., una empresa que cofundó en 2008 para ofrecer orientación financiera a emprendedores, adquirió experiencia en los sectores de la tecnología, la fabricación y la construcción.",
+			"Tracy completó su designación de contadora pública y contadora general certificada en 1998 y es licenciada en Administración de Empresas."
+		],
+		"language": "es",
+		"order": 8
+	},
+	{
+		"key": "johndolan",
+		"name": "John Dolan",
+		"title": "Vicepresidente, director global de Venta de medios",
+		"description": [
+			"En su carácter de vicepresidente de Broadsign y director global de Venta de medios, John Dolan monitorea la dirección global del equipo comercial de medios y es un líder de ventas en los Estados Unidos, Canadá y las regiones EMEA (Europe, Middle East and Africa) y APAC (Asia-Pacific). El trabajo de John se enfoca en identificar las oportunidades de crecimiento a nivel geográfico y dentro del equipo de Broadsign. Mientras, a su vez, investiga el crecimiento de las soluciones programáticas OOH y asociados DSP.",
+			"Como experto en la industria programática, John aporta más de una década de experiencia a mundo ad-tech. Se unió a Broadsign luego de su partida de Integral Ad Science, donde encabezó el desarrollo programático y de la agencia en su rol de vicepresidente global. Anteriormente, fue vicepresidente del sector de ventas nacionales en Sizmek, desarrollador de un ad server del departamento de compras, y se desenvolvió en distintos roles de ventas en Rocket Fuel, una plataforma de marketing programático. Obtuvo el título de licenciado en Ciencias de la Universidad de Rhode Island."
+		],
+		"language": "es",
+		"order": 9
+	},
+	{
+		"key": "giovangentile",
+		"name": "Giovan Gentile",
+		"title": "Vicepresidente de Ingeniería",
+		"description": [
+			"Giovan \"GG\" Gentile, vicepresidente de Ingeniería, supervisa todas las operaciones de ingeniería en Broadsign y contribuye al desarrollo de productos, DevOps y arquitectura de la nube en las plataformas de software de Broadsign y Ayuda.",
+			"Con una gran trayectoria de 15 años en Ayuda, Giovan participó en la construcción de la plataforma desde cero y los últimos años se desempeñó en un rol ejecutivo. Tiene más de 20 años de experiencia en desarrollo."
+		],
+		"language": "es",
+		"order": 10
+	},
+	{
+		"key": "liseannegillham",
+		"name": "Liseanne Gillham",
+		"title": "Vicepresidenta de Marketing",
+		"description": [
+			"Como vicepresidenta de Marketing, Liseanne Gillham supervisa las funciones de marketing para la generación de contactos, funciones digitales y de productos para la marca Broadsign. Como líder sénior de varias empresas tecnológicas de alto crecimiento, Liseanne lanzó con éxito numerosos productos y servicios en el mercado. Dirigió equipos empresariales globales multifuncionales, integró estructuras empresariales complejas en empresas recién fusionadas y trabajó en el lanzamiento y la dirección de un negocio de comercio electrónico.",
+			"Antes de incorporarse a Broadsign, Liseanne desempeñó diversas funciones de desarrollo empresarial y marketing en Autodesk, principalmente en la división de medios y entretenimiento. Más recientemente, Liseanne dirigió las comunicaciones de contenido y marketing de Lightspeed, una de las empresas de software con crecimiento más rápido de Canadá, participó en varias rondas de financiación de capital de riesgo de alto perfil y asesoró a una serie de empresas tecnológicas nuevas."
+		],
+		"language": "es",
+		"order": 11
+	},
+	{
+		"key": "meghanhastings",
+		"name": "Meghan Hastings",
+		"title": "Vicepresidenta de RR. HH.",
+		"description": [
+			"Como vicepresidenta de RR. HH., Meghan supervisa al departamento de Recursos Humanos y las funciones del personal de Broadsign para garantizar una experiencia positiva, gratificante e impresionante para los empleados. Con más de una década de experiencia en RR. HH., lidera un equipo dedicado a fomentar una cultura motivada y comprometida, mientras, al mismo tiempo, mantiene la alineación con los valores de la empresa.",
+			"Antes de unirse al Departamento de Contratación de Broadsign en 2016, Meghan tuvo varios puestos en Epicor y Aptos, un proveedor de software, y en IBM, donde se desempeñó como profesional de Delivery en Recursos Humanos y lideró un equipo de selección de personal bajo la división Kenexa de IBM.",
+			"Meghan tiene una licenciatura en comercio en Gestión de Recursos Humanos y es miembro de los Profesionales Certificados en Recursos Humanos (CP HR) de Canadá."
+		],
+		"language": "es",
+		"order": 12
+	},
+	{
+		"key": "francoishechme",
+		"name": "François Hechme",
+		"title": "Vicepresidente de Productos",
+		"description": [
+			"François Hechme, vicepresidente de Productos, supervisa la visión y dirección de los productos de Broadsign. Con una mezcla de conocimientos técnicos y empresariales, y más de una década de experiencia en el sector de la señalización digital, François traza la estrategia de la plataforma de software de Broadsign y trabaja con su equipo para impulsar el crecimiento y el desarrollo del producto.",
+			"François es un veterano de Broadsign, ya que trabajó con la empresa durante sus primeros años. Desde entonces, regresó con numerosos puestos de liderazgo de producto en su haber y aporta tanto una nueva perspectiva como un profundo conocimiento del sector al equipo de Broadsign. Además, François es licenciado en Ingeniería Informática, graduado en la Universidad de Concordia."
+		],
+		"language": "es",
+		"order": 13
+	},
+	{
+		"key": "francoromanelli",
+		"name": "Franco Romanelli",
+		"title": "Vicepresidente de Servicios al Cliente",
+		"description": [
+			"Como vicepresidente de Servicios al Cliente, Franco Romanelli supervisa los departamentos de soporte, asesoramiento técnico y servicios gestionados de Broadsign. De este modo, Franco se asegura de que se proporcione el más alto nivel de servicio a los clientes de Broadsign.",
+			"Franco se incorporó a Broadsign en 2004 como agente de soporte. Dado que en aquel momento no existía ningún departamento de soporte, se le encomendó la tarea de crear uno. Como resultado de su éxito, Franco encabezó la creación del departamento de servicios gestionados en 2007.",
+			"Franco es ingeniero informático, graduado en la Universidad de Concordia."
+		],
+		"language": "es",
+		"order": 14
+	},
+	{
+		"key": "frankvallenga",
+		"name": "Frank Vallenga",
+		"title": "Vicepresidente de Ventas SaaS",
+		"description": [
+			"Como vicepresidente de Ventas SaaS, Frank Vallenga supervisa las iniciativas de crecimiento y ventas de nuevos negocios para nuestra área de SaaS para propietarios de medios.",
+			"Frank se unió a Broadsign en 2015. Comenzó su trayectoria en la empresa como director de Ventas y luego sobresalió en su puesto directivo como director de Ventas en las regiones de EMEA (Europa, Oriente Medio y África) y APAC (Asia-Pacífico). Luego comenzó a asumir más responsabilidades para el equipo de ventas de América del Norte y continuará asumiendo el liderazgo en todas las regiones como vicepresidente de Ventas SaaS. Un autoproclamado entusiasta de la (D)OOH, el profundo conocimiento de Frank y su innata comprensión sobre la industria de la publicidad OOH han contribuido en gran medida al desarrollo y los logros de Broadsign."
+		],
+		"language": "es",
+		"order": 15
+	},
+	{
+		"key": "remiroques",
+		"name": "Remi Roques",
+		"title": "Gerente General de Broadsign en la región Asia-Pacífico (APAC)",
+		"description": [
+			"Remi Roques, gerente general de Broadsign en APAC, supervisa la actividad regional para el mercado de APAC, impulsando y aplicando la estrategia de Broadsign, y estableciendo sólidas asociaciones con entidades regionales.",
+			"Anteriormente, Remi dirigió y desarrolló equipos técnicos mientras impulsaba el crecimiento tanto en empresas nuevas como en grandes compañías de San Francisco, París y Sydney. Posee un máster en Ingeniería Aeroespacial y en Administración de Empresas. Además, tiene más de 20 años de experiencia en la industria del software."
+		],
+		"language": "es",
+		"order": 16
+	},
+	{
+		"key": "burrsmith",
+		"name": "Burr Smith",
+		"title": "会長兼社長兼最高経営責任者",
+		"badge": "2020年グローバルデジタルサイネージアワード優秀個人賞受賞",
+		"description": [
+			"Burr SmithはBroadsignのCEOです。会社の成功に深く投資しており、会社のためにイニシアチブを追求します。",
+			"Burr氏は、2020年のGlobal Digital Signage Awardsで「Outstanding Individual」賞を受賞し、2022年にはWorld Out-of-Home Organization (WOO)から「Leadership」賞を受賞しました。彼はデジタルサイネージ業界に深く関わり、World Out-of-Home Organizationの積極的なメンバーであり、Digital Place-Based Advertising Association (DPAA)の元理事でもあります。 Burr氏は、屋外広告業界を前進させるトレンドを見極める鋭い目を持っています。",
+			"Broadsignでの職務に加え、Brisco-Davis Groupのファミリー投資ポートフォリオのマネージャーを過去17年間務めている。",
+			"ワシントン大学ロースクールで法学修士号、エモリー大学ロースクールで法学博士号、ヴァンダービルト大学で学士号を取得。"
+		],
+		"language": "ja",
+		"order": 1
+	},
+	{
+		"key": "danatunks",
+		"name": "Dana Tunks, CPA, CA",
+		"title": "最高財務責任者（CFO）",
+		"description": [
+			"最高財務責任者（CFO）として、財務報告、経営企画、税務、リスク管理、人事、マーケティング、プラットフォームサービス、サポート部門をグローバルに統括。",
+			"DOOH業界が、プログラマティックソフトウェアツールを採用することによるその変革に情熱を注いでいます。過去には、DOOH業界におけるデータの標準化と透明化に携わり、Interactive Advertising Bureau（IAB）のデータセンター理事を4年間務め、他のメンバーとともに、広告主やマーケティング担当者が品質、透明性、説明責任、消費者保護を維持しながらデータ資産を運用できるよう支援しています。また、ヘルスケア、モバイルコマース、ソフトウェアおよびテクノロジー企業でCFOや諮問委員会のメンバーを務めてきました。業界をデジタルに変革するテクノロジーとソリューションに情熱を注いでいます。アーンスト・アンド・ヤングLLPのシニア・パートナーとして、監査とコンサルティングの両分野で23年以上を過ごす。公認会計士であり、ウィルフリッド・ローリエ大学で経営学の優等学士号を取得。ウィルフリッド・ローリエ大学の監査委員会、カナダ会計士協会のイノベーション・カウンシル、ウィンザー・シンフォニー・オーケストラとキッチナー・ウォータールーYWCAの理事などを務める。"
+		],
+		"language": "ja",
+		"order": 2
+	},
+	{
+		"key": "joecotugno",
+		"name": "Joe Cotugno",
+		"title": "国際事業担当シニア・バイス・プレジデント",
+		"description": [
+			"Joe Cotugnoは、北米以外のBroadsignの全業務を統括する責任者です。",
+			"Broadsignに入社する前は、Ayudaの共同設立者で、設立当初は開発者としてスタートし、その後、製品管理、クライアントサービス、プロフェッショナルサービスの各チームを率い、最終的にはEMEA地域のマネージングディレクターを務めました。",
+			"ジョーはソフトウェア開発において20年以上の経験を持ち、シリコンバレーを拠点とするBusiness Objects社（現SAP社）のシニア・コンサルタントとして、フォーチュン500社に数百万ドル規模のビジネス・インテリジェンス・ソリューションの導入を数多く成功させてきました。",
+			"コンコルディア大学で数理統計学とコンピュータ・サイエンスの学士号を取得。アイスホッケーとサッカーを楽しみ、子供にはドクター・スースの本を読み聞かせ、デジタル全般に深い関心を持っています。"
+		],
+		"language": "ja",
+		"order": 3
+	},
+	{
+		"key": "maartendollevoet",
+		"name": "Maarten Dollevoet",
+		"title": "チーフ・レベニュー・オフィサー",
+		"description": [
+			"CROとして、Maarten DollevoetはBroadsignの世界的な販売と製品戦略を監督し、製品と業界の深い知識を提供します。",
+			"2008年に欧州の営業部長としてBroadsignに入社、収益を伸ばし続け、重要なビジネスパートナーとして顧客から高い評価を得ています。オランダ語、ドイツ語、英語に堪能で、Hogeschool van Arnhem en Nijmegenでセールス・マーケティングの学士号を、Radboud University NijmegenでMBAを取得しています。"
+		],
+		"language": "ja",
+		"order": 4
+	},
+	{
+		"key": "bryanmongeau",
+		"name": "Bryan Mongeau",
+		"title": "チーフ・テクノロジー・オフィサー",
+		"description": [
+			"Broadsignのチーフ・テクノロジー・オフィサーとして、エンジニアリングチームと製品チームを統括しています。経営陣と連携し、Broadsignのプロダクトビジョンとロードマップが会社の目標に合致していることを確認し、エンジニアリングチームがそれを実現、拡大できるようにしています。",
+			"Broadsignの共同設立者であるBryanは、設立当初は開発者として、その後はエンジニアリングおよび製品チームの責任者として、デジタルサイネージソフトウェアの開発に大きく貢献してきました。OOH業界のベテランであり、エンタープライズSaaSソフトウェアおよびサービスの構築において18年以上の経験を有しています。"
+		],
+		"language": "ja",
+		"order": 5
+	},
+
+	{
+		"key": "raphaelabele",
+		"name": "Raphael Abele",
+		"title": "コーポレート・ディベロップメント担当バイス・プレジデント",
+		"description": [
+			"Raphael Abeleは、Broadsignのグローバルな成長戦略の策定と実行を指揮しています。投資、合併、買収案件のライフサイクルのあらゆる段階に関与し、Broadsignのプラットフォームを強化し、すべてのステークホルダーに価値を提供しています。",
+			"Broadsignに入社する前は、プライベートエクイティ所有のカナダ企業でBtoBサービス分野の買収による成長を推進するリーダー的役割を担い、米国の上場パートナーとのジョイントベンチャーや、フォーチュン1000企業など、多国籍企業でも活躍しました。また、カナダ最大手の金融機関で投資銀行家として勤務した経験もあります。ウィルフリッド・ローリエ大学で経営学士号を取得。"
+		],
+		"language": "ja",
+		"order": 7
+	},
+	{
+		"key": "tracyanema",
+		"name": "Tracy Anema",
+		"title": "財務担当バイスプレジデント",
+		"description": [
+			"Tracy Anemaはブロードサインの経理・管理チームのマネージメント、財務計画、報告、分析が長期的な戦略目標を確実にサポートするよう取り組んでいます。グローバル企業などで20年以上の経験を持ち、製薬、小売、非営利団体で上級管理職を歴任してきました。2008年に起業家に対し、財務ガイダンスを提供するために共同設立したアネマ・マッキントッシュ社を通じて、テクノロジー、製造、建設業界での経験も積みました。1998年に公認会計士、CGAの資格を取得し、経営学の学位も取得しています。"
+		],
+		"language": "ja",
+		"order": 8
+	},
+	{
+		"key": "johndolan",
+		"name": "John Dolan",
+		"title": "バイス・プレジデント、メディア・セールス部門グローバル責任者",
+		"description": [
+			"John DolanはBroadsignのメディア営業チームのグローバルな方向性を示し、米国、カナダ、EMEA、APACの各地域でリーダーシップを発揮しています。BroadsignのプログラマティックOOHソリューションとDSPパートナーの成長に投資しながら、Broadsignチーム内でも成長機会を見出すことに注力しています。",
+			"プログラマティック業界のベテランで、アドテク業界で10年以上の経験を積んできました。Integral Ad ScienceからBroadsignに入社し、代理店およびプログラマティック開発の陣頭指揮を執りました。それ以前は、アドサーバーの開発会社であるSizmekで国内営業担当副社長を務め、プログラマティックマーケティングプラットフォームのRocket Fuelではさまざまな営業を担当。",
+			"ロードアイランド大学で理学士号を取得。"
+		],
+		"language": "ja",
+		"order": 9
+	},
+	{
+		"key": "giovangentile",
+		"name": "Giovan Gentile",
+		"title": "エンジニアリング部門バイスプレジデント",
+		"description": [
+			"Giovanは、BroadsignとAyudaソフトウェアプラットフォームの製品開発、DevOps、クラウドアーキテクチャに貢献し、Broadsignのすべてのエンジニアリング業務を統括しています。",
+			"GiovanはAyudaに15年間在籍したベテランで、Ayudaプラットフォームの立ち上げに貢献し、過去数年間は経営幹部の役割を担ってきました。20年以上の開発経験を持っています。"
+		],
+		"language": "ja",
+		"order": 10
+	},
+	{
+		"key": "liseannegillham",
+		"name": "Liseanne Gillham",
+		"title": "マーケティング部門バイスプレジデント",
+		"description": [
+			"Liseanne Gillhamはマーケティング部門バイスプレジデントとして、Broadsignのブランド、リードジェネレーション、プロダクトマーケティング部門を統括しています。複数のテクノロジー企業のリーダーとして、Liseanneは数々のプロダクトやサービスを市場に投入し、部門横断的なグローバルビジネスチームを率い、合併したばかりの企業間の複雑な事業構造を統合し、eコマース事業を立ち上げて運営してきました。",
+			"Broadsign入社以前は、Autodeskのメディア・エンターテイメント部門を中心に、事業開発やマーケティングなどさまざまな職務を歴任しました。直近では、カナダで急成長しているソフトウェア企業の1つであるLightspeedのコンテンツおよびマーケティングコミュニケーションを指揮し、ベンチャーキャピタルからの資金調達ラウンドの舵取りをした他、多くのハイテクベンチャー企業にコンサルティングを提供しました"
+		],
+		"language": "ja",
+		"order": 11
+	},
+	{
+		"key": "meghanhastings",
+		"name": "Meghan Hastings",
+		"title": "人事担当副社長",
+		"description": [
+			"人事担当副社長としてBroadsignの人事・人材部門を監督するMeghanは、社員が有意義で充実した経験ができ、やりがいを感じられるような職場作りに努めています。10年以上の人事経験を持ち、企業の価値観との調和を図りながら、意欲的で活気に満ちた企業文化の醸成に尽力するチームを率いています。",
+			"2016年に採用部門の一員としてBroadsignに入社する以前は、ソフトウェアプロバイダーのEpicorとAptosでさまざまな役割を担い、そしてIBMではKenexa部門で人材採用担当者チームを率いるHRデリバリープロフェッショナルとして活躍しました。",
+			"Meghanは、人材管理の商学士号を取得しており、カナダの人事公認プロフェッショナル（Chartered Professionals in Human Resources：CPHR）のメンバーでもあります。"
+		],
+		"language": "ja",
+		"order": 12
+	},
+	{
+		"key": "francoishechme",
+		"name": "François Hechme",
+		"title": "プロダクト部門バイス・プレジデント",
+		"description": [
+			"François HechmeはBroadsignのプロダクトビジョンとその方向性を指示しています。デジタルサイネージ業界で10年以上の経験を持ち、技術とビジネスのノウハウを兼ね備え、Broadsignのソフトウェアプラットフォームの戦略を策定し、チームと協力して製品の成長と開発を推進しています。Broadsignのベテランで、創業初期から業務に従事していました。その後、数々のプロダクトリーダーを歴任し、Broadsignチームに新しい視点と深い業界知識をもたらしています。Françoisはコンコルディア大学でコンピュータ工学の学位を取得しています。"
+		],
+		"language": "ja",
+		"order": 13
+	},
+	{
+		"key": "francoromanelli",
+		"name": "Franco Romanelli",
+		"title": "クライアント・サービス部門バイス・プレジデント",
+		"description": [
+			"Franco RomanelliはBroadsignのサポート、技術相談、マネージドサービス部門を統括しています。",
+			"2004年にサポートエージェントとしてBroadsignに入社しました。当時はまだサポート部門がなかったため、サポート部門の立ち上げを任されました。立ち上げの成功の結果、2007年にマネージドサービス部門設立の陣頭指揮を執ることになりました。",
+			"フランコはコンコルディア大学でコンピューター工学の学位を取得している。"
+		],
+		"language": "ja",
+		"order": 14
+	},
+	{
+		"key": "frankvallenga",
+		"name": "Frank Vallenga",
+		"title": "SaaSセールス部門バイスプレジデント",
+		"description": [
+			"Frank Vallengaは、当社のメディアオーナー向けSaaS事業の新規事業営業と成長イニシアチブを統括しています。",
+			"2015年にブロードサインに入社し、セールスディレクターとしてキャリアをスタートさせました。その後、北米営業チームの責任者を務めるようになり、現在では、全ての地域においてリーダーシップを発揮しています。自称（D）OOH愛好家であるフランクのOOH業界に対する深い知識と天性の理解は、Broadsignの発展と業績に大きく貢献しています。"
+		],
+		"language": "ja",
+		"order": 15
+	},
+	{
+		"key": "remiroques",
+		"name": "Remi Roques",
+		"title": "Broadsign APAC ゼネラルマネージャー",
+		"description": [
+			"Remi Roquesは、APAC市場の地域活動を指揮し、Broadsignの戦略を推進・実施し、地域企業との強力なパートナーシップを確立しています。",
+			"以前はサンフランシスコ、パリ、シドニーで新興企業や大企業の技術チームを指揮・育成し成長を牽引していました。航空宇宙工学の修士号とMBAを取得し、ソフトウェア業界で20年以上の経験を持っています。"
+		],
+		"language": "ja",
+		"order": 16
+	},
+	{
+		"key": "burrsmith",
+		"name": "Burr Smith",
+		"title": "董事长，总裁兼CEO",
+		"badge": "2020年全球数字标牌大奖，杰出个人获奖者",
+		"description": [
+			"Burr Smith是播尚Broadsign的董事长、总裁兼首席执行官。Burr对公司的成功投入很大，并积极为公司寻求有趣的发展机会。",
+			"Burr 曾荣获 2020 年全球数字标牌奖“杰出个人”奖，并在 2022 年获得世界户外广告组织 (WOO) 的“领导力”奖。他积极参与数字标牌行业，是世界户外广告组织的活跃成员，曾担任数字场所广告协会 (DPAA) 的董事会成员。 Burr 具有敏锐的眼光，能够识别推动户外广告行业向前发展的趋势。",
+			"除了在播尚Broadsign任职外，Burr还是Brisco Davis Group家族投资组合的经理，这一职位他已经担任了17年。",
+			"Burr拥有华盛顿大学法学院税务法学硕士学位、埃默里大学法学院法学博士学位和范德比尔特大学学士学位。"
+		],
+		"language": "zh",
+		"order": 1
+	},
+	{
+		"key": "danatunks",
+		"name": "Dana Tunks, CPA, CA",
+		"title": "首席财务官",
+		"description": [
+			"作为播尚Broadsign的首席财务官，Dana Tunks在全球范围内监督财务报告、公司规划、财务、税务、风险管理、人力资源、营销、平台服务和客户支持职能。",
+			"Dana对D/OOH行业及其转型充满热情，因为行业采用了程序化交易工具。Dana过去的行业经历涉及数字户外广告的数据标准化和透明度，这使她在互动广告局（IAB）数据中心董事会中获得了四年的职位，她和其他成员帮助广告商和营销人员运营他们的数据资产，同时负责质量、透明度、问责制，以及消费者保护。",
+			"Dana是一位经验丰富的专业人士，曾担任医疗保健、移动商务和排放行业软件和技术公司的首席财务官和顾问委员会成员。Dana热衷于数字化转型行业的技术和解决方案。她在安永会计师事务所担任高级合伙人超过23年，从事审计和咨询服务。作为一名高级合伙人，她在全球范围内领导了多项数字化转型计划。",
+			"Dana是一名注册会计师，并获得威尔弗里德·劳里尔大学工商管理荣誉学士学位。她的社区参与包括Wilfrid Laurier大学的审计委员会、加拿大特许会计师协会的创新委员会以及温莎交响乐团和Kitchener Waterloo女青年会的董事会职位。"
+		],
+		"language": "zh",
+		"order": 2
+	},
+	{
+		"key": "joecotugno",
+		"name": "Joe Cotugno",
+		"title": "国际运营高级副总裁",
+		"description": [
+			"Joe Cotugno，国际运营高级副总裁，负责监督播尚Broadsign在北美以外的所有业务。",
+			"在加入播尚Broadsign之前，Joe是Ayuda的联合创始人，早期是一名开发人员，后来领导产品管理、客户服务和专业服务团队，最终担任EMEA地区董事总经理。",
+			"Joe在软件开发方面拥有超过20年的经验，之前曾在Business Objects（现为SAP）担任硅谷高级顾问，负责向财富500强公司推出价值数百万美元的商业智能解决方案。",
+			"他本质上是一位精通多种语言的数学家，会说4.3种语言，拥有康考迪亚大学数理统计与计算机科学学士学位。Joe喜欢打冰球和足球，给孩子们读苏斯博士的书，并且对所有数字的东西特别有兴趣"
+		],
+		"language": "zh",
+		"order": 3
+	},
+	{
+		"key": "maartendollevoet",
+		"name": "Maarten Dollevoet",
+		"title": "首席营收官",
+		"description": [
+			"作为首席营收官，Maarten Dollevoet将深厚的产品和行业知识带到了管理Broadsign全球销售和产品战略的岗位上。",
+			"Maarten于2008年加入Broadsign，担任该公司的欧洲销售总监，在收入增长方面取得了持续的记录，并作为关键的业务合作伙伴在其客户中获得了高度赞誉。Maarten精通荷兰语、德语和英语，拥有奈梅亨范阿纳姆霍格商学院的销售和市场营销学士学位和奈梅亨拉德布大学的MBA学位。"
+		],
+		"language": "zh",
+		"order": 4
+	},
+	{
+		"key": "bryanmongeau",
+		"name": "Bryan Mongeau",
+		"title": "首席技术官",
+		"description": [
+			"作为播尚Broadsign的首席技术官，Bryan Mongeau负责公司的所有工程和产品团队。他与高级领导层协同工作，确保播尚Broadsign的产品愿景和路线与公司的目标一致，同时确保工程团队能够交付并扩大规模。",
+			"作为播尚Broadsign的联合创始人，Bryan为其数字标牌软件的开发做出了巨大贡献，无论是早期的开发人员，还是后来的工程和产品团队负责人。他是OOH行业的资深人士，在构建企业SaaS软件和服务方面拥有超过18年的经验。"
+		],
+		"language": "zh",
+		"order": 5
+	},
+
+	{
+		"key": "raphaelabele",
+		"name": "Raphael Abele",
+		"title": "企业发展副总裁",
+		"description": [
+			"企业发展副总裁Raphael Abele与播尚Broadsign执行委员会密切合作，领导播尚Broadsign无机增长战略在全球的建立和执行。Raphael参与投资、合并或收购机会生命周期的每个阶段，以增强播尚Broadsign的平台能力，并为所有利益相关者创造价值。",
+			"在加入播尚Broadsign之前，Raphael曾在一家私人股本拥有的加拿大公司和一家财富1000强公司担任过多个领导角色，推动企业级服务部门的收购增长，该公司已转变为与美国上市公司的合资企业，所有这些公司都有跨国足迹。此外，Raphel曾在加拿大最大的金融机构之一担任投资银行家。Raphael拥有Wilfrid Laurier大学工商管理学士学位。"
+		],
+		"language": "zh",
+		"order": 7
+	},
+	{
+		"key": "tracyanema",
+		"name": "Tracy Anema",
+		"title": "副总裁",
+		"description": [
+			"作为财务副总裁，Tracy领导播尚Broadsign的会计和行政团队，并致力于确保公司的财务规划、报告和分析支持长期战略目标。",
+			"Tracy在全球和地区公司拥有20多年的工作经验，曾在制药、零售和非营利组织担任高级管理职位。通过Anema McIntosh股份有限公司，她在2008年共同创立了一家为企业家提供财务指导的公司，她获得了技术、制造和建筑行业的经验。",
+			"Tracy于1998年完成了注册会计师和注册会计师资格认证，并拥有工商管理学位。"
+		],
+		"language": "zh",
+		"order": 8
+	},
+	{
+		"key": "johndolan",
+		"name": "John Dolan",
+		"title": "副总裁，媒体销售全球总监",
+		"description": [
+			"作为播尚Broadsign的副总裁兼媒体销售全球主管，John Dolan负责监督播尚Broadsign媒体销售团队的全球工作，在美国、加拿大、EMEA和亚太地区提供销售领导。John的工作重点是在不同地理位置和播尚Broadsign团队内部确定增长机会，同时投资于播尚Broadsign程序OOH解决方案和DSP合作伙伴的增长。",
+			"作为程序化行业的资深人士，John在广告技术领域拥有十多年的经验。他从Integral Ad Science加入播尚Broadsign，在那里他作为全球副总裁领导公司的代理和项目开发。在此之前，他曾在Sizmek担任全国销售副总裁，Sizmek是一个独立的买方广告服务器的开发商，并在全球计划营销平台Rocket Fuel担任各种销售角色。他拥有罗德岛大学的理学学士学位。"
+		],
+		"language": "zh",
+		"order": 9
+	},
+	{
+		"key": "giovangentile",
+		"name": "Giovan Gentile",
+		"title": "工程部副总裁",
+		"description": [
+			"工程副总裁Giovan“GG”Gentile负责监督播尚Broadsign的所有工程运营，为播尚Broadsign和Ayuda软件平台的产品开发、DevOps和云架构做出贡献。",
+			"作为一名拥有15年Ayuda经验的资深人士，Giovan从头开始帮助构建Ayuda平台，并在过去几年中担任高管。他有20多年的开发经验"
+		],
+		"language": "zh",
+		"order": 10
+	},
+	{
+		"key": "liseannegillham",
+		"name": "Liseanne Gillham",
+		"title": "市场营销副总裁",
+		"description": [
+			"作为营销副总裁，Liseanne Gillham负责播尚Broadsign的品牌、潜在客户开发、数字和产品营销职能。作为几家高增长科技公司的高级领导者，Liseanne成功地将众多产品和服务推向市场，领导跨职能的全球业务团队，整合新合并公司的复杂业务结构，并推出和运营电子商务业务。",
+			"在加入播尚Broadsign之前，Liseanne曾在Autodesk担任过各种业务开发和营销职务，主要负责其媒体和娱乐部门。最近，Liseanne为加拿大增长最快的软件公司之一Lightspeed领导内容和营销传播，主持了几轮备受瞩目的VC融资，并为多家科技初创企业提供咨询。"
+		],
+		"language": "zh",
+		"order": 11
+	},
+	{
+		"key": "meghanhastings",
+		"name": "Meghan Hastings",
+		"title": "人力资源副总裁",
+		"description": [
+			"作为人力资源部副总裁，Meghan负责管理播尚Broadsign的人力资源和人事职能，以打造积极有回报、有影响力的员工体验。凭借十多年的人事经验，她领导的团队致力于培养一种积极进取的文化，同时与公司的价值观保持一致。",
+			"在2016年加入播尚Broadsign的招聘部门之前，Meghan曾在软件提供商Epicor和Aptos以及IBM担任过多个职位，在IBM Kenexa部门担任人力资源交付专业人员，领导招聘团队。",
+			"Meghan拥有人力资源管理商业学士学位，是加拿大特许人力资源专业人员协会（CPHR）的成员。"
+		],
+		"language": "zh",
+		"order": 12
+	},
+	{
+		"key": "francoishechme",
+		"name": "François Hechme",
+		"title": "产品副总裁",
+		"description": [
+			"产品副总裁François Hechme负责监督播尚Broadsign的产品愿景和方向。凭借技术和商业知识的结合，以及在数字标牌行业超过十年的经验，François制定了播尚Broadsign软件平台的战略，并与他的团队合作推动产品增长和开发。",
+			"François是播尚Broadsign的资深员工，早年曾在该公司工作。此后，他带着众多产品领导职位回归，并为播尚Broadsign团队带来了新的视角和深厚的行业知识。François还拥有康考迪亚大学计算机工程学位。"
+		],
+		"language": "zh",
+		"order": 13
+	},
+	{
+		"key": "francoromanelli",
+		"name": "Franco Romanelli",
+		"title": "客户服务副总裁",
+		"description": [
+			"作为客户服务副总裁，Franco Romanelli负责监督播尚Broadsign的客户支持、技术咨询和管理服务部门。Franco确保为播尚Broadsign客户提供最高级别的服务。",
+			"Franco于2004年加入播尚Broadsign，担任客户支持专员。考虑到当时没有客服部门，他被赋予了建立一个客服部门的任务。由于Franco的成功，他于2007年率先成立了管理服务部。",
+			"Franco拥有康考迪亚大学的计算机工程学位。"
+		],
+		"language": "zh",
+		"order": 14
+	},
+	{
+		"key": "frankvallenga",
+		"name": "Frank Vallenga",
+		"title": "SaaS销售副总裁",
+		"description": [
+			"作为SaaS销售副总裁，Frank Vallenga负责监督我们媒体所有者SaaS业务的新业务销售和增长计划。",
+			"Frank于2015年加入播尚Broadsign，开始了他在公司的销售总监之旅，后来在EMEA和APAC销售主管的领导职位上表现出色。然后，他开始为北美销售团队承担更多责任，并将继续作为SaaS销售副总裁在所有地区发挥领导作用。作为一名自称（D）OOH爱好者，Frank对OOH行业的深厚知识和天生的理解为播尚Broadsign的发展和成就做出了巨大贡献。"
+		],
+		"language": "zh",
+		"order": 15
+	},
+	{
+		"key": "remiroques",
+		"name": "Remi Roques",
+		"title": "播尚Broadsign亚太区总经理",
+		"description": [
+			"播尚Broadsign亚太地区总经理Remi Roques负责监督亚太地区市场的区域活动，推动和实施播尚Broadsign的战略，并与区域实体建立强有力的合作伙伴关系。",
+			"此前，Remi在旧金山、巴黎和悉尼指导和开发技术团队，同时推动初创公司和大公司的增长。他拥有航空航天工程硕士学位和工商管理硕士学位，在软件行业拥有20多年的经验。"
+		],
+		"language": "zh",
+		"order": 16
+	}
+]

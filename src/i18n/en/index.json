@@ -1,0 +1,114 @@
+{
+	"seo": {
+		"title": "Broadsign, The Platform that Powers Out-of-Home",
+		"description": "The end-to-end solution for media owners and buyers to plan, manage and deliver out-of-home media."
+	},
+	"hero": {
+		"title": ["The", "Platform", "that Powers", "OOH"],
+		"par": "Where media owners and buyers come together to plan, manage, and transact out-of-home advertising.",
+		"ctaContact": "Contact us",
+		"ctaPlans": "See our plans"
+	},
+	"branches": {
+		"overtitle": "Light up your world",
+		"title": "Solutions for all of your OOH needs",
+		"brandsAgencies": {
+			"overtitle": "For agencies & brands",
+			"title": "Create and execute contextual and targeted pDOOH campaigns",
+			"cta": "Learn more"
+		},
+		"mediaOwners": {
+			"overtitle": "For media owners",
+			"title": "Sell your inventory, manage your OOH network, and boost profitability",
+			"cta": "Learn more"
+		}
+	},
+	"clients": {
+		"title": "Connecting OOH buyers and sellers"
+	},
+	"inventoryRotate": {
+		"title": "Deliver faster, more targeted campaigns with our curated inventory packages",
+		"blurb": "Access tailored audiences, venue types, and contextual location packages - all customizable to your campaign needs.",
+		"cta": "Explore our Inventory Packages",
+		"list": [
+			[
+				{ "id": "retail", "type": "vertical", "label": "Retail" },
+				{ "id": "vancouver", "type": "city", "label": "Vancouver" },
+				{ "id": "finances", "type": "vertical", "label": "Financial Services" }
+			],
+			[
+				{ "id": "new_york_city", "type": "city", "label": "New York City" },
+				{ "id": "beauty_wellness", "type": "vertical", "label": "Beauty & Wellness" },
+				{ "id": "los_angeles", "type": "city", "label": "Los Angeles" }
+			]
+		]
+	},
+	"map": {
+		"overtitle": "The World's Most Trusted OOH Platform",
+		"title": "Our Global Reach",
+		"stats": ["+2M signs", "107 countries", "+48B ads served/month", "+190B impressions/month"]
+	},
+	"panelMediaKit": {
+		"title": "Explore our global inventory",
+		"cta": "Download our Media Kit",
+		"thankYou": {
+			"title": "Thank you!",
+			"par": "The media kit didn't open in a new window?",
+			"cta": "Click here"
+		}
+	},
+	"quotesTitle": "Don't just take our word for it",
+	"quotes": [
+		{
+			"id": "imedia",
+			"text": "“When our inventory was managed through a spreadsheet, we were continually reshuffling campaigns manually to try and maximize our digital inventory. With Broadsign, everything is done automatically. We add the screens and campaign parameters, and everything is organized for us at the click of a button.”",
+			"name": "Martyn Perrie",
+			"title": "Head of Digital Delivery",
+			"company": "i-media"
+		},
+		{
+			"id": "epa_media",
+			"text": "“We chose Broadsign as they're always making new features and keeping up with the industry. They also had the features we needed, like content separation, category exclusions, visual availability check, reporting and targeting.”",
+			"name": "Stefanie Zeiler",
+			"title": "Digital Media & Graphic Design",
+			"company": "EPAMEDIA"
+		},
+		{
+			"id": "hp",
+			"text": "“Programmatic DOOH activations fit our market perfectly as it gives us the ability to reach our core target in close proximity to strategic retail locations.”",
+			"name": "Fabiana Varriale",
+			"title": "EMEA Programmatic Manager",
+			"company": "HP"
+		},
+		{
+			"id": "precis",
+			"text": "“Broadsign was always on hand to provide recommendations and offer support during the campaign period. The impressive brand lift study results demonstrate the success of the activiation, and we would not hesitate to use their services again in the future.”",
+			"name": "Sebastian Larsson",
+			"title": "Programmatic Specialist",
+			"company": "Precis Digital"
+		},
+		{
+			"id": "corus",
+			"text": "“Broadsign was instrumental in helping boost the impact of our OLV and TV ads by allowing us to reach audiences with similar messaging in the physical world. The platform made is easy to deliver targeted ads that encouraged audiences to take action.”",
+			"name": "Marita Olcese",
+			"title": "Media Planning Manager",
+			"company": "Corus Entertainment Inc."
+		},
+		{
+			"id": "iris",
+			"text": "“Broadsign allowed us to harness the power of programmatic DOOH to drive significant brand KPIs by extending the reach of our video ads into the real world. Seamlessly connecting the brand's message across digital and physical channels was made easy thanks to the platform's ability to plan and deliver unique, contextual ads to our client's target audience.”",
+			"name": "Keri thomas",
+			"title": "Performance Media Director",
+			"company": "Iris Worldwide"
+		}
+	],
+	"shin": {
+		"title": "Discover what we can do for OOH",
+		"par": "Get in touch with us and a team member will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"cta": "Request a demo"
+	},
+	"getInTouch": "Get in touch with us!",
+	"campaignsLaunchedWithBroadsign": "Campaigns launched with Broadsign",
+	"learnMore": "Learn more",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf"
+}

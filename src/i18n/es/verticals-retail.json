@@ -1,0 +1,107 @@
+{
+	"seo": {
+		"title": "Medios de venta minorista en la tienda",
+		"description": "Capte la atención de los compradores con mensajes contextuales dirigidos en pantallas digitales administradas usando Broadsign. Integre naturalmente la publicidad en la tienda con su red de medios de venta minorista para crear una experiencia omnicanal conectada que promueva la interacción, aumente el monto de compra y consiga nuevas oportunidades de ingresos."
+	},
+	"hero": {
+		"overtitle": "Medios de venta minorista en la tienda",
+		"title": "Genere nuevos ingresos con la publicidad digital en la tienda",
+		"blurb": "Capte la atención de los compradores con mensajes contextuales dirigidos en pantallas digitales administradas usando Broadsign. Integre naturalmente la publicidad en la tienda con su red de medios de venta minorista para crear una experiencia omnicanal conectada que promueva la interacción, aumente el monto de compra y consiga nuevas oportunidades de ingresos.",
+		"cta": "Comuníquese con nosotros"
+	},
+	"clients": {
+		"overtitle": "Redes de medios minoristas en tienda impulsadas por Broadsign"
+	},
+	"experiences": {
+		"title": "Experiencias de compra omnicanal que generan conexión con los compradores",
+		"source": "Fuente",
+		"boxes": [
+			{
+				"id": "decisions",
+				"num": "80",
+				"par": "El 80 % de las decisiones de compra ocurren en la tienda, por lo cual se vuelve una oportunidad de crecimiento clave que los vendedores minoristas mejoren la experiencia en la tienda.",
+				"source": "Marketing Dive"
+			},
+			{
+				"id": "value",
+				"num": "30",
+				"par": "mayor valor de tiempo de vida del cliente fue observado entre los comparadores omnicanal, ya que integrar los puntos de contacto en el sitio, fuera de él y en la tienda estimulan las ventas y la lealtad.",
+				"source": "McKinsey"
+			},
+			{
+				"id": "consumers",
+				"num": "63",
+				"par": "de los consumidores tienden a comprar más cuando están expuestos a anuncios oportunos, por lo que los medios digitales en la tienda se convierten en una manera poderosa en la que las marcas pueden conectar con los compradores.",
+				"source": "Nielsen"
+			}
+		]
+	},
+	"features": {
+		"overtitle": "Medios de venta minorista en la tienda",
+		"title": "Impulse el crecimiento del negocio y de la clientela con publicidad digital en la tienda",
+		"list": [
+			{
+				"id": "convert_shoppers",
+				"overtitle": "Convenza a los compradores",
+				"title": "Cree una experiencia de compra inmersiva e interactiva",
+				"blurb": "Convierta su tienda en una experiencia inmersiva con contenido dinámico y personalizado que estimule el recuerdo del anuncio, influya en las compras y fortalezca la conexión con los clientes."
+			},
+			{
+				"id": "boost_shopping_cart_value",
+				"overtitle": "Aumente el valor de la venta",
+				"title": "Influya en el comportamiento del comprador con mensajes oportunos que inciten la intención de compra del cliente.",
+				"blurb": "Aproveche los datos en tiempo real para publicar anuncios oportunos y dirigidos que impulsen las compras y las intenciones de compra, lo que maximizará la conversión y las ventas."
+			},
+			{
+				"id": "new_revenue_streams",
+				"overtitle": "Nueva fuente de ingresos",
+				"title": "Monetice las pantallas de su tienda con anuncios propios y externos",
+				"blurb": "Transforme sus monitores digitales en una fuente de ingresos al vender los espacios para anuncios a marcas aliadas mientras sigue teniendo el control del contenido que impulsa la interacción y las ventas."
+			}
+		]
+	},
+	"platform": {
+		"overtitle": "La Plataforma de Broadsign",
+		"title": "Nuestra plataforma cuenta con automatizaciones inteligentes, contenido programado, publicación de anuncios y gestión de campañas, lo que permite que pueda encargarse de las tareas difíciles.",
+		"boxes": [
+			{
+				"id": "automate",
+				"title": "Automatice la publicación de contenido con la campaña indicada en el momento indicado",
+				"par": "Automatice la programación y publicación de anuncios para distribuir fácilmente el contenido a través de su red de tiendas (a nivel nacional, regional o de tienda), de manera que pueda maximizar el impacto con campañas que generen resultados medibles."
+			},
+			{
+				"id": "boost",
+				"title": "Impulse la interacción con tiendas locales que generen ventas",
+				"par": "Permita a las tiendas crear contenido digital que impulse la interacción, genere tráfico peatonal y se alinee con su marca. Muestre productos regionales y promocione a agricultores locales para dar un toque local, mientras los minoristas mantienen el control sobre el contenido de la pantalla, garantizando la coherencia y la relevancia."
+			},
+			{
+				"id": "endless",
+				"title": "Oportunidades publicitarias sin fin",
+				"par": "Nuestro ecosistema de API abierta se integra naturalmente con el comercio electrónico, puntos de venta y sistemas de inventario para publicar contenido en tiempo real, basado en datos, que mejore el trayecto de compra."
+			},
+			{
+				"id": "programmatic",
+				"title": "Publicidad programática, a su manera",
+				"par": "Monetice sus pantallas con anuncios programáticos mientras conserva el pleno control sobre el contenido para garantizar una experiencia natural en la tienda. Ajuste los acuerdos a sus necesidades y conserve el pleno control, lo que le proporciona flexibilidad para respaldar su estrategia de incremento de ingresos y maximizar los beneficios."
+			}
+		]
+	},
+	"relatedPosts": {
+		"overtitle": "Blog",
+		"title": "Aprenda más sobre las redes de medios minoristas en tienda",
+		"readMore": "Leer el artículo"
+	},
+	"shin": {
+		"title": "Lance su red de medios minoristas en las tiendas",
+		"par": "Descubra cómo Broadsign puede ayudarlo a maximizar los ingresos y aumentar la satisfacción del comprador.",
+		"cta": "Comencemos"
+	},
+	"forms": {
+		"bookACall": {
+			"title": "Comuníquese con nosotros para lanzar su red de medios minoristas en las tiendas",
+			"thankYou": ""
+		}
+	},
+	"learnMore": "Aprende más",
+	"seeMore": "Lea más"
+}

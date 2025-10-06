@@ -1,0 +1,99 @@
+@import "../base/dependencies";
+
+$autofill:"&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus";
+$placeholder:"&::placeholder,&::-webkit-input-placeholder";
+
+.CustomInput {
+	border: 1px solid $soft;
+	border-radius: 8px;
+	font-size: 14px;
+	height: 2.9em;
+	outline: 1px solid transparent;
+	transition: outline 0.3s;
+
+	.input {
+		background: transparent none;
+		border: none;
+		border-radius: 8px;
+		color: $ash;
+		font-size: 1em;
+		height: 100%;
+		outline: none;
+		padding: 0 14px;
+		width: 100%;
+
+		&::placeholder {
+			color: $lightAsh;
+		}
+
+	}
+
+	&:has(.input:active,
+		.input:focus) {
+		outline: 1px solid $reflex;
+	}
+}
+
+.ClearableSelect {
+	.input {
+		max-width: calc(100% - 14px);
+	}
+
+	option {
+		padding: 8px;
+	}
+
+	.select_indicator {
+		align-items: center;
+		appearance: none;
+		background: #FFF;
+		border: 0 none;
+		border-radius: 8px;
+		color: $ash;
+		display: flex;
+		font-size: 20px;
+		height: 100%;
+		justify-content: center;
+		position: absolute;
+		right: 0;
+		top: 0;
+		transition: color 0.3s;
+		width: 46px;
+		z-index: 10;
+
+		&.unfold {
+			pointer-events: none;
+
+			img {
+				height: 12px;
+				width: 12px;
+			}
+		}
+
+		&:hover {
+			color: $cerulean;
+		}
+	}
+}
+
+.SearchText {
+	&:before {
+		background: url("../../img/icons/search.svg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: 50%;
+		content: "";
+		display: block;
+		height: 100%;
+		left: 0;
+		position: absolute;
+		width: 40px;
+		z-index: 5;
+	}
+
+	.input {
+		padding-left: 40px;
+	}
+}
+
+@media (min-width:$sm) {}

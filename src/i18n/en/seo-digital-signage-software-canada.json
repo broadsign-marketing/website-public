@@ -1,0 +1,89 @@
+{
+	"seo": {
+		"title": "Choosing Digital Signage Software in Canada",
+		"description": "Get the goods on the state of digital signage software in Canada, with a look into the opportunities that exist for media owners and the best digital tools for running a network."
+	},
+	"cta": {
+		"demo": "Request a live demo",
+		"learnMore": "Learn More"
+	},
+	"Hero": {
+		"title": {
+			"span": "Choosing Digital Signage Software",
+			"em": "In Canada"
+		},
+		"tagline": "With a population of just 40 million and a GDP above $2 trillion, Canada is known for punching above its weight in the worlds of business and industry. This is just as true in the realm of digital signage, as well-developed infrastructure and a population that continues to favour in-person shopping experiences over online offer great potential for network operators."
+	},
+	"intro": {
+		"title": "Opportunities for canadian digital signage networks",
+		"par": "One of the benefits of building out a digital network in Canada is that there are plenty of environments within the country that can benefit greatly from digital signage. The digital industry is exploding in popularity within the country, but there are still a great many establishments that have yet to make the switch over from static signage."
+	},
+	"verticals": {
+		"title": "Key Environments",
+		"icon1": {
+			"num": "190K",
+			"what": "Retail businesses"
+		},
+		"icon2": {
+			"num": "1.47K",
+			"what": "Hospitals"
+		},
+		"icon3": {
+			"num": "2.6K",
+			"what": "Cinema screens"
+		},
+		"icon4": {
+			"num": "26",
+			"what": "Airports"
+		},
+		"icon5": {
+			"num": "10",
+			"what": "Transit networks"
+		}
+	},
+	"mustHaves": {
+		"title": "Must-haves for digital signage software in Canada",
+		"par1": "Like most modern consumers, Canadians have high expectations of their media, demanding they have attributes that denote quality. Key among these are:",
+		"list": {
+			"el1": "Attractive Design",
+			"el2": "Entertainment Factor",
+			"el3": "Sensory Appeal"
+		},
+		"par2": "In order to succeed in the Canadian digital signage space, it is therefore imperative to choose a software platform that allows you to strike those notes. A great platform should allow you to deliver high-quality media with no hiccups or downtime; display campaigns and content that are relevant both to the location they are in and to outside conditions, such as the weather, sports scores, or financial market health; and that impart a sense of movement or dynamism that catches the eye."
+	},
+	"products": {
+		"title": "Meet Canada's top-rated digital signage solution",
+		"par1": "For network owners looking to achieve the best results in Canada, the Broadsign platform offers the most complete, stable and secure solution on the market. Whether you're a small network with great ambition for the future or an established player looking to streamline or improve your operation, Broadsign's feature set has the answers.",
+		"par2": "Broadsign is based in Canada and trusted by major media companies in more than 50 countries around the world.",
+		"column": {
+			"broadsignControl": {
+				"title": {
+					"span": "Take full",
+					"em": "Control"
+				},
+				"par": "Distribute content and ads across a network of anysize with automated digital signage software"
+			},
+			"broadsignDirect": {
+				"title": {
+					"em": "Direct",
+					"span": "your sales success"
+				},
+				"par": "No more cumbersome spreadsheets. Instead, use a dedicated OOH sales tool that makes inventory management and proposal generation a breeze."
+			},
+			"broadsignReach": {
+				"title": {
+					"span": "Broaden your",
+					"em": "Reach"
+				},
+				"par": "Automate transactions with trusted partners and trigger dynamic campaigns with external data for bigger, more relevant impact."
+			},
+			"broadsignPublish": {
+				"title": {
+					"span": "your way",
+					"em": "Publish"
+				},
+				"par": "Say hello/bonjour to the tool that makes it dead simple to publish relevant, localized content from coast to coast, all in keeping with established brand guidelines."
+			}
+		}
+	}
+}

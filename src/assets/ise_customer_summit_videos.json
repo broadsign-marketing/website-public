@@ -1,0 +1,47 @@
+{
+	"featureVideo": {
+		"youtubeID": "RrMXqoNl80M",
+		"title": "Broadsign Customer Summit",
+		"speaker": "",
+		"description": "Take a look at our 2023 Customer Summit recap which was held in Barcelona, Spain."
+	},
+	"boothVideo": {
+		"youtubeID": "axw8953SC-I",
+		"title": "Broadsign booth at ISE Barcelona 2023",
+		"speaker": "",
+		"description": "Didn't get a chance to come and see our booth this year? Here's a sneak peek at all the ISE action from this year. See you next time!"
+	},
+	"videos": [
+		{
+			"youtubeID": "_MxLOboUE1I",
+			"title": "Broadsign President & CEO Welcome",
+			"speaker": "Burr Smith, CEO and President, Broadsign",
+			"description": "Broadsign CEO and President, Burr Smith, kicks off our event with a warm welcome and update on what's been happening at Broadsign."
+		},
+		{
+			"youtubeID": "EEGb-4yhhwY",
+			"title": "Modernizing the Platform that Powers OOH",
+			"speaker": "Francois Hechme, VP of Products & Seamus Hunn, Senior Director of Product, Broadsign",
+			"description": "OOH is evolving, and so are we! Watch as Francois & Seamus give an exclusive deep dive on the latest Broadsign Platform enhancements coming in 2023."
+		},
+		{
+			"youtubeID": "yBCXwav7YFE",
+			"title": "Dynamic Content: Cutting Through the Noise",
+			"speaker": "Savvas Tombouloglou, Account Director, Broadsign",
+			"description": "Learn all about the benefits of dynamic content and how it can help cut through the often cluttered media landscape."
+		},
+		{
+			"youtubeID": "n1VR9X1Hkrg",
+			"title": "2023 Insights from the Field",
+			"speaker": "Maarten Dollevoet, CRO, Broadsign",
+			"description": "In this session, Broadsign CRO, Maarten Dollevoet, talks about key market trends and global insights that can impact the out-of-home industry in 2023."
+		},
+		{
+			"youtubeID": "FQT4Aw_qdkY",
+			"title": "Sustainability initiatives in OOH: Highlights from Broadsign's sustainability panel",
+			"speaker": "",
+			"description": "We invited OOH experts to share their insights and perspectives on overcoming current challenges and industry initiatives to reach a more sustainable future. Hosted by Kai-Marcus Thäsler.",
+			"to": "/blog/sustainability-initiatives-in-ooh-highlights-from-broadsigns-sustainability-panel"
+		}
+	]
+}

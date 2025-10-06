@@ -1,0 +1,50 @@
+{
+	"seo": {
+		"title": "Inside Out-of-Home Newsletter",
+		"description": "Become an OOH Expert in 2 mins a Week, No fluff, just what you need to know on out-of-home advertising.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"overtitle": "Inside Out-of-Home Newsletter",
+		"title": "Become an OOH Expert in 2 mins a Week",
+		"par": "No fluff, just what you need to know on out-of-home advertising.",
+		"cta": "Subscribe"
+	},
+	"features": [
+		{
+			"title": "Campaign Breakdowns",
+			"desc": "Dive into successful OOH campaigns to uncover the strategy, technology, and insights that made them work."
+		},
+		{
+			"title": "Actionable Insights",
+			"desc": "Stay ahead of the curve with a weekly brief on new trends and what they mean for your media plans."
+		},
+		{
+			"title": "A Front-Row Seat",
+			"desc": "Get the lessons learned from a campaign manager who sees how top brands are pushing the limits of OOH every day."
+		}
+	],
+	"hull": {
+		"title": "I keep up to date with OOH advertising, so you don't have to!",
+		"pars": [
+			"The OOH industry is moving fast. Brands are getting creative, new tech is changing the game, and honestly, it's a lot to keep up with. I'm a marketer who lives and breathes this stuff, and I keep up with OOH advertising so you don't have to.",
+			"Every week, I'll drop into your inbox with a quick digest of what's actually worth your time. Join me on this journey, and let's get smarter about OOH, together."
+		],
+		"author": {
+			"name": "Aliya Sharif",
+			"title": "Marketing Campaign Manager, Broadsign"
+		},
+		"testimonials": [
+			{
+				"quote": "The newsletter is interesting, useful and insightful.\r\nThis is one you don't want to miss!",
+				"cite": "Lior Zborover, Senior Account Manager, EssenceMediacom"
+			}
+		],
+		"formCard": {
+			"title": "Become an OOH Insider",
+			"subtitle": "Join hundreds of other marketers and media buyers."
+		}
+	},
+	"pastEditions": "Past Editions",
+	"readMore": "Read More"
+}

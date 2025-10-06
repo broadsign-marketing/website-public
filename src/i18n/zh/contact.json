@@ -1,0 +1,37 @@
+{
+	"seo": {
+		"title": "",
+		"description": ""
+	},
+	"Hero": {
+		"formTitle": "",
+		"demoDesc": "",
+		"demoCTA": "",
+		"supportDesc": "",
+		"supportCTA": "",
+		"careerDesc": "",
+		"careerCTA": "",
+		"phoneTitle1": "",
+		"phoneTitle2": ""
+	},
+	"montreal": {
+		"title": "",
+		"address": [""]
+	},
+	"toronto": {
+		"title": "",
+		"address": [""]
+	},
+	"berlin": {
+		"title": "",
+		"address": [""]
+	},
+	"sydney": {
+		"title": "",
+		"address": [""]
+	},
+	"shanghai": {
+		"title": "",
+		"address": [""]
+	}
+}

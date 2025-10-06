@@ -1,0 +1,156 @@
+{
+	"seo": {
+		"title": "Out-of-Home measurement and attribution made simple",
+		"description": "Transform how you measure DOOH advertising with Broadsign. Our partnerships with industry-leading data providers help marketers track performance, optimize strategies, and achieve measurable results across every stage of the customer journey.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"title": "Out-of-home measurement and attribution made simple",
+		"undertitle": "Measure Performance and Prove the Impact of Your Digital OOH Ads",
+		"blurb": "Transform how you measure DOOH advertising with Broadsign. Our partnerships with industry-leading data providers help marketers track performance, optimize strategies, and achieve measurable results across every stage of the customer journey.",
+		"cta": "Talk to a Media Specialist"
+	},
+	"solutions": {
+		"title": "Attribution solutions tailored to your campaign goals",
+		"boxes": [
+			{
+				"id": "metrics",
+				"title": "Brand Metrics",
+				"subtitle": "With brand lift studies",
+				"par": "Discover how your DOOH campaigns resonate with audiences. Brand lift studies reveal insights into awareness, perception, and purchase intent, letting you benchmark results against industry standards to understand your campaign's impact."
+			},
+			{
+				"id": "traffic",
+				"title": "In-Store Traffic",
+				"subtitle": "With foot-traffic studies",
+				"par": "See how DOOH campaigns drive real-world results. Foot-traffic studies track store visits after ad exposure, offering insights into audience patterns, proximity influence, and peak times to link OOH exposure to in-store success."
+			},
+			{
+				"id": "engagement",
+				"title": "Online Engagement",
+				"subtitle": "With Web & App Lift Studies",
+				"par": "Bridge the gap between physical and digital. Web and app lift studies show how DOOH drives online behaviour, including website visits and app downloads, giving insights into your audience's journey and cross-channel ad impact."
+			}
+		],
+		"cta": {
+			"label": "Discover more ways to measure your campaigns",
+			"to": "/blog/out-of-home-data-capabilities-a-marketers-guide-to-measurement-attribution-and-audience-extension/"
+		}
+	},
+	"partners": {
+		"title": "Our best-in-class data partners"
+	},
+	"campaigns": {
+		"title": "Real results from DOOH campaigns"
+	},
+	"features": {
+		"title": "Connect campaign performance to real-world results",
+		"list": [
+			{
+				"id": "impact",
+				"title": "Measure impact across the funnel",
+				"par": "With robust attribution methods, you can identify precisely which locations, times, and audiences deliver the highest engagement. By leveraging insights from brand lift, foot traffic, and online engagement studies, advertisers can fine-tune their strategies to maximize campaign impact. Precision targeting means higher returns on your ad spend and the ability to optimize campaigns in real-time for the best results.",
+				"cta": "Learn more",
+				"to": "/blog/out-of-home-data-capabilities-a-marketers-guide-to-measurement-attribution-and-audience-extension/"
+			},
+			{
+				"id": "roi",
+				"title": "Prove the ROI of your DOOH campaigns",
+				"par": "Elevate your DOOH campaigns with actionable insights that drive real business results. Connect ad exposure to sales performance using point-of-sale data, measure customer engagement and foot traffic through web and app lift studies, and leverage marketing mix modeling to uncover how DOOH amplifies your overall marketing impact. With these powerful tools, you can validate your investment, showcase measurable success, and refine your advertising strategies for unparalleled effectiveness.",
+				"cta": "Learn more",
+				"to": "/blog/are-your-out-of-home-ads-working-measuring-roi-in-ooh/"
+			},
+			{
+				"id": "spend",
+				"title": "Get more from your ad spend",
+				"par": "Optimize ad spend by identifying the locations, times, and audiences that deliver the most impact. With audience analysis and geotargeting, you can adjust your campaigns in real-time to drive better engagement and achieve measurable results.",
+				"cta": "Learn more",
+				"to": "inventoryMarketplace"
+			}
+		]
+	},
+	"resources": {
+		"title": "Keep learning about measurement & attribution for DOOH",
+		"resources": [
+			{
+				"type": "youtube",
+				"title": "From Impressions to Impact: Attribution for DOOH Advertising",
+				"youtubeId": "ustUqGviF3U",
+				"link": "webinarImpressionToImpact"
+			},
+			{
+				"type": "youtube",
+				"title": "Memorable Advertising: Using Brand Lift Studies to Measure DOOH Impact",
+				"youtubeId": "qadPAMOLoKY",
+				"link": "webinarMemorableAdvertising"
+			},
+			{
+				"type": "ebook",
+				"title": "Attribution Solutions Quick Guide",
+				"link": "https://marketing.broadsign.com/hubfs/files/Broadsign_AttributionCheatSheet.pdf"
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_attribution_1",
+				"q": "How do you measure OOH campaigns?",
+				"a": "OOH campaigns are measured using a combination of metrics and attribution tools to evaluate performance across the customer journey. Standard metrics include impressions, ad plays, reach, and frequency. Advanced techniques such as brand lift studies, foot-traffic analysis, web and app engagement studies, QR attribution, and POS measurement offer deeper insights. Together, these tools connect ad exposure to real-world actions, providing a comprehensive view of campaign effectiveness."
+			},
+			{
+				"id": "faq_attribution_2",
+				"q": "How to calculate ROI for OOH?",
+				"a": "Calculating ROI for OOH advertising involves linking your campaign spend to measurable outcomes. Begin by tracking key performance metrics such as foot traffic, sales lift, and online engagement using tools like POS measurements and web or app analytics. Next, compare the revenue or conversions generated by your campaign against the total ad spend to determine your basic ROI. For a more comprehensive analysis, utilize marketing mix modeling (MMM) to evaluate how OOH contributes to overall campaign success and enhances other marketing channels. This holistic approach provides clear insights into the financial impact of your OOH investments, helping you optimize future campaigns for maximum return."
+			},
+			{
+				"id": "faq_attribution_3",
+				"q": "Are these attribution solutions GDPR and CCPA-compliant?",
+				"a": "Yes, all attribution solutions used by Broadsign's data partners comply with GDPR, CCPA, and other global privacy standards. These solutions rely on anonymized data collected with user consent to ensure privacy while providing actionable insights for advertisers."
+			},
+			{
+				"id": "faq_attribution_4",
+				"q": "How does device ID passback work? ",
+				"a": [
+					"Device ID passback involves collecting anonymized device data from mobile devices that have been exposed to OOH ads. This data is shared with DSPs or advertisers for retargeting or analysis purposes. It enables advertisers to:",
+					[
+						"Understand cross-channel engagement by linking OOH exposure to online activity.",
+						"Expand audience reach with precise, privacy-compliant targeting.",
+						"Gain detailed insights into campaign performance across physical and digital touchpoints"
+					]
+				]
+			},
+			{
+				"id": "faq_attribution_5",
+				"q": "Which KPIs are used in brand lift studies?",
+				"a": [
+					"Broadsign's brand lift studies allow you to measure a wide range of KPIs to evaluate the impact of your OOH campaigns. Including, but not limited to:",
+					[
+						"<b>Ad recall</b>: Assess how well audiences remember your ads.",
+						"<b>Interest</b>: Gauge how much your campaign captures audience curiosity.",
+						"<b>Attribution</b>: Determine how your campaign influences audience perception of your brand.",
+						"<b>Brand image</b>: Understand how your ads impact brand perception and values.",
+						"<b>Consideration</b>: Measure how your campaign drives audience intent to purchase.",
+						"<b>Preference</b>: Track shifts in consumer preference for your brand.",
+						"<b>Brand familiarity</b>: Evaluate how well your target audience recognizes your brand.",
+						"<b>Purchase intention</b>: Measure the likelihood of audiences purchasing your product or service.",
+						"<b>Specific brand image</b>: Evaluate how your ads affect targeted brand attributes.",
+						"<b>POS awareness and intent</b>: Connect your campaign to point-of-sale awareness and buying intent.",
+						"<b>Ad likability</b>: Understand how much your creative resonates with audiences.",
+						"<b>Ad perception</b>: Evaluate how your ads are perceived in terms of relevance and quality.",
+						"<b>Ad Clarity</b>: Determine how your message is understood by your audience."
+					]
+				]
+			}
+		]
+	},
+	"shin": {
+		"title": "Launch and measure your next DOOH campaign with Broadsign",
+		"cta": "Talk to a Media Specialist"
+	},
+	"readCaseStudy": "Read case study",
+	"readArticle": "Read article",
+	"watchWebinar": "Watch webinar",
+	"downloadGuide": "Download Guide"
+}

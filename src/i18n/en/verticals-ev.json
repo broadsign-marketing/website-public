@@ -1,0 +1,134 @@
+{
+	"seo": {
+		"title": "Digital Signage in EV Charging Stations",
+		"description": "Add digital out-of-home advertising screens to your EV chargers to unlock a new revenue stream, scale your charging network more quickly, and deliver tailored messaging to audiences at your chargers' locations."
+	},
+	"hero": {
+		"overtitle": "The future of transportation deserves the future of outdoor advertising",
+		"title": "Unlock more value from your EV charging stations with targeted advertising on digital signage",
+		"tagline": "Add digital out-of-home advertising screens to your EV chargers to unlock a new revenue stream, scale your charging network more quickly, and deliver tailored messaging to audiences at your chargers' locations.",
+		"cta": "Book a Call"
+	},
+	"video": {},
+	"clients": {
+		"title": "Powering leading EV charging & digital signage networks around the world"
+	},
+	"sellGrow": {
+		"overtitle": "ZZZ Overtitle here",
+		"title": "Sell advertising across on-charger signage and grow faster than ever",
+		"par": "Charging fees and government subsidies alone aren't enough to scale with speed. With Broadsign, you'll have a complete set of tools to sell ad inventory across your whole network - and generate the revenue you need to scale your EV charging business faster.",
+		"boxes": [
+			{
+				"id": "revenues",
+				"par": "Diversify your revenues with the leading solution for out-of-home advertising"
+			},
+			{
+				"id": "global",
+				"par": "Offer ad space to a global community of programmatic buyers"
+			},
+			{
+				"id": "screens",
+				"par": "Deploy as many screens as you want and manage them all with a small team"
+			},
+			{
+				"id": "reports",
+				"par": "Get detailed ad-play reports for yourself and customers whenever you like"
+			},
+			{
+				"id": "safety",
+				"par": "Keep your displays and brand image safe with our platform's Soc II-certified security"
+			}
+		]
+	},
+	"doMore": {
+		"overtitle": "ZZZ Overtitle here",
+		"title": "EV chargers do more with Broadsign",
+		"without": {
+			"title": "Without Broadsign",
+			"points": ["Limited monetization options", "Plain-looking charging totems", "Limited ability to deliver relevant information"]
+		},
+		"with": {
+			"title": "With displays powered by Broadsign",
+			"points": [
+				"Ad-supported charging to help your network scale",
+				"Beautiful displays that make your chargers stand out",
+				"Contextual messaging that adds value for anyone near your chargers"
+			]
+		}
+	},
+	"features": {
+		"title": "Tools for a smarter, more lucrative charging network",
+		"par": "Adopt the out-of-home advertising platform with the most complete feature set for scaling your EV-charging business",
+		"list": [
+			{
+				"id": "build",
+				"overtitle": "Infinite customization possibilities",
+				"title": "Build up your EV charging DOOH network with whatever hardware you like",
+				"pars": [
+					"We believe you should have choice in how you build your DOOH charging network. Choose dedicated digital signage players and displays, or opt for all-in-one connected displays for easier installation - whatever you like.",
+					"We're proud to partner with the world's smart display leaders to help usher in a new era of charging network DOOH."
+				]
+			},
+			{
+				"id": "create",
+				"overtitle": "Automation for success",
+				"title": "Create a foundation for success with intelligent, automated ad solutions",
+				"pars": [
+					"Streamline content management, optimize ad inventory yield, and make complex, multi-campaign rescheduling needs as easy as a single click. Broadsign's automated solutions are designed to empower you to succeed and grow, with intelligent features doing the heavy lifting for you."
+				]
+			},
+			{
+				"id": "connect",
+				"overtitle": "Programmatic revenue streams",
+				"title": "Connect with global brands that value your mission",
+				"pars": [
+					"Audiences perceive brands that advertise on EV chargers as more sustainable and ethical - and brands have taken notice. Capitalize by opening your chargers up to global advertising demand with a programmatic SSP connected to more than 30 demand-side platforms worldwide."
+				]
+			},
+			{
+				"id": "grow",
+				"overtitle": "Tools designed for growth",
+				"title": "Grow your DOOH charging network with a solution that's built for scale",
+				"pars": [
+					"EV charging networks have aggressive growth plans, and we've got the tools to help. Whether you want to operate a dozen, a thousand, or many thousands of screens, Broadsign's automated toolkit makes it easy to manage all your screens and content with a small team (we're talking just a few people - seriously) and grow your network as fast as you can."
+				]
+			},
+			{
+				"id": "deliver",
+				"overtitle": "Dynamic content capabilities",
+				"title": "Deliver smarter messaging with data-driven content delivery",
+				"pars": [
+					"The future of transportation deserves the future of outdoor advertising. With Broadsign, you can connect your displays to data sources that trigger content that is perfect for the time, day, temperature, or any other situation relevant to your charging locations. That means more relevant content for your audience, more value for your advertisers, and higher premiums for you."
+				]
+			}
+		]
+	},
+	"testimonials": {
+		"overtitle": "Don't take our word for it",
+		"title": "See what our clients are saying about us",
+		"list": [
+			{
+				"id": "swiftmile",
+				"tagline": "Crucial to achieving our mission of advancing sustainable mobility",
+				"quote": "Swiftmile is helping cities embrace sustainable micromobility options like e-bikes and e-scooters with fewer pain points by charging and organizing vehicles at our universal hubs. The full stack of Broadsign solutions is crucial to achieving our mission of advancing sustainable mobility.",
+				"cite": "Joel Martin, Swiftmile"
+			},
+			{
+				"id": "chargeeuropa",
+				"tagline": "",
+				"quote": "ChargeEuropa is on a mission to provide critical EV charging infrastructure for cities across the globe. The Broadsign platform allows us to fully leverage the power of DOOH for scaling our networks world-wide.",
+				"cite": "Matt Tymowski, CEO, Charge Europa"
+			},
+			{
+				"id": "revolt",
+				"tagline": "",
+				"quote": "Revolt is on a mission to power sustainable change with charging solutions that are clean, affordable and available for everyone. The Broadsign platform allows us to seamlessly enable DOOH advertising on our EV charging stations to support our mission of reducing costs for our customers and EV drivers. It also gives advertisers a way to be hyper-relevant and to reach unique audiences.",
+				"cite": "Jeroen van de Ven, Co-Founder, ReVolt"
+			}
+		]
+	},
+	"shin": {
+		"title": "Enhance your EV charging business with the power of OOH advertising",
+		"par": "Get in touch with our team to see how we can help you unlock new revenue and scale your business faster than ever before"
+	}
+}

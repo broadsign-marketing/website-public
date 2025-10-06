@@ -1,0 +1,114 @@
+{
+	"seo": {
+		"title": "Soins de santé et pharmacies",
+		"description": "Diffusez des messages axés sur les soins de santé directement auprès du grand public en optant pour un affichage extérieur numérique attractif dans des zones très fréquentées, tout en gardant vos publics informés des recommandations, des produits et des services associés à la santé."
+	},
+	"apSlug": "healthcarePharma",
+	"apLink": "349",
+	"apToken": "pJBRN46XxoGRWyZlWnBhC0KUUtY0QHMn5LkFrfOqh4GXwt22oeVock0OxfNG",
+	"playbookLink": "gmmd",
+
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Soins de santé et pharmacies",
+		"blurb": "Diffusez des messages axés sur les soins de santé directement auprès du grand public en optant pour un affichage extérieur numérique attractif dans des zones très fréquentées, tout en gardant vos publics informés des recommandations, des produits et des services associés à la santé.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explorez notre pack Soins de santé et pharmacies",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audiences",
+				"content": "Grand public, clients de pharmacies"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Centres de soins", "pharmacies", "hôpitaux"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Heures de travail", "Heures de pointe"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "tous les affichages qui visent le public ciblé",
+				"placeBased": "hôpitaux, pharmacies et cliniques médicales",
+				"outdoor": "panneaux-réclames, panneaux urbains et abribus à proximité de pharmacies et de centres de soins"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Soins de santé et pharmacies »",
+		"list": [
+			{
+				"category": "Fervents de course à pied",
+				"description": "Les fervents de course à pied se répartissent entre les genres, et ils sont souvent âgés de 25 à 44 ans. Ils utilisent des applications de localisation GPS ou axées sur la santé et la mise en forme."
+			},
+			{
+				"category": "Futurs parents",
+				"description": "Les futurs parents sont majoritairement dans la vingtaine et la trentaine. Ils seront habituellement parents pour la première fois, et ils préparent l'arrivée du nouveau venu en se renseignant sur le sujet."
+			},
+			{
+				"category": "Responsables de familles",
+				"description": "Les responsables de familles sont souvent des femmes dans la quarantaine ou la cinquantaine, dont le revenu familial se situe entre 25 000 $ et 40 000 $. Elles fréquentent différents points de la ville à la recherche d'aubaines, et elles s'intéressent beaucoup aux questions de santé."
+			},
+			{
+				"category": "Adeptes de santé et de mise en forme",
+				"description": "Les adeptes de santé et de bonne forme physique sont fréquemment des femmes âgées de 25 à 44 ans. Ces adeptes disposent généralement d'une gamme d'applications axées sur la santé."
+			},
+			{
+				"category": "Nouveaux papas",
+				"description": "Les nouveaux papas sont généralement âgés de 25 à 34 ans et leur revenu familial varie entre 40 000 $ et 60 000 $. Ils utilisent les applications utilitaires et les gadgets pour bébés qui les aideront à s'occuper de leur enfant."
+			},
+			{
+				"category": "Nouvelles mamans",
+				"description": "Les nouvelles mamans sont généralement dans la vingtaine et la trentaine et leur revenu familial varie entre 40 000 $ et 60 000 $. Elles s'occupent de planifier et d'effectuer les achats de produits pour bébé."
+			},
+			{
+				"category": "Parents",
+				"description": "Les parents se situent principalement dans la tranche d'âge de 25 à 44 ans, ils disposent d'un revenu familial supérieur à la moyenne et ils ont de jeunes enfants vivant à la maison. Ils regardent en diffusion continue beaucoup de contenus axés sur la famille et ils disposent de jeux variés pour un divertissement instantané."
+			},
+			{
+				"category": "Propriétaires d'animaux de compagnie",
+				"description": "Les propriétaires d'animaux de compagnie sont souvent âgés de 25 à 44 ans et leur revenu familial est supérieur à la moyenne. Ce sont des professionnels qui travaillent le jour et qui utilisent des services pour animaux de compagnie pour le gardiennage ou le toilettage. En dehors du travail, ils se tiennent en forme et au courant des nouvelles technologies, et leur domicile est probablement doté d'une technologie intelligente."
+			},
+			{
+				"category": "Clients de pharmacies",
+				"description": "Les clients de pharmacies sont principalement des femmes appartenant aux tranches d'âges de 25 à 34 ans, de 35 à 44 ans et de 45 à 54 ans. La plus forte concentration de ce public se trouve dans la tranche d'âge des 55 ans et plus, et la plus faible dans le groupe des 18-24 ans."
+			},
+			{
+				"category": "Célibataires",
+				"description": "Les célibataires sont surtout des hommes, et plus de 60 % de ce public est âgé de 18 à 34 ans."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Rehaussez la notoriété des marques de soins de santé et de produits pharmaceutiques",
+		"list": [
+			"Adressez directement au grand public des messages axés sur les soins de santé, au moyen de publicités par affichage extérieur numérique diffusées dans des zones très fréquentées.",
+			"Faites la promotion de nouveaux produits ou de services à des endroits où il y a un temps d'attente propice à réfléchir à la santé, comme une clinique médicale.",
+			"Diffusez des publicités par affichage extérieur numérique à proximité de centres de soins et de cliniques, en indiquant leur direction ou leurs heures d'ouverture."
+		]
+	},
+	"playbook": {
+		"title": "Mettez en valeur la santé et le bien-être grâce à l'affichage extérieur numérique",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Explorez notre pack Soins de santé et pharmacies" }
+}

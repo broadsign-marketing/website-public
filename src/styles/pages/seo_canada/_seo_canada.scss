@@ -1,0 +1,115 @@
+#page_seo_canada {
+	.Hero {
+		height: 74.5rem;
+		max-height: 74.5rem;
+		padding-bottom: 9rem;
+		padding-top: 9rem;
+
+		.Tank {
+			.title {
+				em {
+					font-size: 12vw;
+					line-height: 80%;
+				}
+
+				span {
+					font-size: 4.6vw;
+				}
+			}
+		}
+	}
+
+	h2 {
+		font-size: 3.2rem;
+	}
+
+	section#intro {
+		padding-bottom: 6rem;
+		padding-top: 6rem;
+
+		h2 {
+			font-size: 2.8rem;
+			margin-bottom: 2rem;
+		}
+	}
+
+	section#verticals {
+		background-color: #EAF7FA;
+
+		.Tank {
+			padding-bottom: 6rem;
+			padding-top: 6rem;
+		}
+
+		h2 {
+			margin-bottom: 2rem;
+		}
+
+		.column {
+			margin-top: 2rem;
+
+			h3 {
+				font-size: 2.6rem;
+			}
+
+			p {
+				font-size: 1.8rem;
+				text-align: center;
+			}
+		}
+
+		img {
+			max-width: 8rem;
+		}
+	}
+
+	section#must_haves {
+		padding-bottom: 9rem;
+		padding-top: 9rem;
+
+		h2 {
+			margin-bottom: 5rem;
+		}
+
+		.ImgFlank {
+
+			aside {
+				justify-content: flex-start;
+				padding-top: 6px;
+			}
+		}
+
+		ul {
+			font-size: 2.2rem;
+			font-weight: bold;
+			list-style-type: decimal;
+			margin: 2rem 2rem 2rem 2.2rem;
+			padding: 0;
+			width: 100%;
+
+			li {
+				line-height: 160%;
+			}
+		}
+	}
+
+	section.VerticalForm {
+		.form_zone {
+			width: 100%;
+		}
+	}
+}
+
+@media (min-width: $desktop_1080p_width) {
+	#page_seo_canada {
+		.Hero .Tank .title {
+			em {
+				font-size: 11rem;
+			}
+
+			span {
+				font-size: 7.2rem;
+			}
+		}
+	}
+}

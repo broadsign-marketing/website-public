@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Digital Signage in Shopping Malls",
+		"description": "Drive more sales in your shopping mall than ever before with a digital signage software platform that makes your network as entertaining, dynamic, and exciting as it can be."
+	},
+	"cta": {
+		"discoverContentNetworkManagement": "Discover our content and network management solutions",
+		"discoverCampaignPlanning": "Empower your team with Campaign Planning",
+		"discoverGlobalProgrammaticSSP": "Sell programmatically with our Programmatic SSP"
+	},
+	"Hero": {
+		"TitlePart1": "Create a high-impact",
+		"TitlePart2": "Shopping Mall",
+		"TitlePart3": "experience",
+		"Blurb": "Engage your Customers with a Digital Signage platform that drives revenue and delivers brand stories exactly where, when and how you want them.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Your mall as a destination",
+			"Paragraph": "Build your brand and establish your mall as a true destination by displaying content that entertains, informs and augments the shopper experience."
+		},
+		"Pane2": {
+			"Title": "Creative campaigns with context",
+			"Paragraph": "Enable your advertising partners to deliver the most effective campaigns by using audience demographics and situational data, like screen location, time of day and more, to target campaigns and trigger content playback."
+		},
+		"Pane3": {
+			"Title": "Book Complex Campaigns",
+			"Paragraph": "Whether a simple CPM buy or a complex campaign, look like a star with your customers. Create packages, book takeovers, and let the system automatically rebalance all your other campaigns."
+		},
+		"Pane4": {
+			"Title": "Every Screen right at your fingertips",
+			"Paragraph": "From kiosks to digital posters and everything in between, efficiently manage every screen across your locations from one centralized platform that easily scales as your digital signage network grows."
+		}
+	},
+	"Quoteblock": {
+		"Quote": "When the right content is displayed to the right audience, advertising and messaging is complementary to the shopper experience. Broadsign enables us to provide advertisers with opportunities to reach consumers in interesting and exciting ways.",
+		"Signature": "Westfield"
+	},
+	"Customers": {
+		"Title": "See our Shopping Mall customers in action"
+	},
+	"Partners": {
+		"Title": "Partnerships for Great Content",
+		"Tagline": "Create your own content, work with local collaborators, or enhance your screens by working with our digital signage content, wayfinding and audience analytics partners."
+	},
+	"Shin": {
+		"Title": "How can your shopping mall benefit from the Broadsign digital platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

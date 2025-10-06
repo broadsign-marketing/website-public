@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Sicherheitserklärung",
+		"description": "Vertrauen und Sicherheit sind der Kern unseres Handelns. Sie sind fester Bestandteil unserer Unternehmenskultur, unserer Technologie und des Umgangs mit unseren Kunden. Vertrauen beginnt mit Transparenz.",
+		"robots": "noindex, nofollow"
+	},
+	"title": "Sicherheitserklärung",
+	"intro": "Vertrauen und Sicherheit sind der Kern unseres Handelns. Sie sind fester Bestandteil unserer Unternehmenskultur, unserer Technologie und des Umgangs mit unseren Kunden. Vertrauen beginnt mit Transparenz.",
+	"sections": [
+		{
+			"id": "compliance",
+			"title": "Compliance",
+			"par": "Die Produkte von Broadsign werden in Übereinstimmung mit verschiedenen globalen und regionalen Standards entwickelt. Die Einhaltung dieser Standards wird regelmäßig von weltweit anerkannten externen Gutachtern überprüft. Einige unserer Produkte erfüllen die Anforderungen von Standards wie dem SSAE 18 SOC 2 Typ 2 Report und sind entsprechend zertifiziert.  Die Vorgaben für unsere zertifizierten Produkte gelten für unser gesamtes Unternehmen und unsere gesamte Produktpalette."
+		},
+		{
+			"id": "platform_security",
+			"title": "Plattform-Sicherheit",
+			"par": "Wir bemühen uns, Sicherheitsfunktionen auf sämtlichen Produktebenen einzubauen. Sie können die Sicherheitsfunktionen implementieren, die Sie für Ihr Unternehmen benötigen, von der Verwaltung fehlgeschlagener Anmeldungen bis hin zu Zugriffskontrollregeln. Wir sind uns bewusst, dass jeder Kunde eigene Vorstellungen davon hat, wie eine angemessene Sicherheitskonfiguration aussehen sollte, und bemühen uns, diese individuellen Bedürfnisse zu berücksichtigen."
+		},
+		{
+			"id": "availability",
+			"title": "Sicherheit und Verfügbarkeit ",
+			"par": "Die Sicherheit Ihrer Daten steht an erster Stelle. Deshalb sind unsere Cloud-Services so konzipiert, dass Ihre Daten jederzeit geschützt sind. Alle unsere Produkte sind vollständig cloudbasiert und werden von führenden Anbietern wie AWS, Azure und Google Cloud Platform gehostet, bei denen die Sicherheit an erster Stelle steht.  Wir beschäftigen ein spezielles Security Operations Center, das uns über Schwachstellen und Bedrohungen im Zusammenhang mit diesen Diensten informiert und unsere Reaktionen darauf koordiniert."
+		},
+		{
+			"id": "billing_accuracy",
+			"title": "Genaue Abrechnung",
+			"par": "Die DOOH-Branche erfordert eine genaue Berichterstattung über Proof of Play und die Kampagnenleistung, um die Richtigkeit von Finanzdaten zu gewährleisten.  Broadsign unterhält zahlreiche interne Kontrollen für die Proof of Play-Berichterstattung und weist deren Effektivität durch einen externen Bericht über interne Kontrollen nach."
+		},
+		{
+			"id": "protection",
+			"title": "Schutz von Inhalten",
+			"par": "Für unsere Sicherheitsbemühungen ist es von zentraler Bedeutung, dass die richtigen Inhalte auf den von uns beleuchteten Bildschirmen erscheinen. Kunden können jeden ihrer Mitarbeiter ermächtigen, Medien zu bewerben, oder verlangen, dass mindestens zwei Personen Medien oder Kampagnen bewerben. In jedem Fall ist unser System so konzipiert, dass es vollständige Prüfprotokolle über den Benutzerzugriff führt. Broadsign setzt Zugriffskontrollen mit minimalen Rechten ein, um sicherzustellen, dass nur Mitarbeiter, die für den Support der jeweiligen Umgebung benötigt werden, Medien verbreiten dürfen; diese Mitarbeiter werden regelmäßig in der Bedienung der Systeme geschult."
+		},
+		{
+			"id": "commitment",
+			"title": "Verpflichtungen in Bezug auf die Sicherheit",
+			"par": "Broadsign beschäftigt akkreditierte Vollzeitmitarbeiter, die für die Sicherheit unserer Produkte, unseres Unternehmens und unserer Kunden zuständig sind. Sie bilden eine eigene Unternehmenseinheit, die sich ausschließlich dieser Aufgabe widmet. Der Vorstand von Broadsign überwacht und steuert die Sicherheitsmaßnahmen des Unternehmens über seinen Risikoausschuss."
+		},
+		{
+			"id": "policy",
+			"title": "Richtlinie",
+			"par": "Spitzenleistungen sind eine Gewohnheit, die sich an schriftlichen Richtlinien und Verfahren orientiert. Broadsign pflegt eine Reihe von Richtlinien- und Verfahrensdokumenten, die der ISO-Norm 27001 entsprechen und die Absicht des Managements verdeutlichen. Diese werden in regelmäßigen Abständen überprüft und angepasst."
+		},
+		{
+			"id": "scope_disclaimer",
+			"title": "Geltungsbereich/Haftungsausschluss",
+			"par": "Die obige Darstellung stellt eine Zusammenfassung des Sicherheitsmanagements in der gesamten Produktionsinfrastruktur von Broadsign dar und liefert Beispiele für die unerschöpfliche Auswahl an von uns angewandten Sicherheitskontrollen. Kontrollen können in Hinblick auf die verschiedenen Produkte mehr oder weniger umfangreich ausfallen.  Wir nutzen angemessene Maßnahmen zur Gewährleistung der Informationssicherheit. Dennoch können Verfahren zur Datensicherheit, die Datenübertragung über das Internet oder die Datenspeicherung niemals zu 100% garantiert werden. Daher können wir - auch wenn wir immer bestrebt sind, unsere Produkte so gut wie möglich zu schützen - ungeachtet aller gegenteiligen Angaben keine Garantie oder andere bedingungslose Zusicherung für vollständige Sicherheit geben."
+		}
+	]
+}

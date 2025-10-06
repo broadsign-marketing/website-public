@@ -1,0 +1,933 @@
+{
+	"en": {
+		"fieldLabels": {
+			"company": "Company",
+			"consent_to_privacy_policy": "By clicking the button, you agree to <a href='/privacy-policy' target='_blank'>Broadsign's Privacy Policy</a>. You also agree to receive news, product updates, event announcements and other communications from Broadsign. You can unsubscribe anytime.",
+			"email": "Business email",
+			"firstname": "First Name",
+			"jobtitle": "Job title",
+			"lastname": "Last Name",
+			"long_comments": "How can we help you?",
+			"network_size_dropdown": "Network Size",
+			"phone": "Phone",
+			"type__c": "I am a...",
+			"business_type": "I am a...",
+			"request_data_access": "What change would you like to request?"
+		},
+		"locale": "en",
+		"localeName": "English",
+		"submits": {
+			"default": "Send",
+			"Download the Report": "Download the Report",
+			"Access eBook": "Access eBook",
+			"Book a Meeting": "Book a Meeting",
+			"Book a Call": "Book a Call",
+			"Book a Strategy Call": "Book a Strategy Call",
+			"Book a Time": "Book a Time",
+			"Book a Discovery Call": "Book a Discovery Call",
+			"Download now": "Download now",
+			"Get in Touch": "Get in Touch",
+			"Get the kit": "Get the kit",
+			"Let's Connect": "Let's Connect",
+			"Register": "Register",
+			"Register to the Webinar": "Register to the Webinar",
+			"Request a Demo": "Request a Demo",
+			"Request a Free Trial": "Request a Free Trial",
+			"Request a Quote": "Request a Quote",
+			"Request your Free Trial": "Request your Free Trial",
+			"Get Free Trial": "Get Free Trial",
+			"Get Started": "Get Started",
+			"Send Request": "Send Request",
+			"Subscribe": "Subscribe",
+			"Subscribe Now": "Subscribe Now",
+			"Reserve my spot": "Reserve my spot",
+			"Submit": "Submit",
+			"Watch webinar": "Watch webinar"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "Thanks for your interest in Broadsign!"
+				},
+				{
+					"class": "",
+					"text": "A member of our team will be in touch shortly."
+				}
+			],
+			"auctionPackages__explorePackage": [
+				{
+					"class": "em",
+					"text": "Thank you! You should be redirected soon..."
+				},
+				{
+					"class": "",
+					"text": "If you are not being redirected automatically, feel free to use <a name='ap_link'>this link</a>."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "Thanks for your interest!"
+				},
+				{
+					"class": "",
+					"text": "A member of our team will be in touch shortly to schedule a meeting."
+				}
+			],
+			"newsletter": [
+				{
+					"class": "",
+					"text": "Thank you for subscribing!"
+				}
+			],
+			"privacyPolicy": [
+				{
+					"class": "em",
+					"text": "Thank you for your request."
+				},
+				{
+					"class": "",
+					"text": "A Broadsign representative will be in contact with you shortly."
+				}
+			],
+			"systemOnChip": [
+				{
+					"class": "em",
+					"text": "Thank you for your interest in our system-on-chip solution!"
+				}
+			]
+		}
+	},
+	"fr": {
+		"fieldLabels": {
+			"company": "Compagnie",
+			"consent_to_privacy_policy": "En cliquant sur le bouton, vous acceptez la <a href='/fr/politique-de-confidentialite' target='_blank'>politique de confidentialité de Broadsign</a>. Vous acceptez également de recevoir des nouvelles, des mises à jour de produits, des annonces d'événements et d'autres communications de Broadsign. Vous pouvez vous désabonner à tout moment.",
+			"email": "Adresse électronique de votre entreprise",
+			"firstname": "Prénom",
+			"vertical": "Industrie/Vertical",
+			"jobtitle": "Poste",
+			"lastname": "Nom",
+			"long_comments": "Comment pouvons-nous vous aider ?",
+			"network_size_dropdown": "Taille du réseau",
+			"phone": "Téléphone",
+			"type__c": "Je suis un(e)...",
+			"business_type": "Je suis un(e)...",
+			"request_data_access": "Quel changement souhaitez-vous demander ?",
+			"self_attribution_message": "Comment avez-vous entendu parler de nous?",
+			"numemployees": "Combien d'employés compte votre compagnie?"
+		},
+		"glossary": {
+			"251-500 screens": "251-500 écrans",
+			"26-50 screens": "26-50 écrans",
+			"501+ screens": "501+ écrans",
+			"51-250 screens": "51-250 écrans",
+			"< 25 screens": "Moins de 25 écrans",
+			"Access eBook": "Accéder à l'eBook",
+			"Agency": "Agence",
+			"Book a Meeting": "",
+			"Book a Call": "Book a Call",
+			"Brand": "Marque",
+			"Business Email": "Adresse électronique de votre entreprise",
+			"Company": "Compagnie",
+			"DSP - Demand Side Platform": "DSP - Plateforme côté demande",
+			"First Name": "Prénom",
+			"How can we help you?": "Comment pouvons-nous vous aider ?",
+			"How can we help?": "Comment pouvons-nous vous aider ?",
+			"I am a...": "Je suis un(e)...",
+			"I don't own a network": "Je ne possède pas de réseau",
+			"Last Name": "Nom",
+			"Media Buyer": "Acheteur(se) de médias",
+			"Media Owner": "Propriétaire de médias",
+			"Number of screens": "Nombre d'écrans",
+			"Phone": "Téléphone",
+			"Phone number": "Téléphone",
+			"Data Access": "Accès aux données",
+			"Data Modification": "Modification des données",
+			"Data Deletion": "Suppression de données",
+			"Retail & Convenience Store": "Commerce de détail et dépanneurs",
+			"Corporate Communications": "Communications internes",
+			"Outdoor - Billboard": "Extérieur - Panneau d'affichage",
+			"Outdoor - Street Furniture": "Extérieur - Mobilier urbain",
+			"Shopping Malls": "Centres commerciaux",
+			"Cinema": "Cinéma",
+			"Healthcare": "Santé",
+			"Hospitality": "Hôtellerie",
+			"Transportation": "Transport",
+			"Other": "Autre",
+			"1-10": "1-10",
+			"11-50": "11-50",
+			"51-250": "51-250",
+			"251-1K": "251-1 000",
+			"1K-5K": "1 000-5 000",
+			"5K-10K": "5 000-10 000",
+			"10K-50K": "10 000-50 000",
+			"50K-100K": "50 000-100 000",
+			"100K+": "100 000+",
+			"How many employees does your company have?": "Combien d'employés compte votre compagnie?"
+		},
+		"locale": "fr",
+		"localeName": "French",
+		"submits": {
+			"default": "Envoyer",
+			"Access eBook": "Accéder à l'eBook",
+			"Book a Meeting": "Réservez une rencontre",
+			"Book a Call": "Réservez un appel",
+			"Book a Discovery Call": "Book a Discovery Call",
+			"Book a Strategy Call": "Book a Strategy Call",
+			"Download now": "Télécharger",
+			"Get in Touch": "Contactez-nous",
+			"Get the kit": "Télécharger le kit",
+			"Let's Connect": "Faisons équipe",
+			"Request a Demo": "Demandez une démonstration",
+			"Request a Free Trial": "Demandez un essai gratuit",
+			"Request a Quote": "Demander une estimation",
+			"Request your Free Trial": "Demandez votre essai gratuit",
+			"Get Free Trial": "Demandez un essai gratuit",
+			"Get Started": "Commencer",
+			"Send Request": "Soumettre la requête",
+			"Subscribe": "M'inscrire",
+			"Subscribe Now": "M'inscrire",
+			"Submit": "Envoyer",
+			"Watch webinar": "Visionner le webinaire"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "Merci de votre intérêt pour Broadsign !"
+				},
+				{
+					"class": "",
+					"text": "Un membre de notre équipe vous contactera sous peu."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "Merci pour votre intérêt !"
+				},
+				{
+					"class": "",
+					"text": "Un membre de notre équipe prendra contact prochainement pour planifier une réunion."
+				}
+			],
+			"newsletter": [
+				{
+					"class": "",
+					"text": "Merci pour votre inscription!"
+				}
+			],
+			"privacyPolicy": [
+				{
+					"class": "em",
+					"text": "Merci pour votre requête."
+				},
+				{
+					"class": "",
+					"text": "Un représentant Broadsign vous contactera sous peu."
+				}
+			],
+			"systemOnChip": [
+				{
+					"class": "em",
+					"text": "Merci de l'intérêt que vous portez à notre solution pour système sur puce!"
+				}
+			]
+		}
+	},
+	"es": {
+		"fieldLabels": {
+			"company": "Compañia",
+			"consent_to_privacy_policy": "Usted acepta la <a href='/es/politica-de-proteccion-de-datos' target='_blank'>Política de Protección de Datos de Broadsign</a>. También acepta recibir noticias, actualizaciones de productos, anuncios de eventos y otras comunicaciones de Broadsign. Puede cambiar su consentimiento en cualquier momento.",
+			"email": "Correo electrónico corporativo",
+			"firstname": "Nombre",
+			"jobtitle": "Título",
+			"lastname": "Apellido",
+			"long_comments": "¿Cómo podemos ayudarle?",
+			"network_size_dropdown": "Tamaño de la red",
+			"phone": "Teléfono",
+			"type__c": "Soy un...",
+			"business_type": "Soy un...",
+			"request_data_access": "¿Qué cambio le gustaría solicitar?",
+			"vertical": "Industria/Vertical",
+			"self_attribution_message": "¿Cómo se enteró de nosotros?",
+			"numemployees": "¿Cuántos empleados tiene su empresa?"
+		},
+		"glossary": {
+			"251-500 screens": "251-500 pantallas",
+			"26-50 screens": "26-50 pantallas",
+			"501+ screens": "501+ pantallas",
+			"51-250 screens": "51-250 pantallas",
+			"< 25 screens": "< 25 pantallas",
+			"Access eBook": "Accede al eBook",
+			"Book a Meeting": "",
+			"Book a Call": "Reservar una llamada",
+			"Business Email": "Correo electrónico corporativo",
+			"Company": "Compañía",
+			"First Name": "Nombre",
+			"How can we help you?": "¿Cómo podemos ayudarle?",
+			"How can we help?": "¿Cómo podemos ayudar?",
+			"I am a...": "Soy un...",
+			"I don't own a network": "No tengo una red propia",
+			"Last Name": "Apellido",
+			"Media Buyer": "Comprador de medios OOH",
+			"Media Owner": "Propietario de medios OOH",
+			"Number of screens": "Cantidad de pantallas",
+			"Phone": "Teléfono",
+			"Phone number": "Número de teléfono",
+			"Data Access": "Acceso a los datos",
+			"Data Modification": "Modificación de datos",
+			"Data Deletion": "Eliminación de datos",
+			"Retail & Convenience Store": "Tienda minorista y de conveniencia",
+			"Corporate Communications": "Comunicaciones corporativas",
+			"Outdoor - Billboard": "Exterior - Cartelera",
+			"Outdoor - Street Furniture": "Exterior - Mobiliario urbano",
+			"Shopping Malls": "Centros comerciales",
+			"Cinema": "Cines",
+			"Healthcare": "Sector Salud",
+			"Hospitality": "Hospitalidad",
+			"Transportation": "Transporte",
+			"Other": "Otros",
+			"1-10": "1-10",
+			"11-50": "11-50",
+			"51-250": "51-250",
+			"251-1K": "251-1 mil",
+			"1K-5K": "1 mil-5 mil",
+			"5K-10K": "5 mil-10 mil",
+			"10K-50K": "10 mil-50 mil",
+			"50K-100K": "50 mil-100 mil",
+			"100K+": "100 mil+",
+			"How many employees does your company have?": "¿Cuántos empleados tiene su empresa?"
+		},
+		"locale": "es",
+		"localeName": "Spanish",
+		"submits": {
+			"default": "Enviar",
+			"Access eBook": "Accede al eBook",
+			"Book a Meeting": "Agendar una reunión",
+			"Book a Call": "Reservar una llamada",
+			"Book a Discovery Call": "Reservar una llamada de descubrimiento",
+			"Download now": "Descargar ahora",
+			"Get in Touch": "Ponerse en contacto",
+			"Let's Connect": "",
+			"Request a Demo": "Solicite una demo",
+			"Request a Free Trial": "Solicite una prueba gratuita",
+			"Request a Quote": "Solicitar presupuesto",
+			"Request your Free Trial": "Solicite su prueba gratuita",
+			"Get Free Trial": "Solicite su prueba gratuita",
+			"Send Request": "Enviar petición",
+			"Subscribe": "Inscribirme",
+			"Subscribe Now": "Inscribirme",
+			"Reserve my spot": "Reservar mi lugar",
+			"Submit": "Enviar"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "¡Gracias por su interés en Broadsign!"
+				},
+				{
+					"class": "",
+					"text": "Un miembro de nuestro equipo se pondrá en contacto contigo próximamente."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "¡Gracias por su interés!"
+				},
+				{
+					"class": "",
+					"text": "Un miembro de nuestro equipo se pondrá en contacto pronto para programar una reunión."
+				}
+			],
+			"newsletter": [
+				{
+					"class": "",
+					"text": " ¡Gracias por suscribirse!"
+				}
+			],
+			"privacyPolicy": [
+				{
+					"class": "em",
+					"text": "Gracias por su solicitud."
+				},
+				{
+					"class": "",
+					"text": "Un representante de Broadsign se pondrá en contacto con usted en breve."
+				}
+			],
+			"systemOnChip": [
+				{
+					"class": "em",
+					"text": "¡Gracias por su interés en nuestra solución para sistema en chip!"
+				}
+			]
+		}
+	},
+	"de": {
+		"fieldLabels": {
+			"company": "Name der Firma",
+			"consent_to_privacy_policy": "Durch Klicken auf die Schaltfläche stimmen Sie den <a href='/de/datenschutzrichtlinie' target='_blank'>Nutzungsbedingungen und Datenschutzbestimmungen von Broadsign</a> zu. Sie stimmen auch zu, Nachrichten, Produktaktualisierungen, Veranstaltungsankündigungen und andere Mitteilungen von Broadsign zu erhalten. Sie können sich jederzeit abmelden.",
+			"email": "Geschäftliche E-Mail-Adresse",
+			"firstname": "Vorname",
+			"jobtitle": "Berufsbezeichnung",
+			"lastname": "Nachname",
+			"long_comments": "Wie können wir Ihnen helfen?",
+			"network_size_dropdown": "Netzwerkgröße",
+			"phone": "Telefonnummer",
+			"type__c": "Ich bin ein...",
+			"business_type": "Ich bin ein...",
+			"request_data_access": "Welche Änderung möchten Sie beantragen?",
+			"vertical": "Industrie/Vertikale",
+			"self_attribution_message": "Wie sind Sie auf uns aufmerksam geworden?",
+			"numemployees": "Wie viele Mitarbeiter hat Ihr Unternehmen?"
+		},
+		"glossary": {
+			"251-500 screens": "251-500 Bildschirme",
+			"26-50 screens": "26-50 Bildschirme",
+			"501+ screens": "501+ Bildschirme",
+			"51-250 screens": "51-250 Bildschirme",
+			"< 25 screens": "< 25 Bildschirme",
+			"Business Email": "Geschäfts-E-Mail",
+			"Company": "Firma",
+			"First Name": "Vorname",
+			"How can we help you?": "Wie können wir Ihnen helfen?",
+			"How can we help?": "Wie können wir helfen?",
+			"I am a...": "Ich bin ein...",
+			"I don't own a network": "Ich besitze kein Netzwerk",
+			"Last Name": "Nachname",
+			"Media Buyer": "Medienkäufer",
+			"Media Owner": "Medieninhaber",
+			"Number of screens": "Anzahl der Bildschirme",
+			"Phone": "Telefon",
+			"Phone number": "Telefonnummer",
+			"Data Access": "Datenzugriff",
+			"Data Modification": "Datenänderung",
+			"Data Deletion": "Datenlöschung",
+			"Retail & Convenience Store": "Einzelhandel & Gemischtwarenladen",
+			"Corporate Communications": "Unternehmenskommunikation",
+			"Outdoor - Billboard": "Draussen - Werbetafeln",
+			"Outdoor - Street Furniture": "Draussen - Straßenmöbel",
+			"Shopping Malls": "Einkaufszentren",
+			"Cinema": "Kino",
+			"Healthcare": "Gesundheitsvorsorge",
+			"Hospitality": "Hotels",
+			"Transportation": "Transport",
+			"Other": "Andere",
+			"1-10": "1-10",
+			"11-50": "11-50",
+			"51-250": "51-250",
+			"251-1K": "251-1 Tsd.",
+			"1K-5K": "1 Tsd.-5 Tsd.",
+			"5K-10K": "5 Tsd.-10 Tsd.",
+			"10K-50K": "10 Tsd.-50 Tsd.",
+			"50K-100K": "50 Tsd.-100 Tsd.",
+			"100K+": "100 Tsd.+",
+			"How many employees does your company have?": "Wie viele Mitarbeiter hat Ihr Unternehmen?"
+		},
+		"locale": "de",
+		"localeName": "German",
+		"submits": {
+			"default": "Schicken",
+			"Access eBook": "Greifen Sie auf das E-Book zu",
+			"Book a Meeting": "Ein Meeting buchen",
+			"Book a Call": "Büchen Sie einen Anruf",
+			"Book a Discovery Call": "Büchen Sie einen Entdeckungsanruf",
+			"Get in Touch": "Einsenden",
+			"Request a Demo": "Demo anfordern",
+			"Request a Free Trial": "Kostenlose Testversion anfordern",
+			"Request your Free Trial": "Fordern Sie Ihre kostenlose Testversion an",
+			"Get Free Trial": "Holen Sie sich eine kostenlose Testversion",
+			"Send Request": "Anfrage senden",
+			"Subscribe Now": "Abonniere jetzt",
+			"Submit": "Schicken"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "Vielen Dank für Ihr Interesse an Broadsign!"
+				},
+				{
+					"class": "",
+					"text": "Ein Mitglied unseres Teams wird sich in Kürze bei Ihnen melden."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "Vielen Dank für Ihr Interesse!"
+				},
+				{
+					"class": "",
+					"text": "Ein Mitglied unseres Teams wird sich in Kürze melden, um ein Treffen zu vereinbaren."
+				}
+			],
+			"newsletter": [
+				{
+					"class": "",
+					"text": "Vielen Dank für Ihr Abonnement!"
+				}
+			],
+			"privacyPolicy": [
+				{
+					"class": "em",
+					"text": "Vielen Dank für die Anfrage."
+				},
+				{
+					"class": "",
+					"text": "Ein Broadsign-Vertreter wird sich in Kürze mit Ihnen in Verbindung setzen."
+				}
+			],
+			"systemOnChip": [
+				{
+					"class": "em",
+					"text": "Vielen Dank für Ihr Interesse an unserer System-on-Chip-Lösung!"
+				}
+			]
+		}
+	},
+	"pt": {
+		"fieldLabels": {
+			"company": "Nome da empresa",
+			"consent_to_privacy_policy": "By clicking the button, you agree to <a href='/privacy-policy' target='_blank'>Broadsign's Privacy Policy</a>. You also agree to receive news, product updates, event announcements and other communications from Broadsign. You can unsubscribe anytime.",
+			"email": "E-mail",
+			"firstname": "Nome",
+			"jobtitle": "Título",
+			"lastname": "Sobrenome",
+			"long_comments": "Como podemos ajudar você?",
+			"network_size_dropdown": "Tamanho da rede",
+			"phone": "Número de telefone",
+			"type__c": "Eu sou um...",
+			"business_type": "Eu sou um..."
+		},
+		"glossary": {
+			"251-500 screens": "251-500 telas",
+			"26-50 screens": "26-50 telas",
+			"501+ screens": "501+ telas",
+			"51-250 screens": "51-250 telas",
+			"< 25 screens": "< 25 telas",
+			"Business Email": "E-mail comercial",
+			"Company": "Empresa",
+			"First Name": "Primeiro nome",
+			"How can we help you?": "Como podemos ajudar você?",
+			"How can we help?": "Como podemos ajudar?",
+			"I am a...": "Eu sou um...",
+			"I don't own a network": "Eu não possuo uma rede",
+			"Last Name": "Último nome",
+			"Media Buyer": "Comprador de mídia",
+			"Media Owner": "Proprietário de mídia",
+			"Number of screens": "Número de telas",
+			"Phone": "Telefone",
+			"Phone number": "Número de telefone"
+		},
+		"locale": "pt",
+		"localeName": "Portuguese",
+		"submits": {
+			"default": "Enviar",
+			"Access eBook": "",
+			"Book a Meeting": "",
+			"Book a Call": "",
+			"Request a Demo": "",
+			"Request a Free Trial": "Solicitar um teste gratuito",
+			"Get Free Trial": "Obtenha um teste gratuito"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "Obrigado pelo seu interesse na Broadsign!"
+				},
+				{
+					"class": "",
+					"text": "Um membro da nossa equipe entrará em contato em breve."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "Obrigado pelo seu interesse!"
+				},
+				{
+					"class": "",
+					"text": "Um membro da nossa equipe entrará em contato em breve para agendar uma reunião."
+				}
+			],
+			"newsletter": [
+				{
+					"class": "",
+					"text": "Obrigado por subscrever!"
+				}
+			]
+		}
+	},
+	"id": {
+		"fieldLabels": {
+			"company": "Nama perusahaan",
+			"consent_to_privacy_policy": "Dengan mengeklik tombol ini, Anda menyetujui <a href='/privacy-policy' target='_blank'>Kebijakan Privasi Broadsign</a> (tersedia di sini dalam bahasa Inggris). Anda juga setuju untuk menerima berita, pembaruan produk, pengumuman acara, dan komunikasi lainnya dari Broadsign. Anda dapat berhenti berlangganan setiap saat.",
+			"email": "Email Bisnis",
+			"firstname": "Nama depan",
+			"jobtitle": "Judul pekerjaan",
+			"lastname": "Nama belakang",
+			"long_comments": "Bagaimana kami dapat membantu Anda?",
+			"network_size_dropdown": "Ukuran Jaringan",
+			"phone": "Nomor telepon",
+			"type__c": "Saya adalah...",
+			"business_type": "Saya adalah..."
+		},
+		"glossary": {
+			"251-500 screens": "251-500 layar",
+			"26-50 screens": "26-50 layar",
+			"501+ screens": "501+ layar",
+			"51-250 screens": "51-250 layar",
+			"< 25 screens": "< 25 layar",
+			"Business Email": "Email Bisnis",
+			"Company": "Perusahaan",
+			"First Name": "Nama Depan",
+			"How can we help you?": "Bagaimana kami dapat membantu Anda?",
+			"How can we help?": "Bagaimana kami dapat membantu?",
+			"I am a...": "Saya adalah...",
+			"I don't own a network": "Saya tidak memiliki jaringan",
+			"Last Name": "Nama Belakang",
+			"Media Buyer": "Pembeli Media",
+			"Media Owner": "Pemilik Media",
+			"Number of screens": "Jumlah Layar",
+			"Phone": "Telepon",
+			"Phone number": "Nomor Telepon"
+		},
+		"locale": "id",
+		"localeName": "Indonesian",
+		"submits": {
+			"default": "Kirim",
+			"Access eBook": "",
+			"Book a Meeting": "",
+			"Book a Call": "",
+			"Request a Demo": "Minta Demo",
+			"Request a Free Trial": "Dapatkan trial gratis",
+			"Get Free Trial": "Dapatkan trial gratis"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "Terima kasih atas minat Anda pada Broadsign!"
+				},
+				{
+					"class": "",
+					"text": "Anggota tim kami akan segera menghubungi Anda."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "Terima kasih atas minat Anda!"
+				},
+				{
+					"class": "",
+					"text": "Anggota tim kami akan segera menghubungi Anda untuk menjadwalkan pertemuan."
+				}
+			]
+		}
+	},
+	"ja": {
+		"fieldLabels": {
+			"company": "会社",
+			"consent_to_privacy_policy": "ボタンをクリックすると、<a href='/privacy-policy' target='_blank'>Broadsign のプライバシー ポリシー</a> に同意したことになります。 また、Broadsign からニュース、製品の更新、イベントのお知らせ、およびその他の通信を受け取ることに同意するものとします。 いつでも購読を解除できます。",
+			"email": "企業メール",
+			"firstname": "名",
+			"jobtitle": "職名",
+			"lastname": "姓",
+			"long_comments": "どのようにお手伝いできますか？",
+			"network_size_dropdown": "ネットワークの規模",
+			"phone": "電話番号",
+			"type__c": "私は...",
+			"business_type": "私は...",
+			"vertical": "業界/垂直",
+			"self_attribution_message": "私たちのことをどこで知りましたか？",
+			"numemployees": "御社には何人の従業員がいますか？"
+		},
+		"glossary": {
+			"251-500 screens": "251-500 スクリーン",
+			"26-50 screens": "26-50 スクリーン",
+			"501+ screens": "501+ スクリーン",
+			"51-250 screens": "51-250 スクリーン",
+			"< 25 screens": "< 25 スクリーン",
+			"Business Email": "ビジネスメール",
+			"Company": "会社",
+			"First Name": "名",
+			"How can we help you?": "どのようにお手伝いできますか？",
+			"How can we help?": "どのようにお手伝いできますか？",
+			"I am a...": "私は...",
+			"I don't own a network": "ネットワークを所有していません",
+			"Last Name": "姓",
+			"Media Buyer": "メディアバイヤー",
+			"Media Owner": "メディアオーナー",
+			"Number of screens": "スクリーンの数",
+			"Phone": "電話",
+			"Phone number": "電話番号",
+			"Retail & Convenience Store": "小売事業者",
+			"Corporate Communications": "コーポレートコミュニケーション",
+			"Outdoor - Billboard": "屋外 - 看板",
+			"Outdoor - Street Furniture": "屋外 - ストリートファニチャー",
+			"Shopping Malls": "ショッピングモール",
+			"Cinema": "映画館",
+			"Healthcare": "医療機関",
+			"Hospitality": "サービス業",
+			"Transportation": "交通事業者",
+			"Other": "他の",
+			"1-10": "1-10",
+			"11-50": "11-50",
+			"51-250": "51-250",
+			"251-1K": "251-1,000",
+			"1K-5K": "1,000-5,000",
+			"5K-10K": "5,000-10,000",
+			"10K-50K": "1万-5万",
+			"50K-100K": "5万-10万",
+			"100K+": "10万+",
+			"How many employees does your company have?": "御社には何人の従業員がいますか？"
+		},
+		"locale": "ja",
+		"localeName": "Japanese",
+		"submits": {
+			"default": "送信する",
+			"Submit": "送信する",
+			"Access eBook": "電子ブックにアクセスする",
+			"Book a Meeting": "",
+			"Book a Call": "問い合わせる",
+			"Get in Touch": "連絡する",
+			"Request a Demo": "今すぐお問い合わせする",
+			"Request a Free Trial": "無料トライアルを開始",
+			"Request your Free Trial": "無料トライアルを開始",
+			"Get Free Trial": "無料トライアルを開始",
+			"Book a Discovery Call": "ディスカバリーコールを予約する",
+			"Download now": "",
+			"Let's Connect": "つながろう",
+			"Request a Quote": "引用を要求",
+			"Get Started": "始めましょう",
+			"Send Request": "リクエストの送信",
+			"Subscribe Now": "今すぐ購読する"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "Broadsignへのご関心ありがとうございます！"
+				},
+				{
+					"class": "",
+					"text": "弊社のチームメンバーが近日中にご連絡いたします。"
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "ご関心いただきありがとうございます！"
+				},
+				{
+					"class": "",
+					"text": "弊社のチームメンバーが近々、ミーティングの日程調整のためにご連絡いたします。"
+				}
+			],
+			"newsletter": [
+				{
+					"class": "",
+					"text": "購読していただきありがとうございます！"
+				}
+			],
+			"systemOnChip": [
+				{
+					"class": "em",
+					"text": "当社のシステムオンチップ ソリューションにご興味をお持ちいただきありがとうございます。"
+				}
+			]
+		}
+	},
+	"nl": {
+		"fieldLabels": {
+			"company": "Bedrijfsnaam",
+			"consent_to_privacy_policy": "Door op de knop te klikken gaat u akkoord met het <a href='/privacy-policy' target='_blank'>privacybeleid van Broadsign</a>. U gaat er ook mee akkoord om nieuws, productupdates, aankondigingen van evenementen en andere communicatie van Broadsign te ontvangen. U kunt zich op elk moment afmelden.",
+			"email": "Zakelijk e-mailadres",
+			"firstname": "Voornaam",
+			"jobtitle": "Functietitel",
+			"lastname": "Achternaam",
+			"long_comments": "Hoe kunnen we u helpen?",
+			"network_size_dropdown": "Grootte van het netwerk",
+			"phone": "Telefoonnummer",
+			"type__c": "Ik ben een...",
+			"business_type": "Ik ben een..."
+		},
+		"glossary": {
+			"251-500 screens": "251-500 schermen",
+			"26-50 screens": "26-50 schermen",
+			"501+ screens": "501+ schermen",
+			"51-250 screens": "51-250 schermen",
+			"< 25 screens": "< 25 schermen",
+			"Business Email": "Zakelijk e-mailadres",
+			"Company": "Bedrijf",
+			"First Name": "Voornaam",
+			"How can we help you?": "Hoe kunnen we u helpen?",
+			"How can we help?": "Hoe kunnen we helpen?",
+			"I am a...": "Ik ben een...",
+			"I don't own a network": "Ik bezit geen netwerk",
+			"Last Name": "Achternaam",
+			"Media Buyer": "Mediakoper",
+			"Media Owner": "Mediaeigenaar",
+			"Number of screens": "Aantal schermen",
+			"Phone": "Telefoon",
+			"Phone number": "Telefoonnummer"
+		},
+		"locale": "nl",
+		"localeName": "Dutch",
+		"submits": {
+			"default": "Verzenden",
+			"Access eBook": "",
+			"Book a Meeting": "",
+			"Book a Call": "",
+			"Request a Demo": "",
+			"Request a Free Trial": "Profiteer van een gratis proefperiode",
+			"Get Free Trial": "Profiteer van een gratis proefperiode"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "Bedankt voor uw interesse in Broadsign!"
+				},
+				{
+					"class": "",
+					"text": "Een lid van ons team neemt binnenkort contact met u op."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "Bedankt voor uw interesse!"
+				},
+				{
+					"class": "",
+					"text": "Een lid van ons team neemt binnenkort contact op om een afspraak in te plannen."
+				}
+			]
+		}
+	},
+	"zh-cn": {
+		"fieldLabels": {
+			"company": "公司",
+			"consent_to_privacy_policy": "点击按钮，即表示您同意<a href='/privacy-policy' target='_blank'>播尚Broadsign隐私协议</a>。您也同意接收新闻，产品更新，公开活动以及来自播尚Broadsign的其他信息。",
+			"email": "商业邮箱",
+			"firstname": "名字",
+			"jobtitle": "",
+			"lastname": "姓氏",
+			"long_comments": "您需要何种帮助？",
+			"network_size_dropdown": "网络规模",
+			"phone": "电话",
+			"type__c": "我是...",
+			"business_type": "我是...",
+			"request_data_access": "您想要带来什么变化？",
+			"self_attribution_message": "您是如何知道我们的？"
+		},
+		"locale": "zh-cn",
+		"localeName": "Chinese",
+		"glossary": {
+			"251-500 screens": "251-500个屏幕",
+			"26-50 screens": "26-50个屏幕",
+			"501+ screens": "501+ 屏幕",
+			"51-250 screens": "51-250个屏幕",
+			"< 25 screens": "<25个屏幕",
+			"Business Email": "商务电子邮件",
+			"Company": "公司",
+			"First Name": "名字",
+			"How can we help you?": "您需要何种帮助？",
+			"How can we help?": "您需要何种帮助？",
+			"I am a...": "我是...",
+			"I don't own a network": "目前还没有屏幕",
+			"Last Name": "姓氏",
+			"Media Buyer": "媒体购买",
+			"Media Owner": "媒体主",
+			"Number of screens": "屏幕数量",
+			"Phone": "电话",
+			"Phone number": "电话号码",
+			"1-10": "1-10",
+			"11-50": "11-50",
+			"51-250": "51-250",
+			"251-1K": "251-1千",
+			"1K-5K": "1千-5千",
+			"5K-10K": "5千-1万",
+			"10K-50K": "1万-5万",
+			"50K-100K": "5万-10万",
+			"100K+": "10万+",
+			"How many employees does your company have?": "贵公司有多少员工？"
+		},
+		"submits": {
+			"default": "发送",
+			"Access eBook": "访问eBook",
+			"Book a Meeting": "预定会议",
+			"Book a Call": "预约回电",
+			"Book a Discovery Call": "预约初次会议",
+			"Download now": "立刻下载",
+			"Get in Touch": "立即联系",
+			"Let's Connect": "立即联系",
+			"Register to the Webinar": "注册网络研讨会",
+			"Request a Demo": "申请产品展示",
+			"Request a Free Trial": "申请免费试用",
+			"Request a Quote": "申请报价",
+			"Request your Free Trial": "申请您的免费试用",
+			"Get Free Trial": "获取免费试用",
+			"Get Started": "立即开始",
+			"Send Request": "发送请求",
+			"Subscribe Now": "立即订阅",
+			"Submit": "发送"
+		},
+		"thankYouMessages": {
+			"default": [
+				{
+					"class": "em",
+					"text": "感谢您对播尚Broadsign的兴趣！"
+				},
+				{
+					"class": "",
+					"text": "我们团队成员会很快与您联络。"
+				}
+			],
+			"auctionPackages__explorePackage": [
+				{
+					"class": "em",
+					"text": ""
+				},
+				{
+					"class": "",
+					"text": "If you are not being redirected automatically, feel free to use <a name='ap_link'>this link</a>."
+				}
+			],
+			"interest__beintouch": [
+				{
+					"class": "em",
+					"text": "感谢您的垂询！"
+				},
+				{
+					"class": "",
+					"text": "我们团队成员会很快与您联络。"
+				}
+			],
+			"privacyPolicy": [
+				{
+					"class": "em",
+					"text": "感谢您的垂询！"
+				},
+				{
+					"class": "",
+					"text": "我们团队成员会很快与您联络。"
+				}
+			],
+			"systemOnChip": [
+				{
+					"class": "em",
+					"text": "感谢您对我们System-on-chip方案的兴趣！"
+				}
+			]
+		}
+	}
+}

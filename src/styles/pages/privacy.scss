@@ -1,0 +1,111 @@
+@import "../base/dependencies";
+
+.privacy_policy {
+	margin-bottom: 100px;
+	margin-top: 60px;
+
+	h1 {
+		font-size: calc(min(48px, 11vw));
+	}
+
+	h2 {
+		font-size: 24px;
+		margin-bottom: 1em;
+		text-transform: none;
+	}
+
+	h3 {
+		font-size: 20px;
+		margin: 1.6em 0 0.8em;
+		text-transform: none;
+	}
+
+	h4 {
+		@include fontBold;
+		font-size: 18px;
+		margin: 1.6em 0 0.8em;
+		text-transform: none;
+	}
+
+	p {
+		color: $ash;
+		font-size: 16px;
+		line-height: 160%;
+		margin-bottom: 1em;
+	}
+
+	ul {
+		font-size: 16px;
+		margin-bottom: 1.2em;
+		padding-left: 1.2em;
+	}
+
+	li {
+		color: $ash;
+		font-size: 16px;
+		line-height: 160%;
+	}
+
+	b {
+		&.subpoint {
+			margin-right: 1em;
+		}
+	}
+
+	a,
+	button.div {
+		color: $cerulean;
+		display: inline-block;
+		font-size: 1em;
+		font-weight: bold;
+		text-decoration: underline;
+
+		&:hover {
+			color: $scarlet;
+		}
+	}
+
+	table {
+		border: 1px solid #ddd;
+		color: $ash;
+		font-size: 16px;
+		margin-bottom: 1.2em;
+		text-align: left;
+
+		td,
+		th {
+			border: 1px solid #ddd;
+			line-height: 140%;
+			padding: min(3vw, 16px);
+			vertical-align: top;
+		}
+	}
+
+	address {
+		display: inline-block;
+		font-style: normal;
+	}
+
+	.mailto_privacy {
+		color: $ash;
+		font-weight: bold;
+		text-decoration: none;
+
+		&:hover {
+			color: $cerulean;
+		}
+	}
+
+	.link_to_section {
+		color: $ash;
+		font-weight: bold;
+
+		&:hover {
+			color: $cerulean;
+		}
+	}
+
+	hr {
+		margin: 60px 0;
+	}
+}

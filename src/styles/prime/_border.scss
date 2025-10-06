@@ -1,0 +1,11 @@
+$border-scales:0px,
+1px;
+
+$border-directions: ('': 'border',
+	'top': 'border-top',
+	'right': 'border-right',
+	'left': 'border-left',
+	'bottom': 'border-bottom');
+
+@include border-class('border', $border-directions, $border-scales);
+// @include style-class('border-style', $border-styles, true); // 2022-11 NOT NECESSARY

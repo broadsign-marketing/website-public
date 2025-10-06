@@ -1,0 +1,112 @@
+{
+	"seo": {
+		"title": "全球程序化SSP",
+		"description": "我们的供应端平台SSP帮助户外媒体主向全球买家程序化出售媒体库存"
+	},
+	"hero": {
+		"overtitle": "全球程序化SSP",
+		"title": "专为户外广告打造的SSP，解锁更多营收",
+		"blurb": "我们的供应端平台SSP帮助户外媒体主向全球买家程序化出售媒体库存",
+		"ctaBookCall": "致电咨询",
+		"ctaDemo": "申请产品展示",
+		"ctaPricing": "查看报价"
+	},
+	"logos": {
+		"title": "助力全球领先的数字户外媒体网络程序化销售"
+	},
+	"features": {
+		"programmatic_ssp": {
+			"overtitle": "程序化SSP",
+			"title": "程序化销售卖得更多",
+			"par": "实时程序化渠道，可以让您在直销之外，将媒体库存销售给审批过的全球买家"
+		},
+		"detailed_campaign_reporting": {
+			"overtitle": "详尽的广告报表",
+			"title": "获取透明详尽的程序化广告效果报告",
+			"par": "分析每一个程序化交易的上刊率，最低CPM以及相关竞价信息，高效提升程序化销售营收"
+		},
+		"programmatic_header_bidder": {
+			"overtitle": "程序化Header bidder",
+			"title": "播尚Broadsign Header Bidder解锁更多需求",
+			"par": "Header Bidder方案将所有程序化需求整合到同一个广告位，出价最高的交易赢得刊位，而不管是来自哪个SSP",
+			"cta": "了解更多"
+		},
+		"global_programmatic_network": {
+			"overtitle": "全球程序化媒体网络",
+			"title": "将您的网络曝光给最大的媒体买家",
+			"par": "您的屏幕是媒体买家的重点目标。将他们加入我们的SSP平台，您会得到更多曝光，同时成为全球范围不同媒体主大型广告的竞争者。"
+		}
+	},
+
+	"dsp_partners": {
+		"title": "最多需求的SSP平台",
+		"par": "播尚Broadsign SSP相比于其他户外广告SSP接入了更多DSP。您的媒体库存可以被全球30多个最大的DSP看到并购买",
+		"cta": "查看已对接的DSP合作伙伴"
+	},
+	"customers": {
+		"title": "Trusted by over X programmatic DOOH leaders worldwide",
+		"testimonials": [
+			{
+				"id": "",
+				"quote": ""
+			},
+			{
+				"id": "",
+				"quote": ""
+			}
+		]
+	},
+	"faq": {
+		"title": "常见问题",
+		"list": [
+			{
+				"id": "faq_global_programmatic_ssp_1",
+				"q": "您已经对接了多少个DSP？",
+				"a": "播尚Broadsign SSP 通过自动化API对接了超过30个DSP平台，并还在不断增加中，我们为新的DSP平台持续打开大门"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_2",
+				"q": "播尚Broadsign SSP支持PMP交易吗？",
+				"a": "当然！PMP交易在我们的平台可以非常灵活，允许你定向到想要的广告主，或者任何想要定向的需求方。"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_3",
+				"q": "我要如何连接到播尚Broadsign SSP?",
+				"a": "现有播尚Broadsign客户，可以通过原生的媒体管理系统连接到我们的SSP。使用其他媒体管理系统的客户，我们也有其他办法进行连接"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_4",
+				"q": "播尚Broadsign SSP可以为我们带来多少营收？",
+				"a": "程序化营收有很多变数，您可以留下联系方式，我们的销售团队会帮忙进行估算"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_5",
+				"q": "我能从播尚Broadsign SSP获得多少利润？",
+				"a": "影响程序化利润的有很多变量，立刻联系，我们的销售团队会根据您的网络情况，一起估算可能的程序化利润。"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_6",
+				"q": "播尚Broadsign有Header Bidder方案吗？",
+				"a": "播尚Broadsign Reach的Header Bidder可以帮助客户轻松连接到多个SSP平台。媒体主只需要将他们的程序化广告集中到一个刊位，如您想了解更多信息，<a href='https://broadsign.com/blog/discover-broadsign-reach-header-bidder-the-smarter-way-to-work-with-multiple-programmatic-partners' target='_blank'>请查看这篇博文。</a>!"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_7",
+				"q": "有多少代理、品牌通过播尚Broadsign SSP进行交易？",
+				"a": "目前全球范围内有1000多个品牌方通过播尚Broadsign SSP交付广告"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_8",
+				"q": "相比于直销，程序化交易有什么优点？",
+				"a": "程序化交易其实就是自动化，它不应该彻底取代直销。它更多的是通过自动化竞价系统，在已有可用库存的基础上对直销的有益补充。结合播尚Broadsign全栈解决方案的其他功能，比如品牌安全，预占式广告，您可以安全可靠的打开一个全新营收渠道"
+			}
+		]
+	},
+	"shin": {
+		"title": "看看我们能为您做什么",
+		"par": "联系我们，播尚团队会第一时间回电。我们乐意与您探讨任何有关话题",
+		"ctaBookCall": "致电咨询",
+		"ctaDemo": "申请产品展示",
+		"ctaPricing": "查看报价"
+	},
+	"bookACall": { "title": "致电咨询" }
+}

@@ -1,0 +1,71 @@
+@import "../base/dependencies";
+
+#launch_pdooh_campaign {
+	.GradientBox {}
+
+	.why {
+		.link_cerulean_arrow {
+			@include fontMed;
+			display: inline-block;
+			line-height: 120%;
+
+			span {
+				display: inline-block;
+			}
+
+			&:after {
+				margin-left: 0.4em;
+			}
+		}
+	}
+
+	.how {
+		&>p {
+			max-width: 700px;
+		}
+
+		.CTA {
+			font-size: min(3.8vw, 14px);
+		}
+	}
+
+	.how_img {
+		margin: max(-15vw, -60px) 0 20px;
+		max-width: 300px;
+	}
+
+	.Home_Quotes .quote_card .logo {
+		max-height: 48px;
+	}
+
+	.faq_collapse:first-of-type {
+		border-top: 1px solid $ash;
+		padding-top: 20px;
+	}
+}
+
+@media (min-width:$sm) {
+	#launch_pdooh_campaign {
+		.how {
+			.CTA {
+				font-size: min(1.8vw, 14px);
+			}
+		}
+
+		.how_img {
+			margin-top: max(-8vw, -60px);
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#launch_pdooh_campaign {}
+}
+
+@media (min-width:$lg) {
+	#launch_pdooh_campaign {}
+}
+
+@media (min-width:$xl) {
+	#launch_pdooh_campaign {}
+}

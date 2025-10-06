@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Security Statement",
+		"description": "Trust and assurance is at the core of everything we do. It is in our culture, technology, and focus on clients. Trust starts with transparency.",
+		"robots": "noindex, nofollow"
+	},
+	"title": "Security Statement",
+	"intro": "Trust and assurance is at the core of everything we do. It is in our culture, technology, and focus on clients. Trust starts with transparency.",
+	"sections": [
+		{
+			"id": "compliance",
+			"title": "Compliance",
+			"par": "Broadsign's products are designed, and regularly audited by globally-recognized third-parties, to ensure that we comply with various global and regional standards. For some of our products, we maintain certifications of compliance with standards including SSAE 18 SOC 2 Type 2 Report.  Disciplines from our certified products apply across our entire enterprise and product line."
+		},
+		{
+			"id": "platform_security",
+			"title": "Platform Security",
+			"par": "We strive to build security features into all levels of our products. You can implement the security features that are appropriate for your organization, from managing failed logins to access control rules. We recognize that each client has its own view on suitable security configuration and seek to accommodate these individual needs."
+		},
+		{
+			"id": "availability",
+			"title": "Security and Availability ",
+			"par": "Because your data security is paramount, our cloud services are designed to secure your data at all times. All of our products are fully clouded and hosted with leading environments, such as AWS, Azure and Google Cloud Platform, where vigilance is front and center.  We employ a dedicated security operations center to maintain awareness of and coordinate our response to vulnerabilities and threats to these services."
+		},
+		{
+			"id": "billing_accuracy",
+			"title": "Accuracy in billing",
+			"par": "The DOOH industry requires accurate reporting for Proof of Play and Campaign Performance, ensuring correct financial information.  Broadsign maintains numerous internal controls on our Proof of Play reporting, and has a third-party Internal Controls Report attesting to their effectiveness."
+		},
+		{
+			"id": "protection",
+			"title": "Content protection",
+			"par": "Having the right content on screens we light up is central to our security efforts. Clients may empower any of their staff to promote media, or they may require at least two people to promote media or campaigns. In either case, our system is designed to maintain full audit trails of user access. Broadsign maintains least-privilege access controls designed to ensure that only staff needed to support your environment may promote media; these staff are regularly trained in operation of the systems."
+		},
+		{
+			"id": "commitment",
+			"title": "Security Commitment",
+			"par": "Broadsign maintains accredited full-time staff to govern and help secure our products, our company, and our clients in an organizational unit dedicated to this task. Broadsign's board maintains awareness and direction of our security posture through our risk committee."
+		},
+		{
+			"id": "policy",
+			"title": "Policy",
+			"par": "Excellence is a habit, guided by written policies and procedures. Broadsign maintains an ISO 27001-aligned set of policy and procedure documents demonstrating management's intent. These are periodically reviewed and adjusted."
+		},
+		{
+			"id": "scope_disclaimer",
+			"title": "Scope/Disclaimer",
+			"par": "The above is an aggregated summary of security management across Broadsign's production infrastructure and intended to provide non-exhaustive examples of the different security controls we employ; various products may have more or fewer controls than those described above.  Although we utilize reasonable information security measures as described above, no information security measures, data transmission over the Internet, or data storage method can be guaranteed to be 100% secure. Therefore, while we strive to use commercially reasonable methods to protect our products, notwithstanding anything to the contrary above, we do not offer any guarantee or other unconditional assurance of complete security."
+		}
+	]
+}

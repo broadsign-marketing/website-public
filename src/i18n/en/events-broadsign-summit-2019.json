@@ -1,0 +1,54 @@
+{
+	"seo": {
+		"title": "Broadsign Summit 2019",
+		"description": "What goes on at a Broadsign Summit? Take a look behind the scenes to learn what our events are all about, and see what industry leaders have to say about their experience attending."
+	},
+	"hero": {
+		"pars": ["Our New York Customer Summit event might be over, but you can still watch the keynote sessions on demand.", "Enjoy!"]
+	},
+	"featuredVideo": {
+		"youtubeID": "d-B6aQ12cl4",
+		"title": "Welcome to the Broadsign Summit",
+		"description": [
+			"Customers, partners, and fellow industry leaders can gather to discuss the most significant trends in the out-of-home space, and to get a glimpse of what the future holds for the Broadsign platform."
+		],
+		"cta": "Watch"
+	},
+	"videos": [
+		{
+			"youtubeID": "VnVSAQC84Tw",
+			"title": "The Challenge of Connecting",
+			"speakers": [
+				{
+					"portrait": "mungo_knott",
+					"name": "Mungo Knott, Insight and Innovation Director, Primesight"
+				}
+			],
+			"description": [
+				"For all its strengths and the many improvements it has undergone in recent years, the digital out-of-home space still has room to grow. How should DOOH businesses operate in a competitive, technology-driven landscape? And just what effects are we really seeing from the adoption of automation, programmatic, and artificial intelligence in driving DOOH?"
+			]
+		},
+		{
+			"youtubeID": "N0QdhColMJ8",
+			"title": "The Road to Revenue",
+			"speakers": [
+				{
+					"portrait": "adam_green",
+					"name": "Adam Green, SVP and GM of Broadsign Reach, Broadsign"
+				}
+			],
+			"description": [
+				"For the most part, the digital out-of-home industry is still transacting in a private manner, or “programmanually”. While this enables buyers and sellers to have full transparency, there is no labour efficiency, no opportunity for buyers to stumble across DOOH inventory, and no price synergy.",
+				"Adam shares his vision for the future of digital out-of-home campaign sales, and explains why a combination of private and open auctions is ideal for a balanced, more efficient and more profitable market."
+			]
+		},
+		{
+			"youtubeID": "FNI1M5bhmkI",
+			"title": "Ambition & Enthusiasm",
+			"description": [
+				"Since 2018, Broadsign has organized summit events where customers, partners, and fellow industry leaders can gather to discuss the most significant trends in the out-of-home space, and to get a glimpse of what the future holds for the Broadsign platform.",
+				"From relatively modest roots as an opportunity for customers to get face-to-face time with our team, our summits have become hot invitations that are highly anticipated by leading figures and media in digital out-of-home and digital signage."
+			]
+		}
+	]
+}

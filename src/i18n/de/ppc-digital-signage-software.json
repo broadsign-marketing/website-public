@@ -1,0 +1,93 @@
+{
+	"seo": {
+		"title": "Digital Signage und DOOH Software",
+		"description": "Die Digital Signage-Software von Broadsign macht es einfacher denn je, digitale Außenwerbung und Out-of-Home-Kampagnen auf der ganzen Welt zu kaufen, zu verkaufen und bereitzustellen."
+	},
+	"Hero": {
+		"title": "Leistungsstarke und automatisierte DOOH und Digital Signage-Software",
+		"par": "Broadsign ermöglicht es DOOH-Medienbesitzer, ihre Netzwerke zu automatisieren und den Umsatz in Echtzeit zu maximieren.",
+		"cta": "Kostenlose Testversion",
+		"ctaDemo": "Demo anfordern"
+	},
+	"trustedBy": {
+		"title": "Geliebt und vertraut von den größten Namen in OOH"
+	},
+	"whyBroadsign": {
+		"title": "Warum Broadsign wählen",
+		"feature1": {
+			"title": "Sparen Sie Zeit",
+			"par": "Sparen Sie Zeit, indem Sie Ihr Netzwerk automatisieren, damit Sie sich auf das Gesamtbild Ihres Unternehmens konzentrieren können."
+		},
+		"feature2": {
+			"title": "Maximieren Sie den Umsatz",
+			"par": "Sichern Sie Echtzeit-Inventar und generieren Sie Angebote schneller, um mehr Deals zu gewinnen."
+		},
+		"feature3": {
+			"title": "Wachsen Sie ohne Grenzen",
+			"par": "Nutzen Sie das volle Potenzial Ihres Netzwerks mit skalierbaren Workflows, die für Netzwerke jeder Größe geeignet sind."
+		}
+	},
+	"doBetter": {
+		"title": "Optimieren Sie Ihren Digital Signage-Betrieb mit unseren integrierten Lösungen",
+		"automatedYield": {
+			"title": "OOH-Verkaufsmanagement",
+			"par": "Optimieren Sie Ihre OOH-Anzeigenverkäufe mit intelligenten Tools und Bestandsverfügbarkeit in Echtzeit."
+		},
+		"contentManagement": {
+			"title": "Automatisierte Ertragsoptimierung",
+			"par": "Erreichen Sie den vollen Wert Ihres Inventars mit einem intelligenten, automatisierten DOOH-System."
+		},
+		"oOHSales": {
+			"title": "Inhaltsverwaltung",
+			"par": "Automatisieren Sie die Bereitstellung von Inhalten und Erreichen Sie Ihr Publikum zum perfekten Zeitpunkt."
+		},
+		"openAPI": {
+			"title": "Offene API",
+			"par": "Verbinden Sie Broadsign mit den Tools, die Sie lieben, mit unserer offenen API."
+		},
+		"programmaticSales": {
+			"title": "Programmatischer Verkauf",
+			"par": "Erschließen Sie neue Einnahmen, indem Sie Inventar mit digitalen Käufern weltweit verbinden."
+		},
+		"security": {
+			"title": "Beste Sicherheit in der Branche",
+			"par": "Schützen Sie alle Ihre Vermögenswerte mit branchenführender Sicherheit, die in unsere Lösungen integriert ist."
+		},
+		"cta": "Kostenlose Testversion",
+		"ctaDemo": "Demo anfordern"
+	},
+	"quotes": {
+		"title": "Finden Sie heraus, warum unsere Kunden uns lieben",
+		"q1": {
+			"quote": "Mit Broadsign verfügen wir über die verbesserte Flexibilität, die kreativen Fähigkeiten und die Planungstools, die wir benötigen, um Verbindungen effizienter und kohärenter in unserem Netzwerk herzustellen.",
+			"cite": "Intersection"
+		},
+		"q2": {
+			"quote": "Seit unserem Wechsel zu Broadsign konnten wir unseren Workflow optimieren, flexibler werden und schneller auf Änderungen von Werbetreibenden reagieren.",
+			"cite": "Lightbox"
+		},
+		"q3": {
+			"quote": "Broadsign is the ultimate tool box for everything digital out-of-home, providing us peace of mind to meet our customers' needs.",
+			"cite": "oOh!media"
+		},
+		"q4": {
+			"quote": "As a digital first business, Broadsign provides us with the ideal system that reliably accommodates every scheduling or dynamic request thrown our way by clients. I am yet to see an application that the platform cannot accommodate.",
+			"cite": "QMS Media"
+		},
+		"q5": {
+			"quote": "Since we partnered with Broadsign, we are able to amplify our OOH offering by centralising our asset management and campaign bookings in a fast and easy way. Broadsign Control is the foundation of DOOH digitalization.",
+			"cite": "Tiandi Media"
+		},
+		"q6": {
+			"quote": "Our static and digital offering powered by Broadsign allows for faster and more efficient OOH campaign executions. Their automated digital signage software not only simplifies the process but also helps us deliver transparent & detailed campaign reports to our clients",
+			"cite": "VGI Malaysia"
+		}
+	},
+	"flexible": {
+		"title": "Beginnen Sie mit der flexiblen und äußerst zuverlässigen DOOH-Software",
+		"par": "Erschließen Sie den vollen Wert Ihres Netzwerks durch Automatisierung, Geschäftsoptimierung und Unterstützung für programmatische Transaktionen.",
+		"cta": "Kostenlose Testversion",
+		"ctaDemo": "Demo anfordern"
+	},
+	"formTitle": "Sehen Sie Broadsign in Aktion"
+}

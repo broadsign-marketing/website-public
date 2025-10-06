@@ -1,0 +1,156 @@
+{
+	"seo": {
+		"title": "Nachhaltigkeitserklärung",
+		"text": "Bei Broadsign fühlen wir uns gegenüber unseren Mitarbeitern, Kunden, Communities, Investoren und der Umwelt in der Pflicht, unser Unternehmen nachhaltig zu führen. Dieses Engagement basiert auf unseren fünf Unternehmenswerten, die unser Handeln leiten:"
+	},
+	"title": "Nachhaltigkeit bei Broadsign",
+	"content": [
+		{
+			"type": "p",
+			"text": "Bei Broadsign fühlen wir uns gegenüber unseren Mitarbeitern, Kunden, Communities, Investoren und der Umwelt in der Pflicht, unser Unternehmen nachhaltig zu führen. Dieses Engagement basiert auf unseren fünf Unternehmenswerten, die unser Handeln leiten:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Wir tun, was wir sagen",
+				"Wir tun das Richtige",
+				"Wir bringen großartige Dinge zustande",
+				"Wir behandeln jeden mit Würde und Respekt",
+				"Wir befähigen"
+			]
+		},
+		{
+			"type": "p",
+			"text": "Wir betreiben unser Geschäft, unsere Aktivitäten und unser Unternehmen in einer Weise, die es allen Menschen ermöglicht, ihr Potenzial zu erreichen und ihre Lebensqualität zu verbessern, und die gleichzeitig das natürliche Kapital der Erde schützt und verbessert. Auf betrieblicher Ebene wird dieser Anspruch für unsere Zwecke durch unsere Nachhaltigkeitsziele, -vorgaben und -indikatoren umgesetzt, darunter:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Schaffung eines möglichst gesunden, kollaborativen und innovativen Arbeitsumfelds",
+				"Berücksichtigung von Nachhaltigkeitsaspekten bei allen unseren geschäftlichen Entscheidungen zur Gewährleistung einer verantwortungsvollen Gewinnerzielung",
+				"Minimierung der durch alle Büro-, Reise- und Pendleraktivitäten verursachten CO2-Belastung",
+				"Unterstützung unserer Kunden bei der Verbesserung ihrer Nachhaltigkeit durch den Einsatz unserer Produkte",
+				"Messung und Kommunikation unserer Fortschritte über alle Stakeholder hinweg, einschließlich unseres Vorstands, unserer Mitarbeiter und unserer Kunden, um innerhalb unseres Ökosystems Verantwortlichkeit und nachhaltige Praktiken zu fördern"
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Emissionsreduzierung"
+		},
+		{
+			"type": "h3",
+			"text": "Reisen und Meetings"
+		},
+		{
+			"type": "p",
+			"text": "Die Kohlenstoffemissionen von Broadsign werden weitgehend durch Geschäftsreisen verursacht. Um unseren CO2-Fußabdruck zu verkleinern, enthält unsere Geschäftsreisepolitik mehrere Maßnahmen zur Reduzierung der Reisetätigkeit pro Umsatzdollar sowie Vorgaben zur Verbesserung der Intensität der verbleibenden Reisen. Hierzu gehören beispielsweise folgende Maßnahmen:"
+		},
+		{
+			"type": "list",
+
+			"items": [
+				"Vermeidung von kohlenstoffintensiven Reisen, es sei denn, sie sind für das Geschäft absolut unerlässlich. ",
+				"Unterstützung unserer Mitarbeiter bei der Verringerung des CO2-Ausstoßes ihrer täglichen Pendelfahrten durch teilweises Arbeiten im Home-Office und den bequemen Zugang zu öffentlichen Verkehrsmitteln durch die Ansiedlung unserer Büros an Standorten mit guter ÖPNV-Anbindung.",
+				"Minimierung der Emissionen pro Personenkilometer durch kluge Wahl der Verkehrsmittel und des Reisezeitpunkts, um pro Fahrt so viele Kunden wie möglich zu treffen."
+			]
+		},
+		{
+			"type": "h3",
+			"text": "Büros, Geräte und Verbrauch von Ressourcen"
+		},
+		{
+			"type": "p",
+			"text": "Wir bemühen uns um Verringerung, Wiederverwendung oder Recycling von Papier, Verbrauchsmaterialien und Büroabfällen sowie um eine möglichst weitgehende Reduzierung des Energieverbrauchs. Soweit möglich kaufen wir energieeffiziente Geräte und arbeiten mit energiebewussten und effizienten Dritten zusammen. Dies gilt insbesondere für Datenzentren."
+		},
+		{
+			"type": "h3",
+			"text": "Arbeitspraktiken"
+		},
+		{
+			"type": "p",
+			"text": "Wir werden weiterhin digitale Produkte entwickeln, die darauf ausgelegt sind, die Nachhaltigkeitsinitiativen unserer Mitarbeiter und Kunden zu fördern, indem wir uns nach besten Kräften bemühen, bei der Entwicklung von Broadsign-Software die <a href='https://principles.green/' target='_blank'>Prinzipien der Nachhaltigen Softwareentwicklung</a> zu befolgen:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"<a href='https://principles.green/principles/carbon/' target='_blank'>CO2-Effizienz</a>: Entwicklung von Anwendungen, die kohlenstoffeffizient sind.",
+				"<a href='https://principles.green/principles/electricity/' target='_blank'>Energieeffizienz</a>: Entwicklung von Anwendungen, die energieeffizient sind.",
+				"<a href='https://principles.green/principles/carbon-intensity/' target='_blank'>CO2-Intensität</a>: Verbrauch von Strom mit der geringsten Kohlenstoffintensität.",
+				"<a href='https://principles.green/principles/embodied-carbon/' target='_blank'>Embodied Carbon (enthaltener Kohlenstoff)</a>: Entwicklung von Anwendungen, die hardwareeffizient sind.",
+				"<a href='https://principles.green/principles/energy-proportionality/' target='_blank'>Energieproportionalität</a>: Maximierung der Energieeffizienz der Hardware.",
+				"<a href='https://principles.green/principles/networking/' target='_blank'>Vernetzung</a>: Reduzierung der Datenmengen und der Entfernung, die diese im Netzwerk zurücklegen müssen.",
+				"<a href='https://principles.green/principles/measurement/' target='_blank'>Messung und Optimierung</a>: Fokussierung auf schrittweise Optimierungen, die die Kohlenstoffeffizienz insgesamt erhöhen. "
+			]
+		},
+		{
+			"type": "p",
+			"text": "Wir arbeiten aktiv mit unseren Zulieferern zusammen, um nachhaltig zu wirtschaften, Abfälle zu reduzieren und die digitale Bereitstellung unserer Plattform mit erneuerbaren Energien sowie recycelten und wiederverwertbaren Produkten zu betreiben."
+		},
+		{
+			"type": "p",
+			"text": "Die Produkte von Broadsign werden häufig für Außenwerbung verwendet, die eine Quelle von Lichtverschmutzung sein kann. Um die Auswirkungen der Lichtverschmutzung zu reduzieren, unternimmt Broadsign Folgendes:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Automatisierung von Einstellungen, damit die Kunden die Helligkeit der Bildschirme je nach Umgebungslicht oder Uhrzeit reduzieren können.",
+				"Zusammenarbeit mit Herstellern, um Bildschirme und Schilder zu unterstützen, die minimale Lichtverschmutzung verursachen."
+			]
+		},
+		{
+			"type": "h2",
+			"text": "Kompensation"
+		},
+		{
+			"type": "p",
+			"text": "Wir sind uns darüber im Klaren, dass unsere Bemühungen zur Emissionsreduzierung nur bis zu einem gewissen Grad ausreichen, um auf dem derzeitigen Markt unser Ziel von Netto-Null zu erreichen. Daher verpflichtet sich Broadsign, alle Emissionen, die wir nicht reduzieren können, durch den Kauf zertifizierter Kohlenstoffgutschriften auf dem freien Markt in entsprechender Höhe auszugleichen. Beim Kauf dieser Gutschriften halten wir uns an die folgenden Grundsätze:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"Kauf und Einziehung von Gutschriften für Projekte, die Kohlendioxid in der Atmosphäre binden und speichern.",
+				"Ausschließlicher Erwerb von Gutschriften, die von anerkannten Branchenorganisationen wie dem Gold Standard geprüft und zertifiziert wurden.",
+				"Reduzierung der jährlich erworbenen Anzahl an Gutschriften pro Umsatzdollar durch Steigerung unserer Bemühungen zur Emissionsreduzierung."
+			]
+		},
+		{
+			"type": "p",
+			"text": "In diesem Jahr haben wir uns mit <a href='https://klimate.co' target='_blank'>Klimate.co</a> zusammengetan, um Emissionsgutschriften aus Forstwirtschafts-, Biokohle- und verbesserten Verwitterungsprojekten zu erwerben."
+		},
+		{
+			"type": "h2",
+			"text": "Messungen und Rechenschaftspflicht"
+		},
+		{
+			"type": "p",
+			"text": "Broadsign ist bestrebt, den ökologischen Fußabdruck des Unternehmens zu verstehen, indem es folgende Messtätigkeiten durchführt:"
+		},
+		{
+			"type": "list",
+			"items": [
+				"vierteljährliche Erfassung von Kohlenstoffemissionsdaten im Rahmen unserer Finanzberichterstattung und jährliche Berichterstattung über die Fortschritte",
+				"regelmäßige Überprüfung und Bestätigung unserer Berichte durch Dritte",
+				"Anforderung von Emissionsberichten von allen unseren Lieferanten und Zulieferern von Waren und Dienstleistungen",
+				"Verwendung von in der Branche anerkannten Benchmarks für diejenigen Zulieferer, die keine Emissionswerte liefern können und für die es keine geeignete Alternative gibt",
+				"Veröffentlichung unserer Emissionsberichte an unsere Kunden und auf unserer Website",
+				"Überwachung des gesamten Lebenszyklus unseres Elektroschrotts von der Beschaffung bis zur Entsorgung"
+			]
+		},
+		{
+			"type": "p",
+			"text": "Wir verpflichten uns, unserem Vorstand, unseren Mitarbeitern, der Geschäftsleitung und anderen Stakeholdern mindestens einmal pro Geschäftsjahr über die Ergebnisse unseres Nachhaltigkeitsprogramms Bericht zu erstatten."
+		},
+		{
+			"type": "h2",
+			"text": "Gemeinsinn"
+		},
+		{
+			"type": "p",
+			"text": "Unser Nachhaltigkeitsausschuss setzt sich aus Mitarbeitern aller Ebenen und Abteilungen zusammen. Die Aufklärung und das Engagement der Mitarbeiter sind entscheidende Komponenten für die erfolgreiche Erfüllung unserer Nachhaltigkeitsverpflichtungen. Wir veranstalten regelmäßig Informationsveranstaltungen und Arbeitsgruppen, um unsere Mitarbeiter zu schulen und unsere Praktiken weiterzuentwickeln. Unsere Mitarbeiter werden ermutigt, sich freiwillig in ihren Gemeinden und/oder bei Umweltorganisationen zu engagieren und Spenden zu leisten, um die Kohlenstoffemissionen aus ihren Aktivitäten auszugleichen. Jeder Mitarbeiter erhält zwei freie Tage pro Jahr für ehrenamtliche Tätigkeiten. "
+		},
+		{
+			"type": "p",
+			"text": "Um nachhaltige Praktiken in unserer Branche zu fördern, nehmen wir außerdem eine Nachhaltigkeitserklärung in alle unsere Angebote an Kunden und Verträge mit Lieferanten auf."
+		}
+	]
+}

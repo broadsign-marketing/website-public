@@ -1,0 +1,163 @@
+@import "../base/dependencies";
+
+.BroadsignAdsCarousel {
+	button {
+		&:hover {
+			.arrow {
+				filter: saturate(0) brightness(10);
+			}
+		}
+	}
+
+	.arrow {
+		height: 9px;
+		transition: filter 0.3s;
+		width: 14px;
+	}
+}
+
+.BroadsignAdsCarousel__item {
+	opacity: 0;
+	pointer-events: none;
+	transition: opacity 0s ease 0.6s;
+
+	.quote_card {
+		&__portrait_wrapper {
+			border: 2px solid #FFF;
+			border-radius: 50%;
+			height: 22vw;
+			max-height: 100px;
+			max-width: 100px;
+			width: 22vw;
+		}
+
+		&__portrait {
+			height: calc(22vw - 12px);
+			max-height: 88px;
+			max-width: 88px;
+			width: calc(22vw - 12px);
+		}
+
+		&__author_wrapper {
+			flex: 0 0 30%;
+		}
+
+		&__blockquote_wrapper {
+			flex: 0 0 70%;
+		}
+
+		&__company {
+			height: auto;
+			max-height: 40px;
+			max-width: 100px;
+			width: 50%;
+		}
+
+		.col_author_cite {
+			font-style: normal;
+		}
+
+		blockquote p {
+			font-size: calc(min(3.8vw, 16px));
+			position: relative;
+
+			&:before {
+				@include fontAltBold;
+				left: -0.8em;
+				position: absolute;
+			}
+
+			&:after {
+				@include fontAltBold;
+				margin-left: 0.1em;
+				position: relative;
+			}
+		}
+	}
+
+	&.active {
+		opacity: 1;
+		pointer-events: all;
+		transition: opacity 0.6s ease 0s;
+	}
+
+	&.leaving {
+		opacity: 0;
+	}
+}
+
+@media (max-width:$xsMax) {
+	.BroadsignAdsCarousel__item {
+		.quote_card__author_wrapper {
+			.col_portrait {
+				flex: 0 0 22vw;
+				max-width: 100px;
+			}
+
+			.col_author_cite {
+				flex: 1 1 calc(100% - 22vw);
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	.BroadsignAdsCarousel__item {
+		.quote_card {
+			&__portrait_wrapper {
+				height: 14vw;
+				max-height: 200px;
+				max-width: 200px;
+				width: 14vw;
+			}
+
+			&__portrait {
+				height: calc(14vw - 20px);
+				max-height: 180px;
+				max-width: 180px;
+				width: calc(14vw - 20px);
+			}
+
+			&__company {
+				height: 40px;
+				left: 50%;
+				transform: translateX(-50%);
+				width: 100px;
+			}
+
+			blockquote p {
+				font-size: calc(min(2.2vw, 21px));
+			}
+		}
+	}
+}
+
+html[lang="en"] {
+	.BroadsignAdsCarousel__item .quote_card blockquote p {
+		&:before {
+			content: "\201C";
+			font-size: 1.4em;
+			line-height: 0.7em;
+			top: 0.4em;
+		}
+
+		&:after {
+			content: "\201D";
+			font-size: 1.4em;
+			line-height: 0.7em;
+			top: 0.2em;
+		}
+	}
+}
+
+html[lang="fr"] {
+	.BroadsignAdsCarousel__item .quote_card blockquote p {
+		&:before {
+			content: "\00AB";
+		}
+
+		&:after {
+			content: "\00BB";
+		}
+	}
+}

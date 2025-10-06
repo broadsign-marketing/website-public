@@ -1,0 +1,11 @@
+{
+	"submitTexts": {
+		"default": [
+			{ "extraClassNames": "h4", "text": "Vielen Dank für Ihr Interesse an Broadsign!" },
+			{
+				"extraClassNames": "text-20",
+				"text": "Ein Mitglied unseres Teams wird sich in Kürze mit Ihnen in Verbindung setzen, um einen Termin zu vereinbaren."
+			}
+		]
+	}
+}

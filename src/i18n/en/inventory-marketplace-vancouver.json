@@ -1,0 +1,219 @@
+{
+	"seo": {
+		"title": "Targeted Advertising in Vancouver | Broadsign Billboard & OOH Packages",
+		"description": "Advertise in Vancouver with Broadsign's targeted billboard and OOH inventory packages. Reach your audience at prime locations, venues, and points of interest throughout Vancouver. Maximize your advertising impact with Broadsign's strategic placements."
+	},
+	"apSlug": "vancouver",
+	"apLink": "3185",
+	"apToken": "YrDNu3WklCxGlwWiHCPfsSpoQI6MqKVxmF9s5GFNpCqXzdYjhVlpcB0ImY4F",
+	"hero": {
+		"overtitle": "Vancouver Billboards",
+		"title": "Billboard and Out-of-Home Advertising in Vancouver",
+		"blurb": [
+			"Looking to advertise in Vancouver? Unlock targeted advertising opportunities with Broadsign's curated billboard and OOH inventory packages. Reach your audience wherever they are with inventory strategically placed to target specific venue types, locations, and points of interest throughout Vancouver."
+		],
+		"ctaLaunchCampaign": "Launch a Billboard Campaign",
+		"ctaExplore": "Explore Advertising Inventory"
+	},
+	"opportunities": {
+		"title": "Unlock advertising opportunities in Vancouver",
+		"blurb": "A blend of a vibrant city and a nature-filled landscape, Vancouver is one of the largest hubs for commerce, tourism, and entertainment in Canada.",
+		"list": [
+			{
+				"id": "diversity",
+				"title": "Demographics & Diversity",
+				"blurb": "As one of Canada's most diverse cities, Vancouver is an ideal location for advertisers to reach a broad range of audiences with OOH advertising.",
+				"features": [
+					{
+						"id": "family",
+						"text": "Population over 600,000 people within the city and over 2.6 million people across the metropolitan area"
+					},
+					{
+						"id": "diversity",
+						"text": "Hundreds of distinct ethnic communities, with nearly 50% of its population identifying with a visible minority group"
+					},
+					{
+						"id": "id",
+						"text": "Average age of 39 years, with a balanced gender distribution across various age groups"
+					}
+				]
+			},
+			{
+				"id": "income",
+				"title": "Income & Education",
+				"blurb": "Vancouver's high income and education levels make it a desirable market for advertisers looking to target affluent and educated consumers.",
+				"features": [
+					{
+						"id": "household",
+						"text": "Median household income of over $91,000, making it one of the highest-income cities in Canada"
+					},
+					{
+						"id": "school",
+						"text": "5 major public universities in the Greater Vancouver area, the largest being the University of British Columbia and Simon Fraser University"
+					},
+					{
+						"id": "script",
+						"text": "Over 50% of residents hold post-secondary qualifications, with 30% holding a bachelor's degree or higher"
+					}
+				]
+			},
+			{
+				"id": "travel",
+				"title": "Transportation & Travel",
+				"blurb": "The only city in North America without a freeway system, Vancouver is a great opportunity for advertisers to take advantage of transit advertising.",
+				"features": [
+					{
+						"id": "airport",
+						"text": "2 major airports, with Vancouver International Airport (YVR) ranking as Canada's second-busiest airport based on passenger traffic"
+					},
+					{
+						"id": "train",
+						"text": "3 rapid transit SkyTrain lines with over 50 stations"
+					},
+					{
+						"id": "commute",
+						"text": "Average daily commute time of over 30 minutes"
+					},
+					{
+						"id": "luggage",
+						"text": "Over 8 million visitors to the city annually"
+					}
+				]
+			}
+		]
+	},
+	"ctaBox1": {
+		"title": "Looking to advertise in Vancouver?",
+		"cta": "Talk to a Media Specialist"
+	},
+	"topPackages": {
+		"title": "Explore digital OOH inventory packages for top audience segments in Vancouver",
+		"blurb": "See our curated billboard and screen packages tailored for specific audiences around top advertising verticals in Vancouver. Each package includes diverse environments, venue types, and demographics to boost brand visibility.",
+		"list": [
+			{
+				"slug": "qsr",
+				"linkID": "2280",
+				"token": "sPOPpVjv6Vm65GRq8kJ5rngkjyi0mSC4m1ivK7oTmKU2xNpThePDCLQD9Y3t"
+			},
+			{
+				"slug": "cpg",
+				"linkID": "2272",
+				"token": "FlEqG41jU2NvW49X4R0N9zInz3PpHadSmgFDUux1Ac9q31sE9X9Yd2qm84ro"
+			},
+			{
+				"slug": "travelTourism",
+				"linkID": "2269",
+				"token": "ajzaFnDBj7TNdFLaIpz9rYAEwmBXTIIUBlpAweYlTfQYtlxbLlxBoIJN2BrI"
+			},
+			{
+				"slug": "beautyWellness",
+				"linkID": "2271",
+				"token": "wxnfflVPAfaXJchmtSV46B7q85M32SR3JRgDWBQ3BoR8meUPu2j9fBvDOybU"
+			},
+
+			{
+				"slug": "healthcarePharma",
+				"linkID": "2273",
+				"token": "DB7ds3z1XWe0j0geOHJkBD8LXCM14YdXjDNJJuJyyzFc1falEGjkVhO4NvYF"
+			},
+			{
+				"slug": "entertainmentMedia",
+				"linkID": "2279",
+				"token": "Tl3FOlWjExWOqcCu8Eca2MUOP3suBrNu9zdGJbuvIEB3ZPIS7KosTZ5tVBXT"
+			}
+		],
+		"cta": "Explore our inventory packages"
+	},
+	"billboards": {
+		"title": "Types of billboards and OOH formats in Vancouver",
+		"list": [
+			{
+				"title": "Outdoor",
+				"types": [
+					{
+						"name": "Billboards",
+						"avgCPM": "$6.3",
+						"dailyImpressions": "+46k",
+						"commonSizing": ["20ft x 60ft", "14ft x 48ft"]
+					},
+					{
+						"name": "Urban Panels",
+						"avgCPM": "$7.0",
+						"dailyImpressions": "+65k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					}
+				]
+			},
+			{
+				"title": "Transit",
+				"types": [
+					{
+						"name": "Subway",
+						"avgCPM": "$7",
+						"dailyImpressions": "+200k",
+						"commonSizing": ["2ft x 2ft"]
+					},
+					{
+						"name": "Bus Shelters",
+						"avgCPM": "$7",
+						"dailyImpressions": "+138k",
+						"commonSizing": ["4ft x 5ft", "4ft x 6ft"]
+					},
+					{
+						"name": "Train Stations",
+						"avgCPM": "$7.4",
+						"dailyImpressions": "+144k",
+						"commonSizing": ["5ft x 3ft"]
+					}
+				]
+			},
+
+			{
+				"title": "Place-Based",
+				"types": [
+					{
+						"name": "Schools",
+						"avgCPM": "$4.5",
+						"dailyImpressions": "+485k",
+						"commonSizing": ["4ft x 6ft", "10ft x 8ft", "8ft x 16ft"]
+					},
+					{
+						"name": "Office Buildings",
+						"avgCPM": "$6.6",
+						"dailyImpressions": "+24k",
+						"commonSizing": ["4ft x 6ft"]
+					},
+					{
+						"name": "Pharmacies",
+						"avgCPM": "$6.3",
+						"dailyImpressions": "+140k",
+						"commonSizing": ["2ft x 3ft", "4ft x 6ft"]
+					},
+					{
+						"name": "Casual Dining",
+						"avgCPM": "$7.8",
+						"dailyImpressions": "+66k",
+						"commonSizing": ["4ft x 6ft", "2ft x 2ft"]
+					}
+				]
+			}
+		]
+	},
+	"ctaBox2": {
+		"title": "Get started with billboard and OOH advertising!",
+		"cta": "Talk to a Media Specialist"
+	},
+	"exploreMoreMarkets": {
+		"title": "Explore More Markets"
+	},
+	"modalExplorePackage": {
+		"title": "Explore our $$$ package"
+	},
+	"faq": [
+		{
+			"id": "faq_inventory_marketplace_vancouver_1",
+			"q": "",
+			"a": ""
+		}
+	]
+}

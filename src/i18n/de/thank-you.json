@@ -1,0 +1,17 @@
+{
+	"seo": {
+		"title": "Vielen Dank!",
+		"description": "",
+		"robots": "noindex"
+	},
+	"default": {
+		"title": "Vielen Dank für Ihr Interesse an Broadsign!",
+		"blurb": "Ein Mitglied unseres Teams wird sich in Kürze mit Ihnen in Verbindung setzen, um einen Termin zu vereinbaren.",
+		"relatedTitle": "Bleiben Sie auf dem Laufenden über die neuesten Branchentrends."
+	},
+	"request_a_quote": {
+		"title": "Vielen Dank für Ihr Interesse an Broadsign!",
+		"blurb": "Ein Mitglied unseres Teams wird sich in Kürze mit Ihnen in Verbindung setzen, um einen Termin zu vereinbaren.",
+		"relatedTitle": "Bleiben Sie auf dem Laufenden über die neuesten Branchentrends."
+	}
+}

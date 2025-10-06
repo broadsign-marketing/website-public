@@ -1,0 +1,502 @@
+@mixin blogImage {
+	height: auto;
+	left: 50%;
+	max-height: calc(80vh - var(--header-height));
+	max-width: 100vw;
+	object-fit: cover;
+	object-position: center center;
+	transform: translateX(-50%);
+	width: 100vw;
+}
+
+#blog_post {
+	.search_text_input_wrapper {
+		display: none !important;
+	}
+
+	.date_author {
+		.date {}
+
+		.author {
+			border-left: 1px solid rgba($ash, 0.5);
+			margin-left: 1em;
+			padding-left: 1em;
+		}
+	}
+
+	.hero {
+		@include blogImage;
+		aspect-ratio: 11 / 5;
+
+		&>div {
+			max-width: 100% !important;
+		}
+	}
+
+	.hero_caption {
+		$typicalMarginUnderHeroImage: 32px;
+		font-style: italic;
+		margin-bottom: 6px;
+		top: #{-$typicalMarginUnderHeroImage + 6};
+
+		p {
+			font-size: 12px;
+			letter-spacing: 0.02em;
+			margin: 0;
+		}
+	}
+
+	iframe {
+		border-radius: 12px;
+		box-shadow: 4px 4px 16px #AAA;
+		box-sizing: border-box;
+		margin: 40px auto;
+		width: 100%;
+	}
+
+	/* 2023-02-15, LeKevoid says : using .gatsby-image-wrapper here is NOT a mistake. */
+	.post_content {
+
+		img,
+		.gatsby-image-wrapper {
+			@include blogMediaBoxShadow;
+			@include blogImage;
+		}
+
+		.gatsby-image-wrapper {
+
+			img,
+			picture {
+				height: auto;
+				width: 100%;
+			}
+
+			&>div {
+				max-width: 100% !important;
+			}
+		}
+
+		.inline-gatsby-image-wrapper {
+			box-shadow: none;
+			display: inline-block;
+			height: auto;
+			left: 0;
+			object-fit: contain;
+			transform: none;
+			width: auto;
+		}
+
+		.wp-block-image {
+			$sizes: 100, 200, 300, 400, 500, 600, 700;
+
+			@each $size in $sizes {
+				&.width-#{$size} {
+					max-width: #{$size}px;
+				}
+			}
+
+			&[class*="width-"] {
+				margin-left: 0;
+			}
+		}
+
+		[class^="w-"] {
+			border-radius: 0;
+			box-shadow: none;
+			display: inline-block;
+			left: 0;
+			object-fit: contain;
+			padding-bottom: 0.4%;
+			transform: none;
+			vertical-align: middle;
+
+			img,
+			picture {
+				border-radius: 0;
+				object-fit: contain !important;
+			}
+		}
+
+		.w-18 {
+			max-height: 22px;
+			width: 18px;
+		}
+
+		.w-22 {
+			max-height: 26px;
+			width: 22px;
+		}
+	}
+
+	.Carousel {
+		button {}
+
+		.arrow {
+			left: 0%;
+			margin: 0 20%;
+			max-width: 60%;
+			transform: none;
+			width: 60%;
+		}
+	}
+
+	.infographic {
+		border-bottom-right-radius: 0;
+		height: 80vmax;
+		left: 50%;
+		max-height: calc(90vh - 70px);
+		max-width: 100%;
+		overflow: auto;
+		padding: 10px;
+		position: relative;
+		resize: both;
+		transform: translateX(-50%);
+		width: 100%;
+
+		&.orientation_portrait {
+			height: min(70vw, 1040px);
+			max-height: unset;
+		}
+	}
+
+	.flipbook {
+		max-height: calc(90vh - 70px);
+		padding-bottom: 40px;
+
+		&.type_infographic {
+			aspect-ratio: 9 / 8;
+			height: auto;
+			position: relative;
+			width: 100%;
+		}
+
+		&.type_infographic_wide {
+
+			&,
+			iframe {
+				aspect-ratio: 17 / 12;
+				height: auto;
+				max-height: calc(90vh - 70px);
+				position: relative;
+				width: 100%;
+			}
+		}
+
+		iframe {
+			aspect-ratio: 9 / 8;
+			border: none;
+			height: auto;
+			max-height: 100%;
+			position: relative;
+			width: 100%;
+		}
+	}
+
+	.Carousel {
+		margin: 40px 0;
+	}
+
+	.wp-block-gallery {
+		$height: min(500px, 60vh);
+		align-items: stretch;
+		border-radius: 10px;
+		cursor: pointer;
+		display: flex;
+		flex-flow: row nowrap;
+		margin: 40px 0 112px;
+		position: relative;
+		width: 100%;
+
+		&>.wp-block-image {
+			@for $i from 2 through 10 {
+				&:nth-child(#{$i}) {
+					transform:translateX(#{($i - 1) * -100%});
+				}
+			}
+
+			align-items: center;
+			border-radius: 10px;
+			display: flex;
+			flex: 0 0 100%;
+			flex-flow: column nowrap;
+			justify-content: center;
+			margin: 0;
+			opacity: 0;
+			overflow: hidden;
+			pointer-events: none;
+			transition: opacity 0.4s;
+			width: 100%;
+
+			&>.gatsby-image-wrapper {
+				align-items: center;
+				display: flex !important;
+				justify-content: center;
+			}
+
+			img,
+			picture,
+			[class*="gatsby-image-wrapper"] {
+				border-radius: 10px;
+				box-shadow: none;
+				height: auto;
+				margin: auto;
+				max-height: 100%;
+				max-width: 100%;
+				object-fit: contain !important;
+				object-position: center center;
+				width: auto;
+			}
+
+			&.active {
+				opacity: 1;
+			}
+
+			&:has(.wp-element-caption) {
+				[class*="gatsby-image-wrapper"] {
+					flex: 0 1 95%;
+				}
+
+				.wp-element-caption {
+					flex: 1 0 5%;
+					margin: 8px 0 0;
+					width: 100%;
+				}
+			}
+		}
+
+		&:after {
+			background-image: url("../../img/controls/arrow_next_cerulean_circle.svg");
+			background-position: right center;
+			background-repeat: no-repeat;
+			content: "";
+			display: block;
+			height: 60px;
+			position: absolute;
+			top: calc(100% + 12px);
+			width: 100%;
+		}
+	}
+
+	.related_post {
+		overflow: hidden;
+
+		.thumbnail {
+			height: 130px;
+		}
+
+		.description {
+			flex: 1 1 calc(100% - 130px);
+		}
+
+		&:hover {
+			.read_more {
+				&:after {
+					@include animateArrow;
+				}
+			}
+		}
+	}
+
+	.grey_box {
+		background-color: $zircon;
+		border-radius: 10px;
+		color: $reflex;
+		font-size: 16px;
+		padding: 32px;
+	}
+
+	.AuthorBio {
+		border-top: 1px solid $soft;
+		margin-top: 44px;
+		padding-top: 44px;
+
+		.bio {
+			p {
+				letter-spacing: 0.05em;
+			}
+		}
+
+		.social_media_icon {
+			@include flexCenter;
+			background-color: #FFF;
+			border: 1px solid $reflex;
+			height: 32px;
+			transition: background-color 0.3s ease;
+			width: 32px;
+
+			img {
+				height: 14px;
+				transition: filter 0.3s ease;
+				width: 16px;
+			}
+
+			&:hover {
+				background-color: $reflex;
+
+				img {
+					filter: saturate(0) brightness(10);
+				}
+			}
+		}
+	}
+
+	.CTABox {
+		.Form {
+			.hs-form-booleancheckbox {
+				label {
+					font-size: 12px;
+				}
+			}
+
+			.actions {
+				text-align: center;
+			}
+
+			.submitted-message {
+				&:before {
+					height: 50px;
+					margin: 0 0 12px;
+					width: 100%;
+				}
+
+				p {
+					color: #FFF;
+					display: block;
+					font-size: 24px;
+					letter-spacing: 0.1em;
+					line-height: 140%;
+				}
+			}
+		}
+	}
+}
+
+html[lang="es"] {
+	#blog_post {
+		.cta_box_wrapper {
+			.CTA {
+				font-size: 12px;
+			}
+		}
+	}
+}
+
+html[lang="de"],
+html[lang="pt"] {
+	#blog_post .cta_box_wrapper {
+		display: none;
+	}
+}
+
+.Modal.blog_post {
+	.Form {
+		.submitted-message:before {
+			height: 40px;
+			width: 40px;
+		}
+
+		.Form__ThankYouMessage {
+			&.variant_default {
+				p {
+					padding-left: 60px;
+
+					&.em {
+						font-size: 22px;
+						font-weight: 900;
+					}
+				}
+			}
+		}
+	}
+}
+
+.no_js {
+	#blog_post .cta_box_wrapper {
+		display: none;
+	}
+}
+
+@media (min-width:$sm) {
+	#blog_post {
+		.hero {}
+	}
+}
+
+@media (min-width:$md) {
+	#blog_post {
+		.post_content {
+
+			img,
+			.gatsby-image-wrapper {
+				border-radius: 10px;
+				max-height: 60vh;
+				max-width: 100%;
+			}
+		}
+
+		.gatsby-image-wrapper.hero {}
+
+		.cta_box_wrapper {
+			transition: opacity 1s ease;
+
+			&>div {
+				max-height: calc(90vh - 200px);
+				overflow-y: auto;
+				position: relative;
+				width: 100%;
+			}
+
+			&>.fixed {
+				max-width: 340px;
+				position: fixed;
+				top: 240px;
+				width: 31vw;
+			}
+
+			&.opacity-0,
+			&>.opacity-0 {
+				pointer-events: none;
+			}
+
+			.hide_after_submit {
+				opacity: 0 !important;
+				pointer-events: none;
+			}
+		}
+	}
+}
+
+@media (max-width:$xsMax) {
+	#blog_post {
+		.cta_box_wrapper {
+			&>div {
+				display: block;
+				margin-top: 40px;
+				opacity: 1 !important;
+
+				&.fixed {
+					display: none;
+				}
+			}
+		}
+	}
+}
+
+@media (min-width:$md) {
+	#blog_post {
+		.infographic {
+			height: min(40vw, 560px);
+		}
+	}
+}
+
+@media (min-width:$lg) {
+	#blog_post {
+		.cta_box_wrapper {
+			&>.fixed {
+				max-width: 260px;
+				width: 22.5vw;
+			}
+		}
+	}
+}

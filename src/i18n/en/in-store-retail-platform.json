@@ -1,0 +1,92 @@
+{
+	"seo": {
+		"title": "The platform that powers in-store ads",
+		"description": "Broadsign empowers retailers to efficiently scale, manage, and sell in-store digital advertising through automated software, intelligent campaign tools, powerful network operations, and programmatic advertising"
+	},
+	"hero": {
+		"title": "The platform that powers in-store ads",
+		"blurb": "Broadsign empowers retailers to efficiently scale, manage, and sell in-store digital advertising through automated software, intelligent campaign tools, powerful network operations, and programmatic advertising",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"logos": { "title": "Used by leading retailers around the globe" },
+	"e2e": {
+		"title": "Monetize your store with an end-to-end solution",
+		"boxes": [
+			{
+				"icon": "centralized",
+				"title": "One centralized platform for maximum efficiency",
+				"par": "Easily manage in-store digital ads that support your retail media strategy with flexible delivery options, all designed to drive revenue while keeping full control."
+			},
+			{
+				"icon": "automation",
+				"title": "You set the rules and automation does the rest",
+				"par": "Our intelligent media player automates campaign delivery using dynamic criteria like weather, or location —so your messaging is always timely and relevant."
+			},
+			{
+				"icon": "insights",
+				"title": "Measure performance with actionable insights",
+				"par": "Track key campaign metrics like reach and impressions to understand performance and optimize future strategies."
+			}
+		]
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Campaign planning & management",
+			"title": "Advanced messaging tools that drive more revenue",
+			"par": "Take advantage of in-store inventory availability in real time across your retail media network and instantly book flexibly scheduled and dynamically delivered endemic and non-endemic campaigns.",
+			"cta": "Learn more"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Content & network management",
+			"title": "Save time by automating your network management",
+			"par": "Rely on automated campaign workflows to play the right content at the right time and gain complete visibility into your network’s performance with in-depth campaign reporting.",
+			"cta": "Learn more"
+		},
+		"staticOperations": {
+			"overtitle": "Static Campaigns",
+			"title": "Streamlined charting and work orders for static campaigns",
+			"par": "Get more from your static faces with our centralized asset management and campaign booking tool that syncs with real-time work order status, stock levels, and bill poster communications.",
+			"cta": "Learn more"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Global programmatic supply-side platform",
+			"title": "Generate incremental revenue programmatically ",
+			"par": "Transform your in-store digital displays into revenue generators with programmatic advertising, all while maintaining complete control over the content displayed, ensuring it complements your brand and provides a cohesive customer experience.",
+			"cta": "Learn more"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Local store messaging",
+			"title": "Boost local store engagement and drive sales",
+			"par": "Empower store operators to create and manage personalized digital content that attracts customers, increases foot traffic, and stays true to your brand and retail media strategy. Showcase regional assortments, promote local farmers, and tailor messaging for a local touch!",
+			"cta": "Learn more"
+		}
+	},
+	"plans": {
+		"title": "Plans for every network's needs",
+		"boxes": [
+			{
+				"title": "Standard",
+				"description": "Streamline your business with automated software for OOH."
+			},
+			{
+				"title": "Professional",
+				"description": "Real-time monitoring, custom messaging, endless integration possibilities."
+			},
+			{
+				"title": "Enterprise",
+				"description": "Sell smarter & optimize yield with intelligent tools for OOH."
+			}
+		],
+		"cta": "Compare plans"
+	},
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"cta": "Book a call"
+	},
+	"bookACall": {
+		"title": "Book a call"
+	}
+}

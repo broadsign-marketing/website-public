@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "Healthcare & Pharma",
+		"description": "Deliver healthcare messaging directly to the general public by placing informative, engaging DOOH ads in high-traffic areas, and keeping audiences up-to-date on health recommendations, products, and services."
+	},
+	"apSlug": "healthcarePharma",
+	"apLink": "349",
+	"apToken": "pJBRN46XxoGRWyZlWnBhC0KUUtY0QHMn5LkFrfOqh4GXwt22oeVock0OxfNG",
+	"playbookLink": "gmmd",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Healthcare & Pharma",
+		"blurb": "Deliver healthcare messaging directly to the general public by placing informative, engaging DOOH ads in high-traffic areas, and keeping audiences up-to-date on health recommendations, products, and services.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Healthcare & Pharma package",
+			"ppcTitle": "Want a tour of the Healthcare & Pharma package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segments",
+				"content": "General Public, Pharmacy Patrons"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Point-of-care facilities", "Pharmacies", "Hospitals"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Work hours", "Peak commute hours"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Hospitals, pharmacies and doctor's offices",
+				"outdoor": "Billboard, urban panels and transit shelters within proximity to pharmacies and point-of-care offices"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Healthcare & Pharma\" audience segments",
+		"list": [
+			{
+				"category": "Parents",
+				"description": "Parents are primarily between the ages of 25-44, with above-average household income, and have young children still living at home. They stream lots of family content and may also have various casual games readily available for entertainment."
+			},
+			{
+				"category": "Family caretakers",
+				"description": "Family Caretakers are often women in their 40s and 50s, with average household income in the $25-$40k range. They shuttle around town hunting for bargains and are often very health conscious."
+			},
+			{
+				"category": "Pharmacy patrons",
+				"description": "Pharmacy Patrons are primarily women between 25-34 years old, 35-44 years old and 45-54 years old. The highest concentration of this audience is in the 55+ age group and the lowest concentration is in the 18-24 age group."
+			},
+			{
+				"category": "Health & fitness Enthusiasts",
+				"description": "Health & Fitness Enthusiasts are often women female in the 25-44 age group. These enthusiasts own a variety of health-conscious apps."
+			},
+			{
+				"category": "New dads",
+				"description": "New Dads are predominantly in the 25-34 age group, with a household income in the $40-60k range. They've configured all of their baby gadgets and utility apps to help care for their child."
+			},
+			{
+				"category": "New moms",
+				"description": "New Moms are predominately in their 20s and 30s, with household income most often in the $40-60k range. They are often found planning and shopping for baby products to help care for their child."
+			},
+			{
+				"category": "Pet owners",
+				"description": "Pet Owners are predominantly in the 25-44 age group, with an above-average household income. They are busy professionals by day, who often leverage pet services to watch or groom their furry best friends. They try to stay fit outside of work, are tech-savvy, and have likely outfitted their homes with smart technology."
+			},
+			{
+				"category": "Expectant parents",
+				"description": "Expectant Parents are predominately in their 20s and 30s. They are primarily first-time parents who are learning about and planning for the newest addition to the family."
+			},
+			{ "category": "Singles", "description": "Singles are primarily men; over 60% of this audience is in the 18-34 age group." },
+			{
+				"category": "Avid runners",
+				"description": "Avid Runners are evenly distributed across genders, and most often fit within the 25-44 year old range. App ownership includes GPS apps as well as health and fitness focused apps. "
+			}
+		]
+	},
+	"advantages": {
+		"title": "Boost awareness for healthcare & pharma brands ",
+		"list": [
+			"Deliver healthcare messages directly to the general public by running DOOH ads in high-traffic areas ",
+			"Advertise new products or services in long-dwell time venues where audiences are thinking about health benefits, like doctor's offices",
+			"Place DOOH ads in close proximity to care centres and clinics that include directions or clinic hours"
+		]
+	},
+	"playbook": {
+		"title": "Put a spotlight on health & well-being with digital out-of-home",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Healthcare & Pharma package" }
+}

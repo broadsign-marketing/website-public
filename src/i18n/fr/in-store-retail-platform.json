@@ -1,0 +1,96 @@
+{
+	"seo": {
+		"title": "La plateforme qui alimente les publicités en magasin",
+		"description": "Broadsign permet aux détaillants d'étendre, de gérer et de vendre efficacement la publicité numérique en magasin grâce à un logiciel automatisé, des outils de campagne intelligents, des opérations réseau puissantes et de la publicité programmatique."
+	},
+	"hero": {
+		"title": "La plateforme qui alimente l'affichage extérieur OOH",
+		"blurb": "Broadsign permet aux détaillants d'étendre, de gérer et de vendre efficacement la publicité numérique en magasin grâce à un logiciel automatisé, des outils de campagne intelligents, des opérations réseau puissantes et de la publicité programmatique.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"logos": {
+		"title": "Nous travaillons avec les plus grands détaillants du monde entier"
+	},
+	"e2e": {
+		"title": "Rentabilisez votre point de vente avec une solution complète",
+		"boxes": [
+			{
+				"icon": "centralized",
+				"title": "Une plateforme centralisée pour une efficacité maximale",
+				"par": "Gérez facilement les publicités numériques en magasin qui soutiennent votre stratégie de médias de vente au détail grâce à des options de diffusion flexibles, le tout conçu pour générer des revenus tout en gardant un contrôle total."
+			},
+			{
+				"icon": "automation",
+				"title": "Vous définissez les règles et l'automatisation fait le reste",
+				"par": "Notre lecteur multimédia intelligent automatise la diffusion des campagnes en utilisant des critères dynamiques tels que la météo ou l'emplacement, afin que votre message soit toujours opportun et pertinent."
+			},
+			{
+				"icon": "insights",
+				"title": "Mesurez la performance grâce à des informations exploitables",
+				"par": "Suivez les indicateurs clés de campagne tels que la portée et les impressions pour comprendre la performance et optimiser les stratégies futures."
+			}
+		]
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Gestion de campagnes et diffusion d'annonces",
+			"title": "Des outils de campagnes perfectionnés qui génèrent plus de revenu",
+			"par": "Optimisez la réservation de l'ensemble de votre réseau d'affichage extérieur en temps réel grâce à l'intelligence et la flexibilité de notre outil intelligent.",
+			"cta": "En savoir plus"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Gestion de contenu et de réseau",
+			"title": "Des outils de messagerie avancés qui génèrent plus de revenus",
+			"par": "Fiez-vous à des flux de travail de campagne automatisés pour diffuser le bon contenu au bon moment et obtenez une visibilité complète sur la performance de votre réseau grâce à des rapports de campagne détaillés.",
+			"cta": "En savoir plus"
+		},
+		"staticOperations": {
+			"overtitle": "Campagnes et gestion statiques",
+			"title": "Des processus rationalisés dédiés à vos campagnes publicitaires statiques",
+			"par": "Facilitez votre quotidien avec nos outils conçus pour les procédés de publicité statique. Nous synchronisons en temps réels les tâches d'affichage liées à vos campagnes, mais aussi les niveaux de stock et les communications avec vos afficheurs.",
+			"cta": "En savoir plus"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Plateforme ssp programmatique mondiale",
+			"title": "Augmentez vos revenus programmatiquement ",
+			"par": "Complétez vos ventes directes avec notre outil programmatique qui vous permet d'automatiser une partie de vos ventes en accédant à des acheteurs mondiaux, tout en gardant le contrôle sur le contenu que vous diffusez.",
+			"cta": "En savoir plus"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Messagerie en magasin",
+			"title": "Stimulez l'engagement en magasin et augmentez les ventes",
+			"par": "Donnez aux responsables de magasin les moyens de créer et de gérer un contenu numérique personnalisé qui attire les clients, augmente l'achalandage et reste fidèle à votre marque et à votre stratégie de médias de vente au détail. Mettez en avant les assortiments régionaux, faites la promotion des producteurs locaux et adaptez la messagerie pour une touche locale !",
+			"cta": "En savoir plus"
+		}
+	},
+	"plans": {
+		"title": "Des forfaits pour les besoins de tous les réseaux",
+		"boxes": [
+			{
+				"title": "Standard",
+				"description": "Rationalisez votre entreprise avec un logiciel automatisé pour OOH."
+			},
+			{
+				"title": "Professional",
+				"description": "Surveillance en temps réel, messagerie personnalisée, API ouverte."
+			},
+			{
+				"title": "Enterprise",
+				"description": "Vendez plus intelligemment et optimisez le rendement avec des outils intelligents pour l'affichage extérieur."
+			}
+		],
+		"cta": "Comparer nos forfaits"
+	},
+	"shin": {
+		"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+		"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"bookACall": {
+		"title": "Book a call"
+	}
+}

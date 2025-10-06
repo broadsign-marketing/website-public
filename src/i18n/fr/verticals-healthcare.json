@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Affichage numérique en soins de santé",
+		"description": "Favorisez la participation des patients et améliorez l'expérience de soins de santé en affichant des renseignements et des publicités sur une plateforme d'affichage numérique sécurisée."
+	},
+	"cta": {
+		"discoverContentNetworkManagement": "Découvrez nos solutions pour la gestion de contenu et de réseau",
+		"discoverLocalSignageMessaging": "Apprenez-en plus sur l'affichage numérique de messages locaux",
+		"discoverCampaignPlanning": "Donnez de nouveaux outils à vos équipes de vente grâce à Broadsign Direct",
+		"discoverGlobalProgrammaticSSP": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Hero": {
+		"TitlePart1": "Offrez une expérience de",
+		"TitlePart2": "Soins de Santé",
+		"TitlePart3": "plus stimulante",
+		"Blurb": "Favorisez la participation des patients et améliorez l'expérience de soins de santé en affichant des renseignements et des publicités sur une plateforme d'affichage numérique sécurisée.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Les patients informés sont des patients satisfaits",
+			"Paragraph": "Améliorez la communication entre les patients et les professionnels de la santé en affichant du contenu pertinent, ciblé et informatif partout."
+		},
+		"Pane2": {
+			"Title": "Tous vos écrans au même endroit",
+			"Paragraph": "Des kiosques d'information aux écrans des salles d'attente, gérez efficacement tous les écrans des cliniques à partir d'une plateforme centralisée qui évolue facilement pour répondre à la croissance de votre réseau d'affichage numérique."
+		},
+		"Pane3": {
+			"Title": "Des messages pertinents pour chaque public",
+			"Paragraph": "Le contenu pertinent et de qualité supérieure met les patients à l'aise et aide au bon déroulement des activités de soins de santé. Permettez aux équipes locales de créer des messages de marque cohérents, comme les heures d'ouverture, les temps d'attente et les politiques d'entreprise, le tout sans nécessiter d'aptitudes techniques."
+		},
+		"Pane4": {
+			"Title": "Des ventes de publicité souples qui stimulent les revenus",
+			"Paragraph": "Générez des revenus supplémentaires grace à des publicités diffusées dans l'ensemble de votre réseau d'affichage, qui intègre les ventes de publicité directes et programmatiques."
+		}
+	},
+	"Quote": {
+		"Quote": "Broadsign nous permet de gérer facilement le contenu de milliers d'écrans aux quatre coins du pays à partir d'un seul emplacement. ",
+		"Signature": "Health Media Network"
+	},
+	"CustomersTitle": "Adopté par les principaux réseaux de soins de santé",
+	"Partners": {
+		"Title": "Des partenariats pour du contenu formidable",
+		"Tagline": "Créez votre propre contenu, travaillez avec des partenaires ou améliorez vos écrans grâce à nos partenaires des domaines du contenu d'affichage numérique, de la signalétique et de l'analyse de l'auditoire."
+	},
+	"Shin": {
+		"Title": "Comment votre réseau d'affichage numérique dans le domaine de la santé peut-il tirer parti de la plateforme Broadsign?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	},
+	"VideoCtaText": "Explorez Broadsign Publish"
+}

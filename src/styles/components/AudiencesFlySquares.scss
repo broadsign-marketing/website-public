@@ -1,0 +1,160 @@
+@import "../base/dependencies";
+
+@keyframes squareJump {
+	0% {
+		opacity: 1;
+		transform: rotate(0deg);
+	}
+
+	50% {
+		opacity: 1;
+	}
+
+	100% {
+		opacity: 0;
+		transform: rotate(70deg);
+	}
+}
+
+@keyframes squareTurn {
+	0% {
+		transform: rotate(0deg) scale(1);
+	}
+
+	100% {
+		transform: rotate(360deg) scale(2);
+	}
+}
+
+.AudiencesFlySquares {
+	.square {
+		animation: 1s ease 0s 1 normal forwards running squareJump;
+		position: absolute;
+		transform-origin: 100px 100px;
+
+		img {
+			animation: 1s ease 0s 1 normal forwards running squareTurn;
+		}
+
+		&.anim_var_1 {
+			top: 16%;
+			transform-origin: 60px 100px;
+		}
+
+		&.anim_var_2 {
+			transform-origin: 80px 80px;
+		}
+
+		&.anim_var_3 {
+			transform-origin: 100px 60px;
+		}
+
+		&.anim_var_4 {
+			transform-origin: 120px 40px;
+		}
+
+		&.anim_var_5 {
+			transform-origin: 140px 20px;
+		}
+
+		&.size_var_1 {
+			height: 16px;
+			width: 16px;
+		}
+
+		&.size_var_2 {
+			height: 13px;
+			width: 13px;
+		}
+
+		&.size_var_3 {
+			height: 10px;
+			width: 10px;
+		}
+	}
+}
+
+.audiences_mobile_hand {
+	align-items: flex-end;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	max-width: 330px;
+
+	.square {
+		&.start_var_1 {
+			left: 44%;
+			top: 20%;
+		}
+
+		&.start_var_2 {
+			left: 44%;
+			top: 34%;
+		}
+
+		&.start_var_3 {
+			left: 56%;
+			top: 20%;
+		}
+
+		&.start_var_4 {
+			left: 56%;
+			top: 34%;
+		}
+	}
+}
+
+.audiences_mobile {
+	.square {
+		&.start_var_1 {
+			left: 44%;
+			top: 40%;
+		}
+
+		&.start_var_2 {
+			left: 44%;
+			top: 60%;
+		}
+
+		&.start_var_3 {
+			left: 56%;
+			top: 40%;
+		}
+
+		&.start_var_4 {
+			left: 56%;
+			top: 60%;
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	.AudiencesFlySquares {}
+}
+
+@media (min-width:$sm) and (max-width:699px) {
+	.AudiencesFlySquares {}
+
+	.audiences_mobile_hand {
+		right: 40px;
+
+		&,
+		.img_mobile {
+			max-height: min(30vw, 200px);
+		}
+	}
+}
+
+@media(min-width:$md) {
+	.AudiencesFlySquares {}
+
+	.audiences_mobile_hand {
+		height: 120%;
+		margin-left: 0;
+		margin-top: -20%;
+		max-height: 100%;
+		max-width: 110%;
+		width: 110%;
+	}
+}

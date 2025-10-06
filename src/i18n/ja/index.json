@@ -1,0 +1,114 @@
+{
+	"seo": {
+		"title": "Broadsign — OOHを支えるプラットフォーム",
+		"description": "メディアオーナーとバイヤーがOOHメディアを総合的にプランニング、管理、配信するためのエンドツーエンドのソリューション。"
+	},
+	"hero": {
+		"title": ["OOH", "を支える", "プラットフォーム"],
+		"par": "メディアのオーナーとバイヤーが屋外広告を計画し、管理し、取引する場所。",
+		"ctaContact": "問い合わせはこちら",
+		"ctaPlans": "プランの詳細を見る"
+	},
+	"branches": {
+		"overtitle": "Light Up Your World",
+		"title": "OOHソリューションはすべてBroadsignにおまかせ",
+		"mediaOwners": {
+			"overtitle": "メディアオーナー",
+			"title": "在庫の販売、OOHネットワークの管理を通して収益性を向上",
+			"cta": "詳細はこちら"
+		},
+		"brandsAgencies": {
+			"overtitle": "代理店・ブランド",
+			"title": "ターゲットを絞ったコンテンツ連動型pDOOHキャンペーンを作成・実施",
+			"cta": "詳細はこちら"
+		}
+	},
+	"clients": {
+		"title": "OOHバイヤーとセラーをつなぐ"
+	},
+	"inventoryRotate": {
+		"title": "厳選されたインベントリーパッケージで、スピーディーで適格なキャンペーンを実現",
+		"blurb": "キャンペーンニーズに合わせてカスタマイズ可能な会場タイプやロケーションパッケージを、希望する対象層に向けてご利用いただけます。",
+		"cta": "インベントリーマーケットプレイスをご覧ください",
+		"list": [
+			[
+				{ "id": "retail", "type": "vertical", "label": "小売" },
+				{ "id": "vancouver", "type": "city", "label": " バンクーバー" },
+				{ "id": "finances", "type": "vertical", "label": "金融サービス" }
+			],
+			[
+				{ "id": "new_york_city", "type": "city", "label": "ニューヨーク" },
+				{ "id": "beauty_wellness", "type": "vertical", "label": "美容と健康" },
+				{ "id": "los_angeles", "type": "city", "label": "ロサンゼルス" }
+			]
+		]
+	},
+	"map": {
+		"overtitle": "OOHプラットフォームの中で信頼度世界No.1",
+		"title": "世界中でサービスを展開",
+		"stats": ["担当広告数200万件以上", "107ヵ国で活動", "月間広告配信480億件以上", "月間インプレッション数1千9百億以上"]
+	},
+	"panelMediaKit": {
+		"title": "グローバルインベントリーをご覧ください",
+		"cta": "メディアキットをダウンロードする",
+		"thankYou": {
+			"title": "ありがとうございます！",
+			"par": "メディアキットが新しいウィンドウで開かなかった場合：",
+			"cta": "こちらをクリックしてください"
+		}
+	},
+	"quotesTitle": "お客様の声",
+	"quotes": [
+		{
+			"id": "imedia",
+			"text": "「スプレッドシートで在庫管理を行っていたときは、デジタル在庫を最適化するためにキャンペーンを手作業で変更しなければなりませんでした。 一方、Broadsignではすべての作業が自動化されています。 スクリーンとキャンペーンパラメータを追加して、ボタンをクリックするだけですべて管理できます。」",
+			"name": "Martyn Perrie氏",
+			"title": "デジタル配信担当責任者",
+			"company": "i-Media"
+		},
+		{
+			"id": "epa_media",
+			"text": "「Broadsignを選んだのは、常に新しい機能を開発し、業界の変化に対応しているからです。 また、コンテンツの分離、カテゴリの除外、在庫の可視化、レポート作成、ターゲット設定など、私たちが必要とする機能も備えています。」",
+			"name": "Stefanie Zeiler氏",
+			"title": "デジタルメディア＆グラフィックデザイナー",
+			"company": "EPAMEDIA"
+		},
+		{
+			"id": "hp",
+			"text": "「プログラマティックDOOH広告は、戦略的な販売拠点に近接した主要ターゲットにアプローチできるため、私たちの活動市場にぴったりです。」",
+			"name": "Fabiana Varriale氏",
+			"title": "EMEAプログラマティックマネージャー",
+			"company": "HP"
+		},
+		{
+			"id": "precis",
+			"text": "「キャンペーン期間中、Broadsignはいつでもアドバイスやサポートを提供してくれました。 素晴らしいブランドリフト調査の結果は、広告サービス活用効果を証明しています。 ぜひまたサービスを利用させていただきたいと思います。」",
+			"name": "Sebastian Larsson氏",
+			"title": "プログラマティックスペシャリスト",
+			"company": "Precis Digital"
+		},
+		{
+			"id": "corus",
+			"text": "「Broadsignを通して、OLVやテレビ広告の効果を高め、現実世界で発信するものと同じようなメッセージを伝えることができました。 対象層の行動を促す的確な広告を簡単に配信することができたのは、このプラットフォームのおかげです。」",
+			"name": "Marita Olcese氏",
+			"title": "メディアプランニングマネージャー",
+			"company": "Corus Entertainment Inc."
+		},
+		{
+			"id": "iris",
+			"text": "「Broadsignのおかげで、プログラマティックDOOHの威力を活用し、動画広告の配信範囲を現実世界に広げることで、ブランドのKPIを達成することができました。 ユニークなコンテンツ連動型広告を企画し、クライアントの対象層に配信することができたため、デジタルチャンネルと物理チャネルの両方でブランドのメッセージをシームレスにつなぐことができました。」",
+			"name": "Keri Thomas氏",
+			"title": "パフォーマンス・メディア・ディレクター",
+			"company": "Iris Worldwide"
+		}
+	],
+	"shin": {
+		"title": "BroadsignのOOHソリューション",
+		"par": "質問等ございましたら、お気軽にお問い合わせください。折り返し担当者よりご連絡させていただきます。",
+		"cta": "お問い合わせ"
+	},
+	"getInTouch": "お問い合わせ",
+	"campaignsLaunchedWithBroadsign": "Broadsign で開始されたキャンペーン",
+	"learnMore": "詳細はこちら",
+	"mediaKitProgrammaticLink": "https://marketing.broadsign.com/hubfs/Media_Kits/2024_Reach_Media_Kit.pdf"
+}

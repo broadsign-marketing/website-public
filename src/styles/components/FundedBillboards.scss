@@ -1,0 +1,277 @@
+@import "../base/dependencies";
+
+@keyframes coinFall {
+	0% {
+		left: 20%;
+		opacity: 0;
+		top: 0%;
+		transform: scale(1);
+	}
+
+	15% {
+		left: 38%;
+		top: 15%;
+	}
+
+	25% {
+		left: 48%;
+		top: 25%;
+	}
+
+	33% {
+		left: 55%;
+		opacity: 1;
+		top: 33%;
+	}
+
+	41% {
+		left: 45%;
+		top: 41%;
+	}
+
+	50% {
+		left: 38%;
+		top: 50%;
+	}
+
+	66% {
+		left: 30%;
+		top: 66%;
+	}
+
+	75% {
+		left: 35%;
+		top: 75%;
+	}
+
+	85% {
+		left: 38%;
+		top: 85%;
+	}
+
+	90% {
+		opacity: 1;
+	}
+
+	100% {
+		left: 40%;
+		opacity: 0;
+		top: 110%;
+		transform: scale(0.6);
+	}
+}
+
+@keyframes soldCardPop {
+	0% {
+
+		transform: translateX(-50%) scale(0);
+	}
+
+	80% {
+
+		transform: translateX(-50%) scale(1.2);
+	}
+
+	100% {
+
+		transform: translateX(-50%) scale(1);
+	}
+}
+
+@keyframes billboardFadeIn {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+.FundedBillboards {
+	height: 50vw;
+	margin-bottom: auto;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	margin-top: auto;
+	max-height: 330px;
+	width: 100%;
+
+	&.observed {
+		.FundedBillboard {
+			.coin {
+				animation: coinFall 0.8s linear var(--coin-fall-delay) 1 normal forwards running;
+
+				&:nth-child(2) {
+					animation-delay: calc(var(--coin-fall-delay) + 0.6s);
+				}
+
+				&:nth-child(3) {
+					animation-delay: calc(var(--coin-fall-delay) + 1.2s);
+				}
+			}
+
+			.sold {
+				animation: soldCardPop 0.3s ease-out calc(var(--coin-fall-delay) + 1.8s) 1 normal forwards running;
+			}
+
+			.billboard {
+				animation: billboardFadeIn 0.3s ease-out calc(var(--coin-fall-delay) + 0.8s) 1 normal forwards running;
+			}
+		}
+	}
+}
+
+.FundedBillboard {
+	--coin-fall-delay: 0s;
+
+	$delays: 500, 1000, 1500, 2000;
+
+	@each $delay in $delays {
+		&.delay_#{$delay} {
+			--coin-fall-delay: #{$delay}ms;
+		}
+	}
+
+	aspect-ratio: 4 / 11;
+	padding: 0 8px;
+	width: 20%;
+
+	.coins {
+		flex: 1 0 32%;
+		left: -8%;
+		margin: 0 0 max(-4vw, -40px);
+		width: 100%;
+	}
+
+	.coin {
+		/* animation: coinFall 0.8s linear var(--coin-fall-delay) 1 normal forwards running; */
+		opacity: 0;
+		position: absolute;
+		width: min(3vw, 40px);
+
+		&:nth-child(2) {
+			/* animation-delay: calc(var(--coin-fall-delay) + 0.6s); */
+		}
+
+		&:nth-child(3) {
+			/* animation-delay: calc(var(--coin-fall-delay) + 1.2s); */
+		}
+	}
+
+	.sold_zone {
+		height: min(4vw, 40px);
+		position: relative;
+		width: 100%;
+	}
+
+	.sold {
+		height: auto;
+		left: 50%;
+		object-fit: contain;
+		transform: translateX(-50%) scale(0);
+		width: 75%;
+		z-index: 1;
+	}
+
+	.billboard_wrapper {
+		aspect-ratio: 4 / 7;
+		background: #708094;
+		border: 1px solid $reflex;
+		border-radius: min(1vw, 10px);
+		flex: 1 1 auto;
+		overflow: hidden;
+		z-index: 5;
+	}
+
+	.billboard {
+		/* animation: billboardFadeIn 0.3s ease-out calc(var(--coin-fall-delay) + 0.8s) 1 normal forwards running; */
+		height: 100%;
+		opacity: 0;
+		width: 100%;
+	}
+}
+
+@media (max-width:$smMax) {
+	.FundedBillboards {
+		justify-content: space-between;
+		max-height: none;
+	}
+
+	.FundedBillboard {
+		$offsetVw: 5vw;
+		$offsetPx: 32px;
+		$offset: min($offsetVw, $offsetPx);
+		$offsetNeg: max(#{-$offsetVw}, #{-$offsetPx});
+		$offsetX2: min($offsetVw * 2, $offsetPx * 2);
+
+		flex: 1 1 20%;
+		padding: 0;
+
+		&:nth-child(1) {
+			margin-right: $offsetNeg;
+			z-index: 1;
+		}
+
+		&:nth-child(2) {
+			margin-right: $offsetNeg;
+			top: $offset;
+			z-index: 2;
+		}
+
+		&:nth-child(3) {
+			top: $offsetX2;
+			z-index: 3;
+		}
+
+		&:nth-child(4) {
+			margin-left: $offsetNeg;
+			top: $offset;
+			z-index: 2;
+		}
+
+		&:nth-child(5) {
+			margin-left: $offsetNeg;
+			z-index: 1;
+		}
+
+		.coins {
+			margin-bottom: -40px;
+		}
+
+		.coin {
+			width: min(8vw, 40px);
+		}
+
+		.sold_zone {
+			height: 40px;
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	.FundedBillboards {
+		flex: 0 0 42vw;
+		height: 35vw;
+		max-width: 660px;
+		width: 42vw;
+	}
+
+	.FundedBillboard {
+		.billboard_wrapper {
+			aspect-ratio: auto;
+		}
+	}
+}
+
+@media (min-width:$md) {
+	.FundedBillboards {
+		flex: 0 0 52vw;
+		height: 25vw;
+		width: 52vw;
+	}
+}
+
+@media (min-width:1200px) {
+	.FundedBillboards {}
+}

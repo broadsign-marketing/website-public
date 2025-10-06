@@ -1,0 +1,345 @@
+@import "../base/dependencies";
+
+#blog {
+	.BlogCTATile {
+		align-items: center;
+		background-color: $reflex;
+		border-radius: 10px;
+		display: flex;
+		flex-flow: column nowrap;
+		justify-content: space-between;
+		padding: min(32px, 5vw);
+		transform: scale(1);
+
+		h2 {
+			@include fontMed;
+			font-size: 36px;
+		}
+
+		h3 {
+			@include fontMed;
+			font-size: 32px;
+		}
+
+		h4 {
+			@include fontMed;
+			font-size: 28px;
+		}
+
+		h5 {
+			@include fontMed;
+			font-size: 24px;
+		}
+
+		&.disappearing {
+			transform: scale(0);
+			transition: transform 1s ease;
+		}
+
+		&.ebook_how_to_increase_revenue_with_contextual_in_store_media {
+			h3 {
+				@include fontBold;
+				font-size: min(10vw, 36px);
+			}
+		}
+
+		&[class*="rise_of_retail_media"] {
+			h3 {
+				font-size: 20px;
+				line-height: 140%;
+				text-shadow: 1px 1px 1px #ff8f57, 1px 1px 1px #ff8f57, 1px 1px 2px #ff8f57, 1px 1px 4px #ff8f57, 1px 1px 8px #ff8f57;
+			}
+		}
+	}
+}
+
+.BlogCTATile {
+	.blog_cta_title {
+		position: relative;
+		width: 100%;
+		z-index: 100;
+	}
+
+	.blog_cta_tile_content {
+		align-items: flex-start;
+		display: flex;
+		flex: 0 1 auto;
+		flex-flow: column nowrap;
+		justify-content: space-between;
+		width: 100%;
+		z-index: 100;
+
+		*:first-child {
+			margin-top: 0;
+		}
+
+		*:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	.wp-block-leadin-hubspot-form-block {
+		display: none;
+	}
+
+	button.bg {
+		appearance: none;
+		background-color: rgba(#000, 0.01);
+		border: none;
+		opacity: 0.01;
+	}
+
+	.bg_img {
+		pointer-events: none;
+		transition: transform 0.6s;
+	}
+
+	.CTA {
+		.primary {
+		}
+	}
+
+	&.text {
+		&-reflex {
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			p,
+			span {
+				color: $reflex;
+			}
+		}
+
+		&-cerulean {
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			p,
+			span {
+				color: $cerulean;
+			}
+		}
+
+		&-scarlet {
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			p,
+			span {
+				color: $scarlet;
+			}
+		}
+
+		&-white {
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			p,
+			span {
+				color: #fff;
+			}
+		}
+
+		&-black {
+			h2,
+			h3,
+			h4,
+			h5,
+			h6,
+			p,
+			span {
+				color: #000;
+			}
+		}
+	}
+
+	&:hover {
+		.bg {
+			transform: scale(1.2);
+		}
+
+		.CTA {
+			/* &.primary {
+				background-color: $cerulean;
+				border-color: #FFF;
+				color: #FFF;
+			}
+
+			&.primary-outline {
+				background-color: $cerulean;
+				border-color: $cerulean;
+				color: #FFF;
+			}
+
+			&.secondary {
+				background-color: #FFF;
+				color: $cerulean;
+			}
+
+			&.secondary-outline {
+				background-color: $cerulean;
+				color: #FFF;
+			} */
+		}
+	}
+
+	&.bg-cerulean {
+		.CTA {
+			&.secondary,
+			&.secondary-outline {
+				border-color: #fff;
+			}
+		}
+
+		&:hover {
+			.CTA {
+				&.primary {
+					background-color: #fff;
+					color: $reflex;
+				}
+
+				&.primary-outline {
+					background-color: $reflex;
+					border-color: #fff;
+				}
+
+				&.secondary {
+					background-color: #fff;
+					color: $cerulean;
+				}
+
+				&.secondary-outline {
+					background-color: $cerulean;
+					border-color: #fff;
+					color: #fff;
+				}
+			}
+		}
+	}
+
+	&.bg-reflex {
+		.CTA {
+			&.primary {
+				border-color: #fff;
+			}
+		}
+
+		&:hover {
+			.CTA {
+				&.primary {
+					background-color: #fff !important;
+					color: $reflex !important;
+				}
+
+				&.primary-outline {
+					background-color: $reflex !important;
+					border-color: #fff !important;
+					color: #fff !important;
+				}
+			}
+		}
+	}
+
+	&[class*="rise_of_retail_media"] {
+		.bg {
+			transform-origin: center top;
+		}
+
+		.blog_cta_tile_content {
+			height: 100%;
+			justify-content: flex-end;
+			gap: 20px;
+
+			&:after {
+				background-color: #fff;
+				border-radius: 100px;
+				color: $reflex;
+				content: "Read eBook";
+				font-size: 16px;
+				font-weight: 700;
+				letter-spacing: 0.1em;
+				padding: 0.75em 1.6em 0.7em;
+				text-transform: uppercase;
+				transition: background-color 0.3s, color 0.3s;
+			}
+		}
+
+		&:hover {
+			.blog_cta_tile_content:after {
+				background-color: $cerulean;
+				color: #fff;
+			}
+		}
+	}
+
+	&[class*="in_store_activation"] {
+		.bg {
+			transform-origin: center center;
+		}
+
+		.blog_cta_tile_content {
+			height: 100%;
+			justify-content: flex-end;
+			gap: 12px;
+
+			p {
+				@include fontBold;
+				font-size: min(3vw, 20px);
+				line-height: 140%;
+				margin: 0;
+			}
+
+			&:after {
+				background-color: #fff;
+				border-radius: 100px;
+				color: $reflex;
+				content: "Read eBook";
+				font-size: 16px;
+				font-weight: 700;
+				letter-spacing: 0.1em;
+				padding: 0.75em 1.6em 0.7em;
+				text-transform: uppercase;
+				transition: background-color 0.3s, color 0.3s;
+			}
+		}
+
+		&:hover {
+			.blog_cta_tile_content:after {
+				background-color: $cerulean;
+				color: #fff;
+			}
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	#blog {
+		.BlogCTATile {
+			&.ebook_how_to_increase_revenue_with_contextual_in_store_media {
+				h3 {
+					font-size: min(4vw, 36px);
+				}
+			}
+		}
+	}
+}
+
+@media (min-width: $md) {
+	#blog {
+		.BlogCTATile {
+			&.ebook_how_to_increase_revenue_with_contextual_in_store_media {
+				h3 {
+					font-size: min(3vw, 36px);
+				}
+			}
+		}
+	}
+}

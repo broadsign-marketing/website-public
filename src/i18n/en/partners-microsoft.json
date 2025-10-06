@@ -1,0 +1,33 @@
+{
+	"seo": {
+		"title": "Partner: Microsoft",
+		"description": ""
+	},
+	"Hero": {
+		"Title": "Simplify your network operations, inventory management and advertising sales",
+		"Tagline": "Compatible with your Windows OS digital signage, Broadsign's digital signage software makes it easier than ever to buy, sell and deliver digital out-of-home campaigns across the globe"
+	},
+	"counters": {
+		"counter1": "Digital screens",
+		"counter2": "Countries",
+		"counter3": "Ads per month"
+	},
+	"quote_1": {
+		"text": "With Broadsign, we have the enhanced flexibility, creative capabilities, and planning tools to connect with millions of customers more efficiently and cohesively across our network.",
+		"signature": "– Intersection –"
+	},
+	"quote_2": {
+		"text": "Since our transition to Broadsign, we've been able to streamline our workflow, become more flexible and react more quickly to changes made by advertisers.",
+		"signature": "– Adspace –"
+	},
+	"facts": {
+		"create": "Distribute content and ads across a network of any size with automated digital signage software",
+		"distribute": "Sell smarter with a sales tool that syncs ad inventory with your network operations in real-time",
+		"generate": "Generate more revenue from your digital signage network with programmatic advertising sale",
+		"sell": "Create unique content to suit every location's audience while maintaining a unified look and feel"
+	},
+	"cta": {
+		"cta1": "Start a free trial",
+		"cta2": "Request a demo"
+	}
+}

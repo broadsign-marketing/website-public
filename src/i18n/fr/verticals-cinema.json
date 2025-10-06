@@ -1,0 +1,53 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les cinémas",
+		"description": "Créez une expérience cinématographique qui attire les foules et qui génère des revenus supplémentaires en optant pour l'affichage et les écrans numériques dans vos cinémas."
+	},
+	"title": "Cinema",
+	"Hero": {
+		"TitlePart1": "Captivez le",
+		"TitlePart3": "public de votre",
+		"TitlePart2": "Cinéma",
+		"Blurb": "Créez une expérience cinématographique qui attire les foules et qui génère des revenus supplémentaires en optant pour l'affichage et les écrans numériques dans vos cinémas.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Des Concessions Vendeuses",
+			"Paragraph": "Augmentez les ventes dans les concessions et stimulez les ventes d'articles de spécialité grâce à du contenu brillant et animé qui varie en fonction des projections à venir ou des promotions spéciales."
+		},
+		"Pane2": {
+			"Title": "Automatisation de tous vos écrans",
+			"Paragraph": "Intégrez vos systèmes de gestion de contenu et de point de vente de façon à pouvoir adapter le contenu de tous vos écrans aux changements et aux conditions en temps réel, des écrans de concession aux panneaux numériques, en passant par les publicités d'avant-programme."
+		},
+		"Pane3": {
+			"Title": "Une expérience cinématographique interactive",
+			"Paragraph": "Encouragez le public à se rendre dans la salle plus tôt grâce à des expériences interactives avant la projection, comme des jeux pour appareils mobiles connectés au grand écran."
+		},
+		"Pane4": {
+			"Title": "Envoyez des messages locaux en toute simplicité",
+			"Paragraph": "Diffusez rapidement des messages pour des activités commerciales, des événements spéciaux ou des urgences à l'aide de gabarits qui permettent la diffusion de superbes messages locaux sur vos écrans de cinéma."
+		}
+	},
+	"cards": {
+		"title": "Des options souples pour simplifier les ventes de publicité",
+		"par": "Lancez des campagnes de publicité dans vos cinémas en un tour de main grâce à des outils spécialisés destinés aux équipes de ventes directes et programmatiques.",
+		"direct": "Dotez vos équipes de vente de nouvelles capacités grâce à Broadsign Direct ",
+		"reach": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Quoteblock": {
+		"Quote": " Broadsign nous a permis de gagner en flexibilité. Nous avons donc pu lancer de nouvelles campagnes lorsque cela était nécessaire et améliorer notre interface pour les cinémas. En outre, Broadsign nous offre des rapports de preuve de diffusion qui sont essentiels à nos activités.",
+		"Signature": "Flix media"
+	},
+	"Customers": {
+		"Title": "Une solution adopteé par les principaux réseaux d'affichage dans les cinémas"
+	},
+	"Partners": {
+		"Title": "Faites connaissance avec votre public",
+		"Tagline": "Comprenez mieux ce qui interpelle votre public au moyen de suites d'analyse intégrées à votre affichage numérique."
+	},
+	"Shin": {
+		"Title": "En quoi la plateforme Broadsign convient-elle à votre réseau de cinémas?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

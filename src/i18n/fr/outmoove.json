@@ -1,0 +1,116 @@
+{
+	"seo": {
+		"title": "OutMoove",
+		"description": "Avec OutMoove, les acheteurs de médias disposent d'une plateforme côté demande (DSP) offrant un accès mondial aux espaces publicitaires, une transparence exceptionnelle et un contrôle optimal pour planifier, acheter et optimiser des campagnes programmatique DOOH guidées par les données.",
+		"robots": "index follow"
+	},
+	"hero": {
+		"title": "DSP d'affichage extérieur numérique",
+		"par": "Avec OutMoove, les acheteurs de médias disposent d'une plateforme côté demande (DSP) offrant un accès mondial aux espaces publicitaires, une transparence exceptionnelle et un contrôle optimal pour planifier, acheter et optimiser des campagnes programmatique DOOH guidées par les données.",
+		"cta": "Parlez à un spécialiste des médias"
+	},
+	"brands": { "title": "Un partenaire de confiance pour les plus grandes agences et marques" },
+	"roi": {
+		"title": "Des campagnes précises, une portée évolutive et un RCI mesurable",
+		"list": [
+			{
+				"id": "budget",
+				"title": "Gardez le contrôle de votre budget",
+				"par": "Bénéficiez d'une visibilité totale sur les dépenses, les frais et l'utilisation des données pour gérer et optimiser vos investissements médias en toute confiance."
+			},
+			{
+				"id": "audience",
+				"title": "Ciblez mieux, grâce aux données",
+				"par": "Ciblez efficacement votre public idéal en vous appuyant sur des données précises et une optimisation créative en temps réel."
+			},
+			{
+				"id": "global",
+				"title": "Déployez vos campagnes DOOH à l'échelle mondiale",
+				"par": "Simplifiez les activations sur plusieurs marchés et adaptez efficacement vos campagnes programmatique DOOH à l'échelle mondiale, le tout à partir d'une seule plateforme unifiée."
+			},
+			{
+				"id": "proof",
+				"title": "Montrez l'impact réel de chaque dollar investi grâce à des renseignements détaillés",
+				"par": "Appuyez-vous sur des analyses détaillées et des données fiables sur l'attribution afin de convertir le rendement de vos campagnes en résultats concrets pour votre entreprise."
+			}
+		]
+	},
+	"features": {
+		"title": "Fonctionnalités puissantes conçues pour les acheteurs de médias",
+		"list": [
+			{
+				"id": "planning_forecasting",
+				"name": "Planification et prévisions",
+				"desc": "Déterminez avec exactitude la performance des campagnes par point de diffusion pour maximiser l'atteinte et l'efficacité des investissements."
+			},
+			{
+				"id": "campaign_options",
+				"name": "Options de campagne personnalisées",
+				"desc": "Prenez le contrôle de vos campagnes programmatique DOOH grâce à une gestion flexible des calendriers de diffusion, de l'allocation budgétaire, du rythme et des types de médias."
+			},
+			{
+				"id": "audience_targeting",
+				"name": "Fonctionnalités avancées de ciblage du public",
+				"desc": "Adressez-vous directement à votre public cible grâce à l'intégration de segments démographiques, comportementaux, géographiques et basés sur le type de lieu, ou encore, de vos propres données."
+			},
+			{
+				"id": "optimization",
+				"name": "Optimisation en temps réel",
+				"desc": "Optimisez l'efficacité de vos campagnes en effectuant des ajustements ponctuels à vos stratégies de ciblage et d'enchères en fonction des résultats en temps réel."
+			},
+			{
+				"id": "campaign_reporting",
+				"name": "Rapports de campagne détaillés",
+				"desc": "Obtenez une visibilité granulaire sur la performance de votre campagne grâce aux données au niveau de l'impression, aux analyses au niveau de l'écran et aux ventilations des dépenses."
+			}
+		]
+	},
+	"ctaBox": {
+		"overtitle": "Get started",
+		"title": ["Explorez les possibilités", "de la DSP OutMoove"],
+		"par": "Misez sur la synergie entre technologie de pointe et expertise humaine pour générer des résultats à la hauteur de vos objectifs. Communiquez avec nos spécialistes pour découvrir comment OutMoove peut révolutionner votre stratégie médias.",
+		"cta": "Parlez à un spécialiste des médias"
+	},
+	"outmooveCampaigns": "Campagnes lancées avec OutMoove",
+	"readCaseStudy": "Lire l'étude de cas",
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_outmoove_1",
+				"q": "Qui utilise la DSP OutMoove?",
+				"a": "La DSP OutMoove est adoptée par les acheteurs de médias, agences de publicité et marques de toutes tailles et de tous secteurs, des annonceurs internationaux aux agences spécialisées souhaitant maximiser chaque dollar investi dans les campagnes d'affichage extérieur numérique."
+			},
+			{
+				"id": "faq_outmoove_2",
+				"q": "La DSP OutMoove propose-t-elle des services gérés ou des options en libre-service?",
+				"a": "La DSP OutMoove propose des services gérés ainsi que des options en libre-service. Les solutions sont adaptées à vos objectifs de campagne, à votre niveau d'expérience et à votre budget."
+			},
+			{
+				"id": "faq_outmoove_3",
+				"q": "À quel type de rapports et de renseignements puis-je m'attendre de la DSP OutMoove?",
+				"a": "OutMoove fournit des rapports détaillés sur les impressions, les diffusions, le CPM et les dépenses. Les résultats peuvent être ventilés par élément, heure de la journée, éditeur ou contenu créatif. Pour des mesures plus approfondies, Broadsign propose également des solutions d'attribution tierces telles que des études sur la hausse de la notoriété de la marque, la fréquentation et l'augmentation de l'achalandage Web."
+			},
+			{
+				"id": "faq_outmoove_4",
+				"q": "Est-ce que la DSP OutMoove prend en charge l'optimisation créative dynamique (DCO)?",
+				"a": "Oui, la DSP OutMoove prend en charge l'optimisation créative dynamique (DCO). Cette fonctionnalité vous permet de personnaliser automatiquement votre contenu publicitaire en temps réel en fonction de facteurs comme les données démographiques du public, l'emplacement, l'heure de la journée, les conditions météorologiques et les données comportementales. Vous garantissez ainsi la pertinence et l'attrait de vos publicités, ce qui augmente considérablement leur impact et leur efficacité."
+			},
+			{
+				"id": "faq_outmoove_5",
+				"q": "Les campagnes lancées avec OutMoove peuvent-elles être diffusées à l'échelle internationale?",
+				"a": "Oui. La DSP OutMoove offre une portée mondiale, permettant aux utilisateurs de planifier et d'activer des campagnes dans plusieurs pays au moyen d'une seule plateforme centralisée. Elle donne accès à 1,1 million d'écrans numériques dans le monde entier."
+			},
+			{
+				"id": "faq_outmoove_6",
+				"q": "Qu'est-ce qui distingue OutMoove des autres plateformes d'affichage extérieur numérique?",
+				"a": "Grâce à un ciblage avancé, une tarification transparente, des options d'achat flexibles et des analyses robustes, OutMoove vous donne les moyens de déployer des campagnes d'affichage extérieur numérique programmatique performantes, évolutives et mesurables."
+			}
+		]
+	},
+	"shin": {
+		"title": "Prêts à déployer des campagnes DOOH à fort impact ?",
+		"par": "Bénéficiez d'un accompagnement expert et d'une plateforme performante pour élaborer, lancer et optimiser des campagnes qui produisent des résultats tangibles sur le terrain.",
+		"cta": "Parlez à un spécialiste des médias"
+	}
+}

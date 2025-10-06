@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "Telco & Tech",
+		"description": "Drive brand awareness and stay top-of-mind as mobile device users move throughout their day by delivering DOOH ads at key moments throughout the consumer path to purchase."
+	},
+	"apSlug": "telco",
+	"apLink": "348",
+	"apToken": "UW1F9hVm8hC0ezNKEkLQZc33oscytMTqFDnsFkLQ3rcLcck8X9UWcZOzv1Su",
+	"playbookLink": "ufnl",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Telco & Tech",
+		"blurb": "Drive brand awareness and stay top-of-mind as mobile device users move throughout their day by delivering DOOH ads at key moments throughout the consumer path to purchase.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Telco & Tech package",
+			"ppcTitle": "Want a tour of the Telco & Tech package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Tech & Gadget Enthusiasts"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Malls", "Residential", "Office buildings"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Commute to work", "Retail operating hours"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Malls and retail locations",
+				"outdoor": "Billboard, urban panels and transit shelters within proximity to point-of-purchase locations"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "Financial Moments",
+				"content": "Play relevant ads based on technology stock prices"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Telco & Tech\" audience segments",
+		"list": [
+			{
+				"category": "Tech & gadget enthusiasts",
+				"description": "Tech & Gadget Enthusiasts are evenly distributed across genders. Over 50% of this audience appears in the 25-34-year-old and 35-44-year-old age ranges. Nearly 50% of Tech & Gadget Enthusiasts have a household income over $100k."
+			},
+			{
+				"category": "Wireless plan app Owners",
+				"description": "Wireless Plan App Owners are evenly distributed across genders and fairly evenly distributed across age groups, with the heaviest concentration of users in the 55+ age group."
+			},
+			{
+				"category": "Electronic shoppers",
+				"description": "Electronics Shoppers are usually men and are evenly distributed across age groups. They can be found out and about, often on the hunt for their next tech buy."
+			},
+			{
+				"category": "WiFi finders users",
+				"description": "WiFi-Finder Users are evenly distributed across genders and age groups. They can be found looking for stronger WiFi signals to stream their next movie or TV show."
+			},
+			{
+				"category": "Prepaid phone users",
+				"description": "Prepaid Phone Users are evenly distributed across genders and most age groups, with the heaviest concentration in the 55+ age group."
+			},
+			{
+				"category": "Home entertainment enthusiasts",
+				"description": "Home Entertainment Enthusiasts are evenly distributed across genders. This audience is most likely in the 25-34-year-old, 35-44-year-old and 45-54-year-old age groups. These enthusiasts power their home entertainment systems with the help of mobile apps."
+			},
+			{
+				"category": "Home automation Enthusiasts",
+				"description": "Home Automation Enthusiasts are equally distributed across genders and age ranges. Their goal is to create a tech-savvy home environment and they have the latest and greatest apps to help automate their smart homes."
+			},
+			{
+				"category": "Tech & gadget shoppers",
+				"description": "Tech & Gadget Shoppers are evenly distributed across genders, and range from 25-55+ years old. This audience researches and reviews their tech and gadget buys via apps."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Increase store visits, mobile phone sales, subscriptions, and more!",
+		"list": [
+			"Drive consumers in-store with strategically placed DOOH ads that are in proximity to your point of interest",
+			"Promote special sales initiatives like unlimited data or family plans to encourage non-subscribers to join your network",
+			"Leverage season trends like back-to-school to reach audiences who may be looking to purchase or upgrade a device"
+		]
+	},
+	"playbook": {
+		"title": "Promote your network with digital out-of-home",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Telco & Tech package" }
+}

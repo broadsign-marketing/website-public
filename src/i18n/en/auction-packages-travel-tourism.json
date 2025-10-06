@@ -1,0 +1,118 @@
+{
+	"seo": {
+		"title": "Travel & Tourism",
+		"description": "Boost awareness for destinations and local businesses with regional-specific content, delivering DOOH ads in areas with a high concentration of target audiences and adapting messaging based on screen location."
+	},
+	"apSlug": "travelTourism",
+	"apLink": "343",
+	"apToken": "Zs0hFOIKAEx5ObQDNEM1dfy7myXLYDzI3wtZyzE07mxfYYNn4Zj2KUuxroFx",
+	"playbookLink": "lsoi",
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Travel & tourism",
+		"blurb": "Boost awareness for destinations and local businesses with regional-specific content, delivering DOOH ads in areas with a high concentration of target audiences and adapting messaging based on screen location.",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Travel & Tourism package",
+			"ppcTitle": "Want a tour of the Travel & Tourism package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Travel Intenders"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Airports", "Premium lounges", "Luxury retail stores"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Commute to work", "Work business hours"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Airports and airport lounges",
+				"outdoor": "In proximity and/or on cardinal path to airport"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "Finance and Weather Moments",
+				"content": "Play relevant ads based on financial and weather conditions, such as desirable destination weather, a convenient currency rate, or poor local weather."
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Travel & Tourism\" audience segments",
+		"list": [
+			{
+				"category": "Business Travelers",
+				"description": "Business Travellers are predominantly 25-54 years old. They are always on the road and dining out with clients and partners. Their average household income is $75k+."
+			},
+			{
+				"category": "Vacationers",
+				"description": "Vacationers span an extensive age range, and their average household income is $60K+. They are working professionals with a fair amount of disposable income, looking for a change in pace from their normal 9-5 workday and workout routine."
+			},
+			{
+				"category": "Commuters",
+				"description": "Commuters are predominantly 25-54 years old. They're working 9-5 and are often cost-conscious individuals. Their average household income is $40k+. "
+			},
+			{
+				"category": "Cruise Travelers",
+				"description": "Cruise Travellers are predominantly 25-54 years old. They are typically working professionals with an above-average household income, who often enjoy an extended time away from the normal routine."
+			},
+			{
+				"category": "Road Trippers",
+				"description": "Road Trippers tend to be young and adventurous working professionals with above-average household incomes. They usually manage their trips and navigation with the help of travel apps. They enjoy eating out at well-reviewed places and streaming music for entertainment while out and about."
+			},
+			{
+				"category": "Travel Shoppers",
+				"description": "Travel Shoppers are often 25-34-year-old working professionals or 55+ retirees with household incomes over $75k+. They research prospective destinations with the help of travel apps and shop around using comparison tools, package travel sites, and options via their preferred airline apps that offer frequent flier miles."
+			},
+			{
+				"category": "Cruise Shoppers",
+				"description": "Cruise Shoppers are often 25-34-year-old working professionals or 55+ retirees with household incomes over $75k+. They research prospective destinations with the help of travel apps and shop around using comparison tools, package travel sites, and options via their preferred airline apps that offer frequent flier miles."
+			},
+			{
+				"category": "Flight Shoppers",
+				"description": "Flight Shoppers are often 25-34-year-old working professionals or 55+ retirees with household incomes over $75k+. They research prospective destinations with the help of travel apps and shop around using comparison tools, package travel sites, and options via their preferred airline apps that offer frequent flier miles."
+			},
+			{
+				"category": "Hotel Shoppers",
+				"description": "Hotel Shoppers are often 25-34-year-old working professionals or 55+ retirees with household incomes over $60k+. They use apps to shop for different accommodations with a range of amenities and options and may compare those with their preferred hotel app that earn them loyalty points."
+			},
+			{
+				"category": "Rental Car Shoppers",
+				"description": "Rental Car Shoppers are predominantly 25-34-year-old working professionals with a household income greater than $100k+. They want the freedom and flexibility to travel and explore on their preferred itinerary and often earn frequent flier miles with their airlines or specific rental companies."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Drive brand awareness for airlines, hotels, destinations, and more!",
+		"list": [
+			"Place DOOH ads in key locations where audiences are thinking about travel",
+			"Stay top-of-mind as consumers move from the awareness to the decision-making stage",
+			"Showcase seasonal promotions by customizing messaging based on certain times of the year, like winter break"
+		]
+	},
+	"playbook": {
+		"title": "Travel and tourism are rising on a global scale",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages "
+	},
+	"modalExplorePackage": { "title": "Explore our Travel & Tourism package" }
+}

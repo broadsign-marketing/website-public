@@ -1,0 +1,273 @@
+@import "../../base/dependencies";
+
+#vertical_retail {
+	h1 {
+		font-size: min(6.4vw, 34px);
+		max-width: 22ch;
+	}
+
+	.hero_img {
+		border-radius: 0 0 10px 10px;
+		max-width: 627px;
+	}
+
+	.experiences {
+		.NeonBox {
+			h3 {
+				font-size: 72px;
+			}
+
+			.subtitle-1 {
+				letter-spacing: 0.02em;
+			}
+		}
+	}
+
+	.feature_img {
+		max-height: 60vh;
+		max-width: 60vw;
+	}
+
+	.platform {
+		.NeonBox {
+		}
+
+		.icon {
+			flex: 0 0 48px;
+			width: 48px;
+		}
+
+		h3 {
+			line-height: 48px;
+		}
+	}
+
+	.ebook {
+	}
+
+	.ebook_img {
+		margin-bottom: -40px;
+		margin-top: -100px;
+		max-width: 80vw;
+	}
+
+	.related_posts {
+		.d_grid {
+			display: flex;
+			flex-flow: column nowrap;
+		}
+
+		.cta_wrapper {
+			height: 100%;
+
+			button {
+				height: 40px;
+				width: 40px;
+
+				&:hover {
+					.arrow {
+						filter: grayscale(1) brightness(100);
+					}
+				}
+			}
+
+			.arrow {
+				transition: filter 0.3s;
+				width: 15px;
+
+				&.prev {
+				}
+
+				&.next {
+				}
+			}
+		}
+
+		.grid {
+			margin: 0 auto;
+		}
+	}
+
+	.post_card {
+		height: 100%;
+		transition: box-shadow 0.3s;
+
+		.post_thumb {
+			aspect-ratio: 2 / 1;
+		}
+
+		.post_details {
+			font-size: 10px;
+		}
+
+		.post_title {
+			font-size: 2em;
+		}
+
+		p {
+			font-size: 1.6em;
+		}
+
+		.link_cerulean_arrow {
+			font-size: 0.88em;
+		}
+
+		&:hover {
+			box-shadow: 4px 4px 24px rgba(115, 154, 240, 0.4);
+		}
+	}
+
+	.ebooks {
+	}
+
+	.ebook_banner {
+		display: flex;
+		overflow: hidden;
+
+		.thumb {
+			transform-origin: center top;
+			transition: transform 0.6s;
+		}
+
+		.CTA {
+			min-height: 0;
+			padding: 0.5em 1em 0.45em;
+		}
+
+		&.in_store_activation {
+			background: linear-gradient(to bottom right, #7398ee 0%, #bddff8 100%);
+
+			.CTA {
+				background-color: $reflex;
+				color: #fff;
+			}
+		}
+
+		&.increase_revenue {
+			background-color: #a7c3ff;
+
+			.thumb {
+				filter: drop-shadow(4px 4px 16px rgba($reflex, 0.4));
+			}
+
+			h3 {
+				color: $reflex;
+			}
+
+			.CTA {
+				background-color: $reflex;
+				color: #fff;
+			}
+		}
+
+		&.rise_of_retail {
+			background-color: #ff8f57;
+
+			h3 {
+				color: #fff;
+			}
+
+			.CTA {
+				background-color: #fff;
+				color: $reflex;
+			}
+		}
+
+		&:hover {
+			.thumb {
+				transform: scale(1.2);
+			}
+
+			.CTA {
+				background-color: $cerulean;
+				color: #fff;
+			}
+		}
+	}
+
+	.shin {
+		margin-top: 200px;
+
+		.img {
+			margin-top: -160px;
+		}
+	}
+}
+
+@media (min-width: $sm) {
+	#vertical_retail {
+		h1 {
+			font-size: min(4vw, 34px);
+		}
+
+		.sm\:max-w-460 {
+			max-width: 460px;
+		}
+
+		.experiences {
+			.NeonBox {
+				h3 {
+					font-size: min(8vw, 72px);
+				}
+			}
+		}
+
+		.ebook_img {
+			margin-bottom: 0;
+			margin-top: 0;
+			top: 50%;
+			transform: translateY(-50%);
+		}
+
+		.related_posts {
+			.d_grid {
+				display: grid;
+				grid-template-columns: 40px 1fr 40px;
+			}
+		}
+
+		.post_card {
+			.post_thumb {
+				aspect-ratio: 3 / 2;
+			}
+
+			.post_details {
+				font-size: min(1.2vw, 10px);
+			}
+		}
+
+		.shin {
+			margin-top: 90px;
+
+			.img {
+				margin-top: -90px;
+			}
+		}
+	}
+}
+
+@media (min-width: $md) {
+	#vertical_retail {
+		.ebook h2 {
+			max-width: 19ch;
+		}
+
+		.ebook_img {
+			margin-bottom: -20px;
+			margin-top: -80px;
+			top: 0;
+			transform: none;
+		}
+
+		.post_card {
+			.post_thumb {
+				aspect-ratio: 2 / 1;
+			}
+		}
+	}
+}
+
+@media (min-width: $lg) {
+	#vertical_retail {
+	}
+}

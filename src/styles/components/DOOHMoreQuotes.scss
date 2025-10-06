@@ -1,0 +1,118 @@
+@import "../base/dependencies";
+
+.DOOHMoreQuotes {
+	.portrait_border {
+		background-color: #FFF;
+		border-radius: 50%;
+		overflow: hidden;
+		padding: 2px;
+
+		.portrait {
+			width: 64px;
+		}
+	}
+
+	.quotes_wrapper {
+		pointer-events: none;
+		transition: transform 0.4s ease, left 0.4s ease;
+		gap: 32px;
+
+		&.is_swiping {
+			transition: transform 0.4s ease;
+		}
+	}
+
+	.quote_card {
+		flex: 0 0 100%;
+		pointer-events: none;
+		user-select: none;
+		width: 100%;
+
+		.bubble {
+			flex: 1 1 auto;
+
+			&:after {
+				background-color: #F0F4FF;
+				bottom: -18px;
+				clip-path: polygon(0% 0%, 0% 100%, 100% 0%);
+				content: "";
+				display: block;
+				height: 20px;
+				left: 40px;
+				position: absolute;
+				width: 25px;
+			}
+		}
+
+		cite {
+			font-style: normal;
+		}
+	}
+
+	.company_logo {
+		display: inline-block;
+		height: 50px;
+		object-fit: contain;
+		object-position: left center;
+	}
+
+	.quote_text {
+		white-space: normal;
+		width: 100%;
+	}
+
+	hr {
+		background-color: $cerulean;
+	}
+
+	cite {
+		height: 75px;
+		padding: 32px 0 40px;
+	}
+
+	.scrollbar {
+		border-radius: 4px;
+		height: 4px;
+
+		.tracker {
+			border-radius: 4px;
+			transition: left 0.3s ease;
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	.DOOHMoreQuotes {}
+}
+
+@media (min-width:$md) {
+	.DOOHMoreQuotes {}
+}
+
+@media (min-width:1200px) and (hover: hover) {
+	.DOOHMoreQuotes {
+		.arrow_btn {
+			height: 100%;
+			max-width: calc(50vw - 544px);
+			top: 0;
+			width: 80px;
+
+			&.prev {
+				left: 0;
+			}
+
+			&.next {
+				right: 0;
+				transform: translateX(100%) rotate(180deg);
+			}
+		}
+	}
+}
+
+@media (hover: none) {
+	.DOOHMoreQuotes {
+		/* &>.col {
+			pointer-events: none;
+		} */
+	}
+}

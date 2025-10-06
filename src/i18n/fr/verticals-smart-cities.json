@@ -1,0 +1,50 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les villes intelligentes",
+		"description": "Donnez vie aux villes intelligentes à l'aide d'une plateforme d'affichage numérique qui prend en charge le contenu, les publicités et les services dynamiques, interactifs et guidés par les données."
+	},
+	"cta": {
+		"discoverCampaignPlanning": "Donnez de nouveaux outils à vos équipes de vente grâce à Broadsign Direct",
+		"discoverGlobalProgrammaticSSP": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Hero": {
+		"TitlePart1": "Donnez vie aux",
+		"TitlePart2": "Villes",
+		"TitlePart3": "de l'avenir",
+		"Blurb": "Donnez vie aux villes intelligentes à l'aide d'une plateforme d'affichage numérique qui prend en charge le contenu, les publicités et les services dynamiques, interactifs et guidés par les données.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Des outils pratiques, des communautés reconnaissantes",
+			"Paragraph": "Suscitez l'intérêt de la communauté envers votre réseau en affichant sur vos écrans des services intelligents comme des cartes, des mises à jour météorologiques ou des relevés de circulation."
+		},
+		"Pane2": {
+			"Title": "Une ville intelligente qui se finance",
+			"Paragraph": "Les villes les plus intelligentes ne facturent pas l'accès à leurs services aux utilisateurs. Financez une expérience de ville intelligente par l'intermédiaire d'un réseau de services et d'écrans subventionné par la publicité."
+		},
+		"Pane3": {
+			"Title": "Le bon public au bon moment",
+			"Paragraph": "Diffusez le contenu pertinent au bon public en tout temps et dans l'ensemble de votre réseau. Diffusez des messages très pertinents qui feront briller votre ville grâce aux fonctionnalités intelligentes de ciblage du public."
+		},
+		"Pane4": {
+			"Title": "Des options souples pour garantir le maximum de ventes de publicité",
+			"Paragraph": "Grâce à des outils spécialisés destinés aux équipes de ventes directes et programmatiques, vous pouvez dépasser vos cibles de vente et joindre de nouveaux acheteurs."
+		}
+	},
+	"Customers": {
+		"Title": "Adopté par les réseaux de villes intelligentes et visionnaires"
+	},
+	"Quoteblock": {
+		"Quote": "Notre réseau numérique offre aux marques la possibilité de joindre des millions de consommateurs lors de leurs déplacements quotidiens dans les grandes villes. Broadsign nous procure la souplesse, la capacité de création et les outils de planification améliorés qui rendent cette communication plus efficace et plus cohérente dans l'ensemble de notre réseau.",
+		"Signature": "Intersection"
+	},
+	"Partners": {
+		"Title": "Des partenariats pour du contenu formidable",
+		"Tagline": "Créez votre propre contenu, travaillez avec des collaborateurs locaux ou améliorez vos écrans grâce à nos partenaires des domaines du contenu d'affichage numérique, de la signalétique et de l'analyse de l'auditoire."
+	},
+	"Shin": {
+		"Title": "Comment votre réseau pour ville intelligente peut-il tirer parti de la plateforme Broadsign ?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

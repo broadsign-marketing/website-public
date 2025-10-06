@@ -1,0 +1,70 @@
+@import "../base/dependencies";
+
+@keyframes turn {
+	0% {
+		transform: translate(-50%, -50%) rotate(0deg);
+	}
+
+	100% {
+		transform: translate(-50%, -50%) rotate(359deg);
+	}
+}
+
+.soc2_cta_box {
+	.badge {
+		--size: 106px;
+		display: grid;
+		height: var(--size);
+		left: 20px;
+		place-items: center;
+		pointer-events: none;
+		position: absolute;
+		top: 0;
+		transform: translate(0%, -50%);
+		width: var(--size);
+
+		.text {
+			z-index: 10;
+		}
+
+		.bg {
+			animation: turn 16s linear 0s infinite;
+			left: 50%;
+			top: 50%;
+			transform: translate(-50%, -50%);
+		}
+	}
+
+	h2 {
+		max-width: 36ch;
+	}
+}
+
+@media (min-width:$md) {
+	.soc2_cta_box {
+		.badge {
+			--size: 192px;
+		}
+	}
+}
+
+@media (min-width:$md) {
+	.soc2_cta_box {
+		padding-left: min(15%, 162px);
+
+		&>.bg-zircon {
+			width: 100%;
+		}
+
+		.badge {
+			--size: min(16vw, 192px);
+			left: 0;
+			top: 50%;
+			transform: translate(-50%, -50%);
+		}
+
+		.text_wrapper {
+			padding-left: min(12vw, 150px) !important;
+		}
+	}
+}

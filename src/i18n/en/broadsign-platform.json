@@ -1,0 +1,102 @@
+{
+	"seo": {
+		"title": "The platform that powers out-of-home",
+		"description": "Broadsign empowers media owners to efficiently scale, manage, and sell their digital and static out-of-home inventory through automated software, intelligent campaign tools, powerful network operations, and programmatic advertising."
+	},
+	"hero": {
+		"title": "The platform that powers out-of-home",
+		"blurb": "Broadsign empowers media owners to efficiently scale, manage, and sell their digital and static out-of-home inventory through automated software, intelligent campaign tools, powerful network operations, and programmatic advertising.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"logos": { "title": "Used by leading OOH networks around the globe" },
+	"e2e": {
+		"title": "End-to-end solutions for maximum efficiency",
+		"boxes": [
+			{
+				"icon": "box1",
+				"title": "Digital, static, and programmatic out-of-home",
+				"par": "Whether it's a guaranteed or non-guaranteed delivery with an impression or frequency goal, we make it easy to schedule all types of OOH campaigns."
+			},
+			{
+				"icon": "box2",
+				"title": "You set the rules and automation does the rest",
+				"par": "Our intelligent and playlist-free media player makes it easy to schedule and deliver campaigns across your network."
+			},
+			{
+				"icon": "box3",
+				"title": "Multiple SSPs, one header bidder solution",
+				"par": "Consolidate your programmatic demand from multiple SSP partners into one slot, removing the need for containers. May the best deal win!"
+			}
+		]
+	},
+	"features": {
+		"campaignPlanning": {
+			"overtitle": "Campaign Planning",
+			"title": "Advanced campaign tools that drive more revenue",
+			"par": "Take advantage of real-time inventory availability and instantly book flexibly scheduled and dynamically delivered digital out-of-home campaigns.",
+			"cta": "Learn more"
+		},
+		"contentNetworkManagement": {
+			"overtitle": "Content & network management",
+			"title": "Save time by automating your network management",
+			"par": "Rely on automated campaign workflows to play the right content at the right time and gain complete visibility into your network's performance with in-depth campaign reporting.",
+			"cta": "Learn more"
+		},
+		"staticOperations": {
+			"overtitle": "Static Campaigns",
+			"title": "Streamlined charting and work orders for static campaigns",
+			"par": "Get more from your static faces with our centralized asset management and campaign booking tool that syncs with real-time work order status, stock levels, and bill poster communications.",
+			"cta": "Learn more"
+		},
+		"globalProgrammaticSSP": {
+			"overtitle": "Global programmatic supply-side platform",
+			"title": "Generate new revenue programmatically ",
+			"par": "Complement your direct sales with a real-time programmatic pipeline composed of global buyers and ads that you approve of.",
+			"cta": "Learn more"
+		},
+		"localSignageMessaging": {
+			"overtitle": "Local signage messaging",
+			"title": "Make your local content shine in every language",
+			"par": "Enable onsite teams to easily create custom digital signage messages while remaining on brand with a template-based tool that is simple enough for anyone to use.",
+			"cta": "Learn more"
+		},
+		"audienceCampaigns": {
+			"overtitle": "Audience Campaigns",
+			"title": "Unlock new opportunities and additional revenue",
+			"par": "Broadsign's ad server provides you with sophisticated targeting tools to help your sales teams plan and sell campaigns, optimize your inventory,  and reach target audiences at the most compelling moments.",
+			"cta": "Learn more"
+		},
+		"comingSoon": "Coming Soon",
+		"new": "New!"
+	},
+	"plans": {
+		"title": "Plans for every network's needs",
+		"boxes": [
+			{
+				"title": "Standard",
+				"description": "Streamline your business with automated software for OOH."
+			},
+			{
+				"title": "Professional",
+				"description": "Real-time monitoring, custom messaging, endless integration possibilities."
+			},
+			{
+				"title": "Enterprise",
+				"description": "Sell smarter & optimize yield with intelligent tools for OOH."
+			}
+		],
+		"cta": "Compare plans"
+	},
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"bookACall": {
+		"title": "Book a call"
+	}
+}

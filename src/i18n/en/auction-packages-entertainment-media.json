@@ -1,0 +1,102 @@
+{
+	"seo": {
+		"title": "Entertainment & Media",
+		"description": "Capture your next audience with DOOH ads that can build awareness for your next big event, promote an upcoming TV show or even increase demand and subscriptions for streaming services. "
+	},
+	"apSlug": "entertainmentMedia",
+	"apLink": "445",
+	"apToken": "U0bpWiaiqWd56UuSunwQCymVzDQgEG45jIpQgrqBFkXcDnvr9C47K91UD7wM",
+	"playbookLink": "rine",
+
+	"hero": {
+		"overtitle": "Inventory Packages",
+		"title": "Entertainment & Media",
+		"blurb": "Capture your next audience with DOOH ads that can build awareness for your next big event, promote an upcoming TV show or even increase demand and subscriptions for streaming services. ",
+		"ctaContact": "Contact us",
+		"ctaExplore": "Explore the package",
+		"ctaBookADemo": "Book a Demo"
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Explore our Entertainment & Media package",
+			"ppcTitle": "Want a tour of the Entertainment & Media package?",
+			"cta": "Explore this package"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Audience Segment",
+				"content": "Entertainment enthusiasts"
+			},
+			"pointsOfInterest": {
+				"title": "Points of Interest",
+				"list": ["Concert venues", "movie theatres", "sports arenas", "night clubs"]
+			},
+			"dayparts": {
+				"title": "Dayparts",
+				"list": ["Happy hour", "Weekends"]
+			},
+			"venueTypes": {
+				"title": "Venue Types",
+				"audience": "All screens that index against the intended audience",
+				"placeBased": "Malls, restaurants, bars, and theatres",
+				"outdoor": "Billboard, urban panels and transit shelters within proximity to entertainment & sports arenas"
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Discover our \"Entertainment & Media\" audience segments",
+		"list": [
+			{
+				"category": "Concertgoers",
+				"description": "Concertgoers slightly skew towards women in the 25-34 year age range. This audience is either looking for their next show or big event or on their way to a concert."
+			},
+			{
+				"category": "Movie buffs",
+				"description": "Movie Buffs are evenly distributed across genders and age groups. While everyone loves a good movie, this audience is passionate about keeping up-to-date about watching the latest movies. They usually use movie and cinema-related apps."
+			},
+			{
+				"category": "Music lovers",
+				"description": "Music Lovers are evenly distributed across genders and are slightly more likely to appear in the 25-34-year-old age range."
+			},
+			{
+				"category": "Ticket shoppers",
+				"description": "Ticket Shoppers are evenly distributed across genders, often in the 25-34-year-old age group. This audience is always on the lookout for tickets to their next show or major event."
+			},
+			{
+				"category": "OTT device owners",
+				"description": "Over-the-Top (OTT) Device Owners are often men and are most likely in the 18-24-year-old and 25-34-year-old age groups. This audience wants to stream their favourite television and video content without being tied to a standard cable subscription service."
+			},
+			{
+				"category": "Subscription Content streamers",
+				"description": "Subscription Content Streamers are evenly distributed across genders, and while nearly 50% are in the 18-24 and 25-34 age ranges, they are evenly distributed across all other age groups. This audience loves to stream content and is willing to pay a premium for premium entertainment."
+			},
+			{
+				"category": "Music discovery enthusiasts",
+				"description": "Music Discovery Enthusiasts are evenly distributed across genders and are most likely in the 18-44-year-old age group. On the hunt for their next favourite song, this audience uses traditional music streaming and discovery music apps."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Drive awareness for new movies, TV shows, concerts and live events",
+		"list": [
+			"Create unique experiences by displaying dynamic content that capture audience attention in high-traffic areas",
+			"Generate mass excitement and awareness for new media with contextually relevant information like showtimes or ticket sales",
+			"Promote streaming platforms that encourage subscriptions, new content, special promos and more"
+		]
+	},
+	"playbook": {
+		"title": "Promote your next big event with digital out-of-home",
+		"par": "Browse our playbook for unique ways marketers can leverage out-of-home to drive brand awareness and lift sales.",
+		"cta": "Download Playbook"
+	},
+	"talkToASpecialist": {
+		"title": "Talk to a Broadsign media specialist today!",
+		"cta": "Contact us"
+	},
+	"marketplace": {
+		"overtitle": "Find the right audience segment for your campaign",
+		"title": "Explore our Inventory Packages",
+		"cta": "See full inventory packages"
+	},
+	"modalExplorePackage": { "title": "Explore our Entertainment & Media package" }
+}

@@ -1,0 +1,97 @@
+main[id^="page_vertical_"] {
+	.Hero {
+		@include bgCover;
+		height: auto;
+		max-height: none;
+		padding-bottom: min(14vw, 80px);
+		padding-top: min(14vw, 80px);
+
+		.text {
+			max-width: 70rem;
+		}
+
+		.Tank {
+			.title {
+				margin: 0;
+
+				&,
+				em,
+				span {
+					line-height: 80%;
+				}
+
+				em,
+				span {
+					white-space: nowrap;
+				}
+			}
+
+			.tagline {
+				@include fontReg;
+				color: #FFF;
+				line-height: 120%;
+				margin: 3rem 0;
+			}
+		}
+	}
+
+	#features {
+		.icon {
+			height: min(90px, 50%);
+			margin: 20px auto 0;
+			max-height: 20vw;
+			max-width: 200px;
+			width: min(50vw, 80%);
+		}
+
+		h3 {
+			@include fontSuperBold;
+			color: $blue;
+			font-size: 30px;
+			line-height: 100%;
+			margin: 4rem 0 2rem;
+			text-align: left;
+			width: 100%;
+		}
+
+		p {
+			color: $reflex;
+			font-size: 18px;
+			line-height: 180%;
+			text-align: left;
+		}
+
+		.link {
+			font-size: 16px;
+			margin: 0 0 1em;
+			width: 100%;
+		}
+
+		a:hover {
+			color: $cerulean;
+		}
+	}
+
+	.cp_logos {
+		margin-bottom: 8rem;
+		margin-top: 8rem;
+
+		.tagline {
+			max-width: 60ch;
+		}
+
+		.logos {
+			margin-bottom: 2rem;
+		}
+
+		.logo {
+			transform: scale(1.1);
+		}
+	}
+
+	.VerticalForm {
+		.actions {
+			text-align: center;
+		}
+	}
+}

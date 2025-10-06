@@ -1,0 +1,90 @@
+@media (min-width: $sm) {
+	main[id^="page_vertical_"] {
+		#features {
+
+			.grid .sm\:col-6:nth-child(odd) {
+				padding-right: 24px;
+			}
+
+			.grid .sm\:col-6:nth-child(even) {
+				padding-left: 24px;
+			}
+		}
+	}
+}
+
+@media (max-width: $xl_max_width) {}
+
+@media (max-width: $tablet_max_width) {
+	main[id^="page_vertical_"] {
+		.Hero {
+			@include bgCover;
+			align-items: stretch;
+
+			.text {
+				max-width: 80%;
+			}
+		}
+	}
+}
+
+@media (max-width: $mobile_max_width) {
+
+	@supports(background-attachment: fixed) {
+		main[id^="page_vertical_"] {
+			.VerticalShinDemoOffer {
+				background-attachment: fixed;
+			}
+		}
+	}
+
+	main[id^="page_vertical_"] {
+		.Hero {
+			.text {
+				max-width: 100%;
+			}
+		}
+	}
+}
+
+@media (max-width: 599px) and (orientation:portrait) {
+	main[id^="page_vertical_"] {
+		.CardPanel {
+			.card {
+				flex: 0 1 100%;
+				margin: 0 auto 6rem;
+				max-width: 360px;
+
+				img {
+					width: 200px;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: $mobile_max_width) and (orientation:landscape) {
+	main[id^="page_vertical_"] {}
+}
+
+@media (max-width: $xs_max_width) {
+	main[id^="page_vertical_"] {
+		.Hero .title {
+			font-size: 13rem;
+		}
+	}
+}
+
+@media (max-width: $xs_max_width) and (orientation:portrait) {
+	main[id^="page_vertical_"] {}
+}
+
+@media (hover:hover) and (pointer:fine) and (max-width: $mobile_max_width) {
+	@supports(background-attachment: fixed) {
+		main[id^="page_vertical_"] {
+			.VerticalShinDemoOffer {
+				background-attachment: fixed;
+			}
+		}
+	}
+}

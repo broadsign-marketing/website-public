@@ -1,0 +1,51 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les centres commerciaux",
+		"description": "Augmentez les ventes dans votre centre commercial avec une plate-forme d'affichage numérique qui rend votre réseau plus divertissant, dynamique et excitant que jamais."
+	},
+	"cta": {
+		"discoverContentNetworkManagement": "Découvrez nos solutions pour la gestion de contenu et de réseau",
+		"discoverCampaignPlanning": "Donnez de nouveaux outils à vos équipes de vente grâce à Broadsign Direct",
+		"discoverGlobalProgrammaticSSP": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Hero": {
+		"TitlePart1": "Réinventez l'expérience",
+		"TitlePart3": "des acheteurs dans les",
+		"TitlePart2": "Centres Commerciaux",
+		"Blurb": "Interagissez avec vos clients grâce à une plateforme d'affichage numérique qui stimule les revenus et qui met en vedette les récits de votre marque, exactement où, quand et comme vous le souhaitez.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Votre centre commercial : une destination",
+			"Paragraph": "Bâtissez votre marque et permettez à votre centre commercial de s'imposer comme une destination incontournable en affichant du contenu qui divertit et informe les acheteurs et qui améliore leur expérience."
+		},
+		"Pane2": {
+			"Title": "Campagnes créatives fondées sur le contexte",
+			"Paragraph": "Permettez à vos partenaires publicitaires de produire les campagnes les plus percutantes qui soient en utilisant des données démographiques sur le public et des données situationnelles, comme l'emplacement des écrans et l'heure, entre autres, afin de cibler les campagnes et de favoriser la lecture du contenu."
+		},
+		"Pane3": {
+			"Title": "Options souples pour garantir le maximum de ventes de publicité",
+			"Paragraph": "Grâce à des outils spécialisés destinés aux équipes de ventes directes et programmatiques, vous pouvez dépasser vos cibles de vente et joindre de nouveaux acheteurs."
+		},
+		"Pane4": {
+			"Title": "Chaque écran à portée de main",
+			"Paragraph": "Des kiosques aux panneaux d'affichage, y compris ce qui se situe entre les deux, gérez de manière efficace chaque écran dans chaque centre commercial à partir d'une plateforme centralisée qui évolue facilement à mesure que votre réseau d'affichage numérique croît."
+		}
+	},
+	"Quoteblock": {
+		"Quote": "Lorsque le contenu pertinent est diffusé auprès du bon public, la publicité et les messages sont complémentaires à l'expérience de l'acheteur. Broadsign nous permet d'offrir aux annonceurs des possibilités d'atteindre les consommateurs de manière intéressante et excitante. ",
+		"Signature": "Westfield"
+	},
+	"Customers": {
+		"Title": "Voyez vos clients dans le domaine des centres en action"
+	},
+	"Partners": {
+		"Title": "Des partenariats pour du contenu formidable",
+		"Tagline": "Créez votre propre contenu, travaillez avec vos détaillants et améliorez vos écrans en travaillant avec nos partenaires dans les domaines du contenu d'affichage numérique, des solutions de signalétique et de l'analyse du public."
+	},
+	"Shin": {
+		"Title": "Comment la plateforme Broadsign peut-elle améliorer l'affichage numérique de votre centre commercial?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

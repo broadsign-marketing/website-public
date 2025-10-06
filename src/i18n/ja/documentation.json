@@ -1,0 +1,74 @@
+{
+	"seo": {
+		"title": "製品ドキュメントへのリンク",
+		"description": "以下から選択し、製品ごとのドキュメントを確認いただけます。"
+	},
+	"hero": {
+		"overtitle": "答えをお探しですか？ ここはまさにぴったりの場所です。",
+		"title": "製品ドキュメント"
+	},
+	"platformDocumentation": "Platform Documentation",
+	"otherProductDocumentation": "Other Product Documentation",
+	"platformDocs": [
+		{
+			"id": "guaranteedCampaigns",
+			"label": "広告取引・マネジメント"
+		},
+		{
+			"id": "audienceCampaigns",
+			"label": "オーディエンスキャンペーン"
+		},
+		{
+			"id": "programmaticCampaigns",
+			"label": "プログラマティック・マネジメント"
+		},
+		{
+			"id": "staticCampaigns",
+			"label": "静的キャンペーン"
+		},
+		{
+			"id": "creatives",
+			"label": "クリエイティブ"
+		},
+		{
+			"id": "screenInventory",
+			"label": "スクリーンインベントリ"
+		},
+		{
+			"id": "audienceInventory",
+			"label": "視聴者インベントリ"
+		},
+		{
+			"id": "userManagement",
+			"label": "ユーザー管理"
+		}
+	],
+	"otherDocs": [
+		{
+			"id": "broadsignControl",
+			"label": "コンテンツ・マネジメント",
+			"sublabel": "Broadsign Control"
+		},
+		{
+			"id": "broadsignReach",
+			"label": "プログラマティック・マネジメント",
+			"sublabel": "Broadsign Reach"
+		},
+		{
+			"id": "broadsignDirect",
+			"label": "広告取引・マネジメント",
+			"sublabel": "Broadsign Direct"
+		},
+		{
+			"id": "broadsignPublish",
+			"label": "ローカル・マネジメント",
+			"sublabel": "Broadsign Publish",
+			"to": "https://docs.broadsign.com/broadsign-publish/en/"
+		},
+		{
+			"id": "broadsignAyuda",
+			"label": "Broadsign Ayuda"
+		}
+	],
+	"viewDocumentation": "ドキュメントを見る"
+}

@@ -1,0 +1,57 @@
+@import "../base/dependencies";
+
+#broadsign_platform {
+	.hero {
+		h1 {
+			font-size: calc(min(48px, 13vw));
+		}
+	}
+
+	h1 {
+		max-width: 20ch;
+	}
+
+	.hero_img {
+		max-width: 730px;
+		transform: translateX(-8%);
+		width: 90vw;
+	}
+
+	.aquarius_feature {
+		background: transparent;
+	}
+
+	&.retail_platform {
+		.shin {
+			margin-top: 200px;
+
+			.img {
+				margin-top: -160px;
+			}
+		}
+	}
+}
+
+@media (min-width:$sm) {
+	#broadsign_platform {
+
+		&.retail_platform {
+			.shin {
+				margin-top: 90px;
+
+				.img {
+					margin-top: -90px;
+				}
+			}
+		}
+	}
+}
+
+@media (min-width:$lg) {
+	#broadsign_platform {
+
+		h1 {
+			max-width: none;
+		}
+	}
+}

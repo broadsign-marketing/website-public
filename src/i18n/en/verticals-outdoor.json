@@ -1,0 +1,60 @@
+{
+	"seo": {
+		"title": "Digital Signage Outdoors",
+		"description": "Maximize your outdoor signage network's value with targeted ad delivery that puts the right messages in front of the right audience every single day."
+	},
+	"cta": {
+		"discoverCampaignPlanning": "Empower your team with Campaign Planning",
+		"discoverGlobalProgrammaticSSP": "Sell programmatically with our Programmatic SSP"
+	},
+	"Hero": {
+		"TitlePart1": "Build a more profitable",
+		"TitlePart2": "Outdoor",
+		"TitlePart3": "Signage Network",
+		"Blurb": "Maximize your outdoor signage network's value with targeted ad delivery that puts the right messages in front of the right audience every single day.",
+		"cta": "Request a Live Demo"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Fast and Flexible",
+			"Paragraph": "Upload new creative, push updates and make corrections in seconds to ensure your network always responds to your business's needs right away."
+		},
+		"Pane2": {
+			"Title": "Data-driven, Dynamic Content",
+			"Paragraph": "Capture your audience's attention with dynamic content triggered by external data. From sports scores to weather to stock updates, there's no shortage of ways to set off highly relevant campaigns."
+		},
+		"Pane3": {
+			"Title": "Smarter, Faster Sales",
+			"Paragraph": "Quickly respond to advertiser queries, book complex and multichannel campaigns, and offer different inventory packages to make the sales process as efficient for you and your customers as possible."
+		},
+		"Pane4": {
+			"Title": "Open the door to new opportunities",
+			"Paragraph": "Reach a more targeted audience with content delivered at specific times of day or in response to specific conditions."
+		}
+	},
+	"SpielPosterOutdoor": {
+		"title": "Succeed at Any Scale",
+		"text": "Don't lock yourself into a digital signage solution that works today but can't scale. Pick the platform that works at any screen count and set your network up for success, now and forever."
+	},
+	"quotes": [
+		{
+			"quote": "Broadsign is the ultimate tool box for everything digital out-of-home, providing us peace of mind to meet our customers' needs.",
+			"sign": "oOh!media"
+		},
+		{
+			"quote": "As a digital first business, Broadsign provides us with the ideal system that reliably accommodates every scheduling or dynamic request thrown our way by clients. I am yet to see an application that the platform cannot accommodate.",
+			"sign": "QMS"
+		}
+	],
+	"Customers": {
+		"Title": "Trusted by Outdoor Networks, Big and Small"
+	},
+	"Partners": {
+		"Title": "Partnership For Great Content",
+		"Tagline": "Engage your audience with Entertaining and Informative content provided by our partners"
+	},
+	"Shin": {
+		"Title": "How can your outdoor network benefit from the Broadsign platform?",
+		"cta": "Request a personalized demo to find out"
+	}
+}

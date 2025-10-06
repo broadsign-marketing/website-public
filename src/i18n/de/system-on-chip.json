@@ -1,0 +1,45 @@
+{
+	"seo": {
+		"title": "System-on-Chip - Verwaltung mit der Broadsign-Methode",
+		"description": "Die weltweit führende OOH-Digital Signage-Lösung, maßgeschneidert für Smart Screens."
+	},
+	"hero": {
+		"nowAvailable": "Jetzt verfügbar",
+		"title": "Broadsign für System-on-Chip",
+		"tagline": "Die weltweit führende OOH-Digital Signage-Lösung, maßgeschneidert für Smart Screens."
+	},
+	"features": {
+		"overtitle": "Ihre Smart Screens können mehr, als Sie denken",
+		"title": "Erweitern Sie die Möglichkeiten Ihres Digital Signage-Netzwerks und öffnen Sie die Tür für werbebasierte Inhalte",
+		"list": [
+			{
+				"id": "management",
+				"title": "Erweiterte Funktionen zur Verwaltung von Inhalten",
+				"description": "Greifen Sie auf die marktführenden CMS-Funktionen von Broadsign zu, wie z. B. intelligente Playlist-Generierung, Proof-of-Play-Berichte und dynamische Kampagnenbereitstellung."
+			},
+			{
+				"id": "network",
+				"title": "Vereinfachen Sie Ihr Netzwerk",
+				"description": "Verwalten Sie alle Ihre Bildschirme zentral und sparen Sie Zeit durch die Vereinfachung Ihrer DOOH-Managementprozesse."
+			},
+			{
+				"id": "revenue",
+				"title": "Erschließen Sie zusätzliche Einnahmen",
+				"description": "Erschließen Sie Werbeeinnahmen, indem Sie Ihre Displays mit unserer programmatischen SSP und unserer speziellen OOH-Kampagnenmanagementlösung integrieren."
+			},
+			{
+				"id": "growth",
+				"title": "Wachsen Sie so, wie Sie es wollen",
+				"description": "Steigern Sie die Effizienz Ihres OOH-Geschäfts mit unseren automatisierten Workflows, die kleinen Teams helfen, große Netzwerke zu verwalten."
+			}
+		]
+	},
+	"verticals": {
+		"par": "Unsere System-on-Chip-Lösung ist eine großartige Möglichkeit, Ihr Netzwerk von Smart Screens zu monetarisieren, zu verwalten und zu skalieren, ganz gleich, wo sie sich befinden.",
+		"list": ["Einzelhandel", "Essen und Getränke", "Kino", "Gastgewerbe", "Flughäfen", "Transitbereiche", "EV-Ladestationen", "Gesundheitsdienste"]
+	},
+	"supportedOn": { "p1": "Broadsign für SoC", "p2": "wird unterstützt auf" },
+	"formHeader": "Treten Sie noch heute mit uns in Kontakt, um herauszufinden, wie Broadsign Ihnen dabei helfen kann, mehr aus Ihren Smart Screens herauszuholen.",
+	"furtherReading": "Weitere Informationen zu unserer System-on-Chip-Lösung finden Sie in unserem neuesten Blogbeitrag!",
+	"thankYouSoC": "Vielen Dank für Ihr Interesse an unserer System-on-Chip-Lösung!"
+}

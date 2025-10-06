@@ -1,0 +1,12 @@
+@import "../base/dependencies";
+
+.VerticalFeature {}
+
+@media (min-width:$sm) {
+	.VerticalFeature {
+		.grid {}
+
+		.feature_img {}
+
+	}
+}

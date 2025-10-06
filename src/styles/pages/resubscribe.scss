@@ -1,0 +1,138 @@
+@import "../base/dependencies";
+
+@include animFadeIn();
+
+@keyframes arrow_fade_in {
+	0% {
+		opacity: 0;
+		transform: rotate(20deg) scale(0);
+	}
+
+	100% {
+		opacity: 1;
+		transform: rotate(0deg) scale(1);
+	}
+}
+
+#subscribe {
+	min-height: 70vh;
+	padding-bottom: 30px;
+
+	h1 {
+		margin-bottom: 1em !important;
+	}
+
+	p {
+		line-height: 160%;
+		margin-bottom: 2em;
+	}
+
+	.feature_logo {
+		display: block;
+		margin: 20px auto 60px;
+		max-width: 300px;
+	}
+
+	.panel {
+		$px: calc(max(16px, 4vw));
+		padding-left: $px;
+		padding-right: $px;
+	}
+
+	.submitted-message {
+		background-color: $zircon;
+		border-radius: 12px;
+		padding: 48px 32px;
+		text-align: center;
+
+		p {
+			font-size: 18px;
+			line-height: 160%;
+			margin: 0 auto;
+			max-width: 50ch;
+			text-align: center;
+		}
+
+		strong {
+			background: none;
+			color: $reflex;
+			display: block;
+			font-family: "Roboto Black", "Roboto";
+			font-size: 48px;
+			font-variant: small-caps;
+			font-weight: 900;
+			line-height: 100%;
+			margin: 0 0 1em;
+			padding: 0;
+			text-transform: lowercase;
+			width: 100%;
+		}
+
+		&:before {
+			background-image: url("../../img/ui/check_circle_green.svg");
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: contain;
+			content: "";
+			display: block;
+			height: 75px;
+			margin: 0 auto 32px;
+			width: 75px;
+		}
+	}
+
+	.info_btn {
+		@include fontBold;
+		color: $cerulean;
+		font-size: 0.9em;
+	}
+
+	.more_info_btn {
+		display: inline-block;
+	}
+
+	.less_info_btn {
+		display: none;
+		width: 100%;
+	}
+
+	.more_details {
+		@include fontReg;
+		color: $reflex;
+		display: none;
+		margin: 0.6em 0;
+	}
+
+	&.show_more_info {
+		.more_info_btn {
+			display: none;
+		}
+
+		.less_info_btn {
+			display: inline-block;
+		}
+
+		.more_details {
+			display: inline-block;
+		}
+	}
+
+	.thank_you_check {
+		height: 75px;
+		width: 75px;
+	}
+
+	&.variation_stroer {
+		div[class*="subscription_type_61666519"] {
+			display: block;
+		}
+	}
+}
+
+@media (max-width:$xsMax) {
+	#subscribe {
+		#explanation .arrow_wrapper {
+			display: none;
+		}
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"seo": {
+		"title": "Médias de détail en magasin",
+		"description": "Engagez les consommateurs avec des messages ciblés et contextualisés diffusés sur des écrans numériques alimentés par Broadsign. Intégrez harmonieusement vos publicités en magasin à votre réseau de médias de détail pour créer un parcours omnicanal connecté qui stimule l’engagement, accroît la valeur des paniers d’achats et génère de nouvelles opportunités de revenus."
+	},
+	"hero": {
+		"overtitle": "Médias de détail en magasin",
+		"title": "Générez des revenus supplémentaires grâce aux publicités numériques en magasin",
+		"blurb": "Engagez les consommateurs avec des messages ciblés et contextualisés diffusés sur des écrans numériques alimentés par Broadsign. Intégrez harmonieusement vos publicités en magasin à votre réseau de médias de détail pour créer un parcours omnicanal connecté qui stimule l’engagement, accroît la valeur des paniers d’achats et génère de nouvelles opportunités de revenus.",
+		"cta": "Contactez-nous"
+	},
+	"clients": {
+		"overtitle": "Réseaux de médias de détail en magasin propulsés par Broadsign"
+	},
+	"experiences": {
+		"title": "Renforcez vos liens avec les clients grâce à des expériences de magasinage omnicanales",
+		"source": "Source",
+		"boxes": [
+			{
+				"id": "decisions",
+				"num": "80",
+				"par": "des décisions d’achat sont prises en magasin. Il est donc essentiel pour les détaillants d'améliorer l'expérience en magasin, car elle constitue une opportunité de croissance. Source : Marketing Dive",
+				"source": "Marketing Dive"
+			},
+			{
+				"id": "value",
+				"num": "30",
+				"par": "plus de valeur à vie est observée chez les clients omnicanaux, car l’intégration de points de contact sur place, hors site et en magasin stimule les ventes et la fidélisation.",
+				"source": "McKinsey"
+			},
+			{
+				"id": "consumers",
+				"num": "63",
+				"par": "des consommateurs sont plus susceptibles d'acheter lorsqu'ils sont exposés à des publicités pertinentes et opportunes. Les médias numériques en magasin représentent ainsi un moyen efficace pour les marques d’entrer en contact avec la clientèle.",
+				"source": "Nielsen"
+			}
+		]
+	},
+	"features": {
+		"overtitle": "Médias de détail en magasin",
+		"title": "Faites croître vos affaires et votre clientèle grâce à la publicité numérique en magasin",
+		"list": [
+			{
+				"id": "convert_shoppers",
+				"overtitle": "Conversion de clients",
+				"title": "Créez une expérience de magasinage immersive et engageante",
+				"blurb": "Offrez une expérience immersive dans votre magasin grâce à du contenu dynamique personnalisé qui favorise la mémorisation des publicités, influence les décisions d’achat et renforce les liens avec les clients."
+			},
+			{
+				"id": "boost_shopping_cart_value",
+				"overtitle": "Augmentation de la valeur des paniers d’achats",
+				"title": "Présentez des messages pertinents qui inciteront les clients à ajouter des articles à leur panier d’achats",
+				"blurb": "Tirez parti de données en temps réel pour diffuser des publicités ciblées et pertinentes qui encouragent les achats impulsifs et incitent les gens à ajouter des articles à leur panier d’achats, maximisant ainsi les conversions et les ventes."
+			},
+			{
+				"id": "new_revenue_streams",
+				"overtitle": "Nouvelle source de revenus",
+				"title": "Monétisez les écrans numériques de vos magasins en y présentant des publicités endémiques ou non endémiques",
+				"blurb": "Transformez vos écrans numériques en moteur de revenus : vendez des espaces publicitaires à des partenaires tout en gardant le contrôle sur le contenu qui stimule l’engagement et les ventes."
+			}
+		]
+	},
+	"platform": {
+		"overtitle": "La plateforme Broadsign",
+		"title": "Automatisation intelligente, planification de contenu, diffusion de publicités, gestion de campagnes : notre plateforme fait le gros du travail pour vous.",
+		"boxes": [
+			{
+				"id": "automate",
+				"title": "Automatisez la diffusion de votre contenu en proposant la bonne campagne au bon moment",
+				"par": "Automatisez la planification et la diffusion des publicités pour diffuser facilement votre contenu à travers votre réseau de magasins, que ce soit à l’échelle nationale, régionale ou locale. Vous pourrez ainsi maximiser l'impact de vos campagnes et obtenir des résultats mesurables."
+			},
+			{
+				"id": "boost",
+				"title": "Suscitez l’engagement dans les magasins locaux pour stimuler les ventes",
+				"par": "Offrez aux magasins la possibilité de créer du contenu numérique qui stimule l'engagement, augmente l'achalandage en magasin et s'aligne parfaitement avec votre marque. Mettez en avant des assortiments de produits et des producteurs régionaux pour ajouter une touche locale, tout en permettant aux détaillants de contrôler le contenu diffusé sur les écrans afin d’assurer sa cohérence et sa pertinence."
+			},
+			{
+				"id": "endless",
+				"title": "Profitez d’opportunités publicitaires infinies",
+				"par": "Notre écosystème d’API ouverte s’intègre harmonieusement aux systèmes de commerce en ligne, de points de vente et de stocks publicitaires pour diffuser en temps réel du contenu basé sur les données qui améliore le parcours du client."
+			},
+			{
+				"id": "programmatic",
+				"title": "Diffusez des publicités programmatiques à votre façon",
+				"par": "Monétisez vos écrans à l’aide de publicités programmatiques tout en conservant un contrôle total sur le contenu diffusé, assurant ainsi une expérience harmonieuse en magasin. Adaptez les offres à vos besoins, ce qui vous offre la flexibilité nécessaire pour soutenir votre stratégie de revenus supplémentaires et maximiser vos rendements."
+			}
+		]
+	},
+	"relatedPosts": {
+		"overtitle": "Blogue",
+		"title": "En savoir plus sur les réseaux de médias de vente au détail en magasin",
+		"readMore": "Read Article"
+	},
+	"shin": {
+		"title": "Lancez votre réseau médiatique de vente au détail en magasin",
+		"par": "Découvrez comment Broadsign peut vous aider à maximiser vos revenus et à mieux satisfaire vos clients.",
+		"cta": "Contactez-nous"
+	},
+	"forms": {
+		"bookACall": {
+			"title": "Contactez-nous pour lancer votre réseau médiatique de vente au détail en magasin.",
+			"thankYou": ""
+		}
+	},
+	"learnMore": "En savoir plus",
+	"seeMore": "Lire plus"
+}

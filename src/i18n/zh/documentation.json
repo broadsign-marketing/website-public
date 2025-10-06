@@ -1,0 +1,74 @@
+{
+	"seo": {
+		"title": "产品文档",
+		"description": "有问题？您来对地方了！选择您想要了解的产品"
+	},
+	"hero": {
+		"overtitle": "有问题？您来对地方了！",
+		"title": "产品文档"
+	},
+	"platformDocumentation": "播尚Broadsign平台文档",
+	"otherProductDocumentation": "其他产品文档",
+	"platformDocs": [
+		{
+			"id": "guaranteedCampaigns",
+			"label": "Guaranteed Campaigns"
+		},
+		{
+			"id": "audienceCampaigns",
+			"label": "Audience Campaigns"
+		},
+		{
+			"id": "programmaticCampaigns",
+			"label": "程序化广告"
+		},
+		{
+			"id": "staticCampaigns",
+			"label": "静态广告系列"
+		},
+		{
+			"id": "creatives",
+			"label": "创意内容"
+		},
+		{
+			"id": "screenInventory",
+			"label": "屏幕库存"
+		},
+		{
+			"id": "audienceInventory",
+			"label": "受众库存"
+		},
+		{
+			"id": "userManagement",
+			"label": "用户管理"
+		}
+	],
+	"otherDocs": [
+		{
+			"id": "broadsignControl",
+			"label": "内容管理系统 CMS",
+			"sublabel": "Broadsign Control"
+		},
+		{
+			"id": "broadsignReach",
+			"label": "程序化广告",
+			"sublabel": "Broadsign Reach"
+		},
+		{
+			"id": "broadsignDirect",
+			"label": "Guaranteed Campaigns",
+			"sublabel": "Broadsign Direct"
+		},
+		{
+			"id": "broadsignPublish",
+			"label": "本地信息管理",
+			"sublabel": "Broadsign Publish",
+			"to": "https://docs.broadsign.com/broadsign-publish/en/"
+		},
+		{
+			"id": "broadsignAyuda",
+			"label": "Broadsign Ayuda"
+		}
+	],
+	"viewDocumentation": "查看文档"
+}

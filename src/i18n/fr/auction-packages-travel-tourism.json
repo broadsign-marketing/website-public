@@ -1,0 +1,118 @@
+{
+	"seo": {
+		"title": "Voyage et tourisme",
+		"description": "Mettez en valeur des destinations et des commerces locaux avec un contenu régional, en diffusant des publicités par affichage extérieur numérique dans des zones à forte concentration de publics cible et des messages adaptés au lieu de l'affichage."
+	},
+	"apSlug": "travelTourism",
+	"apLink": "343",
+	"apToken": "Zs0hFOIKAEx5ObQDNEM1dfy7myXLYDzI3wtZyzE07mxfYYNn4Zj2KUuxroFx",
+	"playbookLink": "lsoi",
+	"hero": {
+		"overtitle": "Inventaire",
+		"title": "Voyage et tourisme",
+		"blurb": "Mettez en valeur des destinations et des commerces locaux avec un contenu régional, en diffusant des publicités par affichage extérieur numérique dans des zones à forte concentration de publics cible et des messages adaptés au lieu de l'affichage.",
+		"ctaContact": "Communiquez avec nous",
+		"ctaExplore": "Découvrez notre pack",
+		"ctaBookADemo": ""
+	},
+	"benefits": {
+		"screenshot": {
+			"title": "Découvrez notre pack voyage et tourisme",
+			"ppcTitle": "",
+			"cta": "Découvrez ce pack"
+		},
+		"boxes": {
+			"audienceSegment": {
+				"title": "Segment d'audience",
+				"content": "Voyageurs potentiels"
+			},
+			"pointsOfInterest": {
+				"title": "Points d'intérêt",
+				"list": ["Aéroports", "salons VIP", "boutiques de détail luxueuses"]
+			},
+			"dayparts": {
+				"title": "Moments de la journée",
+				"list": ["Trajet vers le travail", "Heures de travail"]
+			},
+			"venueTypes": {
+				"title": "Types de lieux",
+				"audience": "Tous les affichages qui visent le public ciblé",
+				"placeBased": "Aéroports et salons VIP",
+				"outdoor": "À proximité ou sur le parcours vers l'aéroport"
+			},
+			"moments": {
+				"title": "Moments",
+				"subtitle": "",
+				"content": "Diffusez des publicités judicieuses axées sur les finances ou sur les conditions météorologiques, par exemple la météo actuelle à une destination alléchante, un taux de change avantageux, ou les conditions météorologiques locales défavorables."
+			}
+		}
+	},
+	"audienceSegments": {
+		"title": "Découvrez nos segments d'audience « Voyage et tourisme »",
+		"list": [
+			{
+				"category": "Voyageurs d'affaires",
+				"description": "Les voyageurs d'affaires sont majoritairement âgés de 25 à 54 ans. Ils sont constamment en déplacement et ils fréquentent les restaurants avec des clients et des partenaires. Leur revenu familial moyen est de 75 000 $ et plus."
+			},
+			{
+				"category": "Les vacanciers",
+				"description": "Les vacanciers se classent dans une large tranche d'âges, et leur revenu familial moyen est de 60 000 $ et plus. Ce sont des professionnels disposant de liquidités disponibles appréciables, qui veulent déroger à leur horaire habituel de 9 h à 17 h et à leur routine d'entraînement."
+			},
+			{
+				"category": "Les « navetteurs »",
+				"description": "Les navetteurs font quotidiennement le trajet aller-retour au travail, ils sont majoritairement âgés de 25 à 54 ans. Ils travaillent de 9 h à 17 h et ils sont souvent soucieux de leur budget. Leur revenu familial moyen est de 40 000 $ et plus. "
+			},
+			{
+				"category": "Les adeptes de croisières",
+				"description": "Les adeptes de croisières sont majoritairement âgés de 25 à 54 ans. Ce sont généralement des professionnels disposant d'un revenu familial supérieur à la moyenne, qui aiment se détacher de leur routine pour une période prolongée."
+			},
+			{
+				"category": "Les voyageurs itinérants",
+				"description": "Les voyageurs itinérants sont souvent des professionnels jeunes et aventureux disposant d'un revenu familial supérieur à la moyenne. Ils utilisent habituellement les applications de voyage pour organiser leur itinéraire. Ils aiment manger à l'extérieur dans des endroits bien cotés et ils écoutent de la musique en diffusion continue lorsqu'ils se déplacent."
+			},
+			{
+				"category": "Acheteurs de voyages",
+				"description": "Les acheteurs de voyages ont souvent entre 25 et 34 ans, ce sont des professionnels ou des retraités de plus de 55 ans, dont le revenu familial dépasse 75 000 $. Ils recherchent des destinations potentielles avec des applications de voyage, ils magasinent au moyen d'applications de comparaison, ils visitent les sites de voyages offrant des forfaits et des options sur leurs applications aériennes préférées qui leur procurent des primes de fidélisation."
+			},
+			{
+				"category": "Acheteurs de croisières",
+				"description": "Les acheteurs de croisières ont souvent entre 25 et 34 ans, ce sont des professionnels ou des retraités de plus de 55 ans dont le revenu familial dépasse 75 000 $. Ils recherchent des destinations potentielles avec des applications de voyage, ils magasinent au moyen d'applications de comparaison, ils visitent les sites de voyages offrant des forfaits et des options sur leurs applications aériennes préférées qui leur procurent des primes de fidélisation."
+			},
+			{
+				"category": "Les acheteurs de billets d'avion",
+				"description": "Les acheteurs de billets d'avion ont souvent entre 25 et 34 ans, ce sont des professionnels ou des retraités de plus de 55 ans dont le revenu familial dépasse 75 000 $. Ils recherchent des destinations potentielles avec des applications de voyage, ils magasinent au moyen d'applications de comparaison, ils visitent les sites de voyages offrant des forfaits et des options sur leurs applications aériennes préférées qui leur procurent des primes de fidélisation."
+			},
+			{
+				"category": "Acheteurs de séjours à l'hôtel",
+				"description": "Les acheteurs de séjours à l'hôtel ont généralement entre 25 et 34 ans, ce sont des professionnels ou des retraités de plus de 55 ans dont le revenu familial dépasse 60 000 $. Ils utilisent des applications pour magasiner les options et les services offerts, et ils aiment les comparer avec leur application d'hôtel préférée qui leur procure des récompenses de fidélisation."
+			},
+			{
+				"category": "Les acheteurs de location de voiture",
+				"description": "Les acheteurs de location de voiture ont principalement entre 25 et 34 ans, ce sont des professionnels dont le revenu familial dépasse 100 000 $. Ils recherchent la liberté et la flexibilité de voyager en explorant selon leur propre itinéraire, et ils obtiennent souvent des primes de fidélité auprès de leur compagnie aérienne ou de location de voiture."
+			}
+		]
+	},
+	"advantages": {
+		"title": "Mettez en valeur des compagnies aériennes, des hôtels, des destinations et plus!",
+		"list": [
+			"Diffusez des publicités au moyen de l'affichage extérieur numérique là où le public est enclin au voyage.",
+			"Imposez-vous dans l'esprit des consommateurs lorsqu'ils passent de l'intention à la décision.",
+			"Mettez en valeur des promotions saisonnières en adaptant le message en fonction de certaines périodes de l'année, comme les vacances d'hiver."
+		]
+	},
+	"playbook": {
+		"title": "Le voyage et le tourisme sont des secteurs en croissance mondialement",
+		"par": "Consultez notre guide pour découvrir des façons inédites dont les spécialistes du marketing tirent profit de l'affichage extérieur pour rehausser leur notoriété et les ventes.",
+		"cta": "Téléchargez notre guide"
+	},
+	"talkToASpecialist": {
+		"title": "Parlez à un spécialiste média de Broadsign dès maintenant!",
+		"cta": "Communiquez avec nous"
+	},
+	"marketplace": {
+		"overtitle": "Déterminez le bon segment d'audience pour votre campagne",
+		"title": "Explorez notre inventaire",
+		"cta": "Voir l'ensemble de notre inventaire"
+	},
+	"modalExplorePackage": { "title": "Découvrez notre pack voyage et tourisme" }
+}

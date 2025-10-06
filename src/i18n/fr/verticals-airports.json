@@ -1,0 +1,54 @@
+{
+	"seo": {
+		"title": "Affichage numérique dans les aéroports",
+		"description": "Tissez des liens plus solides avec les passagers et les familles grâce à un réseau d'affichage numérique qui met le bon contenu et les bons services devant les bonnes personnes."
+	},
+	"title": "Airports",
+	"Hero": {
+		"TitlePart2": "Propulsez votre réseau de",
+		"TitlePart3": "Signalisation Numérique",
+		"TitlePart1": "à l'Aéroport",
+		"Blurb": "Des aéroports tout en lumière : grâce à l'affichage numérique, vous pourrez présenter aux voyageurs les publicités et renseignements qu'ils désirent, peu importe leur destination.",
+		"cta": "Demandez une démo en direct"
+	},
+	"Lattice": {
+		"Pane1": {
+			"Title": "Toujours à temps pour l'avion",
+			"Paragraph": "Intégrez à votre aéroport des cartes, une signalisation, des horaires et autres affichages utiles pour aider vos clients à se présenter à temps pour leur vol."
+		},
+		"Pane2": {
+			"Title": "Divertissement et information",
+			"Paragraph": "Diffusez les dernières nouvelles sur le marché, la météo, la circulation et plus encore, ou affichez du contenu divertissant qui plaira aux clients dans les aires d'attente."
+		},
+		"Pane3": {
+			"Title": "Des voyages rentabilisés",
+			"Paragraph": "Exploitez le plein potentiel des écrans de votre aéroport grâce à un affichage publicitaire intelligent, lequel présente du contenu pertinent aux passagers en tout temps."
+		},
+		"Pane4": {
+			"Title": "Tous vos écrans à portée de main",
+			"Paragraph": "Des affichages numériques aux kiosques d'information, gérez efficacement tous les écrans de votre réseau à partir d'une plateforme centralisée."
+		}
+	},
+	"SpielPosterAirports": {
+		"title": "Des publicités percutantes",
+		"text": "Synchronisez plusieurs écrans pour créer un effet visuel ciblé ou utilisez l'ensemble de votre affichage pour attirer toute l'attention sur une seule marque vedette."
+	},
+	"cards": {
+		"title": "Des options flexibles pour maximiser les ventes de publicité",
+		"par": "Grâce à des outils spécialisés destinés aux équipes de ventes directes et programmatiques, vous pourrez dépasser vos objectifs de vente et rejoindre de nouveaux acheteurs.",
+		"direct": "Dotez vos équipes de vente de nouvelles capacités grâce à Broadsign Direct ",
+		"reach": "Augmentez vos ventes grâce à notre SSP programmatiques"
+	},
+	"Quoteblock": {
+		"Quote": "Broadsign est maintenant au cœur de nos activités. Nous avons adopté Broadsign, et l'entreprise entière s'y est adaptée. ",
+		"Signature": "MMD Media"
+	},
+	"Partners": {
+		"Title": "Une collaboration avec nos partenaires pour du contenu hors pair",
+		"Tagline": "Créez votre contenu, travaillez avec des entreprises locales ou faites rayonner vos affichages en collaborant avec nos partenaires en contenu d'affichage numérique, en signalisation et en analyse du public."
+	},
+	"Shin": {
+		"Title": "Comment le réseau d'affichage numérique de votre aéroport peut-il tirer parti de la plateforme Broadsign?",
+		"cta": "Demandez une démonstration personnalisée pour le savoir"
+	}
+}

@@ -1,0 +1,239 @@
+@import "../../base/dependencies";
+
+#broadsign_connect_summit_2025 {
+	$lightBlue: #6BEAF2;
+
+	.hero {
+		background-image: url("../../../img/pages/events/broadsign-connect-summit-2025/hero_bg.jpg");
+		background-position: top center;
+		background-size: cover;
+
+		img {
+			max-width: 100%;
+		}
+
+		&:after {
+			@include bg;
+			background: rgba(#111731, 0.6);
+			content: "";
+			z-index: 1;
+		}
+
+		.scroll_cta {
+			border-radius: 1000px;
+
+			&:hover {
+				background: rgba(#FFF, 0.3);
+			}
+		}
+	}
+
+	.resource_card {
+		color: #FFF;
+		text-align: left;
+
+		.thumbnail {
+			aspect-ratio: 16/9;
+			width: 100%;
+		}
+
+		.play_btn {
+			background: #0F1524;
+			border-radius: 1000px;
+			box-shadow: 4px 4px 16px rgba(#0F1524, 0.2);
+			height: 45px;
+			left: 50%;
+			top: 50%;
+			transform: translate(-50%, -50%);
+			width: 45px;
+		}
+
+		.dash {
+			border-bottom: 1px solid #FFF;
+			width: 16px;
+		}
+
+		.event_logo {
+			max-width: 100%;
+		}
+
+		.details {
+			flex: 1 1 auto;
+		}
+
+		.cta {
+			background-color: #FFF;
+			border: 1px solid $midnight;
+			border-radius: 1000px;
+			color: $midnight;
+			display: inline-block;
+			padding: 0.5em 1.2em 0.4em;
+			transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+		}
+
+		.vip_badge {
+			margin-left: 0.5ch;
+			transform: translateY(5%);
+		}
+
+		.link_cerulean_arrow {
+			&:after {
+				filter: grayscale(1) brightness(100);
+			}
+		}
+
+		&:hover {
+			.link_cerulean_arrow:after {
+				@include animateArrow;
+			}
+		}
+
+		&.featured {
+
+
+			.thumbnail {
+				flex: 0 0 66.666666%;
+			}
+
+			.cta {
+				background-color: $midnight;
+				border-color: #FFF;
+				color: #FFF;
+				padding: 0.65em 1.8em 0.6em;
+			}
+
+			&:hover {
+				.cta {
+					background-color: #FFF;
+					color: $midnight;
+				}
+			}
+		}
+
+		&:hover {
+			.cta {
+				background-color: $midnight;
+				border-color: #FFF;
+				color: #FFF;
+			}
+		}
+	}
+
+	.presenter {
+		.portrait_wrapper {
+			@include flexCenter;
+			border: 2px solid $lightBlue;
+			border-radius: 1000px;
+			flex: 0 0 38px;
+			height: 38px;
+			width: 38px;
+
+		}
+
+		.portrait {
+			height: 28px;
+			width: 28px;
+		}
+	}
+
+	#hull {
+		.tabs {
+			button {
+				border-bottom: 1px solid #263F5D;
+				margin-bottom: 1px;
+				padding-bottom: 0.8em;
+				transition: border 0.3s, height 0.3s;
+				width: 50%;
+
+				.label {
+					display: inline-block;
+					transform: scaleY(0.92);
+				}
+
+				&.active {
+					border-bottom: 3px solid $lightBlue;
+					margin-bottom: 0px;
+				}
+			}
+		}
+
+		section {
+			height: 100%;
+			left: 0;
+			min-height: 800px;
+			opacity: 0;
+			pointer-events: none;
+			position: absolute;
+			top: 0;
+			transition: opacity 0.6s ease;
+			z-index: 1;
+
+			&.active {
+				opacity: 1;
+				pointer-events: all;
+				position: relative;
+				z-index: 2;
+			}
+		}
+	}
+}
+
+@keyframes spark {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(359deg);
+	}
+}
+
+.vip_spark_badge {
+	display: inline-block;
+	margin-left: 0.5ch;
+	position: relative;
+	transform: translateY(5%);
+
+	.vip_spark {
+		animation: spark 2s linear 0s infinite;
+		position: absolute;
+		right: -4px;
+		top: -4px;
+	}
+}
+
+.email_only_field {
+	appearance: none;
+	background: #FFF none;
+	border: 1px solid $soft;
+	border-radius: 6px;
+	box-sizing: border-box;
+	color: $ash;
+	font-size: 16px;
+	letter-spacing: 0.02em;
+	min-height: 44px;
+	outline: 1px solid transparent;
+	padding: 8px min(2vw, 16px) 7px;
+	transition-duration: 0.3s;
+	transition-property: background-color, border-color, color, outline;
+	width: 100%;
+}
+
+.Modal {
+	.vimeo_video {
+		aspect-ratio: 16/9;
+		width: 100%;
+	}
+
+
+}
+
+@media (min-width:$sm) {
+	#broadsign_connect_summit_2025 .resource_card.featured {
+		min-height: min(40vw, 430px);
+
+		.thumbnail {
+			aspect-ratio: auto;
+		}
+	}
+}
