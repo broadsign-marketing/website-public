@@ -78,6 +78,12 @@
 		"static-report": {
 			"tagline": "Get the latest industry insights from our State of Static Out-of-Home report",
 			"cta": "Get it now"
+		},
+		"inside-ooh": {
+			"title": "Become an OOH expert",
+			"par": "No fluff, just what you need to know delivered to your inbox every week.",
+			"subtitle": "Subscribe to the Inside OOH Newsletter",
+			"cta": "Subscribe to Inside OOH"
 		}
 	},
 	"searchResults": {

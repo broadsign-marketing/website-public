@@ -81,6 +81,12 @@
 					"text": "Thank you for subscribing!"
 				}
 			],
+			"newsletterInsideOOH": [
+				{
+					"class": "",
+					"text": "Thank you for subscribing!"
+				}
+			],
 			"privacyPolicy": [
 				{
 					"class": "em",
@@ -218,6 +224,12 @@
 					"text": "Merci pour votre inscription!"
 				}
 			],
+			"newsletterInsideOOH": [
+				{
+					"class": "",
+					"text": "Merci pour votre inscription!"
+				}
+			],
 			"privacyPolicy": [
 				{
 					"class": "em",
@@ -344,6 +356,12 @@
 				}
 			],
 			"newsletter": [
+				{
+					"class": "",
+					"text": " ¡Gracias por suscribirse!"
+				}
+			],
+			"newsletterInsideOOH": [
 				{
 					"class": "",
 					"text": " ¡Gracias por suscribirse!"

@@ -1,16 +1,13 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { graphql } from "gatsby";
 import T from "i18n-react";
 import { useDico } from "@hooks/useDico";
-import clsx from "clsx";
 import { routeWithUtmForm } from "@route";
 
 import Container from "@components/Container";
-import CTA from "@components/CTA";
 import Form from "@components/Form";
 import { GatsbyImage as Img } from "gatsby-plugin-image";
 import Layout from "@components/layout";
-import Link from "@components/LocalizedLink";
 import Modal from "@components/Modal";
 
 import "@sass/pages/subscribe_inside_ooh.scss";
@@ -25,22 +22,59 @@ export default function SubscribeInsideOOH({ pageContext: { l, dicoPath, archive
 
 	useDico(l, dicoPath);
 
-	const pastEditions = useMemo(
-		() => archives.filter((entry) => entry.Language.value === l && ["Buy-Side Weekly", "Inside OOH"].includes(entry.Series.value)),
-		[l, archives]
-	);
+	const pastEditions = useMemo(() => {
+		console.log(archives);
+		return archives
+			.filter((entry) => entry.Language.value === l && ["Buy-Side Weekly", "Inside OOH"].includes(entry.Series.value))
+			.sort((a, b) => new Date(b.Date) - new Date(a.Date))
+			.slice(0, 8);
+	}, [l, archives]);
+
+	const scrollContainerRef = useRef(null);
+
+	const handleWindowResize = useCallback(() => {
+		const scrollContainer = scrollContainerRef.current;
+		const cards = document.querySelectorAll(".past_editions .card");
+
+		if (!scrollContainer || cards.length === 0) return;
+
+		const scrollContainerBottom = scrollContainer.getBoundingClientRect().bottom;
+
+		cards.forEach((card) => {
+			const cardBottom = card.getBoundingClientRect().bottom;
+
+			if (window.innerWidth > 600 && cardBottom > scrollContainerBottom) {
+				card.style.opacity = "0";
+				scrollContainer.scrollTo({ top: 0 });
+			} else {
+				card.style.opacity = "1";
+			}
+		});
+	}, []);
+
+	useEffect(() => {
+		if (typeof window !== "undefined") {
+			window.addEventListener("resize", handleWindowResize, { passive: true });
+
+			handleWindowResize();
+
+			return () => {
+				window.removeEventListener("resize", handleWindowResize);
+			};
+		}
+	}, [handleWindowResize]);
 
 	return (
 		<Layout id="subscribe_inside_ooh" className="theme_carolina">
 			<section className="hero flex flex-column flex-nowrap justify-content-center align-items-center pt-12 z-1">
 				<Img image={data.hero_bg.childImageSharp.gatsbyImageData} className="bg" alt="" />
 				<div className="card p-8 z-1 sm:p-12 md:p-15">
-					<div className="inline-block bg-gradient rounded-full px-4 py-2 mb-10">
+					<div className="inline-block bg-gradient rounded-full px-4 py-2 mb-4">
 						<p className="text-white text-14 font-medium uppercase line-height-80 m-0 letter-spacing-5">{T.translate("hero.overtitle")}</p>
 					</div>
-					<h1 className="text-white text-center text-transform-none">{T.translate("hero.title")}</h1>
+					<h1 className="text-white text-center line-height-120 text-transform-none">{T.translate("hero.title")}</h1>
 					<p className="blurb text-white text-20 font-medium text-center">{T.translate("hero.par")}</p>
-					<Form form="newsletterInsideOOH" submitText={T.translate("hero.cta")} redirectUrl={routeWithUtmForm("thankYou", "inside_ooh")} />
+					<Form form="newsletterInsideOOH" submitText={T.translate("hero.cta")} redirectUrl={routeWithUtmForm("thankYou", "inside_ooh")} uid="1" />
 				</div>
 				<Container className="pb-25">
 					<Img image={data.hero_img.childImageSharp.gatsbyImageData} className="hero_img absolute z-2" alt="" />
@@ -91,17 +125,22 @@ export default function SubscribeInsideOOH({ pageContext: { l, dicoPath, archive
 									{T.translate("hull.formCard.title")}
 								</h2>
 								<p className="text-white text-20 letter-spacing-1 text-center mb-8 md:text-24">{T.translate("hull.formCard.subtitle")}</p>
-								<Form form="newsletterInsideOOH" submitText={T.translate("hero.cta")} />
+								<Form
+									form="newsletterInsideOOH"
+									submitText={T.translate("hero.cta")}
+									redirectUrl={routeWithUtmForm("thankYou", "inside_ooh")}
+									uid="2"
+								/>
 							</div>
 						</div>
 					</div>
 					<div className="col-12 sm:col-6 md:col-5 lg:col-4">
-						<div className="past_editions_scroll">
+						<div className="past_editions_scroll sm:pl-8 lg:pl-0" ref={scrollContainerRef}>
 							<h2 className="text-16 text-transform-none mb-3">{T.translate("pastEditions")}</h2>
 							<div className="past_editions">
 								{pastEditions.map((e, k) => (
 									<button onClick={() => setOpenPastEdition(e.Link)} className="div card" key={k}>
-										<h3 className="text-gradient text-transform-none mb-2">{e.Title}</h3>
+										<h3 className="text-reflex text-transform-none mb-2">{e.Title}</h3>
 										<p className="read_more font-medium">{T.translate("readMore")}</p>
 									</button>
 								))}

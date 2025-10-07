@@ -67,11 +67,16 @@
 				border: 1px solid #fff;
 				border-radius: 12px;
 				margin: 0 0 30px;
-				padding: min(3vw, 20px);
+				padding: 12px;
 
 				&:hover {
 					background-color: rgba(#fff, 0.3);
 				}
+			}
+
+			.related_thumb {
+				aspect-ratio: 11 / 5;
+				height: auto;
 			}
 
 			.related_date,

@@ -543,10 +543,6 @@
 		"es": "es/politica-de-proteccion-de-datos",
 		"de": "de/datenschutzrichtlinie"
 	},
-	"privacyVendors": {
-		"js": "privacy-vendors",
-		"en": "privacy-vendors"
-	},
 	"termsConditions": {
 		"js": "terms-conditions",
 		"en": "terms-conditions"
@@ -734,6 +730,10 @@
 	"subscribeProductNews": {
 		"js": "subscribe/product-news",
 		"en": "subscribe/product-news"
+	},
+	"subscribeInsideOOH": {
+		"js": "subscribe/inside-ooh",
+		"en": "subscribe/inside-ooh"
 	},
 	"broadsignPlatformEvolution": {
 		"en": "blog/modernizing-the-platform-that-powers-out-of-home-introducing-the-evolution-of-broadsign",

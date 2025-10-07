@@ -59,22 +59,22 @@
 		"relatedTitle": "In the meantime, check out the links below for more on digital signage."
 	},
 	"inside_ooh": {
-		"title": "Thanks for your interest in our newsletter!",
-		"blurb": "A member of our team will be in touch shortly to schedule a meeting.",
-		"relatedTitle": "In the meantime, check out the links below for more on digital signage.",
+		"title": "Thanks for becoming an OOH Insider!",
+		"blurb": "You’re in. Get ready for the latest in OOH trends, standout campaigns, and expert insights, delivered to your inbox every week.",
+		"relatedTitle": "In the meantime, feel free to dive into some of our most popular content:",
 		"related": [
 			{
-				"id": "samsung",
+				"id": "favourite_billboards",
 				"type": "blog",
 				"cta": "Read more"
 			},
 			{
-				"id": "cardoor",
+				"id": "attribution",
 				"type": "blog",
 				"cta": "Read more"
 			},
 			{
-				"id": "qr_codes",
+				"id": "uber",
 				"type": "blog",
 				"cta": "Read more"
 			}

@@ -15,7 +15,8 @@
 	}
 
 	.date_author {
-		.date {}
+		.date {
+		}
 
 		.author {
 			border-left: 1px solid rgba($ash, 0.5);
@@ -28,7 +29,7 @@
 		@include blogImage;
 		aspect-ratio: 11 / 5;
 
-		&>div {
+		& > div {
 			max-width: 100% !important;
 		}
 	}
@@ -48,7 +49,7 @@
 
 	iframe {
 		border-radius: 12px;
-		box-shadow: 4px 4px 16px #AAA;
+		box-shadow: 4px 4px 16px #aaa;
 		box-sizing: border-box;
 		margin: 40px auto;
 		width: 100%;
@@ -56,7 +57,6 @@
 
 	/* 2023-02-15, LeKevoid says : using .gatsby-image-wrapper here is NOT a mistake. */
 	.post_content {
-
 		img,
 		.gatsby-image-wrapper {
 			@include blogMediaBoxShadow;
@@ -64,14 +64,13 @@
 		}
 
 		.gatsby-image-wrapper {
-
 			img,
 			picture {
 				height: auto;
 				width: 100%;
 			}
 
-			&>div {
+			& > div {
 				max-width: 100% !important;
 			}
 		}
@@ -129,7 +128,8 @@
 	}
 
 	.Carousel {
-		button {}
+		button {
+		}
 
 		.arrow {
 			left: 0%;
@@ -171,7 +171,6 @@
 		}
 
 		&.type_infographic_wide {
-
 			&,
 			iframe {
 				aspect-ratio: 17 / 12;
@@ -207,10 +206,10 @@
 		position: relative;
 		width: 100%;
 
-		&>.wp-block-image {
+		& > .wp-block-image {
 			@for $i from 2 through 10 {
 				&:nth-child(#{$i}) {
-					transform:translateX(#{($i - 1) * -100%});
+					transform: translateX(#{($i - 1) * -100%});
 				}
 			}
 
@@ -227,7 +226,7 @@
 			transition: opacity 0.4s;
 			width: 100%;
 
-			&>.gatsby-image-wrapper {
+			& > .gatsby-image-wrapper {
 				align-items: center;
 				display: flex !important;
 				justify-content: center;
@@ -318,7 +317,7 @@
 
 		.social_media_icon {
 			@include flexCenter;
-			background-color: #FFF;
+			background-color: #fff;
 			border: 1px solid $reflex;
 			height: 32px;
 			transition: background-color 0.3s ease;
@@ -360,12 +359,18 @@
 				}
 
 				p {
-					color: #FFF;
+					color: #fff;
 					display: block;
 					font-size: 24px;
 					letter-spacing: 0.1em;
 					line-height: 140%;
 				}
+			}
+
+			.hs_consent_to_inside_ooh_newsletter span {
+				font-size: 11px;
+				padding-left: 4px;
+				width: calc(100% + 8px);
 			}
 		}
 	}
@@ -416,16 +421,16 @@ html[lang="pt"] {
 	}
 }
 
-@media (min-width:$sm) {
+@media (min-width: $sm) {
 	#blog_post {
-		.hero {}
+		.hero {
+		}
 	}
 }
 
-@media (min-width:$md) {
+@media (min-width: $md) {
 	#blog_post {
 		.post_content {
-
 			img,
 			.gatsby-image-wrapper {
 				border-radius: 10px;
@@ -434,19 +439,20 @@ html[lang="pt"] {
 			}
 		}
 
-		.gatsby-image-wrapper.hero {}
+		.gatsby-image-wrapper.hero {
+		}
 
 		.cta_box_wrapper {
 			transition: opacity 1s ease;
 
-			&>div {
+			& > div {
 				max-height: calc(90vh - 200px);
 				overflow-y: auto;
 				position: relative;
 				width: 100%;
 			}
 
-			&>.fixed {
+			& > .fixed {
 				max-width: 340px;
 				position: fixed;
 				top: 240px;
@@ -454,7 +460,7 @@ html[lang="pt"] {
 			}
 
 			&.opacity-0,
-			&>.opacity-0 {
+			& > .opacity-0 {
 				pointer-events: none;
 			}
 
@@ -466,10 +472,10 @@ html[lang="pt"] {
 	}
 }
 
-@media (max-width:$xsMax) {
+@media (max-width: $xsMax) {
 	#blog_post {
 		.cta_box_wrapper {
-			&>div {
+			& > div {
 				display: block;
 				margin-top: 40px;
 				opacity: 1 !important;
@@ -482,7 +488,7 @@ html[lang="pt"] {
 	}
 }
 
-@media (min-width:$md) {
+@media (min-width: $md) {
 	#blog_post {
 		.infographic {
 			height: min(40vw, 560px);
@@ -490,10 +496,10 @@ html[lang="pt"] {
 	}
 }
 
-@media (min-width:$lg) {
+@media (min-width: $lg) {
 	#blog_post {
 		.cta_box_wrapper {
-			&>.fixed {
+			& > .fixed {
 				max-width: 260px;
 				width: 22.5vw;
 			}

@@ -111,6 +111,10 @@ export default function ThankYouPage({ pageContext: { l, dicoPath }, location: {
 			out = [...data.posts_retail.nodes, ...out];
 		}
 
+		if (variation === "inside_ooh") {
+			out = [...data.posts_inside_ooh.nodes, ...out];
+		}
+
 		return out.slice(0, 3);
 	}, [variation]);
 
@@ -206,6 +210,13 @@ export const queryThankYou = graphql`
 		}
 
 		posts_retail: allWpPost(sort: { date: DESC }, filter: { tags: { nodes: { elemMatch: { slug: { regex: "/retail/" } } } } }, limit: 3) {
+			nodes {
+				...BlogPost
+				formattedDate: date(formatString: "LL", locale: $l)
+			}
+		}
+
+		posts_inside_ooh: allWpPost(sort: { date: DESC }, filter: { databaseId: { in: [17642, 42868, 42776] } }, limit: 3) {
 			nodes {
 				...BlogPost
 				formattedDate: date(formatString: "LL", locale: $l)

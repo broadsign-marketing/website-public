@@ -89,6 +89,12 @@
 		overflow: hidden;
 	}
 
+	.Loading {
+		.line {
+			border-color: #fff #fff #fff transparent;
+		}
+	}
+
 	.Form {
 		max-width: 400px;
 
@@ -103,8 +109,23 @@
 		}
 
 		.hs-form-booleancheckbox {
+			input + span {
+				@include fontLight;
+				padding-left: 16px;
+
+				&:before {
+					--size: 1.8em;
+					height: var(--size);
+					max-height: var(--size);
+					max-width: var(--size);
+					top: -0.35em;
+					width: var(--size);
+				}
+			}
+
 			label span {
 				color: #fff;
+				font-size: 12px;
 			}
 
 			a {
@@ -138,6 +159,8 @@
 	.past_editions_scroll {
 		height: 80vh;
 		height: 80svh;
+		margin-bottom: 80px;
+		overflow-y: auto;
 	}
 
 	.past_editions {
@@ -176,7 +199,8 @@
 			@include custom_scrollbar;
 			height: calc(100% - min(20vw, 200px));
 			left: 0;
-			overflow-y: auto;
+			margin: 0;
+			overflow: hidden;
 			position: absolute;
 			top: 0;
 			width: 100%;

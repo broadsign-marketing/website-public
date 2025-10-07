@@ -235,29 +235,6 @@ export default function EventsList({ l, today, eventsFromWP, eventsFromBaserow, 
 				return 0;
 			});
 
-		/*
-		Allows to pass the slug of an event, e.g.:
-		https://broadsign.com/events?highlight=geopath-oaaa-conference
-		If such a slug is detected, the corresponding event will be put as featured (on top) on the page.
-		Any event that is normally marked as featured, will be ignored (i.e., NON-Featured) in this case.
-		*/
-
-		const highlightEvent: string = highlight.match(/highlight=([^?&]+)/)?.[1] || "";
-		if (highlightEvent) {
-			out = out
-				.map((e) => ({ ...e, isFeatured: false }))
-				.sort((a, b) => {
-					if (a.slug === highlightEvent) {
-						return -1;
-					}
-					if (b.slug === highlightEvent) {
-						return 1;
-					}
-
-					return 0;
-				});
-		}
-
 		return out;
 	});
 
@@ -317,9 +294,33 @@ export default function EventsList({ l, today, eventsFromWP, eventsFromBaserow, 
 		fetchClientEventsFromBaserow();
 	}, []);
 
-	const allEvents = [...clientEvents, ...serverEvents];
-	const uniqueEvents = allEvents.filter((event, index, self) => index === self.findIndex((e) => e.id === event.id));
-	const events = uniqueEvents.sort((a, b) => new Date(a.dateStart) - new Date(b.dateStart));
+	/*
+		Aggregate events.
+		Then allows to pass the slug of an event, e.g.:
+		https://broadsign.com/events?highlight=geopath-oaaa-conference
+		If such a slug is detected, the corresponding event will be put as featured (on top) on the page.
+		Any event that is normally marked as featured, will be ignored (i.e., NON-Featured) in this case.
+	*/
+
+	const highlightEvent: string = highlight.match(/highlight=([^?&]+)/)?.[1] || "";
+
+	const events = useMemo(() => {
+		const allEvents = [...clientEvents, ...serverEvents];
+		const uniqueEvents = allEvents.filter((event, index, self) => index === self.findIndex((e) => e.id === event.id));
+		return uniqueEvents
+			.sort((a, b) => new Date(a.dateStart) - new Date(b.dateStart))
+			.map((e) => ({ ...e, isFeatured: false }))
+			.sort((a, b) => {
+				if (a.slug === highlightEvent) {
+					return -1;
+				}
+				if (b.slug === highlightEvent) {
+					return 1;
+				}
+
+				return 0;
+			});
+	}, [clientEvents, serverEvents, highlightEvent]);
 
 	const handleOpenModal = useCallback(
 		(eventID: string) => {

@@ -76,7 +76,7 @@ export default function Footer() {
 	const { pathname } = useLocation();
 
 	const openCookieBanner = useCallback(() => {
-		if (typeof Onetrust !== "undefined") Onetrust.ToggleInfoDisplay();
+		OneTrust.ToggleInfoDisplay();
 	}, []);
 
 	const variation = useMemo(() => {

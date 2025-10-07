@@ -24,17 +24,11 @@
 		text-transform: none;
 	}
 
-	p,
-	ul li {
+	p {
 		color: $ash;
 		font-size: 16px;
 		line-height: 160%;
 		margin-bottom: 1em;
-	}
-
-	ul {
-		margin-bottom: 1em;
-		padding-left: 1.2em;
 	}
 
 	b {
@@ -74,8 +68,7 @@
 		.tab {
 			background-color: $periwinkle;
 			border-radius: 12px 12px 0 0;
-			box-shadow: 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 14px inset #b8cef9, 0px 0px 14px inset #b8cef9,
-				0px 0px 14px inset #b8cef9;
+			box-shadow: 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 14px inset #B8CEF9, 0px 0px 14px inset #B8CEF9, 0px 0px 14px inset #B8CEF9;
 			height: $tabHeight;
 			position: relative;
 			transition-duration: 0.6s;
@@ -88,7 +81,7 @@
 				max-width: 8ch;
 
 				&:after {
-					background: linear-gradient(to right, #e43425 20%, #441fd8 80%, #0a26b8 100%);
+					background: linear-gradient(to right, #E43425 20%, #441FD8 80%, #0A26B8 100%);
 					bottom: -4px;
 					content: "";
 					height: 2px;
@@ -100,9 +93,8 @@
 			}
 
 			&.active {
-				background-color: #fff;
-				box-shadow: 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 14px inset #fff, 0px 0px 14px inset #fff,
-					0px 0px 14px inset #fff;
+				background-color: #FFF;
+				box-shadow: 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 20px $periwinkle, 0px 0px 14px inset #FFF, 0px 0px 14px inset #FFF, 0px 0px 14px inset #FFF;
 				pointer-events: none;
 				z-index: 2;
 
@@ -123,10 +115,11 @@
 			position: absolute;
 			width: 100%;
 		}
+
 	}
 
 	.buffer {
-		background-color: #fff;
+		background-color: #FFF;
 		height: 42px;
 		margin: -1px 0;
 		width: 100%;
@@ -155,7 +148,7 @@
 	}
 }
 
-@media (min-width: 420px) {
+@media (min-width:420px) {
 	#terms_conditions {
 		.tabs .tab .label {
 			max-width: none;
@@ -163,7 +156,7 @@
 	}
 }
 
-@media (min-width: $sm) {
+@media (min-width:$sm) {
 	#terms_conditions {
 		h1 {
 			font-size: calc(min(48px, 6vw));
